@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "tensado-piel-fotona",
+  "path": "/tratamientos/tensado-piel-fotona/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/skin-tightening-fotona.webp",
+  "ctaImage": "/img/proc/skin-tightening-fotona.webp",
+  "head": {
+    "title": "Tensado de piel con Fotona en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Tensado de piel con Fotona en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/tensado-piel-fotona/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-tightening-fotona.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Tensado de piel con Fotona en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-tightening-fotona.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/tensado-piel-fotona/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/skin-tightening-fotona/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/tensado-piel-fotona/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Tensado de piel con Fotona en Miami",
+        "description": "El tensado de piel con Fotona es un tratamiento no invasivo con láser Nd:YAG que entrega calor profundo y controlado en la dermis para remodelar el colágeno y firmar de forma progresiva el rostro, el cuello y el escote sin tiempo de recuperación.",
+        "url": "https://realaestheticmedspa.com/tratamientos/tensado-piel-fotona/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/tensado-piel-fotona/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/tensado-piel-fotona/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿De verdad no hay tiempo de recuperación?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En la inmensa mayoría de pacientes no hay recuperación social. La piel puede verse algo enrojecida y cálida durante algunas horas y luego vuelve a su estado habitual. Muchas de nuestras pacientes en Miami programan la sesión durante la hora del almuerzo o antes del trabajo. Solo pedimos evitar el calor extremo y el sol directo el resto del día y mantener el SPF 50 diario."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia del Fotona 4D?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Fotona 4D combina cuatro modalidades láser (intraoral, fraccional, calentamiento profundo y peeling lumínico) en un protocolo integral de lifting y refinamiento. El tensado de piel con Fotona se centra específicamente en el componente Nd:YAG profundo para firmar la dermis, sin el paso de resurfacing. Algunas pacientes empiezan solo con tensado y luego suben a 4D cuando el objetivo es un refinamiento facial completo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo voy a ver el efecto firmador?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Una sensación sutil de tensado suele percibirse al terminar la primera sesión. La firmeza visible aparece habitualmente entre la segunda y la tercera sesión, a medida que la red de colágeno se reconstruye, con un pico de mejora alrededor de tres meses después de la última sesión. Los resultados son progresivos y dependen del estado inicial de la piel, la edad y la constancia en los cuidados."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tensado de piel con Fotona en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/tensado-piel-fotona/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/skin-tightening-fotona.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/skin-tightening-fotona/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/tensado-piel-fotona/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Tensado de piel con Fotona <em>en Miami</em>",
+    "lede": "El tensado de piel con Fotona es un tratamiento no invasivo con láser Nd:YAG que entrega calor profundo y controlado en la dermis para remodelar el colágeno y firmar de forma progresiva el rostro, el cuello y el escote sin tiempo de recuperación.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-tightening",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Mejora la firmeza dérmica con calentamiento volumétrico de las capas profundas, sin incisiones.",
+        "Refina la mandíbula, la zona submentoniana, el cuello y el escote en una serie de sesiones.",
+        "Estimula la remodelación progresiva del colágeno para un contorno más definido y juvenil.",
+        "Adecuado para pieles latinas y fototipos medios a oscuros cuando los parámetros se personalizan.",
+        "Sin tiempo social de recuperación: la mayoría de pacientes retoma su rutina el mismo día.",
+        "Se puede combinar con neuromoduladores, rellenos, bioestimuladores o microneedling.",
+        "Realizado bajo supervisión médica en un entorno clínico controlado."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿De verdad no hay tiempo de recuperación?",
+          "a": "En la inmensa mayoría de pacientes no hay recuperación social. La piel puede verse algo enrojecida y cálida durante algunas horas y luego vuelve a su estado habitual. Muchas de nuestras pacientes en Miami programan la sesión durante la hora del almuerzo o antes del trabajo. Solo pedimos evitar el calor extremo y el sol directo el resto del día y mantener el SPF 50 diario."
+        },
+        {
+          "q": "¿En qué se diferencia del Fotona 4D?",
+          "a": "Fotona 4D combina cuatro modalidades láser (intraoral, fraccional, calentamiento profundo y peeling lumínico) en un protocolo integral de lifting y refinamiento. El tensado de piel con Fotona se centra específicamente en el componente Nd:YAG profundo para firmar la dermis, sin el paso de resurfacing. Algunas pacientes empiezan solo con tensado y luego suben a 4D cuando el objetivo es un refinamiento facial completo."
+        },
+        {
+          "q": "¿Cuándo voy a ver el efecto firmador?",
+          "a": "Una sensación sutil de tensado suele percibirse al terminar la primera sesión. La firmeza visible aparece habitualmente entre la segunda y la tercera sesión, a medida que la red de colágeno se reconstruye, con un pico de mejora alrededor de tres meses después de la última sesión. Los resultados son progresivos y dependen del estado inicial de la piel, la edad y la constancia en los cuidados."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-tightening",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

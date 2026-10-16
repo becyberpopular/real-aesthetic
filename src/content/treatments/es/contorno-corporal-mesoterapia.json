@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "contorno-corporal-mesoterapia",
+  "path": "/tratamientos/contorno-corporal-mesoterapia/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/body-contouring-mesotherapy.webp",
+  "ctaImage": "/img/proc/body-contouring-mesotherapy.webp",
+  "head": {
+    "title": "Mesoterapia de contorno corporal en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Mesoterapia de contorno corporal en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/contorno-corporal-mesoterapia/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/body-contouring-mesotherapy.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Mesoterapia de contorno corporal en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/body-contouring-mesotherapy.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/contorno-corporal-mesoterapia/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/body-contouring-mesotherapy/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/contorno-corporal-mesoterapia/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Mesoterapia de contorno corporal en Miami",
+        "description": "La mesoterapia de contorno corporal es un protocolo inyectable de varias sesiones que combina cócteles lipolíticos y firmadores para refinar áreas medianas y grandes —abdomen, flancos y brazos— en nuestra clínica de Miami.",
+        "url": "https://realaestheticmedspa.com/tratamientos/contorno-corporal-mesoterapia/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/contorno-corporal-mesoterapia/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/contorno-corporal-mesoterapia/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones necesita la mesoterapia de contorno corporal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Un programa completo para áreas medianas y grandes suele incluir entre cuatro y ocho sesiones, separadas por dos a cuatro semanas, alternando fases lipolítica y firmadora. El número exacto depende de la zona, de la calidad inicial del tejido y de la respuesta individual. Ronal Perdomo Lugo, APRN, FNP-C confirma el plan tras la consulta inicial y lo reevalúa cada dos sesiones con comparación fotográfica."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La mesoterapia me ayuda a perder peso?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Este protocolo es un programa de refinamiento del contorno, no un método de pérdida de peso. Trabaja zonas específicas y no el peso global. Las pacientes que buscan bajar de peso encajan mejor con nuestros programas médicos de pérdida de peso, que combinan acompañamiento de hábitos y farmacoterapia bajo supervisión cuando está indicada. Ambos enfoques pueden ser complementarios y se planifican en secuencia, nunca como sustitutos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué zonas se pueden tratar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Las áreas medianas y grandes más frecuentes son el abdomen (superior, inferior o completo), los flancos o \"llantitas\", el pliegue posterior del sostén, la cara posterior de los brazos y la cara externa del muslo. Las zonas más pequeñas y delicadas, como la papada o la cara interna del muslo, se tratan con nuestro protocolo de área pequeña. Cada región tiene su propio patrón de marcado, concentración del cóctel y número de sesiones."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mesoterapia de contorno corporal en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/contorno-corporal-mesoterapia/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/body-contouring-mesotherapy.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/body-contouring-mesotherapy/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/contorno-corporal-mesoterapia/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Mesoterapia de contorno corporal <em>en Miami</em>",
+    "lede": "La mesoterapia de contorno corporal es un protocolo inyectable de varias sesiones que combina cócteles lipolíticos y firmadores para refinar áreas medianas y grandes —abdomen, flancos y brazos— en nuestra clínica de Miami.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-body-tightening",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Refina zonas medianas y grandes —abdomen, flancos, brazos, cara externa del muslo— sin cirugía.",
+        "Combina reducción de grasa y firmeza cutánea para que el contorno y la superficie mejoren a la vez.",
+        "Permite volver el mismo día a la mayoría de tareas de oficina, algo práctico para profesionales de Brickell y Coral Gables.",
+        "Se programa por sesiones, así el cambio es gradual y de aspecto natural en lugar de abrupto.",
+        "Cócteles personalizados para cada zona: el plan del abdomen no es el mismo que el de los brazos.",
+        "Combina muy bien con drenaje linfático para potenciar resultados y reducir la inflamación.",
+        "Ofrece una opción no quirúrgica a candidatas que no necesitan o no desean abdominoplastia o liposucción."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Cuántas sesiones necesita la mesoterapia de contorno corporal?",
+          "a": "Un programa completo para áreas medianas y grandes suele incluir entre cuatro y ocho sesiones, separadas por dos a cuatro semanas, alternando fases lipolítica y firmadora. El número exacto depende de la zona, de la calidad inicial del tejido y de la respuesta individual. Ronal Perdomo Lugo, APRN, FNP-C confirma el plan tras la consulta inicial y lo reevalúa cada dos sesiones con comparación fotográfica."
+        },
+        {
+          "q": "¿La mesoterapia me ayuda a perder peso?",
+          "a": "No. Este protocolo es un programa de refinamiento del contorno, no un método de pérdida de peso. Trabaja zonas específicas y no el peso global. Las pacientes que buscan bajar de peso encajan mejor con nuestros programas médicos de pérdida de peso, que combinan acompañamiento de hábitos y farmacoterapia bajo supervisión cuando está indicada. Ambos enfoques pueden ser complementarios y se planifican en secuencia, nunca como sustitutos."
+        },
+        {
+          "q": "¿Qué zonas se pueden tratar?",
+          "a": "Las áreas medianas y grandes más frecuentes son el abdomen (superior, inferior o completo), los flancos o \"llantitas\", el pliegue posterior del sostén, la cara posterior de los brazos y la cara externa del muslo. Las zonas más pequeñas y delicadas, como la papada o la cara interna del muslo, se tratan con nuestro protocolo de área pequeña. Cada región tiene su propio patrón de marcado, concentración del cóctel y número de sesiones."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-body-tightening",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

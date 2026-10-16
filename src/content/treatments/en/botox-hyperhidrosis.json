@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "botox-hyperhidrosis",
+  "path": "/procedures/botox-hyperhidrosis/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/botox-hyperhidrosis.webp",
+  "ctaImage": "/img/proc/botox-hyperhidrosis.webp",
+  "head": {
+    "title": "Botox for Hyperhidrosis in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Botulinum toxin for axillary hyperhidrosis in Miami at Real Aesthetic. Effective control of excessive underarm sweating, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Botox for Hyperhidrosis in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Botulinum toxin for axillary hyperhidrosis in Miami at Real Aesthetic. Effective control of excessive underarm sweating, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/botox-hyperhidrosis/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/botox-hyperhidrosis.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Botox for Hyperhidrosis in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Botulinum toxin for axillary hyperhidrosis in Miami at Real Aesthetic. Effective control of excessive underarm sweating, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/botox-hyperhidrosis.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/botox-hyperhidrosis/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/botox-hyperhidrosis/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-hiperhidrosis/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Botox for Hyperhidrosis in Miami",
+        "description": "Botulinum toxin for axillary hyperhidrosis in Miami at Real Aesthetic. Effective control of excessive underarm sweating, supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/botox-hyperhidrosis/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/botox-hyperhidrosis/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/botox-hyperhidrosis/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How quickly will I notice less sweating?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients notice a clear reduction in underarm sweating within 4 to 7 days, with full effect at around 2 weeks. The dryness then remains stable for 6 to 9 months on average, after which the treatment is repeated. Repeating annually or twice a year is a common cadence."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does it affect normal body temperature regulation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. The treatment is localised to the underarm sweat glands. The rest of the body's sweat glands continue to regulate temperature normally. We only treat the area you select, with the dose calibrated to the surface area we map out before injecting."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can it also be used in palms or feet?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, although the underarm is the most common and the most evidence-based indication. Palms and soles can also be treated for hyperhidrosis with botulinum toxin. Those areas are more sensitive and we usually plan them in a dedicated session with proper local anaesthesia for comfort."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Botox for Hyperhidrosis in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/botox-hyperhidrosis/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/botox-hyperhidrosis.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/botox-hyperhidrosis/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/botox-hiperhidrosis/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Botox for Hyperhidrosis <em>in Miami</em>",
+    "lede": "FDA-approved use of botulinum toxin in the axilla blocks the sweat glands that cause excessive underarm perspiration, providing reliable dryness for 6–9 months per session.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Markedly reduces excessive underarm sweating (axillary hyperhidrosis) within 1–2 weeks.",
+        "Each session typically provides 6 to 9 months of consistent control.",
+        "Eliminates the daily anxiety around stained clothing, photo events, or social settings.",
+        "Performed in a single 30-minute in-office session — no surgery, no downtime.",
+        "FDA-approved indication for primary axillary hyperhidrosis.",
+        "Safe to combine with other aesthetic treatments in the same protocol when appropriate."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How quickly will I notice less sweating?",
+          "a": "Most patients notice a clear reduction in underarm sweating within 4 to 7 days, with full effect at around 2 weeks. The dryness then remains stable for 6 to 9 months on average, after which the treatment is repeated. Repeating annually or twice a year is a common cadence."
+        },
+        {
+          "q": "Does it affect normal body temperature regulation?",
+          "a": "No. The treatment is localised to the underarm sweat glands. The rest of the body's sweat glands continue to regulate temperature normally. We only treat the area you select, with the dose calibrated to the surface area we map out before injecting."
+        },
+        {
+          "q": "Can it also be used in palms or feet?",
+          "a": "Yes, although the underarm is the most common and the most evidence-based indication. Palms and soles can also be treated for hyperhidrosis with botulinum toxin. Those areas are more sensitive and we usually plan them in a dedicated session with proper local anaesthesia for comfort."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

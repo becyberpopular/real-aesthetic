@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "leg-vein-treatment",
+  "path": "/procedures/leg-vein-treatment/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/leg-vein-treatment.webp",
+  "ctaImage": "/img/proc/leg-vein-treatment.webp",
+  "head": {
+    "title": "Leg Vein Laser Treatment in Miami with Nd:YAG",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Nd:YAG laser for reticular leg veins and small varicosities in Miami. Cosmetic protocol that complements vascular medical assessment. Book with Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Leg Vein Laser Treatment in Miami with Nd:YAG"
+      },
+      {
+        "property": "og:description",
+        "content": "Nd:YAG laser for reticular leg veins and small varicosities in Miami. Cosmetic protocol that complements vascular medical assessment. Book with Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/leg-vein-treatment/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/leg-vein-treatment.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Leg Vein Laser Treatment in Miami with Nd:YAG"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Nd:YAG laser for reticular leg veins and small varicosities in Miami. Cosmetic protocol that complements vascular medical assessment. Book with Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/leg-vein-treatment.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/leg-vein-treatment/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/leg-vein-treatment/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/varices-piernas-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Leg Vein Laser Treatment in Miami with Nd:YAG",
+        "description": "Leg vein laser treatment is a cosmetic medical-aesthetic protocol that uses an Nd:YAG laser to address reticular veins and small varicosities, complementing — never replacing — the medical assessment of underlying venous disease.",
+        "url": "https://realaestheticmedspa.com/procedures/leg-vein-treatment/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/leg-vein-treatment/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/leg-vein-treatment/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is this a substitute for vascular surgery?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. This is a cosmetic laser protocol for small reticular veins and spider veins. Larger varicose veins, leg heaviness, swelling or pigmentation changes need a vascular surgery or phlebology consultation, often with Doppler ultrasound, before any cosmetic treatment. Ronal Perdomo, APRN, FNP-C refers patients to vascular specialists when the clinical picture indicates underlying venous insufficiency."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is this the same as sclerotherapy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Sclerotherapy injects a solution into the vein to close it from the inside; Nd:YAG laser closes it from outside the skin using selective heat. Both have valid indications, and they can be combined in a planned protocol. Some veins respond better to one approach, while a complete plan can include both, depending on the vessel calibre and depth."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Typical plans run between two and four sessions spaced six to eight weeks apart, depending on the density and depth of the veins. We document the area in standardised photographs and reassess before each session, continuing only while measurable improvement is observed. Larger or deeper vessels may require additional visits or a complementary sclerotherapy session."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Leg Vein Laser Treatment in Miami with Nd:YAG",
+            "item": "https://realaestheticmedspa.com/procedures/leg-vein-treatment/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/leg-vein-treatment.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/leg-vein-treatment/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/varices-piernas-laser/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Leg Vein Laser Treatment in Miami <em>with Nd:YAG</em>",
+    "lede": "Leg vein laser treatment is a cosmetic medical-aesthetic protocol that uses an Nd:YAG laser to address reticular veins and small varicosities, complementing — never replacing — the medical assessment of underlying venous disease.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-varicose-veins-full-leg",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces the appearance of small reticular veins and red or blue spider veins on the legs.",
+        "Targets vessels selectively through a wavelength absorbed by haemoglobin, sparing surrounding tissue.",
+        "Compatible with most Fitzpatrick phototypes when parameters are calibrated correctly.",
+        "Non-injectable alternative or complement to sclerotherapy in selected cases.",
+        "Quick procedure with no incisions, sutures or formal downtime.",
+        "Performed under medical supervision with standardised photographs at each visit.",
+        "Designed to coordinate with prior vascular medical assessment when indicated."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is this a substitute for vascular surgery?",
+          "a": "No. This is a cosmetic laser protocol for small reticular veins and spider veins. Larger varicose veins, leg heaviness, swelling or pigmentation changes need a vascular surgery or phlebology consultation, often with Doppler ultrasound, before any cosmetic treatment. Ronal Perdomo, APRN, FNP-C refers patients to vascular specialists when the clinical picture indicates underlying venous insufficiency."
+        },
+        {
+          "q": "Is this the same as sclerotherapy?",
+          "a": "No. Sclerotherapy injects a solution into the vein to close it from the inside; Nd:YAG laser closes it from outside the skin using selective heat. Both have valid indications, and they can be combined in a planned protocol. Some veins respond better to one approach, while a complete plan can include both, depending on the vessel calibre and depth."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "Typical plans run between two and four sessions spaced six to eight weeks apart, depending on the density and depth of the veins. We document the area in standardised photographs and reassess before each session, continuing only while measurable improvement is observed. Larger or deeper vessels may require additional visits or a complementary sclerotherapy session."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-varicose-veins-full-leg",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

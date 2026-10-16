@@ -1,0 +1,365 @@
+{
+  "lang": "es",
+  "slug": "reduccion-grasa-localizada",
+  "path": "/tratamientos/reduccion-grasa-localizada/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/localized-fat-reduction.webp",
+  "ctaImage": "/img/proc/localized-fat-reduction.webp",
+  "head": {
+    "title": "Reducción de grasa localizada en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "\\*0 caracteres"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Reducción de grasa localizada en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "\\*0 caracteres"
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/reduccion-grasa-localizada/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/localized-fat-reduction.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Reducción de grasa localizada en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "\\*0 caracteres"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/localized-fat-reduction.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/reduccion-grasa-localizada/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/localized-fat-reduction/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/reduccion-grasa-localizada/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Reducción de grasa localizada (área pequeña)",
+        "alternateName": "Mesoterapia lipolítica para áreas pequeñas",
+        "description": "Mesoterapia lipolítica inyectable con un cóctel de fosfatidilcolina y deoxicolato para refinar acúmulos pequeños y definidos como la zona submentoniana, el pliegue del sostén o pequeñas áreas de la cara interna del muslo. No es un tratamiento para perder peso.",
+        "bodyLocation": "Zona submentoniana, pliegue posterior del sostén, cara interna del muslo, rodilla interna",
+        "procedureType": "Lipólisis inyectable no quirúrgica",
+        "preparation": "Peso estable, evitar interferencias con anticoagulantes cuando sea posible, hidratación, sin alcohol 24 horas antes, antisepsia de la piel.",
+        "followup": "Hidratación, marcha suave, drenaje linfático manual una semana después de la sesión, control a las cuatro o seis semanas, promedio de dos a cuatro sesiones.",
+        "howPerformed": "Tras consulta médica y marcado del área, se realizan microinyecciones de un cóctel lipolítico de fosfatidilcolina y deoxicolato con agujas ultrafinas siguiendo una cuadrícula precisa en el tejido graso subcutáneo. Los adipocitos tratados se metabolizan y se eliminan por vía linfática en las semanas siguientes.",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "url": "https://realaestheticmedspa.com/tratamientos/reduccion-grasa-localizada/",
+        "inLanguage": "es",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/reduccion-grasa-localizada/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Es un tratamiento para perder peso?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. La reducción de grasa localizada es un procedimiento de refinamiento de contorno para acúmulos pequeños y definidos que resisten dieta y ejercicio. No está diseñada para perder peso y no modifica de forma relevante el número de la balanza. Las pacientes con objetivo de pérdida de peso encajan mejor en nuestros programas médicos de control de peso, con seguimiento clínico y, cuando está indicado, tratamiento farmacológico."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de zonas pequeñas responde a dos o cuatro sesiones separadas entre cuatro y seis semanas. La papada suele responder bien a dos o tres sesiones. Acúmulos más densos pueden requerir alguna sesión adicional. Ronal Perdomo Lugo, APRN, FNP-C confirma el protocolo tras la consulta inicial y revisa la evolución en el control de las cuatro a seis semanas antes de programar cada sesión siguiente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Duele el tratamiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de pacientes describe una sensación de escozor o calor durante la infiltración que cede en pocos minutos. El anestésico tópico y el frío local hacen que la sesión sea bien tolerada. Después, la zona queda inflamada, caliente y sensible durante varios días, lo que forma parte de la respuesta lipolítica esperada e indica que el cóctel está actuando sobre los adipocitos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo voy a ver resultados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El refinamiento inicial suele apreciarse entre la cuarta y la octava semana tras cada sesión, conforme la grasa metabolizada se elimina por vía linfática. El resultado completo del protocolo se observa unas semanas después de la última sesión. Las fotografías tomadas en la consulta se utilizan en los controles para documentar el cambio de forma objetiva a lo largo del protocolo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo tratar el abdomen con este protocolo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El protocolo de área pequeña se reserva para acúmulos compactos como papada, pliegue del sostén o pequeñas zonas del muslo y la rodilla. Para abdomen, flancos o brazos utilizamos nuestro protocolo de mesoterapia de contorno corporal de áreas medianas y grandes, diseñado específicamente para esas zonas y que combina cócteles lipolíticos y reafirmantes con un número distinto de sesiones."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿El resultado es permanente?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Las células grasas metabolizadas durante el protocolo se eliminan de la zona tratada. Sin embargo, los adipocitos restantes pueden aumentar de tamaño con un aumento importante de peso, y puede acumularse grasa nueva en zonas no tratadas. Mantener un peso estable y hábitos saludables protege el contorno obtenido. No prometemos resultados permanentes ni absolutos: el plan de mantenimiento realista forma parte de la consulta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia de la liposucción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La liposucción es un procedimiento quirúrgico que extrae grasa de forma mecánica con cánulas y bajo anestesia. La reducción de grasa localizada es un protocolo inyectable no quirúrgico para acúmulos pequeños y definidos. Evita la cirugía y la baja larga, pero actúa de forma gradual en sesiones y no está pensada para grandes volúmenes. En la consulta somos honestos sobre cuál opción se ajusta mejor a tu anatomía y a tus objetivos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede combinar con otros tratamientos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. El drenaje linfático manual se combina con frecuencia para apoyar la eliminación de la grasa metabolizada y reducir la inflamación. Los protocolos de tensado de piel, como Fotona, pueden añadirse cuando hay laxitud. Las combinaciones se planifican de forma individual con Ronal Perdomo Lugo, APRN, FNP-C para que los protocolos se complementen y respeten los tiempos de recuperación."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/tratamientos/reduccion-grasa-localizada/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Reducción de grasa localizada en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/reduccion-grasa-localizada/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/localized-fat-reduction.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/localized-fat-reduction/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/reduccion-grasa-localizada/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Reducción de grasa localizada <em>en Miami</em>",
+    "lede": "La reducción de grasa localizada es un protocolo inyectable de mesoterapia lipolítica para acúmulos pequeños y definidos —papada, pliegue del sostén o cara interna del muslo— en nuestra clínica de Miami, y no es un tratamiento para perder peso.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-fat-reduction",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Actúa sobre acúmulos pequeños y definidos que resisten dieta y ejercicio, como la zona submentoniana o el pliegue del sostén.",
+        "Refina el contorno corporal sin cirugía, sin bisturí y sin anestesia general.",
+        "Permite retomar la mayoría de las actividades cotidianas, lo que se ajusta a la agenda de pacientes de Brickell y Coral Gables.",
+        "Funciona en una serie de sesiones, lo que produce un cambio gradual y natural.",
+        "Acción localizada: el cóctel actúa solo donde se infiltra y respeta el tejido circundante.",
+        "Se puede combinar con drenaje linfático para apoyar la eliminación de la grasa metabolizada.",
+        "Ofrece una alternativa no quirúrgica a pacientes que no necesitan o no desean liposucción."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "El refinamiento visible aparece habitualmente entre la cuarta y la octava semana después de cada sesión. Un protocolo completo requiere por lo general dos a cuatro sesiones separadas por cuatro a seis semanas, según la zona y la respuesta individual. Una vez metabolizadas, las células grasas tratadas se eliminan del cuerpo. Mantener un peso estable y un estilo de vida saludable preserva el contorno; un aumento importante de peso puede afectar a los adipocitos restantes de la zona."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Es un tratamiento para perder peso?",
+          "a": "No. La reducción de grasa localizada es un procedimiento de refinamiento de contorno para acúmulos pequeños y definidos que resisten dieta y ejercicio. No está diseñada para perder peso y no modifica de forma relevante el número de la balanza. Las pacientes con objetivo de pérdida de peso encajan mejor en nuestros programas médicos de control de peso, con seguimiento clínico y, cuando está indicado, tratamiento farmacológico."
+        },
+        {
+          "q": "¿Cuántas sesiones voy a necesitar?",
+          "a": "La mayoría de zonas pequeñas responde a dos o cuatro sesiones separadas entre cuatro y seis semanas. La papada suele responder bien a dos o tres sesiones. Acúmulos más densos pueden requerir alguna sesión adicional. Ronal Perdomo Lugo, APRN, FNP-C confirma el protocolo tras la consulta inicial y revisa la evolución en el control de las cuatro a seis semanas antes de programar cada sesión siguiente."
+        },
+        {
+          "q": "¿Duele el tratamiento?",
+          "a": "La mayoría de pacientes describe una sensación de escozor o calor durante la infiltración que cede en pocos minutos. El anestésico tópico y el frío local hacen que la sesión sea bien tolerada. Después, la zona queda inflamada, caliente y sensible durante varios días, lo que forma parte de la respuesta lipolítica esperada e indica que el cóctel está actuando sobre los adipocitos."
+        },
+        {
+          "q": "¿Cuándo voy a ver resultados?",
+          "a": "El refinamiento inicial suele apreciarse entre la cuarta y la octava semana tras cada sesión, conforme la grasa metabolizada se elimina por vía linfática. El resultado completo del protocolo se observa unas semanas después de la última sesión. Las fotografías tomadas en la consulta se utilizan en los controles para documentar el cambio de forma objetiva a lo largo del protocolo."
+        },
+        {
+          "q": "¿Puedo tratar el abdomen con este protocolo?",
+          "a": "El protocolo de área pequeña se reserva para acúmulos compactos como papada, pliegue del sostén o pequeñas zonas del muslo y la rodilla. Para abdomen, flancos o brazos utilizamos nuestro protocolo de mesoterapia de contorno corporal de áreas medianas y grandes, diseñado específicamente para esas zonas y que combina cócteles lipolíticos y reafirmantes con un número distinto de sesiones."
+        },
+        {
+          "q": "¿El resultado es permanente?",
+          "a": "Las células grasas metabolizadas durante el protocolo se eliminan de la zona tratada. Sin embargo, los adipocitos restantes pueden aumentar de tamaño con un aumento importante de peso, y puede acumularse grasa nueva en zonas no tratadas. Mantener un peso estable y hábitos saludables protege el contorno obtenido. No prometemos resultados permanentes ni absolutos: el plan de mantenimiento realista forma parte de la consulta."
+        },
+        {
+          "q": "¿En qué se diferencia de la liposucción?",
+          "a": "La liposucción es un procedimiento quirúrgico que extrae grasa de forma mecánica con cánulas y bajo anestesia. La reducción de grasa localizada es un protocolo inyectable no quirúrgico para acúmulos pequeños y definidos. Evita la cirugía y la baja larga, pero actúa de forma gradual en sesiones y no está pensada para grandes volúmenes. En la consulta somos honestos sobre cuál opción se ajusta mejor a tu anatomía y a tus objetivos."
+        },
+        {
+          "q": "¿Se puede combinar con otros tratamientos?",
+          "a": "Sí. El drenaje linfático manual se combina con frecuencia para apoyar la eliminación de la grasa metabolizada y reducir la inflamación. Los protocolos de tensado de piel, como Fotona, pueden añadirse cuando hay laxitud. Las combinaciones se planifican de forma individual con Ronal Perdomo Lugo, APRN, FNP-C para que los protocolos se complementen y respeten los tiempos de recuperación."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-fat-reduction",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

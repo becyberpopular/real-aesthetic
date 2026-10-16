@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "prf-under-eyes",
+  "path": "/procedures/prf-under-eyes/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/prf-under-eyes.webp",
+  "ctaImage": "/img/proc/prf-under-eyes.webp",
+  "head": {
+    "title": "PRF Under Eyes in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "PRF under-eye treatment in Miami at Real Aesthetic. Platelet-Rich Fibrin injections to improve dark circles, fine lines and skin quality of the under-eye area. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "PRF Under Eyes in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "PRF under-eye treatment in Miami at Real Aesthetic. Platelet-Rich Fibrin injections to improve dark circles, fine lines and skin quality of the under-eye area. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/prf-under-eyes/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prf-under-eyes.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "PRF Under Eyes in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "PRF under-eye treatment in Miami at Real Aesthetic. Platelet-Rich Fibrin injections to improve dark circles, fine lines and skin quality of the under-eye area. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prf-under-eyes.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/prf-under-eyes/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/prf-under-eyes/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/prf-ojeras/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "PRF Under Eyes in Miami",
+        "description": "PRF under-eye treatment in Miami at Real Aesthetic. Platelet-Rich Fibrin injections to improve dark circles, fine lines and skin quality of the under-eye area. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/prf-under-eyes/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/prf-under-eyes/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/prf-under-eyes/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the difference between PRF and PRP?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Both come from your own blood, but PRF (Platelet-Rich Fibrin) is centrifuged at lower speeds with no anticoagulants, producing a fibrin scaffold that traps platelets and releases growth factors gradually over days. PRP releases growth factors more quickly. For the under-eye area, the sustained release of PRF is often preferred for skin quality."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will it remove dark circles completely?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It depends on the cause. Dark circles from thin or compromised skin quality respond well to PRF over a series of sessions. Dark circles from deeper pigment, vascular shadows or hollows often need a combined plan — PRF plus filler, or PRF plus a targeted brightening protocol. We diagnose the type in consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does it last?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Skin-quality changes from PRF typically last 9 to 12 months. We recommend a touch-up session at that interval to maintain the result. The under-eye area continues to age over time, so periodic maintenance preserves the improvement."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PRF Under Eyes in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/prf-under-eyes/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/prf-under-eyes.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/prf-under-eyes/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/prf-ojeras/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "PRF Under Eyes <em>in Miami</em>",
+    "lede": "Platelet-Rich Fibrin prepared from the patient's own blood is injected into the delicate under-eye area to release growth factors slowly over time, improving dark circles, fine lines and skin quality.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-under-eyes",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Improves tone and texture of the under-eye area using the patient's own biological growth factors.",
+        "Softens fine lines and crepiness around the eye contour.",
+        "Reduces appearance of dark circles caused by thin or compromised skin quality.",
+        "100% autologous — only the patient's own platelet-rich fibrin is used.",
+        "PRF (vs. PRP) releases growth factors more slowly thanks to its fibrin matrix, sustaining the regenerative effect.",
+        "Protocol typically 2–3 sessions spaced 4 weeks apart, then maintenance every 6–12 months."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "What is the difference between PRF and PRP?",
+          "a": "Both come from your own blood, but PRF (Platelet-Rich Fibrin) is centrifuged at lower speeds with no anticoagulants, producing a fibrin scaffold that traps platelets and releases growth factors gradually over days. PRP releases growth factors more quickly. For the under-eye area, the sustained release of PRF is often preferred for skin quality."
+        },
+        {
+          "q": "Will it remove dark circles completely?",
+          "a": "It depends on the cause. Dark circles from thin or compromised skin quality respond well to PRF over a series of sessions. Dark circles from deeper pigment, vascular shadows or hollows often need a combined plan — PRF plus filler, or PRF plus a targeted brightening protocol. We diagnose the type in consultation."
+        },
+        {
+          "q": "How long does it last?",
+          "a": "Skin-quality changes from PRF typically last 9 to 12 months. We recommend a touch-up session at that interval to maintain the result. The under-eye area continues to age over time, so periodic maintenance preserves the improvement."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-under-eyes",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

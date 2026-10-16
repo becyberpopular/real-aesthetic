@@ -1,4 +1,11 @@
-@import "tailwindcss" source(none);
+/*
+ * Tailwind without its base reset (preflight). The website's pages ship their own stylesheets
+ * (src/styles/pages/*.css) and preflight would change their headings, lists, images and borders.
+ * Everything Tailwind generates stays inside cascade layers, so the page styles always win.
+ */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities) source(none);
 @source "../src";
 @import "tw-animate-css";
 
@@ -132,13 +139,9 @@
   --sidebar-ring: oklch(0.551 0.027 264.364);
 }
 
+/* Only shadcn/ui components (they carry data-slot) get the design-system border colour. */
 @layer base {
-  * {
+  [data-slot] {
     border-color: var(--color-border);
-  }
-
-  body {
-    background-color: var(--color-background);
-    color: var(--color-foreground);
   }
 }

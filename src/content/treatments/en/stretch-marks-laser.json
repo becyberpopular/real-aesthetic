@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "stretch-marks-laser",
+  "path": "/procedures/stretch-marks-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/stretch-marks-laser.webp",
+  "ctaImage": "/img/proc/stretch-marks-laser.webp",
+  "head": {
+    "title": "Stretch Marks Laser Treatment in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fractional Er:YAG laser for stretch marks in Miami at Real Aesthetic Medical Spa. Progressive improvement of red and white stretch marks over four to six sessions."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Stretch Marks Laser Treatment in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fractional Er:YAG laser for stretch marks in Miami at Real Aesthetic Medical Spa. Progressive improvement of red and white stretch marks over four to six sessions."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/stretch-marks-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/stretch-marks-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Stretch Marks Laser Treatment in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fractional Er:YAG laser for stretch marks in Miami at Real Aesthetic Medical Spa. Progressive improvement of red and white stretch marks over four to six sessions."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/stretch-marks-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/stretch-marks-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/stretch-marks-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/estrias-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Stretch Marks Laser Treatment in Miami",
+        "description": "Fractional Er:YAG laser treatment with the Fotona platform addresses both red (early) and white (mature) stretch marks by stimulating collagen and remodelling the dermal scar pattern, with progressive improvement over a protocol of four to six sessions.",
+        "url": "https://realaestheticmedspa.com/procedures/stretch-marks-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/stretch-marks-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/stretch-marks-laser/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Can the laser remove my stretch marks completely?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Realistic expectations are essential. Stretch marks are a form of dermal scarring that does not disappear completely with current technology. The fractional Er:YAG laser improves the appearance — colour, texture, and depth — and reduces contrast with the surrounding skin. The result is improvement, not full disappearance. During consultation we discuss what is achievable with the protocol and design a plan accordingly so expectations match the technology."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are red or white stretch marks easier to treat?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Red stretch marks are usually more responsive because they are recent and still have an active component. The earlier the treatment is started, the better the prognosis. White, mature stretch marks also improve with fractional Er:YAG, but they generally require more sessions and the change is more textural than vascular. We adjust parameters to each clinical type during consultation in Miami."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions are needed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A protocol of four to six sessions spaced four to six weeks apart is generally recommended. The exact number depends on the type, age, density, and location of the stretch marks, as well as the patient's response. Maintenance sessions once or twice a year may be considered to consolidate the result. The plan is reviewed at every follow-up so cadence and parameters stay aligned with the response observed."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stretch Marks Laser Treatment in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/stretch-marks-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/stretch-marks-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/stretch-marks-laser/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/estrias-laser/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Stretch Marks Laser Treatment <em>in Miami</em>",
+    "lede": "Fractional Er:YAG laser treatment with the Fotona platform addresses both red (early) and white (mature) stretch marks by stimulating collagen and remodelling the dermal scar pattern, with progressive improvement over a protocol of four to six sessions.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Addresses both red and white stretch marks with parameters adjusted to each clinical type.",
+        "Stimulates collagen and elastin synthesis through fractional Er:YAG laser energy.",
+        "Refines skin texture, softening the visible depth and pattern of the affected area.",
+        "Improves colour homogeneity, attenuating the contrast between healthy skin and stretch marks.",
+        "Performed in a controlled outpatient session with manageable downtime per session.",
+        "Compatible with most areas where stretch marks appear: abdomen, thighs, hips, breasts, arms, and back.",
+        "Can be integrated into broader skin-quality plans alongside mesotherapy or radiofrequency when indicated."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Can the laser remove my stretch marks completely?",
+          "a": "Realistic expectations are essential. Stretch marks are a form of dermal scarring that does not disappear completely with current technology. The fractional Er:YAG laser improves the appearance — colour, texture, and depth — and reduces contrast with the surrounding skin. The result is improvement, not full disappearance. During consultation we discuss what is achievable with the protocol and design a plan accordingly so expectations match the technology."
+        },
+        {
+          "q": "Are red or white stretch marks easier to treat?",
+          "a": "Red stretch marks are usually more responsive because they are recent and still have an active component. The earlier the treatment is started, the better the prognosis. White, mature stretch marks also improve with fractional Er:YAG, but they generally require more sessions and the change is more textural than vascular. We adjust parameters to each clinical type during consultation in Miami."
+        },
+        {
+          "q": "How many sessions are needed?",
+          "a": "A protocol of four to six sessions spaced four to six weeks apart is generally recommended. The exact number depends on the type, age, density, and location of the stretch marks, as well as the patient's response. Maintenance sessions once or twice a year may be considered to consolidate the result. The plan is reviewed at every follow-up so cadence and parameters stay aligned with the response observed."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

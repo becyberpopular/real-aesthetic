@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "nail-fungus-laser",
+  "path": "/procedures/nail-fungus-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/nail-fungus-laser.webp",
+  "ctaImage": "/img/proc/nail-fungus-laser.webp",
+  "head": {
+    "title": "Nail Fungus Laser Treatment in Miami with Nd:YAG",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Nd:YAG laser thermal protocol for onychomycosis (nail fungus) in Miami. Three to four monthly sessions. Companion to nail hygiene and topical antifungals."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Nail Fungus Laser Treatment in Miami with Nd:YAG"
+      },
+      {
+        "property": "og:description",
+        "content": "Nd:YAG laser thermal protocol for onychomycosis (nail fungus) in Miami. Three to four monthly sessions. Companion to nail hygiene and topical antifungals."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/nail-fungus-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/nail-fungus-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Nail Fungus Laser Treatment in Miami with Nd:YAG"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Nd:YAG laser thermal protocol for onychomycosis (nail fungus) in Miami. Three to four monthly sessions. Companion to nail hygiene and topical antifungals."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/nail-fungus-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/nail-fungus-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/nail-fungus-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/hongos-unas-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Nail Fungus Laser Treatment in Miami with Nd:YAG",
+        "description": "Nail fungus laser treatment is a medical-aesthetic protocol that uses Nd:YAG thermal pulses to address onychomycosis, working alongside proper nail hygiene and topical antifungal therapy when indicated.",
+        "url": "https://realaestheticmedspa.com/procedures/nail-fungus-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/nail-fungus-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/nail-fungus-laser/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does the laser cure nail fungus?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The Nd:YAG laser reduces the fungal load and supports clearance of the infection, but a complete and lasting outcome depends on combining the laser with proper foot hygiene, topical antifungals when indicated and ongoing care after the sessions. We avoid the word cure because no protocol can guarantee zero recurrence, particularly in environments such as gyms, pools and warm humid climates."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A typical course is three to four sessions, spaced four weeks apart. The number can be adjusted based on the extent of the infection, the number of nails affected and the response observed at each visit. We document the nails in standardised photographs at every appointment and only continue while measurable improvement is observed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When will I see results?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Results are visible as the new healthy nail grows out from the matrix. Toenails grow slowly, so visible improvement begins after approximately three to four months and a fully healthy nail can take six to twelve months. The visible portion at the start of treatment is keratin already produced before the laser, which is why patience is essential. Comparison photographs help to track real progress."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nail Fungus Laser Treatment in Miami with Nd:YAG",
+            "item": "https://realaestheticmedspa.com/procedures/nail-fungus-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/nail-fungus-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/nail-fungus-laser/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/hongos-unas-laser/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Nail Fungus Laser Treatment in Miami <em>with Nd:YAG</em>",
+    "lede": "Nail fungus laser treatment is a medical-aesthetic protocol that uses Nd:YAG thermal pulses to address onychomycosis, working alongside proper nail hygiene and topical antifungal therapy when indicated.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-onychomycosis-treatment",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Targets the fungus through controlled thermal action without affecting the surrounding skin.",
+        "Avoids the systemic load of long courses of oral antifungal medication in selected patients.",
+        "Compatible with topical antifungals and ongoing podiatric care when indicated.",
+        "Each session is brief and most patients return to their daily routine immediately afterwards.",
+        "Addresses several nails in the same visit when needed.",
+        "Performed under medical supervision, with photographic documentation of every session for traceability.",
+        "Coordinated with the broader treatment plan defined in your initial consultation."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Does the laser cure nail fungus?",
+          "a": "The Nd:YAG laser reduces the fungal load and supports clearance of the infection, but a complete and lasting outcome depends on combining the laser with proper foot hygiene, topical antifungals when indicated and ongoing care after the sessions. We avoid the word cure because no protocol can guarantee zero recurrence, particularly in environments such as gyms, pools and warm humid climates."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "A typical course is three to four sessions, spaced four weeks apart. The number can be adjusted based on the extent of the infection, the number of nails affected and the response observed at each visit. We document the nails in standardised photographs at every appointment and only continue while measurable improvement is observed."
+        },
+        {
+          "q": "When will I see results?",
+          "a": "Results are visible as the new healthy nail grows out from the matrix. Toenails grow slowly, so visible improvement begins after approximately three to four months and a fully healthy nail can take six to twelve months. The visible portion at the start of treatment is keratin already produced before the laser, which is why patience is essential. Comparison photographs help to track real progress."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-onychomycosis-treatment",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

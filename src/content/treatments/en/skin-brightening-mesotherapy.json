@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "skin-brightening-mesotherapy",
+  "path": "/procedures/skin-brightening-mesotherapy/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/skin-brightening-mesotherapy.webp",
+  "ctaImage": "/img/proc/skin-brightening-mesotherapy.webp",
+  "head": {
+    "title": "Skin Brightening & Pigmentation Correction Mesotherapy in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Injectable skin brightening mesotherapy in Miami with tranexamic acid, glutathione and vitamin C. A medical protocol for melasma and uneven tone."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Skin Brightening & Pigmentation Correction Mesotherapy in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Injectable skin brightening mesotherapy in Miami with tranexamic acid, glutathione and vitamin C. A medical protocol for melasma and uneven tone."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/skin-brightening-mesotherapy/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-brightening-mesotherapy.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Skin Brightening & Pigmentation Correction Mesotherapy in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Injectable skin brightening mesotherapy in Miami with tranexamic acid, glutathione and vitamin C. A medical protocol for melasma and uneven tone."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-brightening-mesotherapy.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/skin-brightening-mesotherapy/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/skin-brightening-mesotherapy/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/mesoterapia-aclarante/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Skin Brightening & Pigmentation Correction Mesotherapy in Miami",
+        "description": "Skin brightening mesotherapy is a medical injectable protocol that delivers a custom cocktail of tranexamic acid, glutathione and vitamin C into the dermis to address melasma, sun-related pigmentation and uneven tone, performed in a series of sessions at our Miami practice and paired with a strict daily SPF regimen.",
+        "url": "https://realaestheticmedspa.com/procedures/skin-brightening-mesotherapy/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/skin-brightening-mesotherapy/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/skin-brightening-mesotherapy/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How is this different from the Fotona melasma laser treatment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The two protocols target different mechanisms. Skin brightening mesotherapy is injectable and modulates the biochemistry that creates pigment, using tranexamic acid, glutathione and vitamin C. The Fotona melasma laser uses calibrated light to fragment existing pigment already deposited in the skin. We frequently combine both within a personalised plan for layered, longer-lasting correction."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A standard protocol includes four to six sessions, scheduled two to three weeks apart. The exact number depends on the type and depth of pigmentation, your skin phototype and how your skin responds. After the initial protocol, most patients move to a maintenance schedule of one session every two to three months, reviewed during follow-up consultations."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is this safe for darker skin tones?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, when supervised by a qualified medical team. One advantage of injectable brightening over some laser approaches is that it does not depend on melanin as a chromophore, which reduces the risk of paradoxical pigmentation in darker phototypes. We still tailor the cocktail concentration and the session interval to each patient's skin response."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skin Brightening & Pigmentation Correction Mesotherapy in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/skin-brightening-mesotherapy/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/skin-brightening-mesotherapy.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/skin-brightening-mesotherapy/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/mesoterapia-aclarante/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Skin Brightening &amp; Pigmentation Correction Mesotherapy <em>in Miami</em>",
+    "lede": "Skin brightening mesotherapy is a medical injectable protocol that delivers a custom cocktail of tranexamic acid, glutathione and vitamin C into the dermis to address melasma, sun-related pigmentation and uneven tone, performed in a series of sessions at our Miami practice and paired with a strict daily SPF regimen.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces the appearance of melasma, sun-induced spots and post-inflammatory pigmentation across the face.",
+        "Supports a more even skin tone and improved overall radiance over the course of the protocol.",
+        "Targets the pigment-forming pathway from within, reaching depths topical creams cannot.",
+        "Adds antioxidant support that helps the skin cope with Miami's intense UV exposure.",
+        "Avoids harsh exfoliation and supports the skin barrier rather than thinning it.",
+        "Suitable for a wide range of skin tones when supervised by a qualified medical team."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How is this different from the Fotona melasma laser treatment?",
+          "a": "The two protocols target different mechanisms. Skin brightening mesotherapy is injectable and modulates the biochemistry that creates pigment, using tranexamic acid, glutathione and vitamin C. The Fotona melasma laser uses calibrated light to fragment existing pigment already deposited in the skin. We frequently combine both within a personalised plan for layered, longer-lasting correction."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "A standard protocol includes four to six sessions, scheduled two to three weeks apart. The exact number depends on the type and depth of pigmentation, your skin phototype and how your skin responds. After the initial protocol, most patients move to a maintenance schedule of one session every two to three months, reviewed during follow-up consultations."
+        },
+        {
+          "q": "Is this safe for darker skin tones?",
+          "a": "Yes, when supervised by a qualified medical team. One advantage of injectable brightening over some laser approaches is that it does not depend on melanin as a chromophore, which reduces the risk of paradoxical pigmentation in darker phototypes. We still tailor the cocktail concentration and the session interval to each patient's skin response."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation at Real Aesthetic Medical Spa and let us design a personalised pigmentation plan for your skin.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

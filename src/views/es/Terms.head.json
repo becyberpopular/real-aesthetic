@@ -1,0 +1,84 @@
+{
+  "title": "Términos de Servicio · Real Aesthetic Medical Spa",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Términos de Servicio de Real Aesthetic Medical Spa, Miami. Condiciones de uso del sitio web, agendamiento y servicios de medicina estética."
+    },
+    {
+      "name": "robots",
+      "content": "index,follow"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:title",
+      "content": "Términos de Servicio · Real Aesthetic Medical Spa"
+    },
+    {
+      "property": "og:description",
+      "content": "Condiciones de uso del sitio y los servicios de Real Aesthetic Medical Spa."
+    },
+    {
+      "property": "og:url",
+      "content": "https://realaestheticmedspa.com/terminos/"
+    },
+    {
+      "property": "og:image",
+      "content": "https://realaestheticmedspa.com/img/hero.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "es_US"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "en_US"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Términos de Servicio · Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Condiciones de uso del sitio y los servicios de Real Aesthetic Medical Spa."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://realaestheticmedspa.com/img/hero.webp"
+    }
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://realaestheticmedspa.com/terminos/"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/terms/",
+      "hrefLang": "en"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/terminos/",
+      "hrefLang": "es"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/",
+      "hrefLang": "x-default"
+    }
+  ],
+  "jsonLd": [],
+  "preloadImages": []
+}

@@ -1,0 +1,385 @@
+{
+  "lang": "en",
+  "slug": "laser-hair-removal",
+  "path": "/procedures/laser-hair-removal/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/laser-hair-removal.webp",
+  "ctaImage": "/img/proc/laser-hair-removal.webp",
+  "head": {
+    "title": "Laser Hair Removal in Miami with Fotona Nd:YAG",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Long-pulse Nd:YAG laser hair removal in Miami, safe for all skin tones including Fitzpatrick IV-VI. Personalised plan with Ronal Perdomo, APRN, FNP-C. Book your assessment."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Laser Hair Removal in Miami with Fotona Nd:YAG"
+      },
+      {
+        "property": "og:description",
+        "content": "Long-pulse Nd:YAG laser hair removal in Miami, safe for all skin tones including Fitzpatrick IV-VI. Personalised plan with Ronal Perdomo, APRN, FNP-C. Book your assessment."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/laser-hair-removal/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-hair-removal.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Laser Hair Removal in Miami with Fotona Nd:YAG"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Long-pulse Nd:YAG laser hair removal in Miami, safe for all skin tones including Fitzpatrick IV-VI. Personalised plan with Ronal Perdomo, APRN, FNP-C. Book your assessment."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-hair-removal.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/laser-hair-removal/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/laser-hair-removal/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/depilacion-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Laser Hair Removal in Miami with Fotona Nd:YAG",
+        "description": "Laser hair removal is a medical-aesthetic protocol that uses a long-pulse Nd:YAG laser to deliver long-lasting reduction of unwanted hair, with parameters safe for all skin tones, including Fitzpatrick phototypes IV through VI.",
+        "url": "https://realaestheticmedspa.com/procedures/laser-hair-removal/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/laser-hair-removal/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/laser-hair-removal/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is laser hair removal safe for dark skin?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, when performed with a long-pulse Nd:YAG laser. The 1064 nm wavelength bypasses superficial melanin and reaches the follicle without overheating the surrounding skin, which is why this is the system of choice for Fitzpatrick phototypes IV through VI. Ronal Perdomo, APRN, FNP-C personally evaluates phototype and recent sun exposure before each session at our Miami clinic."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A typical course is six to eight sessions, spaced four to eight weeks apart depending on the body area. Hormonal patterns, ethnicity and hair coarseness influence the final number. Many patients add an occasional maintenance session every six to twelve months to address follicles reactivated by hormonal shifts. We document each visit so the protocol can be reviewed objectively."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is laser hair removal permanent?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The accurate term is long-lasting reduction. Most patients enjoy a substantial and lasting decrease in hair density, but no laser can guarantee permanent removal of every follicle, since hormonal changes can later activate dormant follicles. We discuss realistic expectations during your assessment and document baseline density in clinical photographs."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Laser Hair Removal in Miami with Fotona Nd:YAG",
+            "item": "https://realaestheticmedspa.com/procedures/laser-hair-removal/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/laser-hair-removal.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/laser-hair-removal/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/depilacion-laser/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Laser Hair Removal in Miami with <em>Fotona Nd:YAG</em>",
+    "lede": "Laser hair removal is a medical-aesthetic protocol that uses a long-pulse Nd:YAG laser to deliver long-lasting reduction of unwanted hair, with parameters safe for all skin tones, including Fitzpatrick phototypes IV through VI.",
+    "multi": {
+      "label": "Book by area",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-armpits-women",
+          "label": "Armpits",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-upper-lip-women",
+          "label": "Upper lip",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-bikini-women",
+          "label": "Bikini",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-legs-women",
+          "label": "Legs",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-full-beard-men",
+          "label": "Full beard (men)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-beard-design-men",
+          "label": "Beard design (men)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-back-men",
+          "label": "Back (men)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Delivers long-lasting hair reduction across the full range of Fitzpatrick phototypes, including IV, V and VI.",
+        "Reduces ingrown hairs and the chronic folliculitis that often follows shaving and waxing in coarse-haired areas.",
+        "Refines the look of underarms, bikini line, legs, back, chest and facial zones with a single device platform.",
+        "Avoids the discomfort, regrowth cycle and skin irritation associated with weekly hair-removal routines.",
+        "Supports better hygiene and post-exercise comfort in a tropical climate where the skin sweats and chafes more easily.",
+        "Compatible with sensitive areas such as the upper lip, chin, jawline and bikini when delivered by trained personnel.",
+        "Performed under medical supervision, with documentation of every session for traceability."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is laser hair removal safe for dark skin?",
+          "a": "Yes, when performed with a long-pulse Nd:YAG laser. The 1064 nm wavelength bypasses superficial melanin and reaches the follicle without overheating the surrounding skin, which is why this is the system of choice for Fitzpatrick phototypes IV through VI. Ronal Perdomo, APRN, FNP-C personally evaluates phototype and recent sun exposure before each session at our Miami clinic."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "A typical course is six to eight sessions, spaced four to eight weeks apart depending on the body area. Hormonal patterns, ethnicity and hair coarseness influence the final number. Many patients add an occasional maintenance session every six to twelve months to address follicles reactivated by hormonal shifts. We document each visit so the protocol can be reviewed objectively."
+        },
+        {
+          "q": "Is laser hair removal permanent?",
+          "a": "The accurate term is long-lasting reduction. Most patients enjoy a substantial and lasting decrease in hair density, but no laser can guarantee permanent removal of every follicle, since hormonal changes can later activate dormant follicles. We discuss realistic expectations during your assessment and document baseline density in clinical photographs."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "multi": {
+      "label": "Book by area",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-armpits-women",
+          "label": "Armpits",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-upper-lip-women",
+          "label": "Upper lip",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-bikini-women",
+          "label": "Bikini",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-legs-women",
+          "label": "Legs",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-full-beard-men",
+          "label": "Full beard (men)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-beard-design-men",
+          "label": "Beard design (men)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-back-men",
+          "label": "Back (men)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "iv-immunity-energy",
+  "path": "/procedures/iv-immunity-energy/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/iv-immunity-energy.webp",
+  "ctaImage": "/img/proc/iv-immunity-energy.webp",
+  "head": {
+    "title": "IV Immunity & Energy in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "IV Immunity & Energy in Miami at Real Aesthetic. Combined IV protocol designed to support immune function and restore energy, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "IV Immunity & Energy in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "IV Immunity & Energy in Miami at Real Aesthetic. Combined IV protocol designed to support immune function and restore energy, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/iv-immunity-energy/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-immunity-energy.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "IV Immunity & Energy in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "IV Immunity & Energy in Miami at Real Aesthetic. Combined IV protocol designed to support immune function and restore energy, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-immunity-energy.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/iv-immunity-energy/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/iv-immunity-energy/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-inmunidad-energia/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "IV Immunity & Energy in Miami",
+        "description": "IV Immunity & Energy in Miami at Real Aesthetic. Combined IV protocol designed to support immune function and restore energy, supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/iv-immunity-energy/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/iv-immunity-energy/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/iv-immunity-energy/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Will it prevent me from getting sick?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is no IV that guarantees immunity. The protocol supports immune function and provides nutrients the body needs when defending itself. Combined with good sleep, hydration and stress management, it can reduce vulnerability and accelerate recovery. We do not promise prevention — we support function."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How quickly will I feel the effect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Many patients feel less fatigued by the end of the infusion itself, particularly when starting from a depleted state. The immune-support component works over the following days as the body utilises the nutrients delivered. Effect is most evident when the IV is done early in the illness or stress cycle."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I add NAD+?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, NAD+ IM (intramuscular) is available as an add-on after the IV, particularly useful when energy or cognitive recovery is the priority. Ronal Perdomo Lugo, APRN, FNP-C will discuss whether the combination is right for you during the visit."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IV Immunity & Energy in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/iv-immunity-energy/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/iv-immunity-energy.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/iv-immunity-energy/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/iv-inmunidad-energia/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "IV Immunity &amp; Energy <em>in Miami</em>",
+    "lede": "An IV protocol designed to support immune function and restore energy through a high-dose vitamin C base, zinc, B-complex and selected minerals to strengthen defences during demanding seasons.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-immunity-energy",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Supports the immune system during cold-and-flu season, periods of stress or travel.",
+        "Combines high-dose vitamin C with zinc and B-vitamins for compounded effect.",
+        "Restores energy when fatigue is linked to low nutrient status or recovery from illness.",
+        "Session is approximately 60 minutes in a comfortable clinical environment.",
+        "Medically supervised — reviewed against your health history and medications.",
+        "Recommended cadence: 1–2 sessions during demanding seasons or as a recovery boost."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Will it prevent me from getting sick?",
+          "a": "There is no IV that guarantees immunity. The protocol supports immune function and provides nutrients the body needs when defending itself. Combined with good sleep, hydration and stress management, it can reduce vulnerability and accelerate recovery. We do not promise prevention — we support function."
+        },
+        {
+          "q": "How quickly will I feel the effect?",
+          "a": "Many patients feel less fatigued by the end of the infusion itself, particularly when starting from a depleted state. The immune-support component works over the following days as the body utilises the nutrients delivered. Effect is most evident when the IV is done early in the illness or stress cycle."
+        },
+        {
+          "q": "Can I add NAD+?",
+          "a": "Yes, NAD+ IM (intramuscular) is available as an add-on after the IV, particularly useful when energy or cognitive recovery is the priority. Ronal Perdomo Lugo, APRN, FNP-C will discuss whether the combination is right for you during the visit."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-immunity-energy",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

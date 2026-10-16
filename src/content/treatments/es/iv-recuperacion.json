@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "iv-recuperacion",
+  "path": "/tratamientos/iv-recuperacion/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/iv-recovery-hangover-post-workout.webp",
+  "ctaImage": "/img/proc/iv-recovery-hangover-post-workout.webp",
+  "head": {
+    "title": "IV Recuperación — Resaca y Post-Entreno en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "IV Recuperación en Miami en Real Aesthetic. Protocolo IV específico para resaca y recuperación post-entrenamiento, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "IV Recuperación — Resaca y Post-Entreno en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "IV Recuperación en Miami en Real Aesthetic. Protocolo IV específico para resaca y recuperación post-entrenamiento, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/iv-recuperacion/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-recovery-hangover-post-workout.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "IV Recuperación — Resaca y Post-Entreno en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "IV Recuperación en Miami en Real Aesthetic. Protocolo IV específico para resaca y recuperación post-entrenamiento, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-recovery-hangover-post-workout.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-recuperacion/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/iv-recovery/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-recuperacion/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "IV Recuperación — Resaca y Post-Entreno en Miami",
+        "description": "IV Recuperación en Miami en Real Aesthetic. Protocolo IV específico para resaca y recuperación post-entrenamiento, supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/iv-recuperacion/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/iv-recuperacion/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/iv-recuperacion/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cómo de rápido funciona para la resaca?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría describe mejora significativa en los primeros 30–45 minutos de la infusión. La combinación de hidratación rápida, soporte antinauseoso y complejo B aborda varios mecanismos de la resaca al mismo tiempo. Deberías salir de la sesión sintiéndote mucho mejor que al llegar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Sirve para recuperación deportiva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. El protocolo apoya rehidratación, balance de electrolitos, recuperación antiinflamatoria y restablecimiento energético tras entrenamiento exigente. Deportistas de resistencia, weekend warriors y viajeros con eventos se benefician de una IV de recuperación al día siguiente del esfuerzo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Con qué frecuencia se puede usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El uso ocasional es bien tolerado por la mayoría de adultos sanos. El uso frecuente debe coordinarse con nuestro equipo clínico para confirmar que no hay contraindicaciones. Revisamos la historia clínica en la primera visita y recomendamos una cadencia adecuada a tu situación."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IV Recuperación — Resaca y Post-Entreno en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/iv-recuperacion/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/iv-recovery-hangover-post-workout.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/iv-recuperacion/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/iv-recovery/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "IV Recuperación <em>en Miami</em>",
+    "lede": "Protocolo IV de recuperación que combina rehidratación rápida con soporte antinauseoso, antiinflamatorio y complejo B para devolverte tras una noche dura o un entrenamiento exigente.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-recovery-hangover-post-workout",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Rehidratación rápida y rebalance de electrolitos en una sola sesión.",
+        "Soporte antinauseoso y alivio del dolor de cabeza para días de resaca intensa.",
+        "Componentes antiinflamatorios y complejo B aceleran recuperación post-entreno.",
+        "La mayoría siente mejora clara en los primeros 30 minutos de la infusión.",
+        "La sesión dura unos 45–60 minutos en entorno clínico tranquilo.",
+        "Supervisión médica y cribado de contraindicaciones antes de cada visita."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Cómo de rápido funciona para la resaca?",
+          "a": "La mayoría describe mejora significativa en los primeros 30–45 minutos de la infusión. La combinación de hidratación rápida, soporte antinauseoso y complejo B aborda varios mecanismos de la resaca al mismo tiempo. Deberías salir de la sesión sintiéndote mucho mejor que al llegar."
+        },
+        {
+          "q": "¿Sirve para recuperación deportiva?",
+          "a": "Sí. El protocolo apoya rehidratación, balance de electrolitos, recuperación antiinflamatoria y restablecimiento energético tras entrenamiento exigente. Deportistas de resistencia, weekend warriors y viajeros con eventos se benefician de una IV de recuperación al día siguiente del esfuerzo."
+        },
+        {
+          "q": "¿Con qué frecuencia se puede usar?",
+          "a": "El uso ocasional es bien tolerado por la mayoría de adultos sanos. El uso frecuente debe coordinarse con nuestro equipo clínico para confirmar que no hay contraindicaciones. Revisamos la historia clínica en la primera visita y recomendamos una cadencia adecuada a tu situación."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-recovery-hangover-post-workout",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

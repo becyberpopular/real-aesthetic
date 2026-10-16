@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "fotona-smootheye",
+  "path": "/procedures/fotona-smootheye/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/fotona-smootheye.webp",
+  "ctaImage": "/img/proc/fotona-smootheye.webp",
+  "head": {
+    "title": "Fotona SmoothEye in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona SmoothEye non-ablative laser treatment in Miami at Real Aesthetic. Tightens the eyelid skin and softens fine lines around the eyes. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona SmoothEye in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona SmoothEye non-ablative laser treatment in Miami at Real Aesthetic. Tightens the eyelid skin and softens fine lines around the eyes. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/fotona-smootheye/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-smootheye.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona SmoothEye in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona SmoothEye non-ablative laser treatment in Miami at Real Aesthetic. Tightens the eyelid skin and softens fine lines around the eyes. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-smootheye.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-smootheye/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-smootheye/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-smootheye/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona SmoothEye in Miami",
+        "description": "Fotona SmoothEye non-ablative laser treatment in Miami at Real Aesthetic. Tightens the eyelid skin and softens fine lines around the eyes. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-smootheye/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/fotona-smootheye/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-smootheye/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is the eye protected during the treatment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. We use opaque protective eye shields placed on the eye before any laser pulse. The Fotona Er:YAG handpiece is calibrated to a non-ablative setting designed specifically for the periocular area. Safety is the priority, and the protocol is well documented in clinical literature."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions do I need to see results?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients see early changes after the second session and the full effect three months after completing 3 to 4 sessions. Maintenance is typically one to two sessions per year, scheduled around the patient's calendar and other treatments."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it a substitute for blepharoplasty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. SmoothEye is a non-surgical tightening protocol. For excess eyelid skin that exceeds what laser tightening can address, blepharoplasty remains the appropriate option. We will tell you honestly during the consultation if you are better served by the surgical route."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona SmoothEye in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/fotona-smootheye/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-smootheye.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-smootheye/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/fotona-smootheye/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Fotona SmoothEye <em>in Miami</em>",
+    "lede": "Fotona SmoothEye is a gentle non-ablative laser protocol that stimulates collagen in the delicate eye area to tighten eyelid skin and soften fine lines without injections.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-smootheye",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Tightens loose upper-eyelid and under-eye skin through controlled collagen stimulation.",
+        "Softens fine lines and crow's feet around the eye contour.",
+        "Non-ablative — no needles, no surgery, no real downtime.",
+        "Each session lasts approximately 30 minutes; full protocol is typically 3 to 4 sessions spaced 3–4 weeks apart.",
+        "Results progress over weeks as new collagen forms and continue improving for up to 3 months after the last session.",
+        "Pairs well with Fotona 4D, neuromodulators or skin boosters in a coordinated facial plan."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is the eye protected during the treatment?",
+          "a": "Yes. We use opaque protective eye shields placed on the eye before any laser pulse. The Fotona Er:YAG handpiece is calibrated to a non-ablative setting designed specifically for the periocular area. Safety is the priority, and the protocol is well documented in clinical literature."
+        },
+        {
+          "q": "How many sessions do I need to see results?",
+          "a": "Most patients see early changes after the second session and the full effect three months after completing 3 to 4 sessions. Maintenance is typically one to two sessions per year, scheduled around the patient's calendar and other treatments."
+        },
+        {
+          "q": "Is it a substitute for blepharoplasty?",
+          "a": "No. SmoothEye is a non-surgical tightening protocol. For excess eyelid skin that exceeds what laser tightening can address, blepharoplasty remains the appropriate option. We will tell you honestly during the consultation if you are better served by the surgical route."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-smootheye",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

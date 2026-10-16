@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "lymphatic-facial-massage",
+  "path": "/procedures/lymphatic-facial-massage/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/lymphatic-facial-massage.webp",
+  "ctaImage": "/img/proc/lymphatic-facial-massage.webp",
+  "head": {
+    "title": "Lymphatic Facial Massage in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Manual lymphatic drainage of the face in Miami. Relaxing 30-minute session for post-filler, post-Botox, fluid retention and pre-event glow at Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Lymphatic Facial Massage in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Manual lymphatic drainage of the face in Miami. Relaxing 30-minute session for post-filler, post-Botox, fluid retention and pre-event glow at Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/lymphatic-facial-massage/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-facial-massage.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Lymphatic Facial Massage in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Manual lymphatic drainage of the face in Miami. Relaxing 30-minute session for post-filler, post-Botox, fluid retention and pre-event glow at Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-facial-massage.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-facial-massage/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-facial-massage/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Lymphatic Facial Massage in Miami",
+        "description": "Lymphatic facial massage is a gentle, manual technique that mobilises lymphatic fluid through the superficial vessels of the face to reduce puffiness, support recovery after filler or Botox, and bring a clear pre-event glow, delivered as a relaxing 30-minute session by trained therapists at our Miami clinic.",
+        "url": "https://realaestheticmedspa.com/procedures/lymphatic-facial-massage/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/lymphatic-facial-massage/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/lymphatic-facial-massage/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is lymphatic facial massage safe after dermal filler?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, when timed correctly. Filler should be allowed to settle in the first 24 to 48 hours, after which gentle lymphatic drainage can support resolution of swelling and bruising. We coordinate the timing of the session with the prescribing physician and avoid any direct pressure on the injection sites until the product has integrated. The technique itself is light and respects filler placement."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will it move or affect my Botox?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, when the post-procedure protocol of the prescribing physician is respected. Botox needs the first hours to bind to its target; during that window we avoid massage of the treated muscles. After the prescribed window, gentle lymphatic drainage can be performed safely. The therapist follows your physician's instructions and adapts the session to the timing of your last neuromodulator visit."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is this the same as a regular facial massage?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Standard facial massage uses firmer pressure aimed at muscle and connective tissue. Lymphatic drainage uses very light, slow, directional touch designed to mobilise fluid in the superficial lymphatic system, which sits just under the skin. The two techniques pursue different goals: muscle relaxation versus fluid drainage. We use the lymphatic technique specifically to address puffiness, post-procedure swelling and pre-event glow."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lymphatic Facial Massage in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/lymphatic-facial-massage/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/lymphatic-facial-massage.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/lymphatic-facial-massage/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/masaje-linfatico-facial/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Lymphatic Facial Massage <em>in Miami</em>",
+    "lede": "Lymphatic facial massage is a gentle, manual technique that mobilises lymphatic fluid through the superficial vessels of the face to reduce puffiness, support recovery after filler or Botox, and bring a clear pre-event glow, delivered as a relaxing 30-minute session by trained therapists at our Miami clinic.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces puffiness around the eyes, cheekbones and jawline by mobilising stagnant interstitial fluid.",
+        "Supports recovery after dermal filler by helping reduce post-injection swelling and bruising.",
+        "Supports recovery after Botox or other neuromodulators by easing tissue tension during the first days.",
+        "Brings a clearer, more luminous appearance before a wedding, photoshoot, performance or other high-visibility event.",
+        "Eases the sensation of facial heaviness and water retention that some patients notice in the morning or during the menstrual cycle.",
+        "Creates a deep state of relaxation thanks to the slow, rhythmic nature of the strokes.",
+        "No downtime, no marks, no recovery — patients return to their day immediately after the session."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is lymphatic facial massage safe after dermal filler?",
+          "a": "Yes, when timed correctly. Filler should be allowed to settle in the first 24 to 48 hours, after which gentle lymphatic drainage can support resolution of swelling and bruising. We coordinate the timing of the session with the prescribing physician and avoid any direct pressure on the injection sites until the product has integrated. The technique itself is light and respects filler placement."
+        },
+        {
+          "q": "Will it move or affect my Botox?",
+          "a": "No, when the post-procedure protocol of the prescribing physician is respected. Botox needs the first hours to bind to its target; during that window we avoid massage of the treated muscles. After the prescribed window, gentle lymphatic drainage can be performed safely. The therapist follows your physician's instructions and adapts the session to the timing of your last neuromodulator visit."
+        },
+        {
+          "q": "Is this the same as a regular facial massage?",
+          "a": "No. Standard facial massage uses firmer pressure aimed at muscle and connective tissue. Lymphatic drainage uses very light, slow, directional touch designed to mobilise fluid in the superficial lymphatic system, which sits just under the skin. The two techniques pursue different goals: muscle relaxation versus fluid drainage. We use the lymphatic technique specifically to address puffiness, post-procedure swelling and pre-event glow."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

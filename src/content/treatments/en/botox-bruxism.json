@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "botox-bruxism",
+  "path": "/procedures/botox-bruxism/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/botox-bruxism-masseter.webp",
+  "ctaImage": "/img/proc/botox-bruxism-masseter.webp",
+  "head": {
+    "title": "Botox for Bruxism (Masseter) in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Botulinum toxin in the masseter muscle to treat bruxism and slim the jawline, in Miami at Real Aesthetic. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Botox for Bruxism (Masseter) in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Botulinum toxin in the masseter muscle to treat bruxism and slim the jawline, in Miami at Real Aesthetic. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/botox-bruxism/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/botox-bruxism-masseter.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Botox for Bruxism (Masseter) in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Botulinum toxin in the masseter muscle to treat bruxism and slim the jawline, in Miami at Real Aesthetic. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/botox-bruxism-masseter.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/botox-bruxism/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/botox-bruxism/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-bruxismo/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Botox for Bruxism (Masseter) in Miami",
+        "description": "Botulinum toxin in the masseter muscle to treat bruxism and slim the jawline, in Miami at Real Aesthetic. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/botox-bruxism/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/botox-bruxism/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/botox-bruxism/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How long until I see relief from jaw clenching?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients begin to feel less jaw tension within 5 to 10 days and full effect at around 2 weeks. Visible slimming of the masseter, when that is part of the goal, develops gradually over 4 to 6 weeks as the muscle reduces in volume. Each subsequent session can reinforce the result."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will I still be able to chew normally?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The goal of the dose is to relax the muscle, not to paralyse it. You retain full normal chewing function. The first 1 to 2 weeks may feel slightly different as you adapt, especially with harder foods, but normal eating is preserved throughout the treatment cycle."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How often do I need to repeat the treatment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The effect lasts approximately 3 to 4 months for relaxation and longer for visible masseter slimming. Patients usually book follow-up sessions every 3 to 4 months at the beginning, then can space them further apart once the muscle has reduced. Ronal Perdomo Lugo, APRN, FNP-C will design your cadence."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Botox for Bruxism (Masseter) in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/botox-bruxism/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/botox-bruxism-masseter.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/botox-bruxism/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/botox-bruxismo/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Botox for Bruxism <em>in Miami</em>",
+    "lede": "Targeted neuromodulator injection in the masseter muscle relaxes jaw clenching, relieves bruxism-related tension, and softens a square jawline in patients with masseter hypertrophy.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces involuntary jaw clenching and night-time teeth grinding (bruxism).",
+        "Eases tension headaches and TMJ-related discomfort linked to masseter overuse.",
+        "Slims a visibly square or wide jawline through progressive masseter reduction.",
+        "Effect typically begins within 5–10 days and lasts 3–4 months.",
+        "Performed in a single in-office session of approximately 20 minutes.",
+        "Conservative dosing — designed to relax, not to weaken essential chewing function."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How long until I see relief from jaw clenching?",
+          "a": "Most patients begin to feel less jaw tension within 5 to 10 days and full effect at around 2 weeks. Visible slimming of the masseter, when that is part of the goal, develops gradually over 4 to 6 weeks as the muscle reduces in volume. Each subsequent session can reinforce the result."
+        },
+        {
+          "q": "Will I still be able to chew normally?",
+          "a": "Yes. The goal of the dose is to relax the muscle, not to paralyse it. You retain full normal chewing function. The first 1 to 2 weeks may feel slightly different as you adapt, especially with harder foods, but normal eating is preserved throughout the treatment cycle."
+        },
+        {
+          "q": "How often do I need to repeat the treatment?",
+          "a": "The effect lasts approximately 3 to 4 months for relaxation and longer for visible masseter slimming. Patients usually book follow-up sessions every 3 to 4 months at the beginning, then can space them further apart once the muscle has reduced. Ronal Perdomo Lugo, APRN, FNP-C will design your cadence."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

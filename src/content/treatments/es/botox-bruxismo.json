@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "botox-bruxismo",
+  "path": "/tratamientos/botox-bruxismo/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/botox-bruxism-masseter.webp",
+  "ctaImage": "/img/proc/botox-bruxism-masseter.webp",
+  "head": {
+    "title": "Botox para Bruxismo (Masetero) en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Toxina botulínica en el músculo masetero para tratar bruxismo y afinar el ángulo mandibular, en Miami en Real Aesthetic. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Botox para Bruxismo (Masetero) en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Toxina botulínica en el músculo masetero para tratar bruxismo y afinar el ángulo mandibular, en Miami en Real Aesthetic. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/botox-bruxismo/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/botox-bruxism-masseter.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Botox para Bruxismo (Masetero) en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Toxina botulínica en el músculo masetero para tratar bruxismo y afinar el ángulo mandibular, en Miami en Real Aesthetic. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/botox-bruxism-masseter.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-bruxismo/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/botox-bruxism/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-bruxismo/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Botox para Bruxismo (Masetero) en Miami",
+        "description": "Toxina botulínica en el músculo masetero para tratar bruxismo y afinar el ángulo mandibular, en Miami en Real Aesthetic. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/botox-bruxismo/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/botox-bruxismo/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/botox-bruxismo/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿En cuánto tiempo siento el alivio del apriete?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría empieza a notar menos tensión mandibular a los 5–10 días y el efecto completo hacia las 2 semanas. El afinamiento visible del masetero, si es parte del objetivo, aparece gradualmente entre 4 y 6 semanas a medida que el músculo reduce volumen. Sesiones posteriores refuerzan el resultado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Voy a poder masticar normalmente?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. El objetivo de la dosis es relajar el músculo, no paralizarlo. La función masticatoria normal se conserva. Las primeras 1–2 semanas puedes notarla algo distinta, especialmente con alimentos duros, pero la masticación se mantiene durante todo el ciclo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cada cuánto debo repetir el tratamiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El efecto dura aproximadamente 3–4 meses para la relajación y más para el afinamiento visible del masetero. Suele agendarse cada 3–4 meses al principio y, a medida que el músculo reduce, puede espaciarse. Ronal Perdomo Lugo, APRN, FNP-C diseña la cadencia."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Botox para Bruxismo (Masetero) en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/botox-bruxismo/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/botox-bruxism-masseter.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/botox-bruxismo/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/botox-bruxism/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Botox para Bruxismo <em>en Miami</em>",
+    "lede": "Inyección dirigida de neuromodulador en el músculo masetero que relaja el apriete mandibular, alivia tensión por bruxismo y afina una mandíbula cuadrada en pacientes con hipertrofia maseterina.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce el apriete involuntario y el rechinar nocturno de dientes (bruxismo).",
+        "Alivia cefaleas tensionales y molestias de ATM ligadas al sobreesfuerzo del masetero.",
+        "Afina visiblemente una mandíbula cuadrada o ancha gracias a la reducción progresiva del masetero.",
+        "El efecto suele iniciarse a los 5–10 días y dura 3–4 meses.",
+        "Se realiza en consulta en una sola sesión de unos 20 minutos.",
+        "Dosis conservadora — diseñada para relajar, no para debilitar la función masticatoria esencial."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿En cuánto tiempo siento el alivio del apriete?",
+          "a": "La mayoría empieza a notar menos tensión mandibular a los 5–10 días y el efecto completo hacia las 2 semanas. El afinamiento visible del masetero, si es parte del objetivo, aparece gradualmente entre 4 y 6 semanas a medida que el músculo reduce volumen. Sesiones posteriores refuerzan el resultado."
+        },
+        {
+          "q": "¿Voy a poder masticar normalmente?",
+          "a": "Sí. El objetivo de la dosis es relajar el músculo, no paralizarlo. La función masticatoria normal se conserva. Las primeras 1–2 semanas puedes notarla algo distinta, especialmente con alimentos duros, pero la masticación se mantiene durante todo el ciclo."
+        },
+        {
+          "q": "¿Cada cuánto debo repetir el tratamiento?",
+          "a": "El efecto dura aproximadamente 3–4 meses para la relajación y más para el afinamiento visible del masetero. Suele agendarse cada 3–4 meses al principio y, a medida que el músculo reduce, puede espaciarse. Ronal Perdomo Lugo, APRN, FNP-C diseña la cadencia."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

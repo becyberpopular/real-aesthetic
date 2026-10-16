@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "aclarado-ojeras",
+  "path": "/tratamientos/aclarado-ojeras/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/under-eye-brightening.webp",
+  "ctaImage": "/img/proc/under-eye-brightening.webp",
+  "head": {
+    "title": "Aclarado de ojeras y tratamiento de la mirada cansada en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Mesoterapia para ojeras en Miami con ácido tranexámico, vitamina C y péptidos. Tratamiento médico para mirar más descansado en Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Aclarado de ojeras y tratamiento de la mirada cansada en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Mesoterapia para ojeras en Miami con ácido tranexámico, vitamina C y péptidos. Tratamiento médico para mirar más descansado en Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/aclarado-ojeras/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/under-eye-brightening.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Aclarado de ojeras y tratamiento de la mirada cansada en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Mesoterapia para ojeras en Miami con ácido tranexámico, vitamina C y péptidos. Tratamiento médico para mirar más descansado en Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/under-eye-brightening.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/aclarado-ojeras/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/under-eye-brightening/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/aclarado-ojeras/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Aclarado de ojeras y tratamiento de la mirada cansada en Miami",
+        "description": "El aclarado de ojeras es un protocolo de mesoterapia periocular que aporta a la piel del párpado inferior un cóctel suave de activos aclarantes, antioxidantes y vasculotrópicos para atenuar las ojeras oscuras, realizado en una serie de sesiones en Miami y adaptado a la causa subyacente de la pigmentación.",
+        "url": "https://realaestheticmedspa.com/tratamientos/aclarado-ojeras/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/aclarado-ojeras/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/aclarado-ojeras/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Por qué tengo ojeras aunque duerma bien?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El sueño rara vez es el único factor. Las ojeras suelen combinar tres causas: pigmentación, sombra vascular por los vasos bajo una piel muy fina y sombra estructural por la depresión del surco lagrimal. El sueño afecta sobre todo al componente vascular. Si las ojeras persisten tras una buena noche, lo más probable es que exista un componente pigmentario o estructural que necesita un protocolo específico."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia del relleno del surco lagrimal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El relleno del surco lagrimal aporta volumen para corregir una depresión estructural bajo el ojo. El aclarado de ojeras con mesoterapia trabaja a nivel de piel sobre los componentes pigmentario y vascular sin volumizar. Son enfoques que abordan anatomías distintas y pueden ser complementarios. Elegimos, secuenciamos o combinamos en función del mecanismo dominante en cada caso."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede combinar con Fotona SmoothEye?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, y es una de las combinaciones más solicitadas para esta zona. La mesoterapia actúa sobre la pigmentación y la microcirculación; Fotona SmoothEye utiliza un láser calibrado para tensar la piel del párpado inferior y mejorar la apariencia \"crepe\". Juntos ofrecen un efecto en capas: tono más luminoso por el cóctel y textura más firme por el láser. Solemos alternar las sesiones dentro de un plan personalizado."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Aclarado de ojeras y tratamiento de la mirada cansada en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/aclarado-ojeras/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/under-eye-brightening.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/under-eye-brightening/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/aclarado-ojeras/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Aclarado de ojeras y tratamiento de la mirada cansada <em>en Miami</em>",
+    "lede": "El aclarado de ojeras es un protocolo de mesoterapia periocular que aporta a la piel del párpado inferior un cóctel suave de activos aclarantes, antioxidantes y vasculotrópicos para atenuar las ojeras oscuras, realizado en una serie de sesiones en Miami y adaptado a la causa subyacente de la pigmentación.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-tear-trough-filler",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce la apariencia de las ojeras pigmentarias mediante cócteles con ácido tranexámico.",
+        "Apoya la microcirculación de la zona y atenúa el tono azulado de origen vascular.",
+        "Mejora la calidad de la piel, las líneas finas y la apariencia \"crepe\" del párpado inferior.",
+        "Aclara la zona sin alterar el tono del resto del rostro.",
+        "Combina muy bien con Fotona SmoothEye y PRP para un abordaje multimecanismo.",
+        "Aporta soporte antioxidante a una zona que las cremas no consiguen alcanzar bien.",
+        "Diseñado para la piel periocular delicada, con cócteles de bajo volumen y agujas ultra-finas."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Por qué tengo ojeras aunque duerma bien?",
+          "a": "El sueño rara vez es el único factor. Las ojeras suelen combinar tres causas: pigmentación, sombra vascular por los vasos bajo una piel muy fina y sombra estructural por la depresión del surco lagrimal. El sueño afecta sobre todo al componente vascular. Si las ojeras persisten tras una buena noche, lo más probable es que exista un componente pigmentario o estructural que necesita un protocolo específico."
+        },
+        {
+          "q": "¿En qué se diferencia del relleno del surco lagrimal?",
+          "a": "El relleno del surco lagrimal aporta volumen para corregir una depresión estructural bajo el ojo. El aclarado de ojeras con mesoterapia trabaja a nivel de piel sobre los componentes pigmentario y vascular sin volumizar. Son enfoques que abordan anatomías distintas y pueden ser complementarios. Elegimos, secuenciamos o combinamos en función del mecanismo dominante en cada caso."
+        },
+        {
+          "q": "¿Se puede combinar con Fotona SmoothEye?",
+          "a": "Sí, y es una de las combinaciones más solicitadas para esta zona. La mesoterapia actúa sobre la pigmentación y la microcirculación; Fotona SmoothEye utiliza un láser calibrado para tensar la piel del párpado inferior y mejorar la apariencia \"crepe\". Juntos ofrecen un efecto en capas: tono más luminoso por el cóctel y textura más firme por el láser. Solemos alternar las sesiones dentro de un plan personalizado."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserve su consulta en Real Aesthetic Medical Spa para una evaluación periocular precisa y un plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-tear-trough-filler",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

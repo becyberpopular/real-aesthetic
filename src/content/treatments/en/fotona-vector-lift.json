@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "fotona-vector-lift",
+  "path": "/procedures/fotona-vector-lift/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/fotona-vectorlift.webp",
+  "ctaImage": "/img/proc/fotona-vectorlift.webp",
+  "head": {
+    "title": "Fotona Vector Lift in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona Vector Lift in Miami at Real Aesthetic. Intra-oral non-ablative laser that lifts the lower face and jawline through internal collagen remodelling. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona Vector Lift in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona Vector Lift in Miami at Real Aesthetic. Intra-oral non-ablative laser that lifts the lower face and jawline through internal collagen remodelling. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/fotona-vector-lift/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-vectorlift.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona Vector Lift in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona Vector Lift in Miami at Real Aesthetic. Intra-oral non-ablative laser that lifts the lower face and jawline through internal collagen remodelling. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-vectorlift.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-vector-lift/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-vector-lift/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-vector-lift/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona Vector Lift in Miami",
+        "description": "Fotona Vector Lift in Miami at Real Aesthetic. Intra-oral non-ablative laser that lifts the lower face and jawline through internal collagen remodelling. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-vector-lift/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/fotona-vector-lift/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-vector-lift/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why is it done inside the mouth?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Working from inside the mouth lets the laser reach the deep submucosal layers of the cheek and jawline without traversing the surface skin. This means stronger collagen stimulation in the right plane with less impact on the epidermis. A specialised intra-oral handpiece is used for this purpose."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When will I see lifting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Subtle changes are perceived after the second session. The visible lift develops over 8–12 weeks as new collagen organises and contracts the connective tissue. The result is gradual rather than dramatic — natural is the goal."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does it hurt or affect speech?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is a warm sensation during the pulses and mild post-session tenderness inside the mouth that resolves within hours. Normal speaking, eating and drinking resume the same day. We may recommend rinsing with a gentle non-alcoholic mouthwash for 1–2 days after."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona Vector Lift in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/fotona-vector-lift/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-vectorlift.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-vector-lift/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/fotona-vector-lift/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Fotona Vector Lift <em>in Miami</em>",
+    "lede": "Vector Lift uses Fotona's intra-oral Nd:YAG handpiece to deliver gentle heat to the deeper layers of the lower face from inside the mouth, lifting and tightening the jowls and jawline.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-vectorlift",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Lifts the jawline and softens jowls through deep collagen stimulation delivered from inside the mouth.",
+        "Targets the lower third of the face with minimal effect on the surface skin.",
+        "Non-ablative, non-injectable — no needles, no incisions, no significant downtime.",
+        "Each session lasts 30–45 minutes; protocol typically 3–4 sessions spaced 3–4 weeks apart.",
+        "Pairs naturally with neuromodulators, jawline filler or Fotona 4D for compounded definition.",
+        "Especially useful for patients who want pre-surgical tightening or wish to avoid surgery."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Why is it done inside the mouth?",
+          "a": "Working from inside the mouth lets the laser reach the deep submucosal layers of the cheek and jawline without traversing the surface skin. This means stronger collagen stimulation in the right plane with less impact on the epidermis. A specialised intra-oral handpiece is used for this purpose."
+        },
+        {
+          "q": "When will I see lifting?",
+          "a": "Subtle changes are perceived after the second session. The visible lift develops over 8–12 weeks as new collagen organises and contracts the connective tissue. The result is gradual rather than dramatic — natural is the goal."
+        },
+        {
+          "q": "Does it hurt or affect speech?",
+          "a": "There is a warm sensation during the pulses and mild post-session tenderness inside the mouth that resolves within hours. Normal speaking, eating and drinking resume the same day. We may recommend rinsing with a gentle non-alcoholic mouthwash for 1–2 days after."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-vectorlift",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

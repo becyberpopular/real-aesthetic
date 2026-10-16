@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "under-eye-brightening",
+  "path": "/procedures/under-eye-brightening/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/under-eye-brightening.webp",
+  "ctaImage": "/img/proc/under-eye-brightening.webp",
+  "head": {
+    "title": "Under-Eye Brightening for Dark Circles in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Targeted mesotherapy for dark circles in Miami. Tranexamic acid, vitamin C and peptides for a brighter, more rested under-eye area at Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Under-Eye Brightening for Dark Circles in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Targeted mesotherapy for dark circles in Miami. Tranexamic acid, vitamin C and peptides for a brighter, more rested under-eye area at Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/under-eye-brightening/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/under-eye-brightening.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Under-Eye Brightening for Dark Circles in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Targeted mesotherapy for dark circles in Miami. Tranexamic acid, vitamin C and peptides for a brighter, more rested under-eye area at Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/under-eye-brightening.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/under-eye-brightening/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/under-eye-brightening/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/aclarado-ojeras/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Under-Eye Brightening for Dark Circles in Miami",
+        "description": "Under-eye brightening is a targeted mesotherapy protocol that delivers a delicate cocktail of brightening, antioxidant and microcirculation-supporting actives into the periocular skin to address dark circles, performed in a series of sessions at our Miami practice and tailored to the underlying cause of pigmentation.",
+        "url": "https://realaestheticmedspa.com/procedures/under-eye-brightening/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/under-eye-brightening/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/under-eye-brightening/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why do I have dark circles even when I sleep enough?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sleep is rarely the only factor. Dark circles usually combine three causes: pigmentation, vascular shadow from blood vessels under thin skin, and structural shadow from tear-trough hollowness. Sleep mainly affects the vascular component. If your dark circles persist after a good night, there is likely a pigmentary or structural element that needs a targeted protocol."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is this different from tear-trough fillers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tear-trough fillers add volume to correct structural hollowness underneath the eye. Under-eye brightening mesotherapy works at the skin level on the pigmentary and vascular components without volumising. The two approaches address different anatomies and can be complementary. We choose, sequence or combine them based on which mechanism is dominant in your case."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I combine it with Fotona SmoothEye?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, and this combination is one of our most requested for the under-eye area. Mesotherapy targets pigmentation and microcirculation; Fotona SmoothEye uses calibrated laser to tighten the lower-eyelid skin and improve crepiness. Together they offer a layered effect: brighter colour from the cocktail and firmer texture from the laser. We typically schedule them in alternating weeks within a personalised plan."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Under-Eye Brightening for Dark Circles in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/under-eye-brightening/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/under-eye-brightening.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/under-eye-brightening/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/aclarado-ojeras/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Under-Eye Brightening for Dark Circles <em>in Miami</em>",
+    "lede": "Under-eye brightening is a targeted mesotherapy protocol that delivers a delicate cocktail of brightening, antioxidant and microcirculation-supporting actives into the periocular skin to address dark circles, performed in a series of sessions at our Miami practice and tailored to the underlying cause of pigmentation.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-tear-trough-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces the appearance of pigmentary dark circles with tranexamic-acid-based cocktails.",
+        "Supports microcirculation in the periorbital area, attenuating the bluish vascular shade.",
+        "Improves skin quality, fine lines and crepiness in the lower eyelid through targeted peptides.",
+        "Brightens the area without lightening the surrounding facial skin.",
+        "Pairs well with Fotona SmoothEye and PRP for a layered, multi-mechanism approach.",
+        "Avoids systemic medications and gives the under-eye area the antioxidant support it lacks topically.",
+        "Designed for the delicate periocular skin, with low-volume cocktails and ultra-fine needles."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Why do I have dark circles even when I sleep enough?",
+          "a": "Sleep is rarely the only factor. Dark circles usually combine three causes: pigmentation, vascular shadow from blood vessels under thin skin, and structural shadow from tear-trough hollowness. Sleep mainly affects the vascular component. If your dark circles persist after a good night, there is likely a pigmentary or structural element that needs a targeted protocol."
+        },
+        {
+          "q": "How is this different from tear-trough fillers?",
+          "a": "Tear-trough fillers add volume to correct structural hollowness underneath the eye. Under-eye brightening mesotherapy works at the skin level on the pigmentary and vascular components without volumising. The two approaches address different anatomies and can be complementary. We choose, sequence or combine them based on which mechanism is dominant in your case."
+        },
+        {
+          "q": "Can I combine it with Fotona SmoothEye?",
+          "a": "Yes, and this combination is one of our most requested for the under-eye area. Mesotherapy targets pigmentation and microcirculation; Fotona SmoothEye uses calibrated laser to tighten the lower-eyelid skin and improve crepiness. Together they offer a layered effect: brighter colour from the cocktail and firmer texture from the laser. We typically schedule them in alternating weeks within a personalised plan."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation at Real Aesthetic Medical Spa for a precise periocular assessment and a personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-tear-trough-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

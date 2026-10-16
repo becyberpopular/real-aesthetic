@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "telangiectasia-laser",
+  "path": "/procedures/telangiectasia-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/telangiectasia-laser.webp",
+  "ctaImage": "/img/proc/telangiectasia-laser.webp",
+  "head": {
+    "title": "Facial Telangiectasia Laser in Miami with Nd:YAG",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Nd:YAG laser for facial telangiectasia and small visible vessels on cheeks and nose in Miami. Usually one to three sessions with Ronal Perdomo, APRN, FNP-C. Book now."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Facial Telangiectasia Laser in Miami with Nd:YAG"
+      },
+      {
+        "property": "og:description",
+        "content": "Nd:YAG laser for facial telangiectasia and small visible vessels on cheeks and nose in Miami. Usually one to three sessions with Ronal Perdomo, APRN, FNP-C. Book now."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/telangiectasia-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/telangiectasia-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Facial Telangiectasia Laser in Miami with Nd:YAG"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Nd:YAG laser for facial telangiectasia and small visible vessels on cheeks and nose in Miami. Usually one to three sessions with Ronal Perdomo, APRN, FNP-C. Book now."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/telangiectasia-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/telangiectasia-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/telangiectasia-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/telangiectasias-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Facial Telangiectasia Laser in Miami with Nd:YAG",
+        "description": "Facial telangiectasia laser is a medical-aesthetic protocol that uses an Nd:YAG laser to selectively close small visible blood vessels on the cheeks, nose and chin, refining the skin's overall colour and uniformity.",
+        "url": "https://realaestheticmedspa.com/procedures/telangiectasia-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/telangiectasia-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/telangiectasia-laser/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the difference between telangiectasia and rosacea?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Telangiectasias are localised, well-defined small vessels visible through the skin, often on the cheeks or sides of the nose. Rosacea is an inflammatory condition with diffuse redness, flushing, papules and sometimes pustules. The two can coexist, but the management is different. Ronal Perdomo, APRN, FNP-C confirms the diagnosis before recommending the appropriate laser protocol at our Miami clinic."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most isolated small vessels resolve in one to three sessions spaced four to six weeks apart. Larger or deeper capillaries can require an additional visit. We document the area in clinical photographs and reassess before each session, only continuing while measurable improvement is observed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will the vessels come back?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Vessels we treat do not return; the laser closes the specific capillary, which the body then reabsorbs. New telangiectasias can appear over time, however, due to sun exposure, hormonal factors or family predisposition. Strict daily SPF 50+ and avoidance of strong vasodilators help to slow the formation of new vessels."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Facial Telangiectasia Laser in Miami with Nd:YAG",
+            "item": "https://realaestheticmedspa.com/procedures/telangiectasia-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/telangiectasia-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/telangiectasia-laser/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/telangiectasias-laser/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Facial Telangiectasia Laser in Miami <em>with Nd:YAG</em>",
+    "lede": "Facial telangiectasia laser is a medical-aesthetic protocol that uses an Nd:YAG laser to selectively close small visible blood vessels on the cheeks, nose and chin, refining the skin's overall colour and uniformity.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-telangiectasia-rosacea-treatment",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces the appearance of small visible vessels on cheeks, nose and chin without affecting surrounding skin.",
+        "Improves the perception of skin uniformity and colour balance, especially in standardised lighting and photographs.",
+        "Targets vessels selectively through a wavelength absorbed mainly by haemoglobin.",
+        "Compatible with the full range of Fitzpatrick phototypes when parameters are calibrated correctly.",
+        "Quick procedure with no formal downtime in most cases.",
+        "Often completed in one to three sessions for typical small-vessel cases.",
+        "Performed under medical supervision with photographic documentation of every visit."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "What is the difference between telangiectasia and rosacea?",
+          "a": "Telangiectasias are localised, well-defined small vessels visible through the skin, often on the cheeks or sides of the nose. Rosacea is an inflammatory condition with diffuse redness, flushing, papules and sometimes pustules. The two can coexist, but the management is different. Ronal Perdomo, APRN, FNP-C confirms the diagnosis before recommending the appropriate laser protocol at our Miami clinic."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "Most isolated small vessels resolve in one to three sessions spaced four to six weeks apart. Larger or deeper capillaries can require an additional visit. We document the area in clinical photographs and reassess before each session, only continuing while measurable improvement is observed."
+        },
+        {
+          "q": "Will the vessels come back?",
+          "a": "Vessels we treat do not return; the laser closes the specific capillary, which the body then reabsorbs. New telangiectasias can appear over time, however, due to sun exposure, hormonal factors or family predisposition. Strict daily SPF 50+ and avoidance of strong vasodilators help to slow the formation of new vessels."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-telangiectasia-rosacea-treatment",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

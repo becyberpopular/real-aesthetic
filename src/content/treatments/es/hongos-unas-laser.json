@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "hongos-unas-laser",
+  "path": "/tratamientos/hongos-unas-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/nail-fungus-laser.webp",
+  "ctaImage": "/img/proc/nail-fungus-laser.webp",
+  "head": {
+    "title": "Tratamiento láser de hongos en uñas con Nd:YAG en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Protocolo láser Nd:YAG térmico para onicomicosis (hongos en uñas) en Miami. De tres a cuatro sesiones mensuales. Complemento de la higiene y antifúngicos tópicos."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Tratamiento láser de hongos en uñas con Nd:YAG en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Protocolo láser Nd:YAG térmico para onicomicosis (hongos en uñas) en Miami. De tres a cuatro sesiones mensuales. Complemento de la higiene y antifúngicos tópicos."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/hongos-unas-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/nail-fungus-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Tratamiento láser de hongos en uñas con Nd:YAG en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Protocolo láser Nd:YAG térmico para onicomicosis (hongos en uñas) en Miami. De tres a cuatro sesiones mensuales. Complemento de la higiene y antifúngicos tópicos."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/nail-fungus-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/hongos-unas-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/nail-fungus-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/hongos-unas-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Tratamiento láser de hongos en uñas con Nd:YAG en Miami",
+        "description": "El tratamiento láser de hongos en uñas es un protocolo médico-estético que utiliza pulsos térmicos de Nd:YAG para abordar la onicomicosis, en combinación con la higiene adecuada de la uña y antifúngicos tópicos cuando están indicados.",
+        "url": "https://realaestheticmedspa.com/tratamientos/hongos-unas-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/hongos-unas-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/hongos-unas-laser/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿El láser cura los hongos de las uñas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El láser Nd:YAG reduce la carga fúngica y favorece el aclaramiento de la infección, pero un resultado completo y duradero depende de combinar el láser con una higiene adecuada de los pies, antifúngicos tópicos cuando están indicados y cuidados continuos tras las sesiones. Evitamos hablar de cura porque ningún protocolo puede garantizar la ausencia de recurrencia, sobre todo en gimnasios, piscinas y climas cálidos y húmedos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Un ciclo habitual son tres a cuatro sesiones cada cuatro semanas. El número puede ajustarse en función de la extensión de la infección, el número de uñas afectadas y la respuesta observada en cada visita. Documentamos las uñas con fotografías estandarizadas en cada cita y solo continuamos mientras se observa una mejora medible."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo voy a ver resultados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los resultados se hacen visibles a medida que crece la uña sana desde la matriz. Las uñas de los pies crecen lentamente, por lo que la mejora visible empieza tras unos tres o cuatro meses y una uña completamente sana puede requerir entre seis y doce meses. La parte visible al inicio del tratamiento es queratina ya formada antes del láser, por lo que la paciencia es esencial. Las fotografías comparativas ayudan a seguir el progreso real."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tratamiento láser de hongos en uñas con Nd:YAG en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/hongos-unas-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/nail-fungus-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/nail-fungus-laser/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/hongos-unas-laser/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Tratamiento láser de hongos en uñas con Nd:YAG <em>en Miami</em>",
+    "lede": "El tratamiento láser de hongos en uñas es un protocolo médico-estético que utiliza pulsos térmicos de Nd:YAG para abordar la onicomicosis, en combinación con la higiene adecuada de la uña y antifúngicos tópicos cuando están indicados.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-onychomycosis-treatment",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Actúa sobre el hongo mediante una acción térmica controlada sin afectar la piel circundante.",
+        "Permite reducir, en casos seleccionados, las pautas largas de antifúngico oral.",
+        "Compatible con antifúngicos tópicos y atención podológica continuada cuando está indicado.",
+        "Cada sesión es breve y la mayoría retoma su rutina inmediatamente después.",
+        "Aborda varias uñas en la misma visita cuando es necesario.",
+        "Se realiza bajo supervisión médica, con documentación fotográfica de cada sesión para una trazabilidad completa.",
+        "Se coordina con el plan global definido en la consulta inicial."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿El láser cura los hongos de las uñas?",
+          "a": "El láser Nd:YAG reduce la carga fúngica y favorece el aclaramiento de la infección, pero un resultado completo y duradero depende de combinar el láser con una higiene adecuada de los pies, antifúngicos tópicos cuando están indicados y cuidados continuos tras las sesiones. Evitamos hablar de cura porque ningún protocolo puede garantizar la ausencia de recurrencia, sobre todo en gimnasios, piscinas y climas cálidos y húmedos."
+        },
+        {
+          "q": "¿Cuántas sesiones voy a necesitar?",
+          "a": "Un ciclo habitual son tres a cuatro sesiones cada cuatro semanas. El número puede ajustarse en función de la extensión de la infección, el número de uñas afectadas y la respuesta observada en cada visita. Documentamos las uñas con fotografías estandarizadas en cada cita y solo continuamos mientras se observa una mejora medible."
+        },
+        {
+          "q": "¿Cuándo voy a ver resultados?",
+          "a": "Los resultados se hacen visibles a medida que crece la uña sana desde la matriz. Las uñas de los pies crecen lentamente, por lo que la mejora visible empieza tras unos tres o cuatro meses y una uña completamente sana puede requerir entre seis y doce meses. La parte visible al inicio del tratamiento es queratina ya formada antes del láser, por lo que la paciencia es esencial. Las fotografías comparativas ayudan a seguir el progreso real."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Habla con nuestro equipo sobre un plan láser personalizado bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-onychomycosis-treatment",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

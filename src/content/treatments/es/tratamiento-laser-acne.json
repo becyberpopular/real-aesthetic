@@ -1,0 +1,353 @@
+{
+  "lang": "es",
+  "slug": "tratamiento-laser-acne",
+  "path": "/tratamientos/tratamiento-laser-acne/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/laser-acne-treatment.webp",
+  "ctaImage": "/img/proc/laser-acne-treatment.webp",
+  "head": {
+    "title": "Tratamiento láser para el acné en Miami con Fotona",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Protocolo láser Fotona Nd:YAG y Er:YAG para acné activo en Miami. Reduce inflamación, bacterias y exceso de sebo. Reserva tu evaluación con Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Tratamiento láser para el acné en Miami con Fotona"
+      },
+      {
+        "property": "og:description",
+        "content": "Protocolo láser Fotona Nd:YAG y Er:YAG para acné activo en Miami. Reduce inflamación, bacterias y exceso de sebo. Reserva tu evaluación con Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/tratamiento-laser-acne/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-acne-treatment.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Tratamiento láser para el acné en Miami con Fotona"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Protocolo láser Fotona Nd:YAG y Er:YAG para acné activo en Miami. Reduce inflamación, bacterias y exceso de sebo. Reserva tu evaluación con Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-acne-treatment.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/tratamiento-laser-acne/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/laser-acne-treatment/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/tratamiento-laser-acne/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Tratamiento láser para el acné (Fotona Nd:YAG + Er:YAG)",
+        "alternateName": "Protocolo Fotona para acné activo",
+        "description": "Protocolo médico-estético con láser Fotona Nd:YAG y Er:YAG que reduce la colonización por C. acnes, calma la inflamación y regula la actividad sebácea en pacientes con acné activo. Se realiza como apoyo del tratamiento dermatológico en Real Aesthetic Medical Spa, Miami.",
+        "bodyLocation": "Rostro, pecho, espalda alta",
+        "procedureType": "https://schema.org/NoninvasiveProcedure",
+        "preparation": "Evitar exposición solar dos semanas antes. Informar de toda la medicación actual y reciente, especialmente isotretinoína. Suspender activos exfoliantes 3 días antes.",
+        "followup": "SPF 50+ diario, no manipular las lesiones y seguir el plan dermatológico prescrito. Revisión a las 2 a 4 semanas.",
+        "howPerformed": "Tras la limpieza y la protección ocular, se realiza un pase de Nd:YAG a fluencia controlada sobre la actividad sebácea y la carga bacteriana. Se añade un pase opcional de Er:YAG a baja fluencia para renovar la superficie. La sesión termina con mascarilla calmante y protector solar de amplio espectro.",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es",
+        "url": "https://realaestheticmedspa.com/tratamientos/tratamiento-laser-acne/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/tratamiento-laser-acne/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿El láser sustituye a mi medicación para el acné?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. El protocolo Fotona se integra con tu plan dermatológico, no lo sustituye. Coordinamos las sesiones con tu pauta tópica u oral para que ambas intervenciones se refuercen. En algunos casos, tras varias sesiones, tu especialista puede ajustar las dosis, pero esa decisión sigue siendo médica."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El protocolo habitual es de cuatro a seis sesiones cada dos a cuatro semanas. La gravedad, el componente hormonal y los tratamientos previos influyen en el número final. Reevaluamos en cada visita y solo continuamos mientras se observe una mejora medible en las fotografías clínicas y el conteo de lesiones."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es doloroso?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría describe calor y pequeños chasquidos sobre la piel, dentro del umbral de confort. Si lo prefieres, podemos aplicar crema anestésica tópica, especialmente en mentón y mandíbula. No se necesita anestesia inyectada y la sesión es bien tolerada también por adolescentes acompañados de un adulto."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo maquillarme después de la sesión?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Conviene mantener la piel limpia y protegida durante el resto del día. El protector solar mineral puede aplicarse de inmediato y la mayoría de pacientes retoma su rutina de maquillaje a la mañana siguiente. Evita productos oclusivos densos sobre las lesiones durante 24 horas para que la piel se asiente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro en pieles más oscuras?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La longitud de onda Nd:YAG tiene amplio respaldo en fototipos altos cuando se ajustan los parámetros con cuidado. Ronal Perdomo, APRN, FNP-C evalúa el fototipo, la exposición solar reciente y el historial pigmentario antes de cada sesión. En la primera visita usamos parámetros conservadores de prueba para confirmar la respuesta de tu piel."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo hacer láser si tomo isotretinoína?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los pacientes con isotretinoína actual o reciente necesitan una pausa antes de las sesiones de láser. El intervalo exacto se decide junto al médico prescriptor. Confirmamos siempre la medicación actual y reciente durante la evaluación para evitar un aumento de sensibilidad cutánea o el riesgo de cicatriz."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo se notan los primeros cambios?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La inflamación suele calmarse en las primeras 48 horas tras la sesión inicial, aunque la reducción real del número de lesiones se aprecia mejor a partir de la segunda o tercera visita. La textura y el eritema post-acné mejoran de forma progresiva. Usamos fotografías clínicas en cada visita para mantener el seguimiento objetivo."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/tratamientos/tratamiento-laser-acne/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tratamiento láser para el acné en Miami con Fotona",
+            "item": "https://realaestheticmedspa.com/tratamientos/tratamiento-laser-acne/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/laser-acne-treatment.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/laser-acne-treatment/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/tratamiento-laser-acne/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Tratamiento láser para el acné en Miami <em>con Fotona</em>",
+    "lede": "El tratamiento láser para el acné es un protocolo médico-estético con Fotona Nd:YAG y Er:YAG que reduce la bacteria *C. acnes*, calma la inflamación y regula la actividad sebácea en pacientes con acné activo.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-active-acne-treatment",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce la colonización por *Cutibacterium acnes* mediante una acción fototérmica selectiva.",
+        "Calma las lesiones inflamatorias activas y acorta la duración visible de pápulas y pústulas.",
+        "Disminuye el exceso de sebo al actuar directamente sobre la glándula sebácea.",
+        "Refina el aspecto del poro y mejora la textura general de la piel entre brotes.",
+        "Apoya el tratamiento dermatológico prescrito y mejora la tolerancia a los activos tópicos.",
+        "Permite reducir, en casos seleccionados, las pautas largas de antibiótico oral.",
+        "Adecuado para la mayoría de tonos de piel cuando se ajustan los parámetros bajo supervisión médica."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "La mayoría de pacientes nota una reducción de las lesiones activas en dos o tres sesiones. El protocolo completo suele ser de cuatro a seis sesiones cada dos a cuatro semanas, con un mantenimiento trimestral posterior. La evolución a largo plazo depende del estado hormonal, los hábitos y la adherencia al plan médico, por lo que se revisa en cada visita."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿El láser sustituye a mi medicación para el acné?",
+          "a": "No. El protocolo Fotona se integra con tu plan dermatológico, no lo sustituye. Coordinamos las sesiones con tu pauta tópica u oral para que ambas intervenciones se refuercen. En algunos casos, tras varias sesiones, tu especialista puede ajustar las dosis, pero esa decisión sigue siendo médica."
+        },
+        {
+          "q": "¿Cuántas sesiones voy a necesitar?",
+          "a": "El protocolo habitual es de cuatro a seis sesiones cada dos a cuatro semanas. La gravedad, el componente hormonal y los tratamientos previos influyen en el número final. Reevaluamos en cada visita y solo continuamos mientras se observe una mejora medible en las fotografías clínicas y el conteo de lesiones."
+        },
+        {
+          "q": "¿Es doloroso?",
+          "a": "La mayoría describe calor y pequeños chasquidos sobre la piel, dentro del umbral de confort. Si lo prefieres, podemos aplicar crema anestésica tópica, especialmente en mentón y mandíbula. No se necesita anestesia inyectada y la sesión es bien tolerada también por adolescentes acompañados de un adulto."
+        },
+        {
+          "q": "¿Puedo maquillarme después de la sesión?",
+          "a": "Conviene mantener la piel limpia y protegida durante el resto del día. El protector solar mineral puede aplicarse de inmediato y la mayoría de pacientes retoma su rutina de maquillaje a la mañana siguiente. Evita productos oclusivos densos sobre las lesiones durante 24 horas para que la piel se asiente."
+        },
+        {
+          "q": "¿Es seguro en pieles más oscuras?",
+          "a": "La longitud de onda Nd:YAG tiene amplio respaldo en fototipos altos cuando se ajustan los parámetros con cuidado. Ronal Perdomo, APRN, FNP-C evalúa el fototipo, la exposición solar reciente y el historial pigmentario antes de cada sesión. En la primera visita usamos parámetros conservadores de prueba para confirmar la respuesta de tu piel."
+        },
+        {
+          "q": "¿Puedo hacer láser si tomo isotretinoína?",
+          "a": "Los pacientes con isotretinoína actual o reciente necesitan una pausa antes de las sesiones de láser. El intervalo exacto se decide junto al médico prescriptor. Confirmamos siempre la medicación actual y reciente durante la evaluación para evitar un aumento de sensibilidad cutánea o el riesgo de cicatriz."
+        },
+        {
+          "q": "¿Cuándo se notan los primeros cambios?",
+          "a": "La inflamación suele calmarse en las primeras 48 horas tras la sesión inicial, aunque la reducción real del número de lesiones se aprecia mejor a partir de la segunda o tercera visita. La textura y el eritema post-acné mejoran de forma progresiva. Usamos fotografías clínicas en cada visita para mantener el seguimiento objetivo."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Conversa con nuestro equipo sobre un plan láser personalizado bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-active-acne-treatment",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

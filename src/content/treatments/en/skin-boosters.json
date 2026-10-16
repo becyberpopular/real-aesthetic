@@ -1,0 +1,257 @@
+{
+  "lang": "en",
+  "slug": "skin-boosters",
+  "path": "/procedures/skin-boosters/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/skin-boosters.webp",
+  "ctaImage": "/img/proc/skin-boosters.webp",
+  "head": {
+    "title": "Skin Boosters in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Skin boosters in Miami at Real Aesthetic. Injectable hyaluronic acid for hydration, glow and skin quality — pre-event favourite, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Skin Boosters in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Skin boosters in Miami at Real Aesthetic. Injectable hyaluronic acid for hydration, glow and skin quality — pre-event favourite, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/skin-boosters/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-boosters.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Skin Boosters in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Skin boosters in Miami at Real Aesthetic. Injectable hyaluronic acid for hydration, glow and skin quality — pre-event favourite, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-boosters.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/skin-boosters/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/skin-boosters/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/skinboosters/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Skin Boosters in Miami",
+        "description": "Skin boosters at Real Aesthetic Medical Spa in Miami are injectable hyaluronic acid treatments — Profhilo-type — designed to hydrate the skin from within, improve elasticity and luminosity, and deliver a healthy, glassy glow without adding volume or shape.",
+        "url": "https://realaestheticmedspa.com/procedures/skin-boosters/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/skin-boosters/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skin Boosters in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/skin-boosters/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/skin-boosters.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/skin-boosters/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/skinboosters/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Skin Boosters <em>in Miami</em>",
+    "lede": "Skin boosters at Real Aesthetic Medical Spa in Miami are injectable hyaluronic acid treatments — Profhilo-type — designed to hydrate the skin from within, improve elasticity and luminosity, and deliver a healthy, glassy glow without adding volume or shape.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-facial-mesotherapy",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Hydrates the dermis from within, improving skin softness and surface quality.",
+        "Supports collagen and elastin synthesis through targeted fibroblast stimulation.",
+        "Improves luminosity and the glassy, healthy look that a great moisturiser cannot reach.",
+        "Discreet improvement in firmness and elasticity in cheeks, lower face, neck, hands and décolletage.",
+        "Pre-event favourite when patients want skin to look its best for a wedding, photoshoot, or red-carpet moment.",
+        "Designed and supervised by Ronal Perdomo Lugo, APRN, FNP-C, with a consultation that confirms the indication."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Are skin boosters the same as fillers?",
+          "a": "No. Both use hyaluronic acid, but they are designed for different goals. Fillers are structural — they project, lift, and contour. Skin boosters are quality treatments — they hydrate, smooth, and brighten the skin without adding shape or volume. We choose one or the other (or both, in different areas) based on the assessment."
+        },
+        {
+          "q": "How many sessions do I need?"
+        },
+        {
+          "q": "Will my face look \"fuller\"?",
+          "a": "No. Skin boosters do not add volume. The product is placed in micro-deposits to improve skin quality, hydration, and glow — not to project tissue. If you want more structural projection in cheeks, chin, or jawline, a traditional HA filler or biostimulator is the right tool, not a booster."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-facial-mesotherapy",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "nasolabial-fold-filler",
+  "path": "/procedures/nasolabial-fold-filler/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/nasolabial-fold-filler.webp",
+  "ctaImage": "/img/proc/nasolabial-fold-filler.webp",
+  "head": {
+    "title": "Nasolabial Fold Filler in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Hyaluronic acid filler to soften the nasolabial folds (smile lines) in Miami at Real Aesthetic. Conservative dosing supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Nasolabial Fold Filler in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Hyaluronic acid filler to soften the nasolabial folds (smile lines) in Miami at Real Aesthetic. Conservative dosing supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/nasolabial-fold-filler/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/nasolabial-fold-filler.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Nasolabial Fold Filler in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Hyaluronic acid filler to soften the nasolabial folds (smile lines) in Miami at Real Aesthetic. Conservative dosing supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/nasolabial-fold-filler.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/nasolabial-fold-filler/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/nasolabial-fold-filler/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/rellenos-surcos-nasogenianos/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Nasolabial Fold Filler in Miami",
+        "description": "Hyaluronic acid filler to soften the nasolabial folds (smile lines) in Miami at Real Aesthetic. Conservative dosing supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/nasolabial-fold-filler/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/nasolabial-fold-filler/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/nasolabial-fold-filler/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Will it change the way I smile?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, when dosed correctly. Our philosophy is to soften the fold and support the midface, not to fill the line aggressively. You should look like yourself, only more rested. Ronal Perdomo Lugo, APRN, FNP-C uses cannula and small-aliquot technique to preserve natural mobility."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the filler placed directly in the fold or somewhere else?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Often the correct approach is to support the midface (cheek area) above the fold rather than filling the fold itself. This addresses the root cause — descended volume — and softens the shadow without creating a heavy, overfilled look around the mouth."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does it last?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients enjoy the result for 9 to 18 months, depending on the specific product used, the volume placed, metabolism, and lifestyle factors. We typically plan a touch-up at 9–12 months and reassess the volume at every visit to maintain a natural, harmonised look."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nasolabial Fold Filler in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/nasolabial-fold-filler/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/nasolabial-fold-filler.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/nasolabial-fold-filler/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/rellenos-surcos-nasogenianos/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Nasolabial Fold Filler <em>in Miami</em>",
+    "lede": "Conservative hyaluronic acid placement softens the deep folds that run from the nose to the corners of the mouth, restoring midface support without overfilling.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nasolabial-fold-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Softens the appearance of the nasolabial folds and the shadow they cast on the face.",
+        "Supports midface volume that descends with age, which often deepens these folds in the first place.",
+        "Restores facial harmony without changing the patient's natural expression.",
+        "Performed in a single 30–45 minute in-office session.",
+        "Hyaluronic acid is fully reversible if needed — adjustable in volume across follow-ups.",
+        "Results visible immediately and typically last 9 to 18 months depending on the product used."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Will it change the way I smile?",
+          "a": "No, when dosed correctly. Our philosophy is to soften the fold and support the midface, not to fill the line aggressively. You should look like yourself, only more rested. Ronal Perdomo Lugo, APRN, FNP-C uses cannula and small-aliquot technique to preserve natural mobility."
+        },
+        {
+          "q": "Is the filler placed directly in the fold or somewhere else?",
+          "a": "Often the correct approach is to support the midface (cheek area) above the fold rather than filling the fold itself. This addresses the root cause — descended volume — and softens the shadow without creating a heavy, overfilled look around the mouth."
+        },
+        {
+          "q": "How long does it last?",
+          "a": "Most patients enjoy the result for 9 to 18 months, depending on the specific product used, the volume placed, metabolism, and lifestyle factors. We typically plan a touch-up at 9–12 months and reassess the volume at every visit to maintain a natural, harmonised look."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nasolabial-fold-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

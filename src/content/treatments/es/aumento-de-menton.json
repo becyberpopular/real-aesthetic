@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "aumento-de-menton",
+  "path": "/tratamientos/aumento-de-menton/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/chin-augmentation.webp",
+  "ctaImage": "/img/proc/chin-augmentation.webp",
+  "head": {
+    "title": "Aumento de mentón en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Aumento de mentón sin cirugía en Miami con ácido hialurónico o Radiesse. Perfil armónico y proyección, supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Aumento de mentón en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Aumento de mentón sin cirugía en Miami con ácido hialurónico o Radiesse. Perfil armónico y proyección, supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/aumento-de-menton/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/chin-augmentation.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Aumento de mentón en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Aumento de mentón sin cirugía en Miami con ácido hialurónico o Radiesse. Perfil armónico y proyección, supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/chin-augmentation.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/aumento-de-menton/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/chin-augmentation/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/aumento-de-menton/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Aumento de mentón en Miami",
+        "description": "El aumento de mentón sin cirugía en Real Aesthetic Medical Spa, en Miami, utiliza ácido hialurónico o Radiesse para darle proyección y estructura al mentón, equilibrar el perfil y dar soporte al tercio inferior del rostro, todo en una sola sesión ambulatoria.",
+        "url": "https://realaestheticmedspa.com/tratamientos/aumento-de-menton/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/aumento-de-menton/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/aumento-de-menton/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿El aumento de mentón es una cirugía?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. El que realizamos en Real Aesthetic es un aumento de mentón sin cirugía: usamos AH o Radiesse inyectables para añadir proyección y soporte sin implante ni incisiones. En casos esqueléticos severos puede ser necesaria una valoración con un cirujano maxilofacial, pero la mayoría de cuestiones estéticas de proyección de mentón se resuelven en una única sesión ambulatoria."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿AH o Radiesse: cuál me conviene más?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende de tu anatomía y de tu objetivo. El AH es más blando, totalmente reversible y la mejor opción si valoras poder ajustar el resultado. Radiesse es más firme, más estructural, bioestimula colágeno y se prefiere cuando se busca una proyección más fuerte o un efecto que dure más. Ronal Perdomo Lugo, APRN, FNP-C recomienda la opción más adecuada después de evaluar tu perfil."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se va a notar natural en el perfil?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, esa es la base del tratamiento. Usamos líneas de referencia objetivas (como el plano de Riedel) y tus propias proporciones faciales para planificar la proyección. El resultado debe alinear tu mentón con los labios y el resto del rostro, no sobresalir más allá. Una dosis conservadora repartida en una o dos sesiones protege ese equilibrio."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Aumento de mentón en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/aumento-de-menton/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/chin-augmentation.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/chin-augmentation/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/aumento-de-menton/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Aumento de mentón <em>en Miami</em>",
+    "lede": "El aumento de mentón sin cirugía en Real Aesthetic Medical Spa, en Miami, utiliza ácido hialurónico o Radiesse para darle proyección y estructura al mentón, equilibrar el perfil y dar soporte al tercio inferior del rostro, todo en una sola sesión ambulatoria.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-chin-filler",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Recupera o construye proyección de mentón en pacientes con retrogenia leve o moderada (mentón retraído).",
+        "Mejora la armonía visual del perfil en relación con labios, nariz y línea mandibular.",
+        "Da soporte al tercio inferior y suaviza el aspecto pesado de una mandíbula muy ancha.",
+        "Ayuda a alargar visualmente un tercio inferior corto cuando se combina con un perfilado mandibular sutil.",
+        "El AH es totalmente reversible si el paciente no queda satisfecho con el resultado.",
+        "Radiesse aporta una sensación más firme y estructural y estimula colágeno con el tiempo.",
+        "Se realiza en una única sesión ambulatoria, sin el downtime ni los riesgos de un implante quirúrgico."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿El aumento de mentón es una cirugía?",
+          "a": "No. El que realizamos en Real Aesthetic es un aumento de mentón sin cirugía: usamos AH o Radiesse inyectables para añadir proyección y soporte sin implante ni incisiones. En casos esqueléticos severos puede ser necesaria una valoración con un cirujano maxilofacial, pero la mayoría de cuestiones estéticas de proyección de mentón se resuelven en una única sesión ambulatoria."
+        },
+        {
+          "q": "¿AH o Radiesse: cuál me conviene más?",
+          "a": "Depende de tu anatomía y de tu objetivo. El AH es más blando, totalmente reversible y la mejor opción si valoras poder ajustar el resultado. Radiesse es más firme, más estructural, bioestimula colágeno y se prefiere cuando se busca una proyección más fuerte o un efecto que dure más. Ronal Perdomo Lugo, APRN, FNP-C recomienda la opción más adecuada después de evaluar tu perfil."
+        },
+        {
+          "q": "¿Se va a notar natural en el perfil?",
+          "a": "Sí, esa es la base del tratamiento. Usamos líneas de referencia objetivas (como el plano de Riedel) y tus propias proporciones faciales para planificar la proyección. El resultado debe alinear tu mentón con los labios y el resto del rostro, no sobresalir más allá. Una dosis conservadora repartida en una o dos sesiones protege ese equilibrio."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-chin-filler",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

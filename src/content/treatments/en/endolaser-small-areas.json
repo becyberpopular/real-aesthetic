@@ -1,0 +1,424 @@
+{
+  "lang": "en",
+  "slug": "endolaser-small-areas",
+  "path": "/procedures/endolaser-small-areas/",
+  "cssFamily": "d",
+  "heroImage": "/img/proc/endolaser-small-areas.webp",
+  "ctaImage": "/img/proc/endolaser-small-areas.webp",
+  "head": {
+    "title": "Endolaser for Small Areas in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Endolaser for double chin, jawline and bra fat in Miami at Real Aesthetic. Subdermal laser lipolysis with skin tightening. Book your medical assessment."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Endolaser for Small Areas in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Endolaser for double chin, jawline and bra fat in Miami at Real Aesthetic. Subdermal laser lipolysis with skin tightening. Book your medical assessment."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/endolaser-small-areas/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/endolaser-small-areas.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Endolaser for Small Areas in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Endolaser for double chin, jawline and bra fat in Miami at Real Aesthetic. Subdermal laser lipolysis with skin tightening. Book your medical assessment."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/endolaser-small-areas.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/endolaser-small-areas/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/endolaser-small-areas/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-pequenas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Endolaser for Small Areas (Double Chin, Jawline, Bra Fat)",
+        "alternateName": [
+          "Subdermal Laser Lipolysis — Small Areas",
+          "Laser-Assisted Lipolysis Small Areas Miami"
+        ],
+        "description": "Minimally invasive subdermal laser-assisted lipolysis with simultaneous skin tightening, performed under local anaesthesia for small areas such as the submental region, jawline, and bra fat. Approximately one hour. Light compression for three days.",
+        "bodyLocation": [
+          "Submental area",
+          "Jawline",
+          "Upper back (bra line)"
+        ],
+        "procedureType": "https://schema.org/PercutaneousProcedure",
+        "preparation": "Medical consultation with Ronal Perdomo Lugo, APRN, FNP-C; review of medical history, medications, BMI and skin laxity; pre-procedure photographs; instructions to avoid blood-thinning agents as advised; arrange transport home.",
+        "followup": "Light compression worn for approximately three days. Lymphatic drainage massage from day three to five. Sun protection of treated area. Follow-up review in clinic; optional touch-up evaluation at three months.",
+        "howPerformed": "Marking and antisepsis. Local tumescent anaesthesia. A fine optical fibre is introduced through a 1–2 mm entry point; controlled laser energy is delivered in a fan pattern to emulsify localised fat and heat the dermis from below to stimulate collagen contraction. Optional gentle aspiration. Closure with adhesive strip and compression dressing.",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en",
+        "url": "https://realaestheticmedspa.com/procedures/endolaser-small-areas/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/endolaser-small-areas/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is Endolaser for the double chin painful?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "During the procedure the area is fully numbed with local tumescent anaesthesia, so most patients feel only pressure and warmth. After the session a sensation of soreness and tightness is common for two to three days and responds well to standard analgesics. Discomfort is generally mild compared to traditional liposuction and is closely monitored at follow-up."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is Endolaser different from CoolSculpting or radiofrequency?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "CoolSculpting and external radiofrequency work through the skin without breaking it. Endolaser is minimally invasive: a fine fibre is introduced under the skin to deliver energy directly into the fat. This typically produces a more defined contour change and a more pronounced tightening effect in a single session, in exchange for a brief recovery and the need for local anaesthesia."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will I have visible scars on my chin or jawline?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The fibre is introduced through an entry point of approximately one to two millimetres, hidden under the chin or behind the earlobe whenever possible. Once healed, this mark is usually difficult to identify. Strict sun protection and the aftercare protocol recommended by our team during the first month help the small entry point heal as discreetly as possible."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When can I return to work and to the gym?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients return to office work within one to two days. Light walking is encouraged from day one. We recommend avoiding the gym, heavy lifting, and high-impact activity for approximately seven days, and resuming gradually after that. Compression should be worn as instructed for around three days. Your individual timeline is reviewed with you at the post-procedure check."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does the fat come back after Endolaser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The treated adipocytes are reduced from the area and do not regenerate. However, significant weight gain can enlarge the remaining fat cells in the treated zone and elsewhere, which may attenuate the contour. Maintaining a stable weight, balanced nutrition, and regular activity supports a long-lasting result. We discuss realistic expectations during your consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can Endolaser tighten the skin under my chin?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. One of the distinctive features of Endolaser compared with conventional liposuction is the controlled subdermal heating, which stimulates collagen contraction and supports retraction of the skin envelope. The degree of tightening depends on baseline skin quality and laxity, which is evaluated carefully during the medical assessment to set realistic expectations."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How important is the compression garment for small areas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Adherence to compression is one of the strongest predictors of a clean, smooth contour. For small areas we typically prescribe a light compression dressing for around three days. Wearing it as indicated reduces swelling, supports skin retraction onto the new contour, and lowers the risk of seroma or surface irregularity. Our team will fit and adjust your garment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need a medical consultation before booking?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Endolaser is a medical procedure and a consultation with Ronal Perdomo Lugo, APRN, FNP-C is required before scheduling. We review your medical history, medications, BMI, and skin laxity, examine the area, and confirm that this is the most suitable approach for your goals. The plan, expectations, and aftercare protocol are agreed before any procedure date is set."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/endolaser-small-areas/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Endolaser for Small Areas in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/endolaser-small-areas/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/endolaser-small-areas.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/endolaser-small-areas/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/endolaser-areas-pequenas/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Endolaser for Small Areas <em>in Miami</em>",
+    "lede": "Endolaser for small areas is a minimally invasive subdermal laser-assisted lipolysis procedure that reduces localised fat and tightens the overlying skin in compact zones such as the double chin, jawline, and bra fat, performed under local anaesthesia in a single session of approximately one hour.",
+    "multi": {
+      "label": "Book by area",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-double-chin",
+          "label": "Double chin",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-jawline",
+          "label": "Jawline",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-cuello",
+          "label": "Neck",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-facial",
+          "label": "Facial",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces localised fat in the submental area, jawline, and bra line in a single in-office session.",
+        "Tightens overlying skin through controlled subdermal heating, supporting smoother retraction.",
+        "Refines facial silhouette and lower-face definition without general anaesthesia or formal surgery.",
+        "Uses a tiny cannula entry that is typically closed without sutures, leaving only a discreet mark.",
+        "Recovery is shorter than traditional liposuction, with light compression worn for approximately three days.",
+        "Combines well with other refinement protocols such as jawline contouring and lymphatic drainage.",
+        "Results build progressively as collagen remodels over the following weeks and months."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Results &amp; duration",
+      "title": "When you see it, <em>how long it lasts</em>",
+      "text": [
+        "Initial contour change is visible once the post-procedure swelling subsides, typically between weeks two and four. The skin tightening component continues to develop as collagen remodels for three to six months. Treated fat cells are reduced from the area; long-term maintenance depends on stable weight, balanced lifestyle, and adherence to compression instructions during recovery. A single session is sufficient for many small-area cases; an optional touch-up may be discussed at the three-month review."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is Endolaser for the double chin painful?",
+          "a": "During the procedure the area is fully numbed with local tumescent anaesthesia, so most patients feel only pressure and warmth. After the session a sensation of soreness and tightness is common for two to three days and responds well to standard analgesics. Discomfort is generally mild compared to traditional liposuction and is closely monitored at follow-up."
+        },
+        {
+          "q": "How is Endolaser different from CoolSculpting or radiofrequency?",
+          "a": "CoolSculpting and external radiofrequency work through the skin without breaking it. Endolaser is minimally invasive: a fine fibre is introduced under the skin to deliver energy directly into the fat. This typically produces a more defined contour change and a more pronounced tightening effect in a single session, in exchange for a brief recovery and the need for local anaesthesia."
+        },
+        {
+          "q": "Will I have visible scars on my chin or jawline?",
+          "a": "The fibre is introduced through an entry point of approximately one to two millimetres, hidden under the chin or behind the earlobe whenever possible. Once healed, this mark is usually difficult to identify. Strict sun protection and the aftercare protocol recommended by our team during the first month help the small entry point heal as discreetly as possible."
+        },
+        {
+          "q": "When can I return to work and to the gym?",
+          "a": "Most patients return to office work within one to two days. Light walking is encouraged from day one. We recommend avoiding the gym, heavy lifting, and high-impact activity for approximately seven days, and resuming gradually after that. Compression should be worn as instructed for around three days. Your individual timeline is reviewed with you at the post-procedure check."
+        },
+        {
+          "q": "Does the fat come back after Endolaser?",
+          "a": "The treated adipocytes are reduced from the area and do not regenerate. However, significant weight gain can enlarge the remaining fat cells in the treated zone and elsewhere, which may attenuate the contour. Maintaining a stable weight, balanced nutrition, and regular activity supports a long-lasting result. We discuss realistic expectations during your consultation."
+        },
+        {
+          "q": "Can Endolaser tighten the skin under my chin?",
+          "a": "Yes. One of the distinctive features of Endolaser compared with conventional liposuction is the controlled subdermal heating, which stimulates collagen contraction and supports retraction of the skin envelope. The degree of tightening depends on baseline skin quality and laxity, which is evaluated carefully during the medical assessment to set realistic expectations."
+        },
+        {
+          "q": "How important is the compression garment for small areas?",
+          "a": "Adherence to compression is one of the strongest predictors of a clean, smooth contour. For small areas we typically prescribe a light compression dressing for around three days. Wearing it as indicated reduces swelling, supports skin retraction onto the new contour, and lowers the risk of seroma or surface irregularity. Our team will fit and adjust your garment."
+        },
+        {
+          "q": "Do I need a medical consultation before booking?",
+          "a": "Yes. Endolaser is a medical procedure and a consultation with Ronal Perdomo Lugo, APRN, FNP-C is required before scheduling. We review your medical history, medications, BMI, and skin laxity, examine the area, and confirm that this is the most suitable approach for your goals. The plan, expectations, and aftercare protocol are agreed before any procedure date is set."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "multi": {
+      "label": "Book by area",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-double-chin",
+          "label": "Double chin",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-jawline",
+          "label": "Jawline",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-cuello",
+          "label": "Neck",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-facial",
+          "label": "Facial",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

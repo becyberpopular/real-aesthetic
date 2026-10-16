@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "tratamiento-reset-acne",
+  "path": "/tratamientos/tratamiento-reset-acne/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/acne-reset-treatment.webp",
+  "ctaImage": "/img/proc/acne-reset-treatment.webp",
+  "head": {
+    "title": "Tratamiento Reset de Acné en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Tratamiento Reset de Acné en Miami en Real Aesthetic. Protocolo dirigido para acné activo con limpieza clínica, extracciones controladas y mascarilla mineral calmante. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Tratamiento Reset de Acné en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Tratamiento Reset de Acné en Miami en Real Aesthetic. Protocolo dirigido para acné activo con limpieza clínica, extracciones controladas y mascarilla mineral calmante. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/tratamiento-reset-acne/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/acne-reset-treatment.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Tratamiento Reset de Acné en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Tratamiento Reset de Acné en Miami en Real Aesthetic. Protocolo dirigido para acné activo con limpieza clínica, extracciones controladas y mascarilla mineral calmante. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/acne-reset-treatment.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/tratamiento-reset-acne/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/acne-reset-treatment/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/tratamiento-reset-acne/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Tratamiento Reset de Acné en Miami",
+        "description": "Tratamiento Reset de Acné en Miami en Real Aesthetic. Protocolo dirigido para acné activo con limpieza clínica, extracciones controladas y mascarilla mineral calmante. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/tratamiento-reset-acne/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/tratamiento-reset-acne/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/tratamiento-reset-acne/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Es suficiente para resolver el acné?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Es más eficaz como parte de un plan más amplio. El acné leve a moderado puede responder bien con facial reset en consulta más rutina en casa adaptada. El acné moderado a severo suele requerir manejo médico adicional. Evaluamos cada caso y derivamos a dermatología cuando la terapia con receta es el paso correcto."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Me dejará la piel roja?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Es normal cierto enrojecimiento durante algunas horas, sobre todo en zonas de extracción. La mascarilla mineral calmante forma parte del protocolo precisamente para calmar la respuesta inflamatoria. La mayoría retoma actividad el mismo día. La piel suele verse más clara 48–72 horas después."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cada cuánto debo hacerlo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cada 3–6 semanas en fase activa, luego con menor frecuencia cuando la piel se estabiliza. El intervalo respeta el ciclo de renovación cutánea y evita sobretratar. En cada visita revaluamos el grado inflamatorio y adaptamos la siguiente sesión."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tratamiento Reset de Acné en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/tratamiento-reset-acne/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/acne-reset-treatment.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/tratamiento-reset-acne/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/acne-reset-treatment/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Reset de Acné <em>en Miami</em>",
+    "lede": "Un protocolo enfocado para acné activo que combina limpieza con pH adaptado, extracciones controladas, mascarilla mineral clarificante y final calmante para resetear la piel sin agredirla.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-acne-reset-treatment",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Trabaja sobre el acné comedonal e inflamatorio activo con protocolo clínico.",
+        "Reduce el enrojecimiento y la hinchazón visibles con secuencia de mascarilla mineral calmante.",
+        "Usa extracciones controladas solo donde la piel está lista — sin sobremanipulación.",
+        "Calma la barrera cutánea y reduce marcas postinflamatorias con el tiempo.",
+        "Diseñado para pieles en fase activa que necesitan cuidado, no agresividad.",
+        "Combinable con nuestro protocolo láser de acné para efecto compuesto."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Es suficiente para resolver el acné?",
+          "a": "Es más eficaz como parte de un plan más amplio. El acné leve a moderado puede responder bien con facial reset en consulta más rutina en casa adaptada. El acné moderado a severo suele requerir manejo médico adicional. Evaluamos cada caso y derivamos a dermatología cuando la terapia con receta es el paso correcto."
+        },
+        {
+          "q": "¿Me dejará la piel roja?",
+          "a": "Es normal cierto enrojecimiento durante algunas horas, sobre todo en zonas de extracción. La mascarilla mineral calmante forma parte del protocolo precisamente para calmar la respuesta inflamatoria. La mayoría retoma actividad el mismo día. La piel suele verse más clara 48–72 horas después."
+        },
+        {
+          "q": "¿Cada cuánto debo hacerlo?",
+          "a": "Cada 3–6 semanas en fase activa, luego con menor frecuencia cuando la piel se estabiliza. El intervalo respeta el ciclo de renovación cutánea y evita sobretratar. En cada visita revaluamos el grado inflamatorio y adaptamos la siguiente sesión."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-acne-reset-treatment",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

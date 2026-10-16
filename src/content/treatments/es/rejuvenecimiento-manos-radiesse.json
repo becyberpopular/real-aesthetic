@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "rejuvenecimiento-manos-radiesse",
+  "path": "/tratamientos/rejuvenecimiento-manos-radiesse/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/hand-rejuvenation-radiesse.webp",
+  "ctaImage": "/img/proc/hand-rejuvenation-radiesse.webp",
+  "head": {
+    "title": "Rejuvenecimiento de manos con Radiesse en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Rejuvenecimiento de manos con Radiesse en Miami en Real Aesthetic. Hidroxiapatita cálcica para devolver volumen al dorso, suavizar tendones y estimular colágeno."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Rejuvenecimiento de manos con Radiesse en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Rejuvenecimiento de manos con Radiesse en Miami en Real Aesthetic. Hidroxiapatita cálcica para devolver volumen al dorso, suavizar tendones y estimular colágeno."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-manos-radiesse/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/hand-rejuvenation-radiesse.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Rejuvenecimiento de manos con Radiesse en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Rejuvenecimiento de manos con Radiesse en Miami en Real Aesthetic. Hidroxiapatita cálcica para devolver volumen al dorso, suavizar tendones y estimular colágeno."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/hand-rejuvenation-radiesse.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-manos-radiesse/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/hand-rejuvenation-radiesse/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-manos-radiesse/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Rejuvenecimiento de manos con Radiesse en Miami",
+        "description": "El rejuvenecimiento de manos con Radiesse es un tratamiento inyectable que devuelve volumen al dorso de la mano con hidroxiapatita cálcica, atenúa la visibilidad de tendones y venas y estimula colágeno propio para una piel más firme y joven.",
+        "url": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-manos-radiesse/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-manos-radiesse/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-manos-radiesse/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Está aprobado el uso de Radiesse en las manos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. La hidroxiapatita cálcica, principio activo de Radiesse, cuenta con una indicación de la FDA para la corrección de la pérdida de volumen en el dorso de las manos. Está documentada para el dispositivo concreto. La indicación reconoce tanto el efecto volumizador inmediato como la estimulación de colágeno a largo plazo observada en esta zona anatómica cuando lo aplica personal médico cualificado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto duran los resultados en las manos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de los pacientes mantiene una mejora visible entre 12 y 18 meses. La duración depende del metabolismo, del uso de las manos, de la exposición solar, de la cantidad de producto y del estado de la piel. Las manos están en movimiento constante y reciben luz UV, por lo que el protector solar diario y una sesión de mantenimiento anual ayudan a preservar el volumen y el efecto de firmeza obtenido."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia del rejuvenecimiento de manos con PRP?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Radiesse se centra en la restauración de volumen y el andamio de colágeno, mientras que el PRP se centra en la regeneración celular y la mejora de la calidad de la piel. Radiesse rellena el almohadillado sobre tendones y venas; el PRP mejora tono, líneas finas y textura. Son tratamientos complementarios y muchos pacientes en Miami eligen combinarlos en un único plan en capas, personalizado durante la consulta."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rejuvenecimiento de manos con Radiesse en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-manos-radiesse/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/hand-rejuvenation-radiesse.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/hand-rejuvenation-radiesse/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/rejuvenecimiento-manos-radiesse/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Rejuvenecimiento de manos con Radiesse <em>en Miami</em>",
+    "lede": "El rejuvenecimiento de manos con Radiesse es un tratamiento inyectable que devuelve volumen al dorso de la mano con hidroxiapatita cálcica, atenúa la visibilidad de tendones y venas y estimula colágeno propio para una piel más firme y joven.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Devuelve volumen al dorso de las manos en una sola sesión, con mejora visible el mismo día.",
+        "Atenúa la visibilidad de tendones extensores y venas superficiales gracias al almohadillado subcutáneo.",
+        "Estimula colágeno propio para un efecto firmeza progresivo durante los meses siguientes.",
+        "Mejora la armonía global entre un rostro cuidado y la apariencia de las manos.",
+        "Ofrece una duración prolongada, con resultados que pueden mantenerse entre 12 y 18 meses en la mayoría de los pacientes.",
+        "Se realiza en una sesión ambulatoria breve y con un tiempo de recuperación mínimo.",
+        "Se puede combinar con PRP, mesoterapia o láser Fotona para abordar tono y textura en paralelo."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Está aprobado el uso de Radiesse en las manos?",
+          "a": "Sí. La hidroxiapatita cálcica, principio activo de Radiesse, cuenta con una indicación de la FDA para la corrección de la pérdida de volumen en el dorso de las manos. Está documentada para el dispositivo concreto. La indicación reconoce tanto el efecto volumizador inmediato como la estimulación de colágeno a largo plazo observada en esta zona anatómica cuando lo aplica personal médico cualificado."
+        },
+        {
+          "q": "¿Cuánto duran los resultados en las manos?",
+          "a": "La mayoría de los pacientes mantiene una mejora visible entre 12 y 18 meses. La duración depende del metabolismo, del uso de las manos, de la exposición solar, de la cantidad de producto y del estado de la piel. Las manos están en movimiento constante y reciben luz UV, por lo que el protector solar diario y una sesión de mantenimiento anual ayudan a preservar el volumen y el efecto de firmeza obtenido."
+        },
+        {
+          "q": "¿En qué se diferencia del rejuvenecimiento de manos con PRP?",
+          "a": "Radiesse se centra en la restauración de volumen y el andamio de colágeno, mientras que el PRP se centra en la regeneración celular y la mejora de la calidad de la piel. Radiesse rellena el almohadillado sobre tendones y venas; el PRP mejora tono, líneas finas y textura. Son tratamientos complementarios y muchos pacientes en Miami eligen combinarlos en un único plan en capas, personalizado durante la consulta."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

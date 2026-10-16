@@ -1,0 +1,117 @@
+{
+  "title": "Financing with Cherry · Pay over time · Real Aesthetic Medical Spa",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Finance your treatments at Real Aesthetic Medical Spa with Cherry. Options from 0% APR, no hard credit check, 60-second decision and approvals up to $50,000."
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:title",
+      "content": "Financing with Cherry · Real Aesthetic Medical Spa"
+    },
+    {
+      "property": "og:description",
+      "content": "Pay for your treatments over time. Cherry financing: 0% APR options, 60-second decision and approvals up to $50,000."
+    },
+    {
+      "property": "og:url",
+      "content": "https://realaestheticmedspa.com/financing/"
+    },
+    {
+      "property": "og:image",
+      "content": "https://realaestheticmedspa.com/img/logo.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "es_US"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Financing with Cherry · Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Pay for your treatments over time. Cherry financing: 0% APR options, 60-second decision, up to $50,000."
+    }
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://realaestheticmedspa.com/financing/"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/financing/",
+      "hrefLang": "en"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/financiacion/",
+      "hrefLang": "es"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/",
+      "hrefLang": "x-default"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FinancialProduct",
+      "name": "Treatment financing with Cherry",
+      "provider": {
+        "@type": "MedicalBusiness",
+        "name": "Real Aesthetic Medical Spa",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "8360 W Flagler St, Suite 108",
+          "addressLocality": "Miami",
+          "addressRegion": "FL",
+          "postalCode": "33144",
+          "addressCountry": "US"
+        },
+        "telephone": "+1-786-244-3722",
+        "url": "https://realaestheticmedspa.com/"
+      },
+      "description": "Buy-now, pay-later plans for aesthetic treatments. Options from 0% APR, no hard credit check, 60-second decision and approvals up to $50,000.",
+      "feesAndCommissionsSpecification": "APR from 5.99% on interest-bearing plans · True 0% APR available on qualifying plans",
+      "areaServed": "US"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://realaestheticmedspa.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Financing",
+          "item": "https://realaestheticmedspa.com/financing/"
+        }
+      ]
+    }
+  ],
+  "preloadImages": []
+}

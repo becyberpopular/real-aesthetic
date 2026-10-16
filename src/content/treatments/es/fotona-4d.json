@@ -1,0 +1,347 @@
+{
+  "lang": "es",
+  "slug": "fotona-4d",
+  "path": "/tratamientos/fotona-4d/",
+  "cssFamily": "e",
+  "heroImage": "/img/proc/fotona-4d-v2.webp",
+  "ctaImage": "/img/proc/fotona-4d-v2.webp",
+  "head": {
+    "title": "Fotona 4D en Miami: lifting láser sin cirugía",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona 4D en Miami: protocolo láser de cuatro modalidades que tensa, refina y rejuvenece el rostro completo sin cirugía. Reserva tu consulta."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona 4D en Miami: lifting láser sin cirugía"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona 4D en Miami: protocolo láser de cuatro modalidades que tensa, refina y rejuvenece el rostro completo sin cirugía. Reserva tu consulta."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/fotona-4d/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-4d-v2.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona 4D en Miami: lifting láser sin cirugía"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona 4D en Miami: protocolo láser de cuatro modalidades que tensa, refina y rejuvenece el rostro completo sin cirugía. Reserva tu consulta."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-4d-v2.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-4d/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-4d/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-4d/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona 4D en Miami: lifting láser sin cirugía",
+        "description": "Fotona 4D es un protocolo láser no invasivo de cuatro modalidades que combina pases intraorales y externos con láser Er:YAG y Nd:YAG para tensar, redefinir y rejuvenecer el rostro completo en una sola sesión, sin incisiones y con mínima recuperación social.",
+        "url": "https://realaestheticmedspa.com/tratamientos/fotona-4d/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/fotona-4d/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/fotona-4d/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Fotona 4D duele?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de pacientes describe Fotona 4D como un procedimiento cálido y tolerable, no doloroso. El pase intraoral SmoothLiftin se siente como un masaje tibio, mientras los pases externos producen calor con un ligero golpeteo durante la fase fraccional. Habitualmente no requiere anestesia tópica, aunque podemos aplicar crema anestésica en pacientes más sensibles. El equipo ajusta los parámetros para mantener la comodidad."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones de Fotona 4D necesito?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Para un efecto tensor visible y mejora de la calidad de la piel recomendamos un protocolo inicial de tres sesiones separadas por cuatro a seis semanas. Las pacientes con flacidez más marcada pueden beneficiarse de una cuarta sesión. Después del ciclo inicial, planteamos mantenimiento una o dos veces al año. El especialista diseñará el plan personalizado tras la evaluación."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia Fotona 4D de un lifting quirúrgico?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El lifting quirúrgico retira y reposiciona tejido bajo anestesia, con semanas de recuperación y resultados más drásticos pero invasivos. Fotona 4D es no invasivo, utiliza energía láser dual para tensar y remodelar desde dentro y requiere casi cero recuperación. Es una buena opción para pacientes con flacidez leve o moderada que buscan un refinamiento progresivo y natural sin pasar por quirófano."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo combinar Fotona 4D con bótox o rellenos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. Muchas pacientes en Miami combinan Fotona 4D con neuromoduladores o rellenos de ácido hialurónico dentro de un plan personalizado. Solemos programar las inyecciones unas semanas antes o después del láser para que el calor no afecte al producto recién colocado. El especialista diseña la secuencia y los tiempos según los objetivos y la valoración facial integral."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo veré los resultados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El brillo inmediato y la sensación de tensado suelen apreciarse al salir de la sesión. La remodelación profunda del colágeno continúa entre 8 y 12 semanas y la firmeza y contorno máximos llegan alrededor de los tres meses. Tras completar el ciclo inicial, los resultados maduran durante varios meses y se conservan mejor con mantenimiento periódico y protección solar constante."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro Fotona 4D en pieles morenas o más oscuras?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La longitud de onda Nd:YAG de Fotona se considera una de las más seguras para fototipos medios y oscuros porque atraviesa la melanina superficial y trabaja en profundidad. Los pases Er:YAG se ajustan cuidadosamente al fototipo. La evaluación previa, los parámetros conservadores y la fotoprotección estricta reducen aún más el riesgo de cambios pigmentarios. Siempre evaluamos el fototipo antes de diseñar el protocolo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo puedo volver al trabajo tras Fotona 4D?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de pacientes regresa a la oficina al día siguiente. El enrojecimiento leve y la sensación de calor desaparecen en pocas horas, aunque algunas pacientes notan hinchazón sutil hasta 48 horas. Se puede aplicar protector solar mineral y, si se desea, una base ligera al día siguiente. Conviene evitar ejercicio intenso, sauna y exposición solar directa durante dos o tres días."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona 4D en Miami: lifting láser sin cirugía",
+            "item": "https://realaestheticmedspa.com/tratamientos/fotona-4d/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-4d-v2.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-4d/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/fotona-4d/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Fotona 4D en Miami: lifting láser <em>sin cirugía</em>",
+    "lede": "Fotona 4D es un protocolo láser no invasivo de cuatro modalidades que combina pases intraorales y externos con láser Er:YAG y Nd:YAG para tensar, redefinir y rejuvenecer el rostro completo en una sola sesión, sin incisiones y con mínima recuperación social.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-4d-laser-facial",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Efecto tensor no invasivo sobre mejillas, mandíbula y zona perioral, sin cirugía ni inyecciones.",
+        "Mejora la firmeza global de la piel al estimular nuevo colágeno y elastina en la dermis profunda.",
+        "Refina líneas finas, poros dilatados y textura irregular en una misma sesión combinada.",
+        "Trata la unidad facial completa, incluyendo el interior de la boca, que sostiene la parte inferior del rostro.",
+        "Apto para la mayoría de fototipos cuando lo aplica un especialista entrenado.",
+        "Recuperación social mínima: la mayoría de pacientes retoma su rutina en 24 a 48 horas.",
+        "Los resultados se construyen de forma progresiva en tres sesiones y siguen mejorando varios meses."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "El brillo inmediato y la sensación tensora suelen apreciarse al terminar la sesión. La remodelación profunda del colágeno continúa entre 8 y 12 semanas, con la mejora máxima de firmeza y contorno alrededor de los tres meses. Recomendamos un ciclo inicial de tres sesiones separadas por cuatro a seis semanas y un mantenimiento una o dos veces al año. Los resultados dependen de la edad, calidad de la piel, hábitos y cumplimiento de los cuidados."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Fotona 4D duele?",
+          "a": "La mayoría de pacientes describe Fotona 4D como un procedimiento cálido y tolerable, no doloroso. El pase intraoral SmoothLiftin se siente como un masaje tibio, mientras los pases externos producen calor con un ligero golpeteo durante la fase fraccional. Habitualmente no requiere anestesia tópica, aunque podemos aplicar crema anestésica en pacientes más sensibles. El equipo ajusta los parámetros para mantener la comodidad."
+        },
+        {
+          "q": "¿Cuántas sesiones de Fotona 4D necesito?",
+          "a": "Para un efecto tensor visible y mejora de la calidad de la piel recomendamos un protocolo inicial de tres sesiones separadas por cuatro a seis semanas. Las pacientes con flacidez más marcada pueden beneficiarse de una cuarta sesión. Después del ciclo inicial, planteamos mantenimiento una o dos veces al año. El especialista diseñará el plan personalizado tras la evaluación."
+        },
+        {
+          "q": "¿En qué se diferencia Fotona 4D de un lifting quirúrgico?",
+          "a": "El lifting quirúrgico retira y reposiciona tejido bajo anestesia, con semanas de recuperación y resultados más drásticos pero invasivos. Fotona 4D es no invasivo, utiliza energía láser dual para tensar y remodelar desde dentro y requiere casi cero recuperación. Es una buena opción para pacientes con flacidez leve o moderada que buscan un refinamiento progresivo y natural sin pasar por quirófano."
+        },
+        {
+          "q": "¿Puedo combinar Fotona 4D con bótox o rellenos?",
+          "a": "Sí. Muchas pacientes en Miami combinan Fotona 4D con neuromoduladores o rellenos de ácido hialurónico dentro de un plan personalizado. Solemos programar las inyecciones unas semanas antes o después del láser para que el calor no afecte al producto recién colocado. El especialista diseña la secuencia y los tiempos según los objetivos y la valoración facial integral."
+        },
+        {
+          "q": "¿Cuándo veré los resultados?",
+          "a": "El brillo inmediato y la sensación de tensado suelen apreciarse al salir de la sesión. La remodelación profunda del colágeno continúa entre 8 y 12 semanas y la firmeza y contorno máximos llegan alrededor de los tres meses. Tras completar el ciclo inicial, los resultados maduran durante varios meses y se conservan mejor con mantenimiento periódico y protección solar constante."
+        },
+        {
+          "q": "¿Es seguro Fotona 4D en pieles morenas o más oscuras?",
+          "a": "La longitud de onda Nd:YAG de Fotona se considera una de las más seguras para fototipos medios y oscuros porque atraviesa la melanina superficial y trabaja en profundidad. Los pases Er:YAG se ajustan cuidadosamente al fototipo. La evaluación previa, los parámetros conservadores y la fotoprotección estricta reducen aún más el riesgo de cambios pigmentarios. Siempre evaluamos el fototipo antes de diseñar el protocolo."
+        },
+        {
+          "q": "¿Cuándo puedo volver al trabajo tras Fotona 4D?",
+          "a": "La mayoría de pacientes regresa a la oficina al día siguiente. El enrojecimiento leve y la sensación de calor desaparecen en pocas horas, aunque algunas pacientes notan hinchazón sutil hasta 48 horas. Se puede aplicar protector solar mineral y, si se desea, una base ligera al día siguiente. Conviene evitar ejercicio intenso, sauna y exposición solar directa durante dos o tres días."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-4d-laser-facial",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

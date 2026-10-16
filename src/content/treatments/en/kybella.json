@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "kybella",
+  "path": "/procedures/kybella/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/kybella.webp",
+  "ctaImage": "/img/proc/kybella.webp",
+  "head": {
+    "title": "Kybella — Submental Fat Reduction in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Kybella in Miami at Real Aesthetic. Injectable deoxycholic acid to dissolve submental fat and refine the chin profile, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Kybella — Submental Fat Reduction in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Kybella in Miami at Real Aesthetic. Injectable deoxycholic acid to dissolve submental fat and refine the chin profile, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/kybella/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/kybella.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Kybella — Submental Fat Reduction in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Kybella in Miami at Real Aesthetic. Injectable deoxycholic acid to dissolve submental fat and refine the chin profile, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/kybella.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/kybella/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/kybella/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/kybella/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Kybella — Submental Fat Reduction in Miami",
+        "description": "Kybella in Miami at Real Aesthetic. Injectable deoxycholic acid to dissolve submental fat and refine the chin profile, supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/kybella/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/kybella/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/kybella/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is Kybella painful?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is a mild stinging sensation during the injection and a warm or tingling feeling that subsides within minutes. We apply topical anesthetic before the session and ice afterwards, which makes the experience very tolerable for most patients. The whole appointment is short — typically under an hour."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It depends on the volume of submental fat. Most patients complete 2 to 4 sessions spaced 4 to 6 weeks apart. After your consultation, Ronal Perdomo Lugo, APRN, FNP-C will design a personalised plan and explain expected timing based on your anatomy. Results are progressive — you will see refinement between sessions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the recovery like?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Some swelling, mild bruising and tenderness in the treated area are normal and last between 1 and 5 days. Most patients return to work the next day. You should avoid intense exercise for 24–48 hours. Cold compresses help and we provide aftercare guidance after every session."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kybella — Submental Fat Reduction in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/kybella/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/kybella.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/kybella/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/kybella/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Kybella <em>in Miami</em>",
+    "lede": "Kybella is a non-surgical injectable treatment that dissolves submental fat to refine the chin profile and define the jawline in patients with mild-to-moderate double chin.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-kybella",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Permanently reduces submental fat once the treatment series is complete — the fat cells do not regenerate.",
+        "Refines the chin-to-jawline profile without surgery, liposuction, or downtime.",
+        "Performed in-office in approximately 30–45 minutes per session.",
+        "Supports a more sculpted lower face that pairs well with jawline contouring or Botox masseter.",
+        "Most patients see visible change after 2 sessions; full series usually 2–4 sessions spaced 4–6 weeks apart.",
+        "Approved by the FDA for moderate-to-severe submental fullness in adults."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is Kybella painful?",
+          "a": "There is a mild stinging sensation during the injection and a warm or tingling feeling that subsides within minutes. We apply topical anesthetic before the session and ice afterwards, which makes the experience very tolerable for most patients. The whole appointment is short — typically under an hour."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "It depends on the volume of submental fat. Most patients complete 2 to 4 sessions spaced 4 to 6 weeks apart. After your consultation, Ronal Perdomo Lugo, APRN, FNP-C will design a personalised plan and explain expected timing based on your anatomy. Results are progressive — you will see refinement between sessions."
+        },
+        {
+          "q": "What is the recovery like?",
+          "a": "Some swelling, mild bruising and tenderness in the treated area are normal and last between 1 and 5 days. Most patients return to work the next day. You should avoid intense exercise for 24–48 hours. Cold compresses help and we provide aftercare guidance after every session."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-kybella",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

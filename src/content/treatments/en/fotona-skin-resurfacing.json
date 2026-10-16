@@ -1,0 +1,347 @@
+{
+  "lang": "en",
+  "slug": "fotona-skin-resurfacing",
+  "path": "/procedures/fotona-skin-resurfacing/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/fotona-skin-resurfacing.webp",
+  "ctaImage": "/img/proc/fotona-skin-resurfacing.webp",
+  "head": {
+    "title": "Fotona Skin Resurfacing in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona Er:YAG skin resurfacing in Miami: refines wrinkles, pores and texture through controlled fractional renewal. Personalised assessment with Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona Skin Resurfacing in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona Er:YAG skin resurfacing in Miami: refines wrinkles, pores and texture through controlled fractional renewal. Personalised assessment with Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/fotona-skin-resurfacing/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-skin-resurfacing.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona Skin Resurfacing in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona Er:YAG skin resurfacing in Miami: refines wrinkles, pores and texture through controlled fractional renewal. Personalised assessment with Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-skin-resurfacing.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-skin-resurfacing/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-skin-resurfacing/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/resurfacing-laser-fotona/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona Skin Resurfacing in Miami",
+        "description": "Fotona skin resurfacing is an ablative or fractional Er:YAG laser treatment that creates a controlled micro-injury in the upper layers of the skin to renew texture, soften wrinkles, refine enlarged pores, and restore an even, luminous surface.",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-skin-resurfacing/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/fotona-skin-resurfacing/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-skin-resurfacing/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How much downtime should I plan for?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Plan for 3 to 7 days depending on the depth chosen. A light fractional resurfacing typically produces redness and subtle flaking for 2 to 4 days. A deeper ablative session can keep the skin pink, sensitive and slightly crusted for up to a week. Many Miami patients schedule the treatment around a quiet weekend or a few days of remote work to recover comfortably."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Fotona resurfacing painful?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A topical anaesthetic cream is applied 30 to 45 minutes before the procedure, which keeps most ablative passes manageable. Patients describe a warm, prickly sensation during the laser pass and mild heat afterwards, similar to a sunburn for several hours. Superficial peel modes are usually performed without numbing. The clinical team monitors comfort throughout and adjusts settings as needed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can Fotona resurfacing treat acne scars?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, fractional Er:YAG resurfacing softens superficial and some moderate atrophic acne scars by triggering controlled tissue renewal and collagen remodelling. Deeper or ice-pick scars usually need a combined approach, sometimes with PRP, microneedling or specific Fotona modes. During your consultation we map your scarring pattern and design a personalised plan with realistic expectations."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is Er:YAG resurfacing different from CO2 laser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Both are ablative lasers, but Er:YAG is more precisely absorbed by water and produces less residual heat in surrounding tissue. This generally translates into a more controlled depth, a lower risk of pigmentary changes for medium phototypes, and a shorter overall recovery for comparable refinement. Your specialist will recommend the right device based on your skin and goals."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When can I wear makeup again?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For superficial peel modes, mineral makeup can usually be reintroduced after 48 to 72 hours once any flaking subsides. For deeper resurfacing we recommend waiting until the skin has fully reepithelialised, generally between days 5 and 7. Always start with clean brushes, a hydrating base and gentle removal. Sunscreen comes first, every day, regardless of makeup use."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions are needed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Some patients reach their goal in one deeper resurfacing session per area, while others prefer two to three lighter fractional sessions spaced four to six weeks apart. Maintenance depends on age, skin quality and sun habits, and is usually planned once a year or every two years. Your specialist will outline the most efficient protocol after the initial assessment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can it be combined with other treatments?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Fotona resurfacing pairs well with non-overlapping protocols such as PIANO tightening, biostimulators, PRP and medical-grade skincare. We separate procedures to allow the skin to heal between treatments and avoid stacking heat or trauma. Your personalised plan will sequence the treatments in a way that maximises results while protecting the skin barrier."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona Skin Resurfacing in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/fotona-skin-resurfacing/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-skin-resurfacing.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-skin-resurfacing/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/resurfacing-laser-fotona/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Fotona Skin Resurfacing <em>in Miami</em>",
+    "lede": "Fotona skin resurfacing is an ablative or fractional Er:YAG laser treatment that creates a controlled micro-injury in the upper layers of the skin to renew texture, soften wrinkles, refine enlarged pores, and restore an even, luminous surface.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-resurfacing",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Improves fine lines and moderate wrinkles, especially around the eyes, mouth and forehead.",
+        "Refines surface texture and reduces the appearance of enlarged pores on cheeks and nose.",
+        "Softens superficial acne scars and post-inflammatory irregularities.",
+        "Brightens dull tone and helps even out sun-related surface pigmentation.",
+        "Stimulates new collagen for a firmer, more resilient skin quality over time.",
+        "Adjustable depth, from a light glow peel to a deeper resurfacing, in line with downtime tolerance.",
+        "Performed under medical supervision with personalised aftercare for each patient."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Results &amp; duration",
+      "title": "When you see it, <em>how long it lasts</em>",
+      "text": [
+        "Patients see initial improvement once the skin finishes peeling, usually around day 7 to 10, with progressive refinement of texture and tone over the following 8 to 12 weeks as collagen remodels. Depending on goals, the protocol may be one deeper session per area or two to three lighter sessions spaced four to six weeks apart. Results are long-lasting but require consistent sun protection and skincare to be preserved."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How much downtime should I plan for?",
+          "a": "Plan for 3 to 7 days depending on the depth chosen. A light fractional resurfacing typically produces redness and subtle flaking for 2 to 4 days. A deeper ablative session can keep the skin pink, sensitive and slightly crusted for up to a week. Many Miami patients schedule the treatment around a quiet weekend or a few days of remote work to recover comfortably."
+        },
+        {
+          "q": "Is Fotona resurfacing painful?",
+          "a": "A topical anaesthetic cream is applied 30 to 45 minutes before the procedure, which keeps most ablative passes manageable. Patients describe a warm, prickly sensation during the laser pass and mild heat afterwards, similar to a sunburn for several hours. Superficial peel modes are usually performed without numbing. The clinical team monitors comfort throughout and adjusts settings as needed."
+        },
+        {
+          "q": "Can Fotona resurfacing treat acne scars?",
+          "a": "Yes, fractional Er:YAG resurfacing softens superficial and some moderate atrophic acne scars by triggering controlled tissue renewal and collagen remodelling. Deeper or ice-pick scars usually need a combined approach, sometimes with PRP, microneedling or specific Fotona modes. During your consultation we map your scarring pattern and design a personalised plan with realistic expectations."
+        },
+        {
+          "q": "How is Er:YAG resurfacing different from CO2 laser?",
+          "a": "Both are ablative lasers, but Er:YAG is more precisely absorbed by water and produces less residual heat in surrounding tissue. This generally translates into a more controlled depth, a lower risk of pigmentary changes for medium phototypes, and a shorter overall recovery for comparable refinement. Your specialist will recommend the right device based on your skin and goals."
+        },
+        {
+          "q": "When can I wear makeup again?",
+          "a": "For superficial peel modes, mineral makeup can usually be reintroduced after 48 to 72 hours once any flaking subsides. For deeper resurfacing we recommend waiting until the skin has fully reepithelialised, generally between days 5 and 7. Always start with clean brushes, a hydrating base and gentle removal. Sunscreen comes first, every day, regardless of makeup use."
+        },
+        {
+          "q": "How many sessions are needed?",
+          "a": "Some patients reach their goal in one deeper resurfacing session per area, while others prefer two to three lighter fractional sessions spaced four to six weeks apart. Maintenance depends on age, skin quality and sun habits, and is usually planned once a year or every two years. Your specialist will outline the most efficient protocol after the initial assessment."
+        },
+        {
+          "q": "Can it be combined with other treatments?",
+          "a": "Fotona resurfacing pairs well with non-overlapping protocols such as PIANO tightening, biostimulators, PRP and medical-grade skincare. We separate procedures to allow the skin to heal between treatments and avoid stacking heat or trauma. Your personalised plan will sequence the treatments in a way that maximises results while protecting the skin barrier."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-resurfacing",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "estrias-laser",
+  "path": "/tratamientos/estrias-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/stretch-marks-laser.webp",
+  "ctaImage": "/img/proc/stretch-marks-laser.webp",
+  "head": {
+    "title": "Tratamiento de estrías con láser en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Tratamiento de estrías con láser Fotona Er:YAG fraccionado en Miami en Real Aesthetic. Mejora progresiva de estrías rojas y blancas en cuatro a seis sesiones."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Tratamiento de estrías con láser en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Tratamiento de estrías con láser Fotona Er:YAG fraccionado en Miami en Real Aesthetic. Mejora progresiva de estrías rojas y blancas en cuatro a seis sesiones."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/estrias-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/stretch-marks-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Tratamiento de estrías con láser en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Tratamiento de estrías con láser Fotona Er:YAG fraccionado en Miami en Real Aesthetic. Mejora progresiva de estrías rojas y blancas en cuatro a seis sesiones."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/stretch-marks-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/estrias-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/stretch-marks-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/estrias-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Tratamiento de estrías con láser en Miami",
+        "description": "El tratamiento de estrías con láser Er:YAG fraccionado de la plataforma Fotona aborda tanto las estrías rojas (recientes) como las blancas (maduras), estimulando colágeno y remodelando el patrón cicatricial dérmico, con una mejora progresiva en un protocolo de cuatro a seis sesiones.",
+        "url": "https://realaestheticmedspa.com/tratamientos/estrias-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/estrias-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/estrias-laser/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Puede el láser eliminar mis estrías por completo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Las expectativas realistas son fundamentales. Las estrías son una forma de cicatrización dérmica que no desaparece por completo con la tecnología actual. El láser Er:YAG fraccionado mejora la apariencia —color, textura y profundidad— y reduce el contraste con la piel sana. El resultado es una mejora, no una desaparición total. En la consulta hablamos de lo que es alcanzable con el protocolo y diseñamos un plan acorde para que las expectativas coincidan con la tecnología."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es más fácil tratar las estrías rojas o las blancas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Las estrías rojas suelen responder mejor porque son recientes y mantienen un componente activo. Cuanto antes se inicie el tratamiento, mejor pronóstico. Las estrías blancas y maduras también mejoran con el Er:YAG fraccionado, pero generalmente requieren más sesiones y el cambio es más textural que vascular. En la consulta de Miami ajustamos los parámetros en función del tipo clínico de cada paciente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones se necesitan?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Habitualmente se recomienda un protocolo de cuatro a seis sesiones separadas entre cuatro y seis semanas. El número exacto depende del tipo, la antigüedad, la densidad y la localización de las estrías, así como de la respuesta del paciente. Pueden valorarse sesiones de mantenimiento una o dos veces al año para consolidar el resultado. El plan se revisa en cada seguimiento para que cadencia y parámetros sigan alineados con la respuesta observada."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tratamiento de estrías con láser en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/estrias-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/stretch-marks-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/stretch-marks-laser/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/estrias-laser/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Tratamiento de estrías con láser <em>en Miami</em>",
+    "lede": "El tratamiento de estrías con láser Er:YAG fraccionado de la plataforma Fotona aborda tanto las estrías rojas (recientes) como las blancas (maduras), estimulando colágeno y remodelando el patrón cicatricial dérmico, con una mejora progresiva en un protocolo de cuatro a seis sesiones.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Aborda tanto estrías rojas como blancas con parámetros específicos para cada tipo clínico.",
+        "Estimula la síntesis de colágeno y elastina mediante el láser Er:YAG fraccionado.",
+        "Refina la textura de la piel y suaviza la profundidad y el patrón visible de la zona afectada.",
+        "Mejora la homogeneidad de color, atenuando el contraste entre la piel sana y las estrías.",
+        "Se realiza en una sesión ambulatoria controlada con una recuperación manejable por sesión.",
+        "Compatible con la mayoría de las zonas en las que aparecen estrías: abdomen, muslos, caderas, mamas, brazos y espalda.",
+        "Se integra en planes más amplios de calidad de piel junto con mesoterapia o radiofrecuencia cuando está indicado."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Puede el láser eliminar mis estrías por completo?",
+          "a": "Las expectativas realistas son fundamentales. Las estrías son una forma de cicatrización dérmica que no desaparece por completo con la tecnología actual. El láser Er:YAG fraccionado mejora la apariencia —color, textura y profundidad— y reduce el contraste con la piel sana. El resultado es una mejora, no una desaparición total. En la consulta hablamos de lo que es alcanzable con el protocolo y diseñamos un plan acorde para que las expectativas coincidan con la tecnología."
+        },
+        {
+          "q": "¿Es más fácil tratar las estrías rojas o las blancas?",
+          "a": "Las estrías rojas suelen responder mejor porque son recientes y mantienen un componente activo. Cuanto antes se inicie el tratamiento, mejor pronóstico. Las estrías blancas y maduras también mejoran con el Er:YAG fraccionado, pero generalmente requieren más sesiones y el cambio es más textural que vascular. En la consulta de Miami ajustamos los parámetros en función del tipo clínico de cada paciente."
+        },
+        {
+          "q": "¿Cuántas sesiones se necesitan?",
+          "a": "Habitualmente se recomienda un protocolo de cuatro a seis sesiones separadas entre cuatro y seis semanas. El número exacto depende del tipo, la antigüedad, la densidad y la localización de las estrías, así como de la respuesta del paciente. Pueden valorarse sesiones de mantenimiento una o dos veces al año para consolidar el resultado. El plan se revisa en cada seguimiento para que cadencia y parámetros sigan alineados con la respuesta observada."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

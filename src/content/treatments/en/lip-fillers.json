@@ -1,0 +1,353 @@
+{
+  "lang": "en",
+  "slug": "lip-fillers",
+  "path": "/procedures/lip-fillers/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/lip-fillers.webp",
+  "ctaImage": "/img/proc/lip-fillers.webp",
+  "head": {
+    "title": "Lip Fillers in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Natural-look lip fillers in Miami at Real Aesthetic. Hyaluronic acid for hydrated, proportional lips by Ronal Perdomo Lugo, APRN, FNP-C. Book a consultation."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Lip Fillers in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Natural-look lip fillers in Miami at Real Aesthetic. Hyaluronic acid for hydrated, proportional lips by Ronal Perdomo Lugo, APRN, FNP-C. Book a consultation."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/lip-fillers/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lip-fillers.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Lip Fillers in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Natural-look lip fillers in Miami at Real Aesthetic. Hyaluronic acid for hydrated, proportional lips by Ronal Perdomo Lugo, APRN, FNP-C. Book a consultation."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lip-fillers.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/lip-fillers/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/lip-fillers/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/rellenos-de-labios/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Lip Fillers",
+        "alternateName": "Hyaluronic acid lip enhancement",
+        "description": "Hyaluronic acid (HA) lip injectables used for hydration, shape refinement, proportion, and definition with a deliberately conservative, anatomy-respecting technique.",
+        "bodyLocation": "Lips and perioral area",
+        "procedureType": "Non-surgical injectable",
+        "preparation": "Avoid blood thinners and alcohol 24 hours prior when medically possible. Antiviral prophylaxis if recurrent cold sores.",
+        "followup": "Optional review at 2 weeks for symmetric refinement.",
+        "howPerformed": "Topical anesthetic, antiseptic prep, slow micro-aliquot injection of HA gel (commonly 1mL) using fine needle or blunt cannula, gentle moulding.",
+        "url": "https://realaestheticmedspa.com/procedures/lip-fillers/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/lip-fillers/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Will my lip fillers look natural?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most first sessions use 1mL or less, distributed conservatively. We preserve philtrum, Cupid's bow, and vermillion border so lips read as healthy and refreshed, not as a treatment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long do lip fillers last?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "HA lip fillers last 6 to 12 months depending on gel, volume, area, and metabolism. Lips are high-mobility, which can shorten duration in some patients."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does it hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Topical anesthetic for 15-20 minutes plus lidocaine in the gel makes the procedure well tolerated. Patients typically report brief pressure rather than sharp pain."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much swelling should I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mild swelling for 2-5 days is normal. Lips look fullest the day after the session and settle gradually; final result at 2-4 weeks."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can lip fillers be reversed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. HA fillers can be dissolved with hyaluronidase. We always keep hyaluronidase available at the Miami clinic for medical or aesthetic indications."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why do you recommend a 1mL session?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "1mL is enough to refine hydration, contour, and proportion without overstretching tissue. Building gradually across one or two sessions protects natural shape."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are lip fillers safe?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "HA lip fillers have a long safety record with trained physicians. Anatomical knowledge, conservative dosing, sterile technique, and immediate access to hyaluronidase are key safety factors."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/lip-fillers/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lip Fillers in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/lip-fillers/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/lip-fillers.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/lip-fillers/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/rellenos-de-labios/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Lip Fillers <em>in Miami</em>",
+    "lede": "Lip fillers at Real Aesthetic Medical Spa in Miami use hyaluronic acid to refine shape, restore hydration, and create proportional lips that look like a refined version of your own — never overfilled.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lip-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Restores hydration and surface quality to lips that look dry, deflated, or \"tired\".",
+        "Refines proportion between upper and lower lip without distorting natural anatomy.",
+        "Softens vertical \"smoker's\" lines around the mouth when combined with delicate perioral technique.",
+        "Defines the vermillion border for a cleaner lipstick line and a polished resting lip.",
+        "Can subtly improve the upward curve of the corners of the mouth in conservative cases.",
+        "Reversible — HA fillers can be dissolved if a patient is unhappy with the result.",
+        "Ideal for Miami patients who travel and want a refined, natural lip rather than a cosmetic statement."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Results &amp; duration",
+      "title": "When you see it, <em>how long it lasts</em>",
+      "text": [
+        "Hydration and shape refinement are visible immediately, but the true final result settles between two and four weeks once swelling resolves and the gel integrates into the tissue. HA lip fillers typically last 6 to 12 months depending on the specific gel, the area, and individual metabolism. Touch-ups are scheduled to maintain the refined silhouette rather than to keep adding volume."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Will my lip fillers look natural?",
+          "a": "Yes — that is the entire premise of our lip approach. Most first sessions use 1mL or less, distributed conservatively for hydration and proportion. We deliberately preserve the natural anatomy of the philtrum, Cupid's bow, and vermillion border. The result should read as healthy, refreshed lips, not as a treatment."
+        },
+        {
+          "q": "How long do lip fillers last?",
+          "a": "Hyaluronic acid lip fillers last between 6 and 12 months depending on the specific HA gel used, the volume injected, the area treated, and individual metabolism. Lips are a high-mobility area, which can shorten duration in some patients. Maintenance sessions are scheduled at the point where definition begins to soften, not when volume disappears."
+        },
+        {
+          "q": "Does it hurt?",
+          "a": "Lips are sensitive, so we use a topical anesthetic cream for 15 to 20 minutes prior, and most modern HA gels contain lidocaine for in-procedure comfort. Patients usually describe a brief pressure or pinch rather than sharp pain. Cold compresses also help. The procedure is well tolerated by the large majority of patients."
+        },
+        {
+          "q": "How much swelling should I expect?",
+          "a": "Some swelling is normal for two to five days. Lips usually look their fullest the day after the procedure, then settle gradually. The true final result is visible at around two to four weeks. We recommend planning lip filler at least two weeks before any major event so the result can settle naturally."
+        },
+        {
+          "q": "Can lip fillers be reversed?",
+          "a": "Yes. Hyaluronic acid fillers can be dissolved using hyaluronidase, an enzyme injected into the area. We always keep hyaluronidase available at our Miami clinic. Reversal is reserved for medical indications or for cases where the patient is genuinely dissatisfied with the result; we always start with the most conservative option."
+        },
+        {
+          "q": "Why do you recommend a 1mL session?",
+          "a": "One millilitre is enough to refine hydration, contour, and proportion in most first sessions without overstretching the tissue. Building the lips slowly across one or two sessions protects the natural shape and gives the body time to adapt. Patients who want more refinement after two weeks can complete the result with a small top-up rather than overfilling on day one."
+        },
+        {
+          "q": "Are lip fillers safe?",
+          "a": "Hyaluronic acid lip fillers have a long safety track record when administered by a trained physician. The most important safety factors are anatomical knowledge, conservative dosing, sterile technique, and immediate access to hyaluronidase for the rare vascular complication. All sessions at Real Aesthetic are supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lip-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Privacy Policy · Real Aesthetic Medical Spa",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Privacy Policy for Real Aesthetic Medical Spa, Miami. How we collect, use and protect personal and medical information of patients and visitors."
+    },
+    {
+      "name": "robots",
+      "content": "index,follow"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:title",
+      "content": "Privacy Policy · Real Aesthetic Medical Spa"
+    },
+    {
+      "property": "og:description",
+      "content": "How we collect, use and protect personal and medical information at Real Aesthetic Medical Spa."
+    },
+    {
+      "property": "og:url",
+      "content": "https://realaestheticmedspa.com/privacy/"
+    },
+    {
+      "property": "og:image",
+      "content": "https://realaestheticmedspa.com/img/hero.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "es_US"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Privacy Policy · Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:description",
+      "content": "How we collect, use and protect personal and medical information at Real Aesthetic Medical Spa."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://realaestheticmedspa.com/img/hero.webp"
+    }
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://realaestheticmedspa.com/privacy/"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/privacy/",
+      "hrefLang": "en"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/privacidad/",
+      "hrefLang": "es"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/",
+      "hrefLang": "x-default"
+    }
+  ],
+  "jsonLd": [],
+  "preloadImages": []
+}

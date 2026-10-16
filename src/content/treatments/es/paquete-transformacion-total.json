@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "paquete-transformacion-total",
+  "path": "/tratamientos/paquete-transformacion-total/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/full-transformation-package.webp",
+  "ctaImage": "/img/proc/full-transformation-package.webp",
+  "head": {
+    "title": "Paquete Transformación Total en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Programa personalizado de tres a seis meses con endolaser, mesoterapia, armonización facial y drenaje linfático en Miami con Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Paquete Transformación Total en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Programa personalizado de tres a seis meses con endolaser, mesoterapia, armonización facial y drenaje linfático en Miami con Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/paquete-transformacion-total/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/full-transformation-package.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Paquete Transformación Total en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Programa personalizado de tres a seis meses con endolaser, mesoterapia, armonización facial y drenaje linfático en Miami con Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/full-transformation-package.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/paquete-transformacion-total/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/full-transformation-package/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/paquete-transformacion-total/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Paquete Transformación Total en Miami",
+        "description": "El Paquete Transformación Total es nuestro programa estético signature de tres a seis meses que integra endolaser multizona, mesoterapia, armonización facial, soporte con péptidos o pérdida de peso médica cuando está indicado, un programa amplio de drenaje linfático y un plan de mantenimiento estructurado, todo dentro de un itinerario personalizado en consulta.",
+        "url": "https://realaestheticmedspa.com/tratamientos/paquete-transformacion-total/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/paquete-transformacion-total/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/paquete-transformacion-total/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuánto dura el Paquete Transformación Total?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La fase activa suele durar de tres a seis meses, según los componentes incluidos y los periodos de recuperación que requiera tu plan. Endolaser, bioestimuladores y combinaciones de armonización facial necesitan tiempo biológico entre sesiones. La fase de mantenimiento continúa después con una cadencia más ligera de retoques y sesiones de calidad de piel. El calendario completo se entrega por escrito en consulta para que sepas exactamente cómo queda tu agenda."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué incluye el paquete?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Las inclusiones son personalizadas, pero un programa típico combina endolaser multizona, mesoterapia corporal y facial, armonización facial, un programa amplio de drenaje linfático, soporte con péptidos o pérdida de peso médica cuando está indicado, y un plan de mantenimiento definido. La lista exacta, el número de sesiones de cada componente y la secuencia se deciden en consulta y se confirman por escrito antes de reservar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia de reservar tratamientos por separado?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La reserva individual optimiza cada tratamiento por sí mismo; el paquete optimiza el conjunto. La secuencia importa: peso antes que contorno, contorno antes que armonización facial dependiente de proporciones, bioestimuladores con tiempo suficiente antes de una fecha clave para que maduren. Un programa coordinado respeta esos tiempos biológicos, evita conflictos entre protocolos y libera al paciente de la carga de planificación."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Paquete Transformación Total en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/paquete-transformacion-total/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/full-transformation-package.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/full-transformation-package/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/paquete-transformacion-total/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Paquete Transformación Total <em>en Miami</em>",
+    "lede": "El Paquete Transformación Total es nuestro programa estético signature de tres a seis meses que integra endolaser multizona, mesoterapia, armonización facial, soporte con péptidos o pérdida de peso médica cuando está indicado, un programa amplio de drenaje linfático y un plan de mantenimiento estructurado, todo dentro de un itinerario personalizado en consulta.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Integra protocolos corporales, faciales y de calidad de piel en un único programa coordinado, no como reservas dispersas.",
+        "Personaliza la secuencia y el calendario de cada tratamiento según tu anatomía, tus objetivos y tu capacidad de recuperación.",
+        "Incluye el programa de drenaje linfático que requiere todo trabajo corporal, reduciendo el edema y refinando el contorno final.",
+        "Añade soporte con péptidos o pérdida de peso médica cuando está indicado, para partir de un peso realista antes del contorno.",
+        "Incorpora armonización facial para alinear las proporciones con el cambio corporal.",
+        "Cierra con un plan de mantenimiento definido, de modo que el resultado se protege en el tiempo en lugar de quedar a la deriva.",
+        "Lo entrega un equipo dirigido por médico, coordinado en todos sus componentes por Ronal Perdomo Lugo, APRN, FNP-C."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Cuánto dura el Paquete Transformación Total?",
+          "a": "La fase activa suele durar de tres a seis meses, según los componentes incluidos y los periodos de recuperación que requiera tu plan. Endolaser, bioestimuladores y combinaciones de armonización facial necesitan tiempo biológico entre sesiones. La fase de mantenimiento continúa después con una cadencia más ligera de retoques y sesiones de calidad de piel. El calendario completo se entrega por escrito en consulta para que sepas exactamente cómo queda tu agenda."
+        },
+        {
+          "q": "¿Qué incluye el paquete?",
+          "a": "Las inclusiones son personalizadas, pero un programa típico combina endolaser multizona, mesoterapia corporal y facial, armonización facial, un programa amplio de drenaje linfático, soporte con péptidos o pérdida de peso médica cuando está indicado, y un plan de mantenimiento definido. La lista exacta, el número de sesiones de cada componente y la secuencia se deciden en consulta y se confirman por escrito antes de reservar."
+        },
+        {
+          "q": "¿En qué se diferencia de reservar tratamientos por separado?",
+          "a": "La reserva individual optimiza cada tratamiento por sí mismo; el paquete optimiza el conjunto. La secuencia importa: peso antes que contorno, contorno antes que armonización facial dependiente de proporciones, bioestimuladores con tiempo suficiente antes de una fecha clave para que maduren. Un programa coordinado respeta esos tiempos biológicos, evita conflictos entre protocolos y libera al paciente de la carga de planificación."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

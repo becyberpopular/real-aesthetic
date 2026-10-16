@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "kybella",
+  "path": "/tratamientos/kybella/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/kybella.webp",
+  "ctaImage": "/img/proc/kybella.webp",
+  "head": {
+    "title": "Kybella — Reducción de Papada en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Kybella en Miami en Real Aesthetic. Ácido desoxicólico inyectable para disolver la grasa submentoniana y definir el perfil mandibular, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Kybella — Reducción de Papada en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Kybella en Miami en Real Aesthetic. Ácido desoxicólico inyectable para disolver la grasa submentoniana y definir el perfil mandibular, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/kybella/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/kybella.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Kybella — Reducción de Papada en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Kybella en Miami en Real Aesthetic. Ácido desoxicólico inyectable para disolver la grasa submentoniana y definir el perfil mandibular, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/kybella.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/kybella/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/kybella/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/kybella/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Kybella — Reducción de Papada en Miami",
+        "description": "Kybella en Miami en Real Aesthetic. Ácido desoxicólico inyectable para disolver la grasa submentoniana y definir el perfil mandibular, supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/kybella/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/kybella/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/kybella/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Duele Kybella?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hay una sensación de leve picor durante la inyección y una sensación cálida u hormigueo que cede en minutos. Aplicamos anestesia tópica antes de la sesión y hielo después, lo que hace la experiencia muy tolerable para la mayoría. La cita completa suele durar menos de una hora."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende del volumen de grasa submentoniana. La mayoría de los pacientes completa de 2 a 4 sesiones cada 4 a 6 semanas. Tras la consulta, Ronal Perdomo Lugo, APRN, FNP-C diseña un plan personalizado y explica los tiempos esperados según tu anatomía. Los resultados son progresivos — verás refinamiento entre sesiones."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo es la recuperación?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Es normal cierta hinchazón, leves hematomas y sensibilidad en la zona durante 1 a 5 días. La mayoría retoma su rutina al día siguiente. Evita ejercicio intenso 24–48 horas. El frío local ayuda y entregamos guía de cuidados tras cada sesión."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kybella — Reducción de Papada en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/kybella/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/kybella.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/kybella/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/kybella/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Kybella <em>en Miami</em>",
+    "lede": "Kybella es un tratamiento inyectable no quirúrgico que disuelve la grasa submentoniana para refinar el perfil del mentón y definir la mandíbula en pacientes con papada leve o moderada.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-kybella",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce de forma permanente la grasa submentoniana al completar la serie — las células grasas no se regeneran.",
+        "Refina el perfil mentón-mandíbula sin cirugía, sin liposucción y sin tiempo de recuperación.",
+        "Se realiza en consulta, aproximadamente 30–45 minutos por sesión.",
+        "Aporta un tercio inferior más esculpido y se complementa muy bien con perfilado mandibular o Botox masetero.",
+        "La mayoría de pacientes nota cambio visible tras 2 sesiones; la serie completa suele ser 2–4 sesiones cada 4–6 semanas.",
+        "Aprobado por la FDA para la reducción de grasa submentoniana moderada a severa en adultos."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Duele Kybella?",
+          "a": "Hay una sensación de leve picor durante la inyección y una sensación cálida u hormigueo que cede en minutos. Aplicamos anestesia tópica antes de la sesión y hielo después, lo que hace la experiencia muy tolerable para la mayoría. La cita completa suele durar menos de una hora."
+        },
+        {
+          "q": "¿Cuántas sesiones voy a necesitar?",
+          "a": "Depende del volumen de grasa submentoniana. La mayoría de los pacientes completa de 2 a 4 sesiones cada 4 a 6 semanas. Tras la consulta, Ronal Perdomo Lugo, APRN, FNP-C diseña un plan personalizado y explica los tiempos esperados según tu anatomía. Los resultados son progresivos — verás refinamiento entre sesiones."
+        },
+        {
+          "q": "¿Cómo es la recuperación?",
+          "a": "Es normal cierta hinchazón, leves hematomas y sensibilidad en la zona durante 1 a 5 días. La mayoría retoma su rutina al día siguiente. Evita ejercicio intenso 24–48 horas. El frío local ayuda y entregamos guía de cuidados tras cada sesión."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-kybella",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

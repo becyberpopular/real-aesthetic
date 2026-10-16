@@ -1,0 +1,425 @@
+{
+  "lang": "es",
+  "slug": "paquete-contorno-facial",
+  "path": "/tratamientos/paquete-contorno-facial/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/face-contour-package.webp",
+  "ctaImage": "/img/proc/face-contour-package.webp",
+  "head": {
+    "title": "Paquete Contorno Facial en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Programa firma de refinamiento facial en Miami: Botox, perfilado mandibular y Fotona 4D. Supervisión de Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Paquete Contorno Facial en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Programa firma de refinamiento facial en Miami: Botox, perfilado mandibular y Fotona 4D. Supervisión de Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/paquete-contorno-facial/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/face-contour-package.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Paquete Contorno Facial en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Programa firma de refinamiento facial en Miami: Botox, perfilado mandibular y Fotona 4D. Supervisión de Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/face-contour-package.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/paquete-contorno-facial/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/face-contour-package/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/paquete-contorno-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Paquete Contorno Facial",
+        "alternateName": "Programa firma de refinamiento facial",
+        "category": "Medical Spa — Paquete Signature (bundle curado)",
+        "serviceType": "Bundle curado de tratamientos estéticos complementarios",
+        "description": "Programa firma de refinamiento facial que combina Botox completo, perfilado mandibular con ácido hialurónico o Radiesse, y una sesión de Fotona 4D. Personalizado en consulta por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaesthetic.datagoldsolutions.com/tratamientos/paquete-contorno-facial",
+        "inLanguage": "es",
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Miami"
+          },
+          {
+            "@type": "Place",
+            "name": "Brickell"
+          },
+          {
+            "@type": "Place",
+            "name": "Coral Gables"
+          },
+          {
+            "@type": "Place",
+            "name": "Coconut Grove"
+          },
+          {
+            "@type": "Place",
+            "name": "Key Biscayne"
+          },
+          {
+            "@type": "Place",
+            "name": "Miami Beach"
+          },
+          {
+            "@type": "Place",
+            "name": "Aventura"
+          },
+          {
+            "@type": "Place",
+            "name": "Doral"
+          }
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Paquete Contorno Facial — tratamientos incluidos",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Botox completo facial",
+                "url": "https://realaesthetic.datagoldsolutions.com/tratamientos/botox-completo-facial"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Perfilado mandibular",
+                "url": "https://realaesthetic.datagoldsolutions.com/tratamientos/perfilado-mandibular"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Fotona 4D",
+                "url": "https://realaesthetic.datagoldsolutions.com/tratamientos/fotona-4d"
+              }
+            }
+          ]
+        },
+        "provider": {
+          "@type": "MedicalBusiness",
+          "name": "Real Aesthetic Medical Spa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Miami",
+            "addressRegion": "FL",
+            "addressCountry": "US"
+          },
+          "medicalSpecialty": "CosmeticSurgery",
+          "url": "https://realaesthetic.datagoldsolutions.com",
+          "priceRange": "$$$"
+        },
+        "performer": {
+          "@type": "Person",
+          "name": "Ronal Perdomo Lugo, APRN, FNP-C",
+          "medicalSpecialty": "CosmeticSurgery"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿El Paquete Contorno Facial tiene un precio fijo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. El paquete se personaliza en consulta. Ronal Perdomo Lugo, APRN, FNP-C recomienda los componentes, las dosis y el material de filler que mejor se ajustan a la anatomía y los objetivos del paciente. Tras la evaluación entregamos un presupuesto por escrito para que el paciente conozca con claridad qué incluye y la inversión prevista antes de programar los tratamientos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto dura el programa completo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El Paquete Contorno Facial se completa habitualmente en dos o tres visitas a lo largo de cuatro a seis semanas. Separamos las sesiones para respetar los tiempos óptimos de cada tratamiento, por ejemplo revisar el efecto del Botox a las dos semanas antes de afinar el contorno con filler si fuera necesario."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo sustituir alguno de los tratamientos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, dentro de criterio clínico. Si el paciente no es candidato a alguno de los componentes, o si su prioridad es distinta, Ronal Perdomo Lugo, APRN, FNP-C puede sustituirlo por otra opción adecuada de nuestro menú. Las sustituciones se deciden en consulta, nunca como upselling, y el valor del paquete se recalcula de forma transparente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Voy a tener un aspecto operado después del paquete?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Nuestra filosofía en este paquete es refinar, no transformar. El objetivo es una versión más descansada y mejor definida del propio rostro del paciente. Las dosis, los volúmenes de filler y la intensidad del láser se calibran para que el entorno note una mejora sin poder señalar un procedimiento concreto."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto duran los resultados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cada componente tiene su propia duración. El Botox dura tres a cuatro meses; el filler de ácido hialurónico mandibular nueve a 18 meses; Radiesse 12 a 18 meses; la remodelación de colágeno con Fotona 4D se prolonga tres a seis meses y suele renovarse una o dos veces al año. Proponemos un calendario de mantenimiento para que el contorno se mantenga estable."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay tiempo de recuperación?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El downtime es mínimo pero no inexistente. La mayoría de los pacientes retoma su actividad normal el mismo día. El filler puede provocar hinchazón leve dos a cinco días, Fotona 4D enrojecimiento moderado 24 a 48 horas y el Botox alguna marca puntual. Recomendamos programar el paquete al menos 10 a 14 días antes de un evento importante para que todo se asiente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Quién supervisa el paquete?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cada Paquete Contorno Facial está supervisado médicamente por Ronal Perdomo Lugo, APRN, FNP-C. Realiza la consulta, diseña el protocolo y aplica personalmente cada componente del paquete en nuestra clínica de Miami."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/tratamientos/paquete-contorno-facial/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Paquete Contorno Facial en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/paquete-contorno-facial/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/face-contour-package.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/face-contour-package/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/paquete-contorno-facial/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Paquete Contorno Facial <em>en Miami</em>",
+    "lede": "El Paquete Contorno Facial es nuestro programa firma de refinamiento facial en Miami: combina neuromodulador, perfilado mandibular y Fotona 4D dentro de un plan coordinado bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Coordina tres tratamientos complementarios en un único plan médico supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "Refina el contorno del tercio inferior y la línea mandibular mientras suaviza las líneas de expresión del tercio superior.",
+        "Aborda calidad de piel, flacidez, hidratación y tono dentro del mismo programa, no en visitas dispersas.",
+        "Plan personalizado en consulta: componentes, dosis y secuencia se ajustan a cada paciente.",
+        "Calendario optimizado pensado para pacientes que se desplazan desde Brickell, Coconut Grove o Aventura.",
+        "Inversión más eficiente que reservar cada tratamiento por separado al precio individual completo.",
+        "Incluye una revisión estructurada para afinar el resultado a las dos semanas."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "El refinamiento es progresivo. Fotona 4D produce luminosidad y mejora de tono visibles en pocos días; el Botox alcanza su efecto máximo hacia los 14 días; el perfilado mandibular muestra una definición inmediata que se asienta a lo largo de dos a cuatro semanas. El Botox dura habitualmente tres a cuatro meses; el filler de ácido hialurónico mandibular nueve a 18 meses; Radiesse 12 a 18 meses; la remodelación de colágeno con Fotona 4D continúa durante tres a seis meses. El plan de mantenimiento se incluye en el seguimiento."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿El Paquete Contorno Facial tiene un precio fijo?",
+          "a": "No. El paquete se personaliza en consulta. Ronal Perdomo Lugo, APRN, FNP-C recomienda los componentes, las dosis y el material de filler que mejor se ajustan a la anatomía y los objetivos del paciente. Tras la evaluación entregamos un presupuesto por escrito para que el paciente conozca con claridad qué incluye y la inversión prevista antes de programar los tratamientos."
+        },
+        {
+          "q": "¿Cuánto dura el programa completo?",
+          "a": "El Paquete Contorno Facial se completa habitualmente en dos o tres visitas a lo largo de cuatro a seis semanas. Separamos las sesiones para respetar los tiempos óptimos de cada tratamiento, por ejemplo revisar el efecto del Botox a las dos semanas antes de afinar el contorno con filler si fuera necesario."
+        },
+        {
+          "q": "¿Puedo sustituir alguno de los tratamientos?",
+          "a": "Sí, dentro de criterio clínico. Si el paciente no es candidato a alguno de los componentes, o si su prioridad es distinta, Ronal Perdomo Lugo, APRN, FNP-C puede sustituirlo por otra opción adecuada de nuestro menú. Las sustituciones se deciden en consulta, nunca como upselling, y el valor del paquete se recalcula de forma transparente."
+        },
+        {
+          "q": "¿Voy a tener un aspecto \"operado\" después del paquete?",
+          "a": "Nuestra filosofía en este paquete es refinar, no transformar. El objetivo es una versión más descansada y mejor definida del propio rostro del paciente. Las dosis, los volúmenes de filler y la intensidad del láser se calibran para que el entorno note una mejora sin poder señalar un procedimiento concreto."
+        },
+        {
+          "q": "¿Cuánto duran los resultados?",
+          "a": "Cada componente tiene su propia duración. El Botox dura tres a cuatro meses; el filler de ácido hialurónico mandibular nueve a 18 meses; Radiesse 12 a 18 meses; la remodelación de colágeno con Fotona 4D se prolonga tres a seis meses y suele renovarse una o dos veces al año. Proponemos un calendario de mantenimiento para que el contorno se mantenga estable."
+        },
+        {
+          "q": "¿Hay tiempo de recuperación?",
+          "a": "El downtime es mínimo pero no inexistente. La mayoría de los pacientes retoma su actividad normal el mismo día. El filler puede provocar hinchazón leve dos a cinco días, Fotona 4D enrojecimiento moderado 24 a 48 horas y el Botox alguna marca puntual. Recomendamos programar el paquete al menos 10 a 14 días antes de un evento importante para que todo se asiente."
+        },
+        {
+          "q": "¿Quién supervisa el paquete?",
+          "a": "Cada Paquete Contorno Facial está supervisado médicamente por Ronal Perdomo Lugo, APRN, FNP-C. Realiza la consulta, diseña el protocolo y aplica personalmente cada componente del paquete en nuestra clínica de Miami."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

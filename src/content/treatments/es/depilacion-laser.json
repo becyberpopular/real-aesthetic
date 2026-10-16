@@ -1,0 +1,385 @@
+{
+  "lang": "es",
+  "slug": "depilacion-laser",
+  "path": "/tratamientos/depilacion-laser/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/laser-hair-removal.webp",
+  "ctaImage": "/img/proc/laser-hair-removal.webp",
+  "head": {
+    "title": "Depilación láser en Miami con Fotona Nd:YAG",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Depilación láser Nd:YAG en Miami, segura para todos los fototipos incluidos IV-VI. Plan personalizado con Ronal Perdomo, APRN, FNP-C. Reserva tu evaluación."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Depilación láser en Miami con Fotona Nd:YAG"
+      },
+      {
+        "property": "og:description",
+        "content": "Depilación láser Nd:YAG en Miami, segura para todos los fototipos incluidos IV-VI. Plan personalizado con Ronal Perdomo, APRN, FNP-C. Reserva tu evaluación."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/depilacion-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-hair-removal.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Depilación láser en Miami con Fotona Nd:YAG"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Depilación láser Nd:YAG en Miami, segura para todos los fototipos incluidos IV-VI. Plan personalizado con Ronal Perdomo, APRN, FNP-C. Reserva tu evaluación."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-hair-removal.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/depilacion-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/laser-hair-removal/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/depilacion-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Depilación láser en Miami con Fotona Nd:YAG",
+        "description": "La depilación láser es un protocolo médico-estético con láser Nd:YAG de pulso largo que ofrece una reducción duradera del vello no deseado, con parámetros seguros para todos los tonos de piel, incluidos los fototipos IV, V y VI.",
+        "url": "https://realaestheticmedspa.com/tratamientos/depilacion-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/depilacion-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/depilacion-laser/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿La depilación láser es segura en piel oscura?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cuando se realiza con láser Nd:YAG de pulso largo. La longitud de onda de 1064 nm rodea la melanina superficial y alcanza el folículo sin sobrecalentar la piel circundante, motivo por el que es el sistema de elección en fototipos IV a VI. Ronal Perdomo, APRN, FNP-C valora personalmente el fototipo y la exposición solar reciente antes de cada sesión en nuestra clínica de Miami."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Un ciclo habitual son seis a ocho sesiones, cada cuatro a ocho semanas según la zona corporal. El perfil hormonal, la etnia y el grosor del vello influyen en el número final. Muchos pacientes añaden una sesión de mantenimiento cada seis a doce meses para controlar los folículos reactivados por cambios hormonales. Documentamos cada visita para revisar el protocolo de forma objetiva."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La depilación láser es permanente?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El término preciso es reducción duradera. La mayoría disfruta de una disminución sustancial y prolongada de la densidad de vello, pero ningún láser garantiza una eliminación permanente de cada folículo, ya que cambios hormonales pueden activar después folículos dormantes. Hablamos de expectativas realistas en la consulta y documentamos la densidad inicial con fotografías clínicas."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Depilación láser en Miami con Fotona Nd:YAG",
+            "item": "https://realaestheticmedspa.com/tratamientos/depilacion-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/laser-hair-removal.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/laser-hair-removal/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/depilacion-laser/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Depilación láser en Miami con <em>Fotona Nd:YAG</em>",
+    "lede": "La depilación láser es un protocolo médico-estético con láser Nd:YAG de pulso largo que ofrece una reducción duradera del vello no deseado, con parámetros seguros para todos los tonos de piel, incluidos los fototipos IV, V y VI.",
+    "multi": {
+      "label": "Reserva por zona",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-armpits-women",
+          "label": "Axilas",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-upper-lip-women",
+          "label": "Bigote",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-bikini-women",
+          "label": "Bikini",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-legs-women",
+          "label": "Piernas",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-full-beard-men",
+          "label": "Barba completa",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-beard-design-men",
+          "label": "Diseño de barba",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-back-men",
+          "label": "Espalda",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Ofrece una reducción duradera del vello en todos los fototipos, incluidos IV, V y VI.",
+        "Disminuye los pelos enquistados y la foliculitis crónica que aparece tras el afeitado o la cera en zonas de vello grueso.",
+        "Refina el aspecto de axilas, ingles, piernas, espalda, pecho y zonas faciales con una sola plataforma.",
+        "Evita la incomodidad, el ciclo de regrowth y la irritación cutánea de las rutinas de depilación semanales.",
+        "Mejora la higiene y el confort tras el ejercicio en un clima tropical donde la piel suda y se irrita con más facilidad.",
+        "Compatible con zonas sensibles como el labio superior, el mentón, la línea mandibular y las ingles cuando lo realiza personal entrenado.",
+        "Se realiza bajo supervisión médica, con documentación de cada sesión para una trazabilidad completa."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿La depilación láser es segura en piel oscura?",
+          "a": "Sí, cuando se realiza con láser Nd:YAG de pulso largo. La longitud de onda de 1064 nm rodea la melanina superficial y alcanza el folículo sin sobrecalentar la piel circundante, motivo por el que es el sistema de elección en fototipos IV a VI. Ronal Perdomo, APRN, FNP-C valora personalmente el fototipo y la exposición solar reciente antes de cada sesión en nuestra clínica de Miami."
+        },
+        {
+          "q": "¿Cuántas sesiones voy a necesitar?",
+          "a": "Un ciclo habitual son seis a ocho sesiones, cada cuatro a ocho semanas según la zona corporal. El perfil hormonal, la etnia y el grosor del vello influyen en el número final. Muchos pacientes añaden una sesión de mantenimiento cada seis a doce meses para controlar los folículos reactivados por cambios hormonales. Documentamos cada visita para revisar el protocolo de forma objetiva."
+        },
+        {
+          "q": "¿La depilación láser es permanente?",
+          "a": "El término preciso es reducción duradera. La mayoría disfruta de una disminución sustancial y prolongada de la densidad de vello, pero ningún láser garantiza una eliminación permanente de cada folículo, ya que cambios hormonales pueden activar después folículos dormantes. Hablamos de expectativas realistas en la consulta y documentamos la densidad inicial con fotografías clínicas."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Habla con nuestro equipo sobre un plan Nd:YAG personalizado bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
+    "multi": {
+      "label": "Reserva por zona",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-armpits-women",
+          "label": "Axilas",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-upper-lip-women",
+          "label": "Bigote",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-bikini-women",
+          "label": "Bikini",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-legs-women",
+          "label": "Piernas",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-full-beard-men",
+          "label": "Barba completa",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-beard-design-men",
+          "label": "Diseño de barba",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-hair-removal-back-men",
+          "label": "Espalda",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

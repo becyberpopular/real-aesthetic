@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "fotona-eliminacion-verrugas",
+  "path": "/tratamientos/fotona-eliminacion-verrugas/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/fotona-wart-removal.webp",
+  "ctaImage": "/img/proc/fotona-wart-removal.webp",
+  "head": {
+    "title": "Fotona — Eliminación de Verrugas en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Eliminación de verrugas con láser Fotona en Miami en Real Aesthetic. Retiro preciso de verrugas comunes y lesiones cutáneas benignas, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona — Eliminación de Verrugas en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Eliminación de verrugas con láser Fotona en Miami en Real Aesthetic. Retiro preciso de verrugas comunes y lesiones cutáneas benignas, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/fotona-eliminacion-verrugas/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-wart-removal.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona — Eliminación de Verrugas en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Eliminación de verrugas con láser Fotona en Miami en Real Aesthetic. Retiro preciso de verrugas comunes y lesiones cutáneas benignas, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-wart-removal.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-eliminacion-verrugas/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-wart-removal/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-eliminacion-verrugas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona — Eliminación de Verrugas en Miami",
+        "description": "Eliminación de verrugas con láser Fotona en Miami en Real Aesthetic. Retiro preciso de verrugas comunes y lesiones cutáneas benignas, supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/fotona-eliminacion-verrugas/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/fotona-eliminacion-verrugas/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/fotona-eliminacion-verrugas/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Deja cicatriz?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La cicatriz es significativamente menos frecuente que con electrocauterio o exéresis quirúrgica porque el láser ablata capa a capa con control preciso. Seguir las pautas — cuidado suave de la herida, protección solar, no rascar — favorece una cicatrización limpia. Algunas lesiones pueden dejar una marca pequeña que se desvanece con los meses."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría se resuelve en 1–3 sesiones. Las verrugas plantares y las lesiones grandes pueden requerir más. Lo evaluamos y planificamos en consulta. Las sesiones se separan 3–4 semanas para permitir la recuperación de la piel."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es doloroso?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hay sensación breve de picor durante los disparos láser. Aplicamos anestesia tópica antes y la molestia es bien tolerada. Tras la sesión puede haber sensación de calor leve que cede en horas."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona — Eliminación de Verrugas en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/fotona-eliminacion-verrugas/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-wart-removal.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/fotona-eliminacion-verrugas/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-wart-removal/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Fotona Eliminación de Verrugas <em>en Miami</em>",
+    "lede": "El láser Er:YAG de Fotona ablata con precisión verrugas comunes y pequeñas lesiones cutáneas benignas en una a tres sesiones, con mínima cicatriz y cicatrización limpia.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-wart-removal",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Elimina verrugas comunes (verruca vulgaris), plantares y otras lesiones cutáneas benignas.",
+        "Alta precisión — solo se trata la lesión, la piel circundante se preserva.",
+        "La mayoría se resuelve en 1–3 sesiones según tamaño, profundidad y localización.",
+        "Procedimiento en consulta de 15–30 minutos por sesión.",
+        "Tasa de recurrencia más baja que crioterapia en muchos casos y mínima cicatriz con cuidados correctos.",
+        "Apto para cara, manos, pies y otras zonas donde importa la precisión."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Deja cicatriz?",
+          "a": "La cicatriz es significativamente menos frecuente que con electrocauterio o exéresis quirúrgica porque el láser ablata capa a capa con control preciso. Seguir las pautas — cuidado suave de la herida, protección solar, no rascar — favorece una cicatrización limpia. Algunas lesiones pueden dejar una marca pequeña que se desvanece con los meses."
+        },
+        {
+          "q": "¿Cuántas sesiones voy a necesitar?",
+          "a": "La mayoría se resuelve en 1–3 sesiones. Las verrugas plantares y las lesiones grandes pueden requerir más. Lo evaluamos y planificamos en consulta. Las sesiones se separan 3–4 semanas para permitir la recuperación de la piel."
+        },
+        {
+          "q": "¿Es doloroso?",
+          "a": "Hay sensación breve de picor durante los disparos láser. Aplicamos anestesia tópica antes y la molestia es bien tolerada. Tras la sesión puede haber sensación de calor leve que cede en horas."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-wart-removal",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

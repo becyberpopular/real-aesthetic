@@ -10,6 +10,8 @@ export const getRouter = () => {
     context: { queryClient },
     scrollRestoration: true,
     defaultPreloadStaleTime: 0,
+    // Every URL on the original site ends with a slash (/sobre/, /procedures/sculptra/).
+    trailingSlash: "always",
   });
 
   return router;

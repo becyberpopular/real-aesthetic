@@ -1,0 +1,383 @@
+{
+  "lang": "en",
+  "slug": "full-face-botox",
+  "path": "/procedures/full-face-botox/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/full-face-botox.webp",
+  "ctaImage": "/img/proc/full-face-botox.webp",
+  "head": {
+    "title": "Full Face Botox in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Full face Botox in Miami at Real Aesthetic. Upper, mid, and lower face neuromodulator protocol provided by Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner)"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Full Face Botox in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Full face Botox in Miami at Real Aesthetic. Upper, mid, and lower face neuromodulator protocol provided by Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner)"
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/full-face-botox/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/full-face-botox.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Full Face Botox in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Full face Botox in Miami at Real Aesthetic. Upper, mid, and lower face neuromodulator protocol provided by Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner)"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/full-face-botox.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/full-face-botox/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/full-face-botox/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-completo-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Full Face Botox",
+        "alternateName": "Full face neuromodulator (onabotulinumtoxinA)",
+        "description": "Comprehensive neuromodulator protocol that softens dynamic lines across the upper, mid, and lower face including frown, forehead, crow's feet, bunny lines, and chin dimpling.",
+        "bodyLocation": "Face (upper, mid, and lower thirds)",
+        "procedureType": "Non-surgical injectable",
+        "preparation": "Avoid blood-thinning medication and alcohol 24 hours prior when medically possible. Arrive with clean skin, no makeup at the treatment areas.",
+        "followup": "Two-week clinical review for response assessment and adjustment if needed.",
+        "howPerformed": "Facial mapping in repose and animation, antiseptic preparation, precise micro-injections of onabotulinumtoxinA into pre-marked muscle points across the upper, mid, and lower face.",
+        "url": "https://realaestheticmedspa.com/procedures/full-face-botox/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/full-face-botox/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How long does full face Botox last?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The aesthetic effect of full face Botox typically lasts three to four months. Onset begins around day three to five, with peak result at about two weeks. Duration depends on metabolism, dose, treated muscles, and lifestyle."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will full face Botox make my face look frozen?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A correctly dosed full face protocol should not freeze your expression. We favour softening rather than paralysis and individualise dose to muscle strength and asymmetry, with adjustment at the two-week review if needed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does full face Botox hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients describe injections as a brief pinch lasting one to two seconds per point. We use ultrafine needles and cold compresses; the full session lasts about 20 to 30 minutes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When can I exercise after the treatment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Avoid strenuous exercise, hot yoga, saunas, and steam rooms for 24 hours. Light walking is acceptable the same day to support proper neuromodulator diffusion and reduce bruising risk."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can full face Botox treat chin dimpling?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. A precise dose into the mentalis muscle softens the orange-peel chin texture and is commonly included in a full face plan when texture is visible at rest or while speaking."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is full face Botox safe?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "OnabotulinumtoxinA has decades of clinical data when administered by qualified physicians. Side effects are usually mild and transient; serious events are uncommon. Full medical consultation is required."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is full face Botox different from a single-area session?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A single-area session targets one muscle group; the full face protocol coordinates dose across the upper, mid, and lower thirds so the face moves harmoniously without untreated areas appearing comparatively more active."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/full-face-botox/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Full Face Botox in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/full-face-botox/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/full-face-botox.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/full-face-botox/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/botox-completo-facial/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Full Face Botox <em>in Miami</em>",
+    "lede": "Full face Botox is a comprehensive neuromodulator protocol that softens dynamic lines across the upper, mid, and lower face in a single, carefully mapped session at our Miami clinic.",
+    "multi": {
+      "label": "Book by indication",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-full-face",
+          "label": "Full face",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+          "label": "Bruxism (masseter)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+          "label": "Hyperhidrosis",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Softens frown lines, forehead creases, crow's feet, and bunny lines in a single coordinated session.",
+        "Refines chin texture by relaxing the mentalis muscle that creates the \"orange peel\" dimpling.",
+        "Supports a balanced, rested appearance without freezing natural expression when correctly dosed.",
+        "Helps prevent the deepening of dynamic wrinkles when used preventively in younger patients.",
+        "Quick session of approximately 20 to 30 minutes that fits easily into a Brickell or Coral Gables work day.",
+        "Minimal downtime — most patients return to normal activity the same afternoon.",
+        "Predictable, reversible effect that wears off gradually over three to four months."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How long does full face Botox last?",
+          "a": "The aesthetic effect of full face Botox typically lasts three to four months. Onset begins around day three to five, with the peak result visible at about two weeks. Duration depends on individual metabolism, the muscle groups treated, the dose used, and lifestyle factors such as intense exercise. A maintenance plan every three to four months helps sustain a steady, refined appearance."
+        },
+        {
+          "q": "Will full face Botox make my face look frozen?",
+          "a": "A correctly dosed full face protocol should not freeze your expression. Our approach favours a softening rather than paralysing strategy, with dose individualised to muscle strength and asymmetry. Patients keep their natural smile, lift, and animation while dynamic lines are visibly attenuated. If the response is too strong or asymmetric at the two-week review, we adjust at that visit."
+        },
+        {
+          "q": "Does full face Botox hurt?",
+          "a": "Most patients describe the injections as a brief pinch lasting one or two seconds per point. We use an ultrafine needle and apply cold compresses to improve comfort. Topical anesthetic is rarely needed for full face Botox and is offered when patient sensitivity warrants it. The full session lasts about 20 to 30 minutes and is typically well tolerated."
+        },
+        {
+          "q": "When can I exercise after the treatment?",
+          "a": "We recommend avoiding strenuous exercise, hot yoga, saunas, and steam rooms for 24 hours after the session. Light walking is acceptable the same day. Avoiding intense exertion supports proper diffusion of the neuromodulator into the targeted muscle and reduces the small risk of bruising at the injection points."
+        },
+        {
+          "q": "Can full face Botox treat chin dimpling?",
+          "a": "Yes. The chin's \"orange peel\" or pebbled texture is caused by overactivity of the mentalis muscle. A small, precise dose of neuromodulator into the mentalis softens the dimpling and gives the chin a smoother surface. This area is commonly included in a full face plan when the patient shows visible chin texture at rest or while speaking."
+        },
+        {
+          "q": "Is full face Botox safe?",
+          "a": "OnabotulinumtoxinA has decades of clinical data and is widely used in aesthetic medicine when administered by qualified physicians. Side effects are usually mild and transient. Serious events are uncommon. Safety depends on accurate anatomical planning, appropriate dose, and patient selection — the reasons we require a full medical consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner)"
+        },
+        {
+          "q": "How is full face Botox different from a single-area session?",
+          "a": "A single-area session targets one muscle group, for example the frown alone. A full face protocol coordinates dose distribution across the upper, mid, and lower thirds so the face moves harmoniously. Treating only one area can occasionally make untreated areas appear relatively more active. The full face plan addresses this by balancing the entire facial expression."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised full face neuromodulator plan.",
+    "multi": {
+      "label": "Book by indication",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-full-face",
+          "label": "Full face",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+          "label": "Bruxism (masseter)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+          "label": "Hyperhidrosis",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

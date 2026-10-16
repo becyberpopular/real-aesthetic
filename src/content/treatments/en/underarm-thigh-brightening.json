@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "underarm-thigh-brightening",
+  "path": "/procedures/underarm-thigh-brightening/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/underarm-thigh-brightening.webp",
+  "ctaImage": "/img/proc/underarm-thigh-brightening.webp",
+  "head": {
+    "title": "Underarm and Inner Thigh Brightening in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Medical mesotherapy for hyperpigmentation in underarms, inner thighs and inguinal folds in Miami. Tranexamic acid and glutathione protocol with maintenance plan."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Underarm and Inner Thigh Brightening in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Medical mesotherapy for hyperpigmentation in underarms, inner thighs and inguinal folds in Miami. Tranexamic acid and glutathione protocol with maintenance plan."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/underarm-thigh-brightening/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/underarm-thigh-brightening.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Underarm and Inner Thigh Brightening in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Medical mesotherapy for hyperpigmentation in underarms, inner thighs and inguinal folds in Miami. Tranexamic acid and glutathione protocol with maintenance plan."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/underarm-thigh-brightening.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/underarm-thigh-brightening/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/underarm-thigh-brightening/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/aclarado-axilas-ingles/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Underarm and Inner Thigh Brightening in Miami",
+        "description": "Underarm and inner thigh brightening is a medical mesotherapy protocol that addresses hyperpigmentation of the underarms, inner thighs and inguinal folds through a delicate cocktail of tranexamic acid and glutathione, performed in a private clinical setting in Miami with a structured maintenance plan.",
+        "url": "https://realaestheticmedspa.com/procedures/underarm-thigh-brightening/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/underarm-thigh-brightening/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/underarm-thigh-brightening/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why are my underarms and inner thighs darker than the surrounding skin?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "These zones are subject to chronic friction and repeated depilation, both of which trigger low-grade inflammation that the skin reacts to with extra pigment. Hormonal influences (thyroid issues, insulin resistance, pregnancy) can also create acanthosis-nigricans-type changes in the same areas. Most patients have a combination of these causes, which is why we address them together rather than just bleaching the surface."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will laser hair removal alone fix the pigmentation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Laser hair removal will reduce one of the major causes — repeated depilation and ingrown hairs — and, over time, the area often becomes lighter on its own. However, established pigmentation usually needs an active protocol to be attenuated. Combining laser hair removal with mesotherapy gives faster, more consistent results and protects them long term."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A standard protocol includes four to six sessions, three to four weeks apart, followed by a maintenance session every three to four months. The exact number depends on how dark the area is, your skin phototype and how the area responds. We re-evaluate after the second session to make sure the plan matches your skin and your goals."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Underarm and Inner Thigh Brightening in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/underarm-thigh-brightening/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/underarm-thigh-brightening.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/underarm-thigh-brightening/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/aclarado-axilas-ingles/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Underarm and Inner Thigh Brightening <em>in Miami</em>",
+    "lede": "Underarm and inner thigh brightening is a medical mesotherapy protocol that addresses hyperpigmentation of the underarms, inner thighs and inguinal folds through a delicate cocktail of tranexamic acid and glutathione, performed in a private clinical setting in Miami with a structured maintenance plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Attenuates hyperpigmentation in the underarms, inner thighs and inguinal folds.",
+        "Targets the pigment-forming pathway from within, reaching depths topical creams cannot.",
+        "Avoids harsh bleaching agents and supports the skin barrier rather than thinning it.",
+        "Pairs effectively with laser hair removal to address the depilation-driven cause of new pigmentation.",
+        "Includes patient education on friction, depilation and hormonal triggers as part of the plan.",
+        "Suitable for a wide range of skin tones when supervised by a qualified medical team.",
+        "Offers a structured maintenance plan to keep the area stable over time."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Why are my underarms and inner thighs darker than the surrounding skin?",
+          "a": "These zones are subject to chronic friction and repeated depilation, both of which trigger low-grade inflammation that the skin reacts to with extra pigment. Hormonal influences (thyroid issues, insulin resistance, pregnancy) can also create acanthosis-nigricans-type changes in the same areas. Most patients have a combination of these causes, which is why we address them together rather than just bleaching the surface."
+        },
+        {
+          "q": "Will laser hair removal alone fix the pigmentation?",
+          "a": "Laser hair removal will reduce one of the major causes — repeated depilation and ingrown hairs — and, over time, the area often becomes lighter on its own. However, established pigmentation usually needs an active protocol to be attenuated. Combining laser hair removal with mesotherapy gives faster, more consistent results and protects them long term."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "A standard protocol includes four to six sessions, three to four weeks apart, followed by a maintenance session every three to four months. The exact number depends on how dark the area is, your skin phototype and how the area responds. We re-evaluate after the second session to make sure the plan matches your skin and your goals."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a private consultation at Real Aesthetic Medical Spa for a medical assessment and a personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

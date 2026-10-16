@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "botox-hiperhidrosis",
+  "path": "/tratamientos/botox-hiperhidrosis/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/botox-hyperhidrosis.webp",
+  "ctaImage": "/img/proc/botox-hyperhidrosis.webp",
+  "head": {
+    "title": "Botox para Hiperhidrosis en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Toxina botulínica para hiperhidrosis axilar en Miami en Real Aesthetic. Control eficaz del exceso de sudoración, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Botox para Hiperhidrosis en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Toxina botulínica para hiperhidrosis axilar en Miami en Real Aesthetic. Control eficaz del exceso de sudoración, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/botox-hiperhidrosis/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/botox-hyperhidrosis.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Botox para Hiperhidrosis en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Toxina botulínica para hiperhidrosis axilar en Miami en Real Aesthetic. Control eficaz del exceso de sudoración, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/botox-hyperhidrosis.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-hiperhidrosis/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/botox-hyperhidrosis/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-hiperhidrosis/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Botox para Hiperhidrosis en Miami",
+        "description": "Toxina botulínica para hiperhidrosis axilar en Miami en Real Aesthetic. Control eficaz del exceso de sudoración, supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/botox-hiperhidrosis/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/botox-hiperhidrosis/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/botox-hiperhidrosis/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿En cuánto tiempo noto menos sudoración?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría nota una reducción clara entre los 4 y 7 días, con efecto completo hacia las 2 semanas. La sequedad se mantiene estable 6–9 meses de media, momento en el que se repite. Repetir una o dos veces al año es la cadencia habitual."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Afecta a la regulación normal de la temperatura corporal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. El tratamiento es local en las glándulas sudoríparas axilares. El resto del cuerpo sigue regulando la temperatura con normalidad. Solo se trata la zona seleccionada y la dosis se calibra según la superficie cartografiada antes de inyectar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede usar también en manos o pies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, aunque la axila es la indicación más frecuente y con más evidencia. Manos y plantas también pueden tratarse para hiperhidrosis con toxina botulínica. Esas zonas son más sensibles y solemos planificar una sesión específica con anestesia local para mayor comodidad."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Botox para Hiperhidrosis en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/botox-hiperhidrosis/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/botox-hyperhidrosis.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/botox-hiperhidrosis/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/botox-hyperhidrosis/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Botox para Hiperhidrosis <em>en Miami</em>",
+    "lede": "Aplicación de toxina botulínica en la axila (uso aprobado por la FDA) que bloquea las glándulas sudoríparas responsables del exceso de sudoración, manteniendo control fiable 6–9 meses por sesión.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce de forma marcada el exceso de sudoración axilar (hiperhidrosis) en 1–2 semanas.",
+        "Cada sesión suele dar 6–9 meses de control consistente.",
+        "Elimina la ansiedad diaria por manchas en la ropa, fotos o eventos sociales.",
+        "Se realiza en una sola sesión de unos 30 minutos — sin cirugía, sin recuperación.",
+        "Indicación aprobada por la FDA para hiperhidrosis axilar primaria.",
+        "Compatible con otros tratamientos estéticos en el mismo protocolo cuando procede."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿En cuánto tiempo noto menos sudoración?",
+          "a": "La mayoría nota una reducción clara entre los 4 y 7 días, con efecto completo hacia las 2 semanas. La sequedad se mantiene estable 6–9 meses de media, momento en el que se repite. Repetir una o dos veces al año es la cadencia habitual."
+        },
+        {
+          "q": "¿Afecta a la regulación normal de la temperatura corporal?",
+          "a": "No. El tratamiento es local en las glándulas sudoríparas axilares. El resto del cuerpo sigue regulando la temperatura con normalidad. Solo se trata la zona seleccionada y la dosis se calibra según la superficie cartografiada antes de inyectar."
+        },
+        {
+          "q": "¿Se puede usar también en manos o pies?",
+          "a": "Sí, aunque la axila es la indicación más frecuente y con más evidencia. Manos y plantas también pueden tratarse para hiperhidrosis con toxina botulínica. Esas zonas son más sensibles y solemos planificar una sesión específica con anestesia local para mayor comodidad."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

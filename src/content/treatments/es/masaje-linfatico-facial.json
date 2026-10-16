@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "masaje-linfatico-facial",
+  "path": "/tratamientos/masaje-linfatico-facial/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/lymphatic-facial-massage.webp",
+  "ctaImage": "/img/proc/lymphatic-facial-massage.webp",
+  "head": {
+    "title": "Masaje linfático facial en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Drenaje linfático manual del rostro en Miami. Sesión relajante de 30 minutos para post-rellenos, post-Botox, retención de líquidos y luminosidad pre-evento."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Masaje linfático facial en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Drenaje linfático manual del rostro en Miami. Sesión relajante de 30 minutos para post-rellenos, post-Botox, retención de líquidos y luminosidad pre-evento."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-facial/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-facial-massage.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Masaje linfático facial en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Drenaje linfático manual del rostro en Miami. Sesión relajante de 30 minutos para post-rellenos, post-Botox, retención de líquidos y luminosidad pre-evento."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-facial-massage.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-facial/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-facial-massage/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Masaje linfático facial en Miami",
+        "description": "El masaje linfático facial es una técnica manual suave que moviliza el líquido linfático a través de los vasos superficiales del rostro para reducir la hinchazón, apoyar la recuperación tras rellenos o Botox y aportar luminosidad pre-evento, en una sesión relajante de 30 minutos realizada por terapeutas formados en nuestra clínica de Miami.",
+        "url": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-facial/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-facial/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-facial/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Es seguro el masaje linfático facial tras un relleno?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cuando se planifica el momento adecuado. El relleno necesita asentarse en las primeras 24 a 48 horas; a partir de ahí, el drenaje linfático suave puede ayudar a resolver edema y hematoma. Coordinamos la sesión con el médico prescriptor y evitamos cualquier presión directa sobre los puntos de inyección hasta que el producto se ha integrado. La técnica es ligera y respeta la posición del relleno."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puede mover o afectar al Botox?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, si se respeta el protocolo postprocedimiento del médico prescriptor. El Botox necesita las primeras horas para fijarse a su diana; en esa ventana evitamos el masaje sobre los músculos tratados. Pasada la ventana indicada, el drenaje linfático suave se realiza con seguridad. La terapeuta sigue las instrucciones de tu médico y adapta la sesión al momento de tu última visita de neuromodulador."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es lo mismo que un masaje facial habitual?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. El masaje facial estándar utiliza presión más firme dirigida al músculo y al tejido conectivo. El drenaje linfático utiliza un toque muy ligero, lento y direccional pensado para movilizar líquido en el sistema linfático superficial, que está justo bajo la piel. Persiguen objetivos distintos: relajación muscular frente a drenaje de líquido. Usamos la técnica linfática específicamente para hinchazón, edema postprocedimiento y luminosidad pre-evento."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Masaje linfático facial en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-facial/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/lymphatic-facial-massage.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/lymphatic-facial-massage/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/masaje-linfatico-facial/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Masaje linfático facial <em>en Miami</em>",
+    "lede": "El masaje linfático facial es una técnica manual suave que moviliza el líquido linfático a través de los vasos superficiales del rostro para reducir la hinchazón, apoyar la recuperación tras rellenos o Botox y aportar luminosidad pre-evento, en una sesión relajante de 30 minutos realizada por terapeutas formados en nuestra clínica de Miami.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce la hinchazón en zona ocular, pómulos y mandíbula al movilizar el líquido intersticial estancado.",
+        "Apoya la recuperación tras rellenos dérmicos al ayudar a resolver edema y hematoma postinyección.",
+        "Apoya la recuperación tras Botox u otros neuromoduladores al aliviar la sensación de tensión los primeros días.",
+        "Aporta una apariencia más luminosa y descansada antes de una boda, sesión fotográfica, actuación u otro evento.",
+        "Alivia la sensación de pesadez facial y la retención de líquidos que algunas pacientes notan al despertar o durante el ciclo menstrual.",
+        "Genera un estado de relajación profunda gracias al ritmo lento y constante de las maniobras.",
+        "No deja marcas ni requiere recuperación: la paciente vuelve a su día inmediatamente después."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Es seguro el masaje linfático facial tras un relleno?",
+          "a": "Sí, cuando se planifica el momento adecuado. El relleno necesita asentarse en las primeras 24 a 48 horas; a partir de ahí, el drenaje linfático suave puede ayudar a resolver edema y hematoma. Coordinamos la sesión con el médico prescriptor y evitamos cualquier presión directa sobre los puntos de inyección hasta que el producto se ha integrado. La técnica es ligera y respeta la posición del relleno."
+        },
+        {
+          "q": "¿Puede mover o afectar al Botox?",
+          "a": "No, si se respeta el protocolo postprocedimiento del médico prescriptor. El Botox necesita las primeras horas para fijarse a su diana; en esa ventana evitamos el masaje sobre los músculos tratados. Pasada la ventana indicada, el drenaje linfático suave se realiza con seguridad. La terapeuta sigue las instrucciones de tu médico y adapta la sesión al momento de tu última visita de neuromodulador."
+        },
+        {
+          "q": "¿Es lo mismo que un masaje facial habitual?",
+          "a": "No. El masaje facial estándar utiliza presión más firme dirigida al músculo y al tejido conectivo. El drenaje linfático utiliza un toque muy ligero, lento y direccional pensado para movilizar líquido en el sistema linfático superficial, que está justo bajo la piel. Persiguen objetivos distintos: relajación muscular frente a drenaje de líquido. Usamos la técnica linfática específicamente para hinchazón, edema postprocedimiento y luminosidad pre-evento."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una sesión de masaje linfático facial de 30 minutos en Real Aesthetic Medical Spa, Miami, antes de tu próximo evento o tras tu último procedimiento.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

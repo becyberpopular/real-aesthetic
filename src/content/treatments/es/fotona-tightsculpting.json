@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "fotona-tightsculpting",
+  "path": "/tratamientos/fotona-tightsculpting/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/fotona-tightsculpting.webp",
+  "ctaImage": "/img/proc/fotona-tightsculpting.webp",
+  "head": {
+    "title": "Fotona TightSculpting en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona TightSculpting en Miami en Real Aesthetic. Láser corporal de doble longitud para tensar piel y reducir grasa localizada. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona TightSculpting en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona TightSculpting en Miami en Real Aesthetic. Láser corporal de doble longitud para tensar piel y reducir grasa localizada. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/fotona-tightsculpting/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-tightsculpting.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona TightSculpting en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona TightSculpting en Miami en Real Aesthetic. Láser corporal de doble longitud para tensar piel y reducir grasa localizada. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-tightsculpting.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-tightsculpting/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-tightsculpting/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-tightsculpting/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona TightSculpting en Miami",
+        "description": "Fotona TightSculpting en Miami en Real Aesthetic. Láser corporal de doble longitud para tensar piel y reducir grasa localizada. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/fotona-tightsculpting/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/fotona-tightsculpting/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/fotona-tightsculpting/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Es parecido a CoolSculpting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ambos trabajan grasa y piel, pero con física diferente. CoolSculpting congela la grasa (criolipólisis). TightSculpting usa calor — energía láser que calienta la capa adiposa y contrae colágeno al mismo tiempo. Es adecuado para quien quiere tensar y reducir grasa en un mismo protocolo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones hasta ver cambio?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría empieza a notar cambio tras 2 sesiones. El resultado completo se desarrolla en 8–12 semanas a medida que el colágeno se reorganiza y el cuerpo elimina las células grasas tratadas por metabolismo normal. El protocolo completo suele ser 4 sesiones."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay recuperación?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mínima. Es normal cierto enrojecimiento y calor en la zona durante algunas horas. Puedes retomar actividad normal el mismo día. Recomendamos evitar exposición solar intensa unos días y usar protector solar como parte del cuidado habitual."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona TightSculpting en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/fotona-tightsculpting/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-tightsculpting.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/fotona-tightsculpting/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-tightsculpting/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Fotona TightSculpting <em>en Miami</em>",
+    "lede": "TightSculpting combina el calentamiento subdérmico PIANO Nd:YAG de Fotona con la resurfacing fraccionada Er:YAG para tensar la piel del cuerpo y reducir grasa localizada sin agujas.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-tightsculpting",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Tensa la piel laxa del cuerpo en abdomen, flancos, brazos y muslos internos.",
+        "Reduce grasa localizada mediante hipertermia controlada del tejido adiposo.",
+        "Mejora textura y tono de la piel en la misma sesión que el protocolo de tensado.",
+        "No invasivo — sin liposucción, sin agujas, sin incisiones.",
+        "Cada sesión dura 45–90 minutos según la zona; protocolo habitual de 4 sesiones cada 2–4 semanas.",
+        "Se combina muy bien con endoláser, drenaje linfático o mesoterapia en un programa corporal."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Es parecido a CoolSculpting?",
+          "a": "Ambos trabajan grasa y piel, pero con física diferente. CoolSculpting congela la grasa (criolipólisis). TightSculpting usa calor — energía láser que calienta la capa adiposa y contrae colágeno al mismo tiempo. Es adecuado para quien quiere tensar y reducir grasa en un mismo protocolo."
+        },
+        {
+          "q": "¿Cuántas sesiones hasta ver cambio?",
+          "a": "La mayoría empieza a notar cambio tras 2 sesiones. El resultado completo se desarrolla en 8–12 semanas a medida que el colágeno se reorganiza y el cuerpo elimina las células grasas tratadas por metabolismo normal. El protocolo completo suele ser 4 sesiones."
+        },
+        {
+          "q": "¿Hay recuperación?",
+          "a": "Mínima. Es normal cierto enrojecimiento y calor en la zona durante algunas horas. Puedes retomar actividad normal el mismo día. Recomendamos evitar exposición solar intensa unos días y usar protector solar como parte del cuidado habitual."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-tightsculpting",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

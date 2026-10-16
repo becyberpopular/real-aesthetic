@@ -1,0 +1,257 @@
+{
+  "lang": "es",
+  "slug": "skinboosters",
+  "path": "/tratamientos/skinboosters/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/skin-boosters.webp",
+  "ctaImage": "/img/proc/skin-boosters.webp",
+  "head": {
+    "title": "Skinboosters en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Skinboosters en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/skinboosters/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-boosters.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Skinboosters en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-boosters.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/skinboosters/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/skin-boosters/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/skinboosters/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Skinboosters en Miami",
+        "description": "Los skinboosters en Real Aesthetic Medical Spa, en Miami, son tratamientos inyectables de ácido hialurónico —tipo Profhilo— diseñados para hidratar la piel desde dentro, mejorar la elasticidad y la luminosidad, y conseguir un aspecto sano y luminoso sin sumar volumen ni cambiar la forma.",
+        "url": "https://realaestheticmedspa.com/tratamientos/skinboosters/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/skinboosters/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skinboosters en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/skinboosters/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/skin-boosters.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/skin-boosters/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/skinboosters/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Skinboosters en <em>Miami</em>",
+    "lede": "Los skinboosters en Real Aesthetic Medical Spa, en Miami, son tratamientos inyectables de ácido hialurónico —tipo Profhilo— diseñados para hidratar la piel desde dentro, mejorar la elasticidad y la luminosidad, y conseguir un aspecto sano y luminoso sin sumar volumen ni cambiar la forma.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-facial-mesotherapy",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Hidrata la dermis desde dentro y mejora la suavidad y la calidad de superficie de la piel.",
+        "Apoya la síntesis de colágeno y elastina mediante estimulación dirigida del fibroblasto.",
+        "Mejora la luminosidad y el aspecto \"glass skin\" que una buena crema sola no puede conseguir.",
+        "Aporta una mejora discreta de firmeza y elasticidad en pómulos, tercio inferior, cuello, manos y escote.",
+        "Es uno de los favoritos de quienes preparan piel para una boda, sesión de fotos o un evento importante en Miami.",
+        "Diseñado y supervisado por Ronal Perdomo Lugo, APRN, FNP-C, con una consulta previa que confirma la indicación."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Los skinboosters son lo mismo que un relleno?",
+          "a": "No. Ambos son ácido hialurónico, pero están diseñados para objetivos distintos. El relleno es estructural —proyecta, levanta, contornea—. El skinbooster es de calidad —hidrata, suaviza, ilumina la piel sin sumar forma ni volumen—. Elegimos uno u otro (o ambos, en zonas distintas) según la evaluación de la piel."
+        },
+        {
+          "q": "¿Cuántas sesiones necesito?"
+        },
+        {
+          "q": "¿Mi cara se verá \"más rellena\"?",
+          "a": "No. Los skinboosters no dan volumen. El producto se coloca en microdepósitos para mejorar calidad, hidratación y luminosidad —no para proyectar tejido—. Si lo que quieres es más proyección estructural en pómulos, mentón o mandíbula, la herramienta adecuada es un relleno de AH o un bioestimulador, no un skinbooster."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-facial-mesotherapy",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

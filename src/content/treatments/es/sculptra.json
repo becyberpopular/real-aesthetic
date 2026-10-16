@@ -1,0 +1,365 @@
+{
+  "lang": "es",
+  "slug": "sculptra",
+  "path": "/tratamientos/sculptra/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/sculptra.webp",
+  "ctaImage": "/img/proc/sculptra.webp",
+  "head": {
+    "title": "Sculptra en Miami: estimulación de colágeno para volumen natural",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Sculptra en Miami con Ronal Perdomo, APRN, FNP-C. Bioestimulador de ácido poli-L-láctico que estimula tu propio colágeno para volumen facial natural y duradero."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Sculptra en Miami: estimulación de colágeno para volumen natural"
+      },
+      {
+        "property": "og:description",
+        "content": "Sculptra en Miami con Ronal Perdomo, APRN, FNP-C. Bioestimulador de ácido poli-L-láctico que estimula tu propio colágeno para volumen facial natural y duradero."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/sculptra/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/sculptra.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Sculptra en Miami: estimulación de colágeno para volumen natural"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Sculptra en Miami con Ronal Perdomo, APRN, FNP-C. Bioestimulador de ácido poli-L-láctico que estimula tu propio colágeno para volumen facial natural y duradero."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/sculptra.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/sculptra/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/sculptra/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/sculptra/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Sculptra (Estimulación de colágeno)",
+        "alternateName": "Bioestimulador de ácido poli-L-láctico",
+        "description": "Sculptra es un bioestimulador inyectable de ácido poli-L-láctico que reactiva la producción de colágeno propio para devolver volumen estructural al rostro de forma progresiva en un protocolo de dos a tres sesiones separadas por cuatro a seis semanas, con resultados que pueden durar hasta dos años.",
+        "bodyLocation": "Rostro — sienes, tercio medio, mejillas, mandíbula, tercio inferior",
+        "procedureType": "https://schema.org/PercutaneousProcedure",
+        "preparation": "Evitar medicamentos anticoagulantes, alcohol y ejercicio intenso 48 horas antes de la sesión. Acudir con la piel limpia, sin maquillaje. Informar al equipo médico de cualquier infección activa, intervención dental reciente o brote autoinmune.",
+        "followup": "Realizar masaje de la zona tratada cinco minutos, cinco veces al día, durante cinco días. Evitar exposición solar, sauna y ejercicio intenso durante 48 horas. Dormir con la cabeza ligeramente elevada la primera noche. Asistir a la revisión de seguimiento cuatro a seis semanas después de la sesión.",
+        "howPerformed": "Tras la evaluación médica se limpia la zona y se aplica anestesia tópica. El Sculptra reconstituido se inyecta con cánula o aguja en planos de dermis profunda o supraperiósticos, siguiendo un plan personalizado. La sesión termina con masaje manual para distribuir el producto de manera homogénea.",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "url": "https://realaestheticmedspa.com/tratamientos/sculptra/",
+        "inLanguage": "es",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/sculptra/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones de Sculptra voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de los pacientes completa un protocolo de dos a tres sesiones separadas entre cuatro y seis semanas. El número exacto depende del grado de pérdida de volumen, de tu respuesta de colágeno y del objetivo estético definido durante la consulta en Miami. Pacientes con cambios leves suelen necesitar solo dos sesiones, mientras que casos con pérdida más marcada se benefician de una tercera para afinar el resultado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo voy a ver resultados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El cambio visible es progresivo, ligado a la formación de colágeno nuevo. Los pacientes empiezan a notar la piel más firme y descansada alrededor de las cuatro a seis semanas tras la primera sesión. El resultado completo madura unos tres meses después de la última sesión del protocolo, por eso la paciencia y la adherencia al plan son tan importantes con Sculptra."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto duran los resultados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Un protocolo completo de Sculptra puede mantenerse hasta dos años, dependiendo de la edad, el estilo de vida, la exposición solar y la calidad general de la piel. Como el producto estimula tu propio colágeno, la duración suele superar la de los rellenos clásicos de ácido hialurónico. Muchos pacientes optan por una sesión de mantenimiento anual para conservar volumen y estructura con el paso del tiempo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es doloroso el tratamiento con Sculptra?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Las molestias son generalmente leves. Aplicamos anestesia tópica antes de la sesión y el diluyente del producto contiene lidocaína, que va anestesiando la zona durante la inyección. La mayoría de los pacientes describe la sensación como presión más que como dolor agudo. La técnica con cánula, cuando está indicada, reduce aún más la incomodidad y el riesgo de hematomas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia Sculptra del ácido hialurónico?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los rellenos de ácido hialurónico aportan volumen en el momento y son reversibles con hialuronidasa. Sculptra es un bioestimulador: no rellena de inmediato, sino que activa la dermis para producir colágeno propio durante semanas. El cambio es más lento, más estructural y de mayor duración. Son herramientas complementarias dentro de un plan personalizado, no sustitutos directos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es realmente necesario el masaje posterior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. El masaje cinco-cinco-cinco — cinco minutos, cinco veces al día, durante cinco días — ayuda a distribuir el producto de forma homogénea y reduce la posibilidad de nódulos palpables. Te enseñaremos la técnica al terminar la sesión y entregaremos instrucciones por escrito. Los pacientes que cumplen con el protocolo obtienen resultados más uniformes y predecibles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede combinar Sculptra con otros tratamientos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. Sculptra se integra muy bien con neuromoduladores, rellenos de ácido hialurónico para detalles finos, dispositivos de energía y protocolos de calidad de piel como PRP o mesoterapia. La secuencia importa: solemos abordar primero el volumen estructural con Sculptra y después afinamos textura y líneas dinámicas. Ronal Perdomo, APRN, FNP-C definirá el orden y los tiempos en la consulta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Quién no debería realizarse Sculptra?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sculptra no se recomienda durante el embarazo o la lactancia, en pacientes con infecciones cutáneas activas en la zona a tratar, antecedentes de cicatrices queloides, brotes autoinmunes o hipersensibilidad conocida a los componentes del producto. Antes de cada sesión revisamos un historial médico completo para confirmar la indicación y diseñar el plan más seguro."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/tratamientos/sculptra/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sculptra en Miami: estimulación de colágeno para volumen natural",
+            "item": "https://realaestheticmedspa.com/tratamientos/sculptra/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/sculptra.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/sculptra/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/sculptra/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Sculptra en Miami: estimulación de colágeno para <em>volumen natural</em>",
+    "lede": "Sculptra es un bioestimulador inyectable de ácido poli-L-láctico que reactiva la producción de colágeno propio para devolver estructura y volumen al rostro de forma gradual a lo largo de dos o tres sesiones.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-sculptra-biostimulator",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Estimula la producción del propio colágeno del paciente en lugar de depender únicamente de un material externo.",
+        "Restaura volumen estructural en sienes, tercio medio, mandíbula y tercio inferior con apariencia natural.",
+        "Mejora densidad, firmeza y tono de la piel en las zonas tratadas a medida que se reorganiza el colágeno.",
+        "Produce un cambio gradual y discreto que el entorno percibe poco a poco.",
+        "Ofrece resultados de larga duración, que pueden mantenerse hasta dos años con un buen plan de mantenimiento.",
+        "Aborda el envejecimiento facial global y no una arruga aislada.",
+        "Se integra con neuromoduladores, rellenos de ácido hialurónico y dispositivos de energía dentro de un plan personalizado."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "Los resultados de Sculptra aparecen de forma progresiva. Es habitual observar un volumen inicial debido al líquido de dilución que se reabsorbe en 48 horas; la mejora real, ligada a la nueva producción de colágeno, comienza alrededor de la cuarta semana y madura durante los tres meses siguientes a la última sesión. Con un protocolo completo de dos o tres sesiones, los resultados pueden mantenerse hasta dos años. Una sesión de mantenimiento anual ayuda a preservar el efecto a lo largo del tiempo."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Cuántas sesiones de Sculptra voy a necesitar?",
+          "a": "La mayoría de los pacientes completa un protocolo de dos a tres sesiones separadas entre cuatro y seis semanas. El número exacto depende del grado de pérdida de volumen, de tu respuesta de colágeno y del objetivo estético definido durante la consulta en Miami. Pacientes con cambios leves suelen necesitar solo dos sesiones, mientras que casos con pérdida más marcada se benefician de una tercera para afinar el resultado."
+        },
+        {
+          "q": "¿Cuándo voy a ver resultados?",
+          "a": "El cambio visible es progresivo, ligado a la formación de colágeno nuevo. Los pacientes empiezan a notar la piel más firme y descansada alrededor de las cuatro a seis semanas tras la primera sesión. El resultado completo madura unos tres meses después de la última sesión del protocolo, por eso la paciencia y la adherencia al plan son tan importantes con Sculptra."
+        },
+        {
+          "q": "¿Cuánto duran los resultados?",
+          "a": "Un protocolo completo de Sculptra puede mantenerse hasta dos años, dependiendo de la edad, el estilo de vida, la exposición solar y la calidad general de la piel. Como el producto estimula tu propio colágeno, la duración suele superar la de los rellenos clásicos de ácido hialurónico. Muchos pacientes optan por una sesión de mantenimiento anual para conservar volumen y estructura con el paso del tiempo."
+        },
+        {
+          "q": "¿Es doloroso el tratamiento con Sculptra?",
+          "a": "Las molestias son generalmente leves. Aplicamos anestesia tópica antes de la sesión y el diluyente del producto contiene lidocaína, que va anestesiando la zona durante la inyección. La mayoría de los pacientes describe la sensación como presión más que como dolor agudo. La técnica con cánula, cuando está indicada, reduce aún más la incomodidad y el riesgo de hematomas."
+        },
+        {
+          "q": "¿En qué se diferencia Sculptra del ácido hialurónico?",
+          "a": "Los rellenos de ácido hialurónico aportan volumen en el momento y son reversibles con hialuronidasa. Sculptra es un bioestimulador: no rellena de inmediato, sino que activa la dermis para producir colágeno propio durante semanas. El cambio es más lento, más estructural y de mayor duración. Son herramientas complementarias dentro de un plan personalizado, no sustitutos directos."
+        },
+        {
+          "q": "¿Es realmente necesario el masaje posterior?",
+          "a": "Sí. El masaje \"cinco-cinco-cinco\" — cinco minutos, cinco veces al día, durante cinco días — ayuda a distribuir el producto de forma homogénea y reduce la posibilidad de nódulos palpables. Te enseñaremos la técnica al terminar la sesión y entregaremos instrucciones por escrito. Los pacientes que cumplen con el protocolo obtienen resultados más uniformes y predecibles."
+        },
+        {
+          "q": "¿Se puede combinar Sculptra con otros tratamientos?",
+          "a": "Sí. Sculptra se integra muy bien con neuromoduladores, rellenos de ácido hialurónico para detalles finos, dispositivos de energía y protocolos de calidad de piel como PRP o mesoterapia. La secuencia importa: solemos abordar primero el volumen estructural con Sculptra y después afinamos textura y líneas dinámicas. Ronal Perdomo, APRN, FNP-C definirá el orden y los tiempos en la consulta."
+        },
+        {
+          "q": "¿Quién no debería realizarse Sculptra?",
+          "a": "Sculptra no se recomienda durante el embarazo o la lactancia, en pacientes con infecciones cutáneas activas en la zona a tratar, antecedentes de cicatrices queloides, brotes autoinmunes o hipersensibilidad conocida a los componentes del producto. Antes de cada sesión revisamos un historial médico completo para confirmar la indicación y diseñar el plan más seguro."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo Lugo, APRN, FNP-C y diseña un plan personalizado de estimulación de colágeno en Real Aesthetic Medical Spa.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-sculptra-biostimulator",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

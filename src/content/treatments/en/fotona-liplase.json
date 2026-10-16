@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "fotona-liplase",
+  "path": "/procedures/fotona-liplase/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/fotona-liplase.webp",
+  "ctaImage": "/img/proc/fotona-liplase.webp",
+  "head": {
+    "title": "Fotona LipLase in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona LipLase in Miami at Real Aesthetic. Non-invasive laser protocol that plumps the lips and softens perioral lines without injections. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona LipLase in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona LipLase in Miami at Real Aesthetic. Non-invasive laser protocol that plumps the lips and softens perioral lines without injections. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/fotona-liplase/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-liplase.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona LipLase in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona LipLase in Miami at Real Aesthetic. Non-invasive laser protocol that plumps the lips and softens perioral lines without injections. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-liplase.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-liplase/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-liplase/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-liplase/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona LipLase in Miami",
+        "description": "Fotona LipLase in Miami at Real Aesthetic. Non-invasive laser protocol that plumps the lips and softens perioral lines without injections. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-liplase/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/fotona-liplase/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-liplase/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How does it differ from lip filler?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "LipLase plumps through the patient's own collagen response, stimulated by controlled laser pulses on and around the lip area. It does not add volume the way filler does — the change is more subtle, more gradual, and entirely needle-free. Many patients combine both for synergy."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When will I see the plumping effect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is a small immediate plumping right after the session that subsides in hours. The lasting effect develops over several weeks as collagen reorganises. After the full protocol you should see softer lines, better hydration and a fuller appearance. Results typically last several months and improve with maintenance."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does it hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is a warm sensation during the laser pulses and a slight tingling on the lips after. Most patients describe it as comfortable and quick. We apply hydrating balm right after the session and you can resume your routine immediately."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona LipLase in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/fotona-liplase/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-liplase.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-liplase/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/fotona-liplase/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Fotona LipLase <em>in Miami</em>",
+    "lede": "LipLase uses Fotona Er:YAG and Nd:YAG energy on and around the lips to stimulate collagen, increase hydration and produce visibly fuller, smoother lips without filler.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-liplase",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Plumps the lips through collagen stimulation, without injecting hyaluronic acid.",
+        "Softens vertical perioral lines (smoker's lines) around the mouth.",
+        "Improves lip texture, hydration and definition of the lip border (vermilion).",
+        "Each session lasts about 30 minutes; protocol typically 3–4 sessions spaced 3–4 weeks apart.",
+        "Ideal for patients who want lip enhancement without injectables or as a complement to filler.",
+        "No needles, no downtime — patients return to normal activity the same day."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How does it differ from lip filler?",
+          "a": "LipLase plumps through the patient's own collagen response, stimulated by controlled laser pulses on and around the lip area. It does not add volume the way filler does — the change is more subtle, more gradual, and entirely needle-free. Many patients combine both for synergy."
+        },
+        {
+          "q": "When will I see the plumping effect?",
+          "a": "There is a small immediate plumping right after the session that subsides in hours. The lasting effect develops over several weeks as collagen reorganises. After the full protocol you should see softer lines, better hydration and a fuller appearance. Results typically last several months and improve with maintenance."
+        },
+        {
+          "q": "Does it hurt?",
+          "a": "There is a warm sensation during the laser pulses and a slight tingling on the lips after. Most patients describe it as comfortable and quick. We apply hydrating balm right after the session and you can resume your routine immediately."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-liplase",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

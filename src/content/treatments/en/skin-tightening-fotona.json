@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "skin-tightening-fotona",
+  "path": "/procedures/skin-tightening-fotona/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/skin-tightening-fotona.webp",
+  "ctaImage": "/img/proc/skin-tightening-fotona.webp",
+  "head": {
+    "title": "Skin Tightening with Fotona in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Non-invasive Fotona Nd:YAG skin tightening in Miami: dermal collagen remodelling for face, neck and décolleté with no downtime. Personalised plan, three-session protocol."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Skin Tightening with Fotona in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Non-invasive Fotona Nd:YAG skin tightening in Miami: dermal collagen remodelling for face, neck and décolleté with no downtime. Personalised plan, three-session protocol."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/skin-tightening-fotona/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-tightening-fotona.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Skin Tightening with Fotona in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Non-invasive Fotona Nd:YAG skin tightening in Miami: dermal collagen remodelling for face, neck and décolleté with no downtime. Personalised plan, three-session protocol."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-tightening-fotona.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/skin-tightening-fotona/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/skin-tightening-fotona/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/tensado-piel-fotona/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Skin Tightening with Fotona in Miami",
+        "description": "Skin tightening with Fotona is a non-invasive Nd:YAG laser treatment that delivers controlled, deep thermal energy into the dermis to remodel collagen and progressively firm the face, neck, and décolleté with no downtime.",
+        "url": "https://realaestheticmedspa.com/procedures/skin-tightening-fotona/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/skin-tightening-fotona/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/skin-tightening-fotona/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is there really no downtime?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In the vast majority of patients there is no social downtime. Skin may appear lightly flushed and warm for a few hours and then return to normal. Many of our Miami patients schedule the session over a lunch break or before work. We simply ask you to avoid extreme heat and direct sun the rest of the day and to keep up with daily SPF 50."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is this different from Fotona 4D?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Fotona 4D combines four laser modalities (intraoral, fractional, bulk heating, light peel) for a comprehensive lifting and refinement protocol. Fotona skin tightening focuses specifically on the deep Nd:YAG bulk-heating component to firm the dermis, with no resurfacing pass. Some patients begin with tightening alone and later upgrade to a 4D plan when full-face refinement is the goal."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When will I see firming results?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A subtle tightening sensation is often felt at the end of the first session. Visible firming usually develops between sessions two and three as the collagen network rebuilds, with peak improvement around three months after the final session. Results are progressive and depend on the starting condition of the skin, age and aftercare consistency."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skin Tightening with Fotona in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/skin-tightening-fotona/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/skin-tightening-fotona.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/skin-tightening-fotona/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/tensado-piel-fotona/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Skin Tightening with Fotona <em>in Miami</em>",
+    "lede": "Skin tightening with Fotona is a non-invasive Nd:YAG laser treatment that delivers controlled, deep thermal energy into the dermis to remodel collagen and progressively firm the face, neck, and décolleté with no downtime.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-tightening",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Improves dermal firmness through bulk-heating of the deeper skin layers, with no incisions.",
+        "Refines the jawline, submental area, neck, and décolleté over a series of sessions.",
+        "Stimulates progressive collagen remodelling for a smoother, more youthful contour.",
+        "Suitable for medium and darker phototypes when settings are personalised.",
+        "No social downtime: most patients return to normal activities the same day.",
+        "Can be combined with neuromodulators, fillers, biostimulators or microneedling.",
+        "Performed under medical supervision in a controlled clinical environment."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is there really no downtime?",
+          "a": "In the vast majority of patients there is no social downtime. Skin may appear lightly flushed and warm for a few hours and then return to normal. Many of our Miami patients schedule the session over a lunch break or before work. We simply ask you to avoid extreme heat and direct sun the rest of the day and to keep up with daily SPF 50."
+        },
+        {
+          "q": "How is this different from Fotona 4D?",
+          "a": "Fotona 4D combines four laser modalities (intraoral, fractional, bulk heating, light peel) for a comprehensive lifting and refinement protocol. Fotona skin tightening focuses specifically on the deep Nd:YAG bulk-heating component to firm the dermis, with no resurfacing pass. Some patients begin with tightening alone and later upgrade to a 4D plan when full-face refinement is the goal."
+        },
+        {
+          "q": "When will I see firming results?",
+          "a": "A subtle tightening sensation is often felt at the end of the first session. Visible firming usually develops between sessions two and three as the collagen network rebuilds, with peak improvement around three months after the final session. Results are progressive and depend on the starting condition of the skin, age and aftercare consistency."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-tightening",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

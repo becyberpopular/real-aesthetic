@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "melasma-laser",
+  "path": "/procedures/melasma-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/melasma-laser.webp",
+  "ctaImage": "/img/proc/melasma-laser.webp",
+  "head": {
+    "title": "Melasma Treatment in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Gentle Fotona Er:YAG micropeel and Nd:YAG protocols for melasma control in Miami. Long-term medical plan with rigorous SPF and topical maintenance."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Melasma Treatment in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Gentle Fotona Er:YAG micropeel and Nd:YAG protocols for melasma control in Miami. Long-term medical plan with rigorous SPF and topical maintenance."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/melasma-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/melasma-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Melasma Treatment in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Gentle Fotona Er:YAG micropeel and Nd:YAG protocols for melasma control in Miami. Long-term medical plan with rigorous SPF and topical maintenance."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/melasma-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/melasma-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/melasma-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/tratamiento-melasma/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Melasma Treatment in Miami",
+        "description": "Melasma treatment is a medically supervised plan that combines a gentle Fotona Er:YAG micropeel with low-fluence Nd:YAG passes and rigorous topical and sun-protection maintenance to control — not eliminate — chronic facial pigmentation.",
+        "url": "https://realaestheticmedspa.com/procedures/melasma-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/melasma-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/melasma-laser/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Can melasma be cured with laser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Melasma is a chronic pigmentation disorder driven by hormones, UV and heat. There is no cure and no permanent solution. Laser, when used conservatively, helps control the visible patches alongside prescribed topicals and rigorous SPF. Patients seeking a one-off \"erase\" outcome are not good candidates — the condition can rebound and overly aggressive lasers can make it worse."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most plans run three to five sessions spaced four to six weeks apart, followed by long-term maintenance with topicals and SPF. The exact number depends on melasma type (epidermal, dermal, mixed), phototype and trigger profile. We re-evaluate before every session with comparative photographs and only continue while improvement is documented."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why is SPF so critical for melasma?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "UV and visible light are direct triggers of melasma. In Miami's climate, that exposure is constant, and even a few unprotected days can undo months of progress. We require mineral SPF 50+ daily, reapplied every two hours outdoors, plus wide-brim hats and shade. Without that discipline, no laser plan will hold the result."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Melasma Treatment in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/melasma-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/melasma-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/melasma-laser/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/tratamiento-melasma/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Melasma Treatment <em>in Miami</em>",
+    "lede": "Melasma treatment is a medically supervised plan that combines a gentle Fotona Er:YAG micropeel with low-fluence Nd:YAG passes and rigorous topical and sun-protection maintenance to control — not eliminate — chronic facial pigmentation.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces the visual intensity of melasma patches with a low-aggression layered approach.",
+        "Targets superficial pigment via gentle Er:YAG and dermal melanocyte activity via low-fluence Nd:YAG.",
+        "Improves the homogeneity of facial tone when paired with topical maintenance and SPF.",
+        "Designed to minimise the risk of rebound that overly aggressive lasers can trigger in melasma.",
+        "Compatible with prescribed topicals (azelaic acid, tranexamic acid, hydroquinone cycles) under medical supervision.",
+        "Supports a sustainable long-term control plan rather than a one-off intervention.",
+        "Personalised parameters adjusted to phototype, hormonal context and Miami's UV environment."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Can melasma be cured with laser?",
+          "a": "No. Melasma is a chronic pigmentation disorder driven by hormones, UV and heat. There is no cure and no permanent solution. Laser, when used conservatively, helps control the visible patches alongside prescribed topicals and rigorous SPF. Patients seeking a one-off \"erase\" outcome are not good candidates — the condition can rebound and overly aggressive lasers can make it worse."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "Most plans run three to five sessions spaced four to six weeks apart, followed by long-term maintenance with topicals and SPF. The exact number depends on melasma type (epidermal, dermal, mixed), phototype and trigger profile. We re-evaluate before every session with comparative photographs and only continue while improvement is documented."
+        },
+        {
+          "q": "Why is SPF so critical for melasma?",
+          "a": "UV and visible light are direct triggers of melasma. In Miami's climate, that exposure is constant, and even a few unprotected days can undo months of progress. We require mineral SPF 50+ daily, reapplied every two hours outdoors, plus wide-brim hats and shade. Without that discipline, no laser plan will hold the result."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

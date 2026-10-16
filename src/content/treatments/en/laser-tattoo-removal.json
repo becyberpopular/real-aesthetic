@@ -1,0 +1,347 @@
+{
+  "lang": "en",
+  "slug": "laser-tattoo-removal",
+  "path": "/procedures/laser-tattoo-removal/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/laser-tattoo-removal.webp",
+  "ctaImage": "/img/proc/laser-tattoo-removal.webp",
+  "head": {
+    "title": "Laser Tattoo Removal in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Q-switched Nd:YAG laser tattoo removal in Miami at Real Aesthetic. Multi-wavelength technology for black, red, blue and green ink. Book a consultation today."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Laser Tattoo Removal in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Q-switched Nd:YAG laser tattoo removal in Miami at Real Aesthetic. Multi-wavelength technology for black, red, blue and green ink. Book a consultation today."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/laser-tattoo-removal/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-tattoo-removal.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Laser Tattoo Removal in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Q-switched Nd:YAG laser tattoo removal in Miami at Real Aesthetic. Multi-wavelength technology for black, red, blue and green ink. Book a consultation today."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-tattoo-removal.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/laser-tattoo-removal/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/laser-tattoo-removal/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/eliminacion-tatuajes-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Laser Tattoo Removal in Miami",
+        "description": "Laser tattoo removal is a non-surgical procedure that uses Q-switched Nd:YAG laser light to fragment ink particles in the skin so the body can gradually clear them, fading the tattoo over a planned series of sessions.",
+        "url": "https://realaestheticmedspa.com/procedures/laser-tattoo-removal/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/laser-tattoo-removal/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/laser-tattoo-removal/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How many sessions of laser tattoo removal will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most tattoos require six to 12 sessions spaced four to eight weeks apart. Amateur tattoos and older, faded tattoos often clear faster. Professional, densely packed or multi-coloured tattoos generally need more sessions. During your Miami consultation we estimate a realistic range based on ink density, depth, location and your skin phototype, and adjust as treatment progresses."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does laser tattoo removal hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients describe the sensation as a rubber band snap or rapid hot pinpricks. We apply topical anaesthetic cream before each session, use chilled air during pulses and offer additional comfort measures for sensitive areas such as the ribs, ankles or fingers. Discomfort is brief and ends as soon as the laser stops."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can all ink colours be removed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Black, dark blue and red inks generally respond well. Green, turquoise and pastel pigments are more challenging and may require more sessions or partial clearance. Yellow and white inks are the most resistant. We assess ink colours in person and explain expected response for each pigment before starting."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will laser tattoo removal scar my skin?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "When performed by a trained specialist with appropriate parameters, the risk of scarring is low. Pre-existing scarring from the original tattoo may become more visible as ink fades. Following aftercare instructions — particularly avoiding picking scabs and protecting the area from sun — significantly reduces risk of textural change."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is laser tattoo removal safe for darker skin tones?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, when parameters are calibrated correctly. Our 1064 nm Nd:YAG wavelength is generally well tolerated across the full range of Fitzpatrick skin types common in our Miami patient base. We always perform a test spot, use conservative starting fluences for darker phototypes and monitor for transient pigmentary change between sessions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I have a cover-up after laser fading?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Many patients use three to five sessions of laser fading to lighten an existing tattoo enough that a tattoo artist can design a successful cover-up. We coordinate the lightening goal with your artist and stop sessions once sufficient fading has been achieved."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How soon can I tan or swim after a session?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Avoid pools, hot tubs, the ocean and saunas for at least 10 days, and avoid direct sun exposure or tanning beds for four weeks before and after each session. Sun-tanned skin increases the risk of pigmentary change and may force us to reschedule treatment."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Laser Tattoo Removal in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/laser-tattoo-removal/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/laser-tattoo-removal.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/laser-tattoo-removal/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/eliminacion-tatuajes-laser/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Laser Tattoo Removal <em>in Miami</em>",
+    "lede": "Laser tattoo removal is a non-surgical procedure that uses Q-switched Nd:YAG laser light to fragment ink particles in the skin so the body can gradually clear them, fading the tattoo over a planned series of sessions.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Targets ink selectively while protecting surrounding skin thanks to ultra-short Q-switched pulses.",
+        "Treats a wide range of ink colours through dual 1064 nm and 532 nm wavelengths.",
+        "Suitable for tattoos on the arms, legs, back, chest, neck and other areas commonly treated in Miami patients.",
+        "Non-surgical with no incisions, sutures or significant downtime between sessions.",
+        "Allows progressive fading, ideal for cover-ups when complete removal is not the goal.",
+        "Performed under medical supervision with personalised parameters for each skin phototype.",
+        "Compatible with treatment of amateur, professional, traumatic and cosmetic tattoos."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Results &amp; duration",
+      "title": "When you see it, <em>how long it lasts</em>",
+      "text": [
+        "Visible fading typically appears two to four weeks after each session as the lymphatic system clears fragmented ink. Most patients see substantial fading after three to four sessions and complete or near-complete clearance after six to 12 sessions. Black ink generally responds fastest; green and light blue inks tend to require more sessions. Once a tattoo has been cleared, the result is intended to be lasting, although residual shadowing or paradoxical pigmentary changes are possible."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How many sessions of laser tattoo removal will I need?",
+          "a": "Most tattoos require six to 12 sessions spaced four to eight weeks apart. Amateur tattoos and older, faded tattoos often clear faster. Professional, densely packed or multi-coloured tattoos generally need more sessions. During your Miami consultation we estimate a realistic range based on ink density, depth, location and your skin phototype, and adjust as treatment progresses."
+        },
+        {
+          "q": "Does laser tattoo removal hurt?",
+          "a": "Most patients describe the sensation as a rubber band snap or rapid hot pinpricks. We apply topical anaesthetic cream before each session, use chilled air during pulses and offer additional comfort measures for sensitive areas such as the ribs, ankles or fingers. Discomfort is brief and ends as soon as the laser stops."
+        },
+        {
+          "q": "Can all ink colours be removed?",
+          "a": "Black, dark blue and red inks generally respond well. Green, turquoise and pastel pigments are more challenging and may require more sessions or partial clearance. Yellow and white inks are the most resistant. We assess ink colours in person and explain expected response for each pigment before starting."
+        },
+        {
+          "q": "Will laser tattoo removal scar my skin?",
+          "a": "When performed by a trained specialist with appropriate parameters, the risk of scarring is low. Pre-existing scarring from the original tattoo may become more visible as ink fades. Following aftercare instructions — particularly avoiding picking scabs and protecting the area from sun — significantly reduces risk of textural change."
+        },
+        {
+          "q": "Is laser tattoo removal safe for darker skin tones?",
+          "a": "Yes, when parameters are calibrated correctly. Our 1064 nm Nd:YAG wavelength is generally well tolerated across the full range of Fitzpatrick skin types common in our Miami patient base. We always perform a test spot, use conservative starting fluences for darker phototypes and monitor for transient pigmentary change between sessions."
+        },
+        {
+          "q": "Can I have a cover-up after laser fading?",
+          "a": "Yes. Many patients use three to five sessions of laser fading to lighten an existing tattoo enough that a tattoo artist can design a successful cover-up. We coordinate the lightening goal with your artist and stop sessions once sufficient fading has been achieved."
+        },
+        {
+          "q": "How soon can I tan or swim after a session?",
+          "a": "Avoid pools, hot tubs, the ocean and saunas for at least 10 days, and avoid direct sun exposure or tanning beds for four weeks before and after each session. Sun-tanned skin increases the risk of pigmentary change and may force us to reschedule treatment."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

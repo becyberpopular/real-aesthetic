@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "mesoterapia-aclarante",
+  "path": "/tratamientos/mesoterapia-aclarante/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/skin-brightening-mesotherapy.webp",
+  "ctaImage": "/img/proc/skin-brightening-mesotherapy.webp",
+  "head": {
+    "title": "Mesoterapia aclarante y corrección de pigmentación en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Mesoterapia aclarante inyectable en Miami con ácido tranexámico, glutatión y vitamina C. Protocolo médico para melasma y pigmentaciones tenaces."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Mesoterapia aclarante y corrección de pigmentación en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Mesoterapia aclarante inyectable en Miami con ácido tranexámico, glutatión y vitamina C. Protocolo médico para melasma y pigmentaciones tenaces."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/mesoterapia-aclarante/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-brightening-mesotherapy.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Mesoterapia aclarante y corrección de pigmentación en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Mesoterapia aclarante inyectable en Miami con ácido tranexámico, glutatión y vitamina C. Protocolo médico para melasma y pigmentaciones tenaces."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/skin-brightening-mesotherapy.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/mesoterapia-aclarante/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/skin-brightening-mesotherapy/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/mesoterapia-aclarante/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Mesoterapia aclarante y corrección de pigmentación en Miami",
+        "description": "La mesoterapia aclarante es un protocolo médico inyectable que aporta a la dermis un cóctel personalizado de ácido tranexámico, glutatión y vitamina C para atenuar el melasma, las manchas solares y los tonos desiguales, realizado en una serie de sesiones en Miami y acompañado de un protocolo estricto de fotoprotección diaria.",
+        "url": "https://realaestheticmedspa.com/tratamientos/mesoterapia-aclarante/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/mesoterapia-aclarante/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/mesoterapia-aclarante/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia del láser Fotona para melasma?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ambos protocolos actúan sobre mecanismos distintos. La mesoterapia aclarante es inyectable y modula la bioquímica que crea el pigmento, con ácido tranexámico, glutatión y vitamina C. El láser Fotona para melasma utiliza luz calibrada para fragmentar el pigmento ya depositado en la piel. En la práctica los combinamos con frecuencia dentro de un plan personalizado para una corrección más completa y duradera."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones necesitaré?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El protocolo estándar incluye de cuatro a seis sesiones, programadas cada dos o tres semanas. El número exacto depende del tipo y profundidad de la pigmentación, su fototipo y la respuesta cutánea. Tras el protocolo inicial la mayoría de pacientes pasa a un mantenimiento de una sesión cada dos o tres meses, revisado en las consultas de seguimiento."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro en pieles morenas u oscuras?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cuando lo supervisa un equipo médico cualificado. Una ventaja del aclarado inyectable frente a algunos abordajes láser es que no depende de la melanina como diana, lo que reduce el riesgo de pigmentación paradójica en fototipos altos. Aun así, ajustamos la concentración del cóctel y el intervalo entre sesiones a la respuesta de cada piel."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mesoterapia aclarante y corrección de pigmentación en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/mesoterapia-aclarante/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/skin-brightening-mesotherapy.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/skin-brightening-mesotherapy/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/mesoterapia-aclarante/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Mesoterapia aclarante y corrección de pigmentación <em>en Miami</em>",
+    "lede": "La mesoterapia aclarante es un protocolo médico inyectable que aporta a la dermis un cóctel personalizado de ácido tranexámico, glutatión y vitamina C para atenuar el melasma, las manchas solares y los tonos desiguales, realizado en una serie de sesiones en Miami y acompañado de un protocolo estricto de fotoprotección diaria.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce la apariencia del melasma, las manchas solares y la hiperpigmentación postinflamatoria del rostro.",
+        "Apoya un tono más uniforme y una mayor luminosidad a lo largo del protocolo.",
+        "Actúa sobre la vía del pigmento desde dentro, alcanzando profundidades que las cremas no consiguen.",
+        "Aporta un refuerzo antioxidante que ayuda a la piel a tolerar la radiación UV de Miami.",
+        "Evita exfoliaciones agresivas y respeta la barrera cutánea en lugar de adelgazarla.",
+        "Adecuado para una amplia variedad de fototipos cuando lo supervisa un equipo médico cualificado."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿En qué se diferencia del láser Fotona para melasma?",
+          "a": "Ambos protocolos actúan sobre mecanismos distintos. La mesoterapia aclarante es inyectable y modula la bioquímica que crea el pigmento, con ácido tranexámico, glutatión y vitamina C. El láser Fotona para melasma utiliza luz calibrada para fragmentar el pigmento ya depositado en la piel. En la práctica los combinamos con frecuencia dentro de un plan personalizado para una corrección más completa y duradera."
+        },
+        {
+          "q": "¿Cuántas sesiones necesitaré?",
+          "a": "El protocolo estándar incluye de cuatro a seis sesiones, programadas cada dos o tres semanas. El número exacto depende del tipo y profundidad de la pigmentación, su fototipo y la respuesta cutánea. Tras el protocolo inicial la mayoría de pacientes pasa a un mantenimiento de una sesión cada dos o tres meses, revisado en las consultas de seguimiento."
+        },
+        {
+          "q": "¿Es seguro en pieles morenas u oscuras?",
+          "a": "Sí, cuando lo supervisa un equipo médico cualificado. Una ventaja del aclarado inyectable frente a algunos abordajes láser es que no depende de la melanina como diana, lo que reduce el riesgo de pigmentación paradójica en fototipos altos. Aun así, ajustamos la concentración del cóctel y el intervalo entre sesiones a la respuesta de cada piel."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserve su consulta en Real Aesthetic Medical Spa y diseñaremos un plan personalizado para su pigmentación.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

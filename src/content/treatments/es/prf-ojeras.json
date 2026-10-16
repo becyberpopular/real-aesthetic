@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "prf-ojeras",
+  "path": "/tratamientos/prf-ojeras/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/prf-under-eyes.webp",
+  "ctaImage": "/img/proc/prf-under-eyes.webp",
+  "head": {
+    "title": "PRF para Ojeras en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Tratamiento PRF de ojeras en Miami en Real Aesthetic. Inyección de fibrina rica en plaquetas para mejorar ojeras, líneas finas y calidad de piel del contorno ocular. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "PRF para Ojeras en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Tratamiento PRF de ojeras en Miami en Real Aesthetic. Inyección de fibrina rica en plaquetas para mejorar ojeras, líneas finas y calidad de piel del contorno ocular. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/prf-ojeras/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prf-under-eyes.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "PRF para Ojeras en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Tratamiento PRF de ojeras en Miami en Real Aesthetic. Inyección de fibrina rica en plaquetas para mejorar ojeras, líneas finas y calidad de piel del contorno ocular. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prf-under-eyes.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/prf-ojeras/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/prf-under-eyes/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/prf-ojeras/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "PRF para Ojeras en Miami",
+        "description": "Tratamiento PRF de ojeras en Miami en Real Aesthetic. Inyección de fibrina rica en plaquetas para mejorar ojeras, líneas finas y calidad de piel del contorno ocular. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/prf-ojeras/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/prf-ojeras/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/prf-ojeras/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia PRF de PRP?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ambos vienen de tu sangre, pero PRF (Fibrina Rica en Plaquetas) se centrifuga a velocidades más bajas y sin anticoagulantes, generando un andamio de fibrina que atrapa plaquetas y libera factores de crecimiento de forma gradual. PRP los libera más rápido. Para la zona de ojeras suele preferirse la liberación sostenida del PRF para calidad de piel."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Eliminará las ojeras por completo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende de la causa. Las ojeras por piel fina o de calidad comprometida responden bien al PRF en una serie de sesiones. Las ojeras por pigmento profundo, sombra vascular o hundimiento requieren plan combinado — PRF más filler o PRF más protocolo aclarante. Diagnosticamos el tipo en consulta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto dura?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los cambios en calidad de piel suelen durar 9–12 meses. Recomendamos retoque en ese intervalo para mantener el resultado. El área sigue envejeciendo con el tiempo, por lo que el mantenimiento periódico preserva la mejora."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PRF para Ojeras en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/prf-ojeras/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/prf-under-eyes.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/prf-ojeras/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/prf-under-eyes/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "PRF Ojeras <em>en Miami</em>",
+    "lede": "Fibrina rica en plaquetas preparada a partir de la sangre del paciente, inyectada en la zona delicada de las ojeras para liberar factores de crecimiento de forma sostenida, mejorando ojeras, líneas finas y calidad de la piel.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-under-eyes",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Mejora tono y textura del contorno de ojos con factores de crecimiento del propio paciente.",
+        "Suaviza líneas finas y crepiness alrededor del contorno ocular.",
+        "Reduce la apariencia de ojeras causadas por piel fina o de calidad comprometida.",
+        "100% autólogo — solo se usa fibrina rica en plaquetas del propio paciente.",
+        "PRF (vs PRP) libera factores de crecimiento más lentamente gracias a su matriz de fibrina, sosteniendo el efecto.",
+        "Protocolo habitual de 2–3 sesiones cada 4 semanas, luego mantenimiento cada 6–12 meses."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿En qué se diferencia PRF de PRP?",
+          "a": "Ambos vienen de tu sangre, pero PRF (Fibrina Rica en Plaquetas) se centrifuga a velocidades más bajas y sin anticoagulantes, generando un andamio de fibrina que atrapa plaquetas y libera factores de crecimiento de forma gradual. PRP los libera más rápido. Para la zona de ojeras suele preferirse la liberación sostenida del PRF para calidad de piel."
+        },
+        {
+          "q": "¿Eliminará las ojeras por completo?",
+          "a": "Depende de la causa. Las ojeras por piel fina o de calidad comprometida responden bien al PRF en una serie de sesiones. Las ojeras por pigmento profundo, sombra vascular o hundimiento requieren plan combinado — PRF más filler o PRF más protocolo aclarante. Diagnosticamos el tipo en consulta."
+        },
+        {
+          "q": "¿Cuánto dura?",
+          "a": "Los cambios en calidad de piel suelen durar 9–12 meses. Recomendamos retoque en ese intervalo para mantener el resultado. El área sigue envejeciendo con el tiempo, por lo que el mantenimiento periódico preserva la mejora."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-under-eyes",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "lang": "es",
+  "slug": "programas-peptidos",
+  "path": "/tratamientos/programas-peptidos/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/peptide-programs.webp",
+  "ctaImage": "/img/proc/peptide-programs.webp",
+  "head": {
+    "title": "Programas de Péptidos en Miami: Basic, Optimization y Elite",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Programas médicos de péptidos en Miami con supervisión de Ronal Perdomo, APRN, FNP-C: niveles Basic, Optimization y Elite para recuperación, rendimiento y longevidad."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Programas de Péptidos en Miami: Basic, Optimization y Elite"
+      },
+      {
+        "property": "og:description",
+        "content": "Programas médicos de péptidos en Miami con supervisión de Ronal Perdomo, APRN, FNP-C: niveles Basic, Optimization y Elite para recuperación, rendimiento y longevidad."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/programas-peptidos/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/peptide-programs.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Programas de Péptidos en Miami: Basic, Optimization y Elite"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Programas médicos de péptidos en Miami con supervisión de Ronal Perdomo, APRN, FNP-C: niveles Basic, Optimization y Elite para recuperación, rendimiento y longevidad."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/peptide-programs.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/programas-peptidos/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/peptide-programs/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/programas-peptidos/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Programas de Péptidos en Miami: Basic, Optimization y Elite",
+        "description": "Los programas de péptidos son protocolos médicos supervisados que utilizan cadenas cortas de aminoácidos como moléculas de señalización para apoyar la recuperación, el rendimiento y la longevidad, organizados en nuestra clínica de Miami en tres niveles de complejidad clínica.",
+        "url": "https://realaestheticmedspa.com/tratamientos/programas-peptidos/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/programas-peptidos/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/programas-peptidos/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Basic",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Un programa de entrada construido en torno a un péptido fundamental, normalmente orientado a recuperación, calidad del sueño o bienestar general. Ideal para pacientes nuevos en la terapia con péptidos que quieren un punto de partida conservador y bien tolerado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Optimization",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Combinación de dos o tres péptidos enfocada en rendimiento, composición corporal, apoyo cognitivo u objetivos de longevidad. Incluye analítica basal y revisión clínica a mitad de ciclo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Elite",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Stack totalmente personalizado con analítica ampliada, panel de micronutrientes y titulación regular. Diseñado para pacientes con objetivos definidos de longevidad, rendimiento o estética que desean el mayor nivel de seguimiento médico."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Quién puede acceder a un programa de péptidos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pueden acceder adultos mayores de 21 años, en buen estado de salud general, sin cáncer activo, enfermedad endocrina no controlada, embarazo ni lactancia. El equipo médico revisa antecedentes personales y familiares, medicación habitual y analítica basal antes de cualquier prescripción. La elegibilidad solo se confirma tras la consulta con Ronal Perdomo Lugo, APRN, FNP-C."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué efectos secundarios cabe esperar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría son leves y locales: enrojecimiento en el punto de inyección, retención leve de líquidos, sueños vívidos o cefaleas pasajeras. Algunos péptidos pueden modificar apetito o energía las primeras semanas. Las reacciones graves son infrecuentes pero posibles; instruimos a cada paciente sobre señales de alarma y cómo contactar con la clínica si aparece algo inesperado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencian de la dieta y el ejercicio?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los péptidos no sustituyen a la nutrición, el entrenamiento ni el sueño. Son moléculas de señalización que apoyan vías que el cuerpo ya usa, pero solo cuando los pilares básicos están en su sitio. Los pacientes que se saltan el trabajo de hábitos rara vez observan resultados relevantes. Por eso integramos cada protocolo con recomendaciones claras de estilo de vida."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto cuesta el programa?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El precio depende del nivel y de los péptidos prescritos tras la consulta. Basic desde $\\[CONFIRM\\] USD por ciclo, Optimization desde $\\[CONFIRM\\] USD por ciclo y Elite desde $\\[CONFIRM\\] USD por ciclo, incluyendo el seguimiento médico necesario. El presupuesto detallado se entrega por escrito al final de la consulta, sin compromiso de iniciar el tratamiento."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuál es el calendario de seguimiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En Basic hay sesión de inicio y revisión al final del ciclo. En Optimization se añade analítica basal y revisión a mitad de ciclo. En Elite hay panel basal ampliado, analíticas programadas durante el ciclo y reunión de titulación personalizada. Fuera de estos hitos, el paciente puede contactar con la clínica en cualquier momento ante síntomas adversos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Las inyecciones se administran en casa?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. La mayoría de protocolos usan pequeñas inyecciones subcutáneas que el paciente aprende a aplicarse durante la sesión de inicio. Las agujas son finas, tipo insulina, y la molestia es mínima. Quienes prefieran administración en clínica pueden agendar visitas programadas en nuestra sede de Miami con coste adicional."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo cambiar de nivel?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. Muchos pacientes empiezan en Basic, recogen datos sobre tolerancia y respuesta y luego avanzan a Optimization o Elite cuando sus objetivos cambian. La movilidad entre niveles es siempre una decisión clínica, no comercial, y se confirma en la revisión de fin de ciclo a partir de la analítica y de los resultados reportados."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Los péptidos son legales y se prescriben?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cada péptido se dispensa únicamente con prescripción médica individual emitida tras una consulta completa. No vendemos péptidos sin receta y no prescribimos a pacientes que rechacen analítica o seguimiento. Es un programa médico con toda la documentación que un programa médico requiere."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Programas de Péptidos en Miami: Basic, Optimization y Elite",
+            "item": "https://realaestheticmedspa.com/tratamientos/programas-peptidos/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/peptide-programs.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/peptide-programs/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/programas-peptidos/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Programas de Péptidos en Miami: Basic, Optimization <em>y Elite</em>",
+    "lede": "Los programas de péptidos son protocolos médicos supervisados que utilizan cadenas cortas de aminoácidos como moléculas de señalización para apoyar la recuperación, el rendimiento y la longevidad, organizados en nuestra clínica de Miami en tres niveles de complejidad clínica.",
+    "multi": {
+      "label": "Reserva por programa",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-longevity-program",
+          "label": "Longevidad",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-metabolic-program",
+          "label": "Metabólico",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-performance-program",
+          "label": "Performance",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Señalización biológica dirigida que apoya las propias vías de reparación y regulación del cuerpo.",
+        "Personalización por nivel para que tanto principiantes como pacientes con experiencia tengan un punto de entrada adecuado.",
+        "Supervisión médica continua con reevaluación periódica, no recetas aisladas.",
+        "Integración con recomendaciones de sueño, nutrición y entrenamiento para potenciar el resultado clínico.",
+        "Protocolos discretos de autoadministración enseñados en clínica para un uso domiciliario seguro.",
+        "Analíticas opcionales en niveles superiores para titular la dosis y verificar marcadores de seguridad.",
+        "Ruta clara de progresión: el paciente puede subir de nivel a medida que cambian sus objetivos."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "Los cambios subjetivos en sueño, recuperación y energía suelen aparecer entre las semanas tres y seis. Los cambios objetivos en composición corporal o analítica se reevalúan al final del ciclo. La mayoría de los pacientes realizan entre dos y cuatro ciclos supervisados al año con pausas planificadas."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "Basic",
+          "a": "Un programa de entrada construido en torno a un péptido fundamental, normalmente orientado a recuperación, calidad del sueño o bienestar general. Ideal para pacientes nuevos en la terapia con péptidos que quieren un punto de partida conservador y bien tolerado."
+        },
+        {
+          "q": "Optimization",
+          "a": "Combinación de dos o tres péptidos enfocada en rendimiento, composición corporal, apoyo cognitivo u objetivos de longevidad. Incluye analítica basal y revisión clínica a mitad de ciclo."
+        },
+        {
+          "q": "Elite",
+          "a": "Stack totalmente personalizado con analítica ampliada, panel de micronutrientes y titulación regular. Diseñado para pacientes con objetivos definidos de longevidad, rendimiento o estética que desean el mayor nivel de seguimiento médico."
+        },
+        {
+          "q": "¿Quién puede acceder a un programa de péptidos?",
+          "a": "Pueden acceder adultos mayores de 21 años, en buen estado de salud general, sin cáncer activo, enfermedad endocrina no controlada, embarazo ni lactancia. El equipo médico revisa antecedentes personales y familiares, medicación habitual y analítica basal antes de cualquier prescripción. La elegibilidad solo se confirma tras la consulta con Ronal Perdomo Lugo, APRN, FNP-C."
+        },
+        {
+          "q": "¿Qué efectos secundarios cabe esperar?",
+          "a": "La mayoría son leves y locales: enrojecimiento en el punto de inyección, retención leve de líquidos, sueños vívidos o cefaleas pasajeras. Algunos péptidos pueden modificar apetito o energía las primeras semanas. Las reacciones graves son infrecuentes pero posibles; instruimos a cada paciente sobre señales de alarma y cómo contactar con la clínica si aparece algo inesperado."
+        },
+        {
+          "q": "¿En qué se diferencian de la dieta y el ejercicio?",
+          "a": "Los péptidos no sustituyen a la nutrición, el entrenamiento ni el sueño. Son moléculas de señalización que apoyan vías que el cuerpo ya usa, pero solo cuando los pilares básicos están en su sitio. Los pacientes que se saltan el trabajo de hábitos rara vez observan resultados relevantes. Por eso integramos cada protocolo con recomendaciones claras de estilo de vida."
+        },
+        {
+          "q": "¿Cuánto cuesta el programa?",
+          "a": "El precio depende del nivel y de los péptidos prescritos tras la consulta. Basic desde $\\[CONFIRM\\] USD por ciclo, Optimization desde $\\[CONFIRM\\] USD por ciclo y Elite desde $\\[CONFIRM\\] USD por ciclo, incluyendo el seguimiento médico necesario. El presupuesto detallado se entrega por escrito al final de la consulta, sin compromiso de iniciar el tratamiento."
+        },
+        {
+          "q": "¿Cuál es el calendario de seguimiento?",
+          "a": "En Basic hay sesión de inicio y revisión al final del ciclo. En Optimization se añade analítica basal y revisión a mitad de ciclo. En Elite hay panel basal ampliado, analíticas programadas durante el ciclo y reunión de titulación personalizada. Fuera de estos hitos, el paciente puede contactar con la clínica en cualquier momento ante síntomas adversos."
+        },
+        {
+          "q": "¿Las inyecciones se administran en casa?",
+          "a": "Sí. La mayoría de protocolos usan pequeñas inyecciones subcutáneas que el paciente aprende a aplicarse durante la sesión de inicio. Las agujas son finas, tipo insulina, y la molestia es mínima. Quienes prefieran administración en clínica pueden agendar visitas programadas en nuestra sede de Miami con coste adicional."
+        },
+        {
+          "q": "¿Puedo cambiar de nivel?",
+          "a": "Sí. Muchos pacientes empiezan en Basic, recogen datos sobre tolerancia y respuesta y luego avanzan a Optimization o Elite cuando sus objetivos cambian. La movilidad entre niveles es siempre una decisión clínica, no comercial, y se confirma en la revisión de fin de ciclo a partir de la analítica y de los resultados reportados."
+        },
+        {
+          "q": "¿Los péptidos son legales y se prescriben?",
+          "a": "Cada péptido se dispensa únicamente con prescripción médica individual emitida tras una consulta completa. No vendemos péptidos sin receta y no prescribimos a pacientes que rechacen analítica o seguimiento. Es un programa médico con toda la documentación que un programa médico requiere."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Comienza con una evaluación médica completa y una recomendación de nivel personalizada.",
+    "multi": {
+      "label": "Reserva por programa",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-longevity-program",
+          "label": "Longevidad",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-metabolic-program",
+          "label": "Metabólico",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-performance-program",
+          "label": "Performance",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

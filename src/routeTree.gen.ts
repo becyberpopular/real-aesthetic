@@ -10,33 +10,258 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AboutRouteImport } from './routes/about'
+import { Route as ContactRouteImport } from './routes/contact'
+import { Route as ContactoRouteImport } from './routes/contacto'
+import { Route as ElClubRealAestheticRouteImport } from './routes/el-club-real-aesthetic'
+import { Route as FinanciacionRouteImport } from './routes/financiacion'
+import { Route as FinancingRouteImport } from './routes/financing'
+import { Route as PrivacidadRouteImport } from './routes/privacidad'
+import { Route as PrivacyRouteImport } from './routes/privacy'
+import { Route as SobreRouteImport } from './routes/sobre'
+import { Route as TerminosRouteImport } from './routes/terminos'
+import { Route as TermsRouteImport } from './routes/terms'
+import { Route as TheRealAestheticClubRouteImport } from './routes/the-real-aesthetic-club'
+import { Route as EnIndexRouteImport } from './routes/en/index'
+import { Route as ProceduresIndexRouteImport } from './routes/procedures/index'
+import { Route as ProceduresSlugRouteImport } from './routes/procedures/$slug'
+import { Route as TratamientosIndexRouteImport } from './routes/tratamientos/index'
+import { Route as TratamientosSlugRouteImport } from './routes/tratamientos/$slug'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AboutRoute = AboutRouteImport.update({
+  id: '/about',
+  path: '/about',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ContactRoute = ContactRouteImport.update({
+  id: '/contact',
+  path: '/contact',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ContactoRoute = ContactoRouteImport.update({
+  id: '/contacto',
+  path: '/contacto',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ElClubRealAestheticRoute = ElClubRealAestheticRouteImport.update({
+  id: '/el-club-real-aesthetic',
+  path: '/el-club-real-aesthetic',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const FinanciacionRoute = FinanciacionRouteImport.update({
+  id: '/financiacion',
+  path: '/financiacion',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const FinancingRoute = FinancingRouteImport.update({
+  id: '/financing',
+  path: '/financing',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PrivacidadRoute = PrivacidadRouteImport.update({
+  id: '/privacidad',
+  path: '/privacidad',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PrivacyRoute = PrivacyRouteImport.update({
+  id: '/privacy',
+  path: '/privacy',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SobreRoute = SobreRouteImport.update({
+  id: '/sobre',
+  path: '/sobre',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TerminosRoute = TerminosRouteImport.update({
+  id: '/terminos',
+  path: '/terminos',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TermsRoute = TermsRouteImport.update({
+  id: '/terms',
+  path: '/terms',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TheRealAestheticClubRoute = TheRealAestheticClubRouteImport.update({
+  id: '/the-real-aesthetic-club',
+  path: '/the-real-aesthetic-club',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EnIndexRoute = EnIndexRouteImport.update({
+  id: '/en/',
+  path: '/en/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProceduresIndexRoute = ProceduresIndexRouteImport.update({
+  id: '/procedures/',
+  path: '/procedures/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProceduresSlugRoute = ProceduresSlugRouteImport.update({
+  id: '/procedures/$slug',
+  path: '/procedures/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TratamientosIndexRoute = TratamientosIndexRouteImport.update({
+  id: '/tratamientos/',
+  path: '/tratamientos/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TratamientosSlugRoute = TratamientosSlugRouteImport.update({
+  id: '/tratamientos/$slug',
+  path: '/tratamientos/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/contact': typeof ContactRoute
+  '/contacto': typeof ContactoRoute
+  '/el-club-real-aesthetic': typeof ElClubRealAestheticRoute
+  '/financiacion': typeof FinanciacionRoute
+  '/financing': typeof FinancingRoute
+  '/privacidad': typeof PrivacidadRoute
+  '/privacy': typeof PrivacyRoute
+  '/sobre': typeof SobreRoute
+  '/terminos': typeof TerminosRoute
+  '/terms': typeof TermsRoute
+  '/the-real-aesthetic-club': typeof TheRealAestheticClubRoute
+  '/procedures/$slug': typeof ProceduresSlugRoute
+  '/tratamientos/$slug': typeof TratamientosSlugRoute
+  '/en/': typeof EnIndexRoute
+  '/procedures/': typeof ProceduresIndexRoute
+  '/tratamientos/': typeof TratamientosIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/contact': typeof ContactRoute
+  '/contacto': typeof ContactoRoute
+  '/el-club-real-aesthetic': typeof ElClubRealAestheticRoute
+  '/financiacion': typeof FinanciacionRoute
+  '/financing': typeof FinancingRoute
+  '/privacidad': typeof PrivacidadRoute
+  '/privacy': typeof PrivacyRoute
+  '/sobre': typeof SobreRoute
+  '/terminos': typeof TerminosRoute
+  '/terms': typeof TermsRoute
+  '/the-real-aesthetic-club': typeof TheRealAestheticClubRoute
+  '/procedures/$slug': typeof ProceduresSlugRoute
+  '/tratamientos/$slug': typeof TratamientosSlugRoute
+  '/en': typeof EnIndexRoute
+  '/procedures': typeof ProceduresIndexRoute
+  '/tratamientos': typeof TratamientosIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/contact': typeof ContactRoute
+  '/contacto': typeof ContactoRoute
+  '/el-club-real-aesthetic': typeof ElClubRealAestheticRoute
+  '/financiacion': typeof FinanciacionRoute
+  '/financing': typeof FinancingRoute
+  '/privacidad': typeof PrivacidadRoute
+  '/privacy': typeof PrivacyRoute
+  '/sobre': typeof SobreRoute
+  '/terminos': typeof TerminosRoute
+  '/terms': typeof TermsRoute
+  '/the-real-aesthetic-club': typeof TheRealAestheticClubRoute
+  '/procedures/$slug': typeof ProceduresSlugRoute
+  '/tratamientos/$slug': typeof TratamientosSlugRoute
+  '/en/': typeof EnIndexRoute
+  '/procedures/': typeof ProceduresIndexRoute
+  '/tratamientos/': typeof TratamientosIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/'
+    | '/about'
+    | '/contact'
+    | '/contacto'
+    | '/el-club-real-aesthetic'
+    | '/financiacion'
+    | '/financing'
+    | '/privacidad'
+    | '/privacy'
+    | '/sobre'
+    | '/terminos'
+    | '/terms'
+    | '/the-real-aesthetic-club'
+    | '/procedures/$slug'
+    | '/tratamientos/$slug'
+    | '/en/'
+    | '/procedures/'
+    | '/tratamientos/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to:
+    | '/'
+    | '/about'
+    | '/contact'
+    | '/contacto'
+    | '/el-club-real-aesthetic'
+    | '/financiacion'
+    | '/financing'
+    | '/privacidad'
+    | '/privacy'
+    | '/sobre'
+    | '/terminos'
+    | '/terms'
+    | '/the-real-aesthetic-club'
+    | '/procedures/$slug'
+    | '/tratamientos/$slug'
+    | '/en'
+    | '/procedures'
+    | '/tratamientos'
+  id:
+    | '__root__'
+    | '/'
+    | '/about'
+    | '/contact'
+    | '/contacto'
+    | '/el-club-real-aesthetic'
+    | '/financiacion'
+    | '/financing'
+    | '/privacidad'
+    | '/privacy'
+    | '/sobre'
+    | '/terminos'
+    | '/terms'
+    | '/the-real-aesthetic-club'
+    | '/procedures/$slug'
+    | '/tratamientos/$slug'
+    | '/en/'
+    | '/procedures/'
+    | '/tratamientos/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AboutRoute: typeof AboutRoute
+  ContactRoute: typeof ContactRoute
+  ContactoRoute: typeof ContactoRoute
+  ElClubRealAestheticRoute: typeof ElClubRealAestheticRoute
+  FinanciacionRoute: typeof FinanciacionRoute
+  FinancingRoute: typeof FinancingRoute
+  PrivacidadRoute: typeof PrivacidadRoute
+  PrivacyRoute: typeof PrivacyRoute
+  SobreRoute: typeof SobreRoute
+  TerminosRoute: typeof TerminosRoute
+  TermsRoute: typeof TermsRoute
+  TheRealAestheticClubRoute: typeof TheRealAestheticClubRoute
+  ProceduresSlugRoute: typeof ProceduresSlugRoute
+  TratamientosSlugRoute: typeof TratamientosSlugRoute
+  EnIndexRoute: typeof EnIndexRoute
+  ProceduresIndexRoute: typeof ProceduresIndexRoute
+  TratamientosIndexRoute: typeof TratamientosIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +273,147 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/about': {
+      id: '/about'
+      path: '/about'
+      fullPath: '/about'
+      preLoaderRoute: typeof AboutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/contact': {
+      id: '/contact'
+      path: '/contact'
+      fullPath: '/contact'
+      preLoaderRoute: typeof ContactRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/contacto': {
+      id: '/contacto'
+      path: '/contacto'
+      fullPath: '/contacto'
+      preLoaderRoute: typeof ContactoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/el-club-real-aesthetic': {
+      id: '/el-club-real-aesthetic'
+      path: '/el-club-real-aesthetic'
+      fullPath: '/el-club-real-aesthetic'
+      preLoaderRoute: typeof ElClubRealAestheticRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/financiacion': {
+      id: '/financiacion'
+      path: '/financiacion'
+      fullPath: '/financiacion'
+      preLoaderRoute: typeof FinanciacionRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/financing': {
+      id: '/financing'
+      path: '/financing'
+      fullPath: '/financing'
+      preLoaderRoute: typeof FinancingRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/privacidad': {
+      id: '/privacidad'
+      path: '/privacidad'
+      fullPath: '/privacidad'
+      preLoaderRoute: typeof PrivacidadRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/privacy': {
+      id: '/privacy'
+      path: '/privacy'
+      fullPath: '/privacy'
+      preLoaderRoute: typeof PrivacyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/sobre': {
+      id: '/sobre'
+      path: '/sobre'
+      fullPath: '/sobre'
+      preLoaderRoute: typeof SobreRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/terminos': {
+      id: '/terminos'
+      path: '/terminos'
+      fullPath: '/terminos'
+      preLoaderRoute: typeof TerminosRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/terms': {
+      id: '/terms'
+      path: '/terms'
+      fullPath: '/terms'
+      preLoaderRoute: typeof TermsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/the-real-aesthetic-club': {
+      id: '/the-real-aesthetic-club'
+      path: '/the-real-aesthetic-club'
+      fullPath: '/the-real-aesthetic-club'
+      preLoaderRoute: typeof TheRealAestheticClubRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/en/': {
+      id: '/en/'
+      path: '/en'
+      fullPath: '/en/'
+      preLoaderRoute: typeof EnIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/procedures/': {
+      id: '/procedures/'
+      path: '/procedures'
+      fullPath: '/procedures/'
+      preLoaderRoute: typeof ProceduresIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/procedures/$slug': {
+      id: '/procedures/$slug'
+      path: '/procedures/$slug'
+      fullPath: '/procedures/$slug'
+      preLoaderRoute: typeof ProceduresSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/tratamientos/': {
+      id: '/tratamientos/'
+      path: '/tratamientos'
+      fullPath: '/tratamientos/'
+      preLoaderRoute: typeof TratamientosIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/tratamientos/$slug': {
+      id: '/tratamientos/$slug'
+      path: '/tratamientos/$slug'
+      fullPath: '/tratamientos/$slug'
+      preLoaderRoute: typeof TratamientosSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AboutRoute: AboutRoute,
+  ContactRoute: ContactRoute,
+  ContactoRoute: ContactoRoute,
+  ElClubRealAestheticRoute: ElClubRealAestheticRoute,
+  FinanciacionRoute: FinanciacionRoute,
+  FinancingRoute: FinancingRoute,
+  PrivacidadRoute: PrivacidadRoute,
+  PrivacyRoute: PrivacyRoute,
+  SobreRoute: SobreRoute,
+  TerminosRoute: TerminosRoute,
+  TermsRoute: TermsRoute,
+  TheRealAestheticClubRoute: TheRealAestheticClubRoute,
+  ProceduresSlugRoute: ProceduresSlugRoute,
+  TratamientosSlugRoute: TratamientosSlugRoute,
+  EnIndexRoute: EnIndexRoute,
+  ProceduresIndexRoute: ProceduresIndexRoute,
+  TratamientosIndexRoute: TratamientosIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

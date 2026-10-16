@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "iv-vitamin-boost",
+  "path": "/procedures/iv-vitamin-boost/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/iv-vitamin-boost.webp",
+  "ctaImage": "/img/proc/iv-vitamin-boost.webp",
+  "head": {
+    "title": "IV Vitamin Boost in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "IV Vitamin Boost in Miami at Real Aesthetic. Direct intravenous delivery of essential vitamins and minerals supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "IV Vitamin Boost in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "IV Vitamin Boost in Miami at Real Aesthetic. Direct intravenous delivery of essential vitamins and minerals supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/iv-vitamin-boost/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-vitamin-boost.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "IV Vitamin Boost in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "IV Vitamin Boost in Miami at Real Aesthetic. Direct intravenous delivery of essential vitamins and minerals supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-vitamin-boost.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/iv-vitamin-boost/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/iv-vitamin-boost/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-refuerzo-vitaminas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "IV Vitamin Boost in Miami",
+        "description": "IV Vitamin Boost in Miami at Real Aesthetic. Direct intravenous delivery of essential vitamins and minerals supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/iv-vitamin-boost/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/iv-vitamin-boost/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/iv-vitamin-boost/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is IV vitamin therapy a substitute for oral supplements?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It complements them rather than replacing them. IV delivers high bioavailability for an immediate state correction. Oral supplements work over time at lower bioavailability. Many patients combine both during demanding seasons (high training, jet lag, period of stress, recovery from illness)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I choose what is in my IV?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We start with a clinically reviewed standard blend and can adjust it based on the patient's history, current state and goal. NAD+ and other add-ons are also available in dedicated programmes. Ronal Perdomo Lugo, APRN, FNP-C will discuss the best combination during the consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are there any side effects?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Side effects are rare and usually mild — slight cooling sensation along the vein, transient flushing, vitamin-flavour taste during the infusion. We screen for allergies and current medications before starting and the IV is monitored throughout the session for safety."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IV Vitamin Boost in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/iv-vitamin-boost/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/iv-vitamin-boost.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/iv-vitamin-boost/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/iv-refuerzo-vitaminas/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "IV Vitamin Boost <em>in Miami</em>",
+    "lede": "Targeted IV blend of essential vitamins and minerals delivered directly into the bloodstream for full bioavailability — supporting energy, immunity and overall wellness.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-vitamin-boost",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Delivers B-complex, vitamin C, magnesium and key minerals at 100% bioavailability.",
+        "Supports sustained energy levels and reduces fatigue when nutrient status is suboptimal.",
+        "Strengthens immune function during periods of stress, travel or seasonal demands.",
+        "Customisable with additional vitamins or recovery components based on objective.",
+        "Session lasts approximately 45–60 minutes in a comfortable clinical setting.",
+        "Medically reviewed protocol — adapted to your baseline health and goals."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is IV vitamin therapy a substitute for oral supplements?",
+          "a": "It complements them rather than replacing them. IV delivers high bioavailability for an immediate state correction. Oral supplements work over time at lower bioavailability. Many patients combine both during demanding seasons (high training, jet lag, period of stress, recovery from illness)."
+        },
+        {
+          "q": "Can I choose what is in my IV?",
+          "a": "We start with a clinically reviewed standard blend and can adjust it based on the patient's history, current state and goal. NAD+ and other add-ons are also available in dedicated programmes. Ronal Perdomo Lugo, APRN, FNP-C will discuss the best combination during the consultation."
+        },
+        {
+          "q": "Are there any side effects?",
+          "a": "Side effects are rare and usually mild — slight cooling sensation along the vein, transient flushing, vitamin-flavour taste during the infusion. We screen for allergies and current medications before starting and the IV is monitored throughout the session for safety."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-vitamin-boost",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

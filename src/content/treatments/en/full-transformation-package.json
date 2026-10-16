@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "full-transformation-package",
+  "path": "/procedures/full-transformation-package/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/full-transformation-package.webp",
+  "ctaImage": "/img/proc/full-transformation-package.webp",
+  "head": {
+    "title": "Full Transformation Package in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Personalised three to six month programme combining endolaser, mesotherapy, facial harmonization and lymphatic care in Miami at Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Full Transformation Package in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Personalised three to six month programme combining endolaser, mesotherapy, facial harmonization and lymphatic care in Miami at Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/full-transformation-package/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/full-transformation-package.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Full Transformation Package in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Personalised three to six month programme combining endolaser, mesotherapy, facial harmonization and lymphatic care in Miami at Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/full-transformation-package.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/full-transformation-package/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/full-transformation-package/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/paquete-transformacion-total/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Full Transformation Package in Miami",
+        "description": "The Full Transformation Package is our flagship three to six month aesthetic programme that integrates multi-area endolaser, mesotherapy, facial harmonization, peptide or weight-loss support when clinically indicated, extensive lymphatic drainage and a structured maintenance plan into one personalised pathway designed during the medical consultation.",
+        "url": "https://realaestheticmedspa.com/procedures/full-transformation-package/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/full-transformation-package/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/full-transformation-package/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How long does the Full Transformation Package take?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The active phase typically runs three to six months, depending on the components included and the recovery windows your plan requires. Endolaser, biostimulators and combined facial harmonization need biological time between sessions. The maintenance phase continues afterwards as a lighter cadence of touch-ups and skin-quality sessions. The full timeline is mapped in writing during the consultation so you know exactly what your calendar looks like."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is included in the package?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Inclusions are personalised, but a typical programme combines multi-area endolaser, body and facial mesotherapy, facial harmonization, an extensive lymphatic drainage course, peptide or medical weight-loss support when clinically indicated, and a defined maintenance plan. The exact list, the number of sessions of each component, and the sequence are decided during the medical consultation and confirmed in writing before booking."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is this different from booking treatments individually?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Individual booking optimises each treatment in isolation; the package optimises the whole programme. Sequence matters: weight management before contouring, contouring before facial harmonization that depends on facial proportion, biostimulators well before a key date so they have time to mature. A coordinated programme respects those biological windows, prevents conflict between protocols, and removes the planning burden from the patient."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Full Transformation Package in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/full-transformation-package/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/full-transformation-package.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/full-transformation-package/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/paquete-transformacion-total/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Full Transformation Package <em>in Miami</em>",
+    "lede": "The Full Transformation Package is our flagship three to six month aesthetic programme that integrates multi-area endolaser, mesotherapy, facial harmonization, peptide or weight-loss support when clinically indicated, extensive lymphatic drainage and a structured maintenance plan into one personalised pathway designed during the medical consultation.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Integrates body, face and skin-quality protocols into one coordinated programme rather than a series of unrelated bookings.",
+        "Personalises the sequence and timing of each treatment to your anatomy, goals and recovery capacity.",
+        "Builds in the lymphatic drainage course required after body work, reducing swelling and refining the final contour.",
+        "Adds peptide or medical weight-loss support when clinically indicated, so the starting point is realistic before contouring.",
+        "Includes facial harmonization to align facial proportion with the body change.",
+        "Concludes with a defined maintenance plan, so the result is protected over time rather than left to drift.",
+        "Delivered by a physician-led team coordinated by Ronal Perdomo Lugo, APRN, FNP-C across all components."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How long does the Full Transformation Package take?",
+          "a": "The active phase typically runs three to six months, depending on the components included and the recovery windows your plan requires. Endolaser, biostimulators and combined facial harmonization need biological time between sessions. The maintenance phase continues afterwards as a lighter cadence of touch-ups and skin-quality sessions. The full timeline is mapped in writing during the consultation so you know exactly what your calendar looks like."
+        },
+        {
+          "q": "What is included in the package?",
+          "a": "Inclusions are personalised, but a typical programme combines multi-area endolaser, body and facial mesotherapy, facial harmonization, an extensive lymphatic drainage course, peptide or medical weight-loss support when clinically indicated, and a defined maintenance plan. The exact list, the number of sessions of each component, and the sequence are decided during the medical consultation and confirmed in writing before booking."
+        },
+        {
+          "q": "How is this different from booking treatments individually?",
+          "a": "Individual booking optimises each treatment in isolation; the package optimises the whole programme. Sequence matters: weight management before contouring, contouring before facial harmonization that depends on facial proportion, biostimulators well before a key date so they have time to mature. A coordinated programme respects those biological windows, prevents conflict between protocols, and removes the planning burden from the patient."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

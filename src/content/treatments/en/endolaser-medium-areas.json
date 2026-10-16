@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "slug": "endolaser-medium-areas",
+  "path": "/procedures/endolaser-medium-areas/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/endolaser-medium-areas.webp",
+  "ctaImage": "/img/proc/endolaser-medium-areas.webp",
+  "head": {
+    "title": "Endolaser for Medium Areas in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Endolaser for abdomen, flanks, inner thighs and arms in Miami at Real Aesthetic. Subdermal laser lipolysis with skin tightening. Book your medical assessment."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Endolaser for Medium Areas in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Endolaser for abdomen, flanks, inner thighs and arms in Miami at Real Aesthetic. Subdermal laser lipolysis with skin tightening. Book your medical assessment."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/endolaser-medium-areas/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/endolaser-medium-areas.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Endolaser for Medium Areas in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Endolaser for abdomen, flanks, inner thighs and arms in Miami at Real Aesthetic. Subdermal laser lipolysis with skin tightening. Book your medical assessment."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/endolaser-medium-areas.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/endolaser-medium-areas/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/endolaser-medium-areas/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-medianas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Endolaser for Medium Areas in Miami",
+        "description": "Endolaser for medium areas is a minimally invasive subdermal laser-assisted lipolysis procedure that reduces localised fat and tightens skin in zones such as the abdomen, flanks, inner thighs, and arms, performed under local anaesthesia in a session of 1.5 to 2 hours with a compression garment worn for one to two weeks.",
+        "url": "https://realaestheticmedspa.com/procedures/endolaser-medium-areas/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/endolaser-medium-areas/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/endolaser-medium-areas/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How is Endolaser different from traditional liposuction?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Both reduce localised fat, but Endolaser uses a fine laser fibre to first emulsify the fat and to heat the dermis from underneath. This adds a skin-tightening component that traditional liposuction does not produce. Recovery is generally shorter and the entry points are smaller. For larger volumes of fat or marked laxity, traditional surgery may still be the most appropriate option, which we discuss on a case-by-case basis."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I treat the abdomen and flanks in the same session?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In many medium-area cases the lower abdomen and flanks are addressed together because they share a continuous contour. The combined session typically lasts up to two hours under local anaesthesia. Whether two zones can be combined safely depends on volume, total tumescent dose, BMI, and your medical history; this is decided during the medical consultation by Ronal Perdomo Lugo, APRN, FNP-C."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long do I have to wear the compression garment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For medium areas we typically prescribe one to two weeks of compression, usually 24 hours a day for the first week and daytime only during the second. Adherence is one of the strongest predictors of a clean, smooth contour and reduces swelling, seroma, and surface irregularity. Our team fits the garment in the clinic and adjusts the schedule to your individual response."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Endolaser for Medium Areas in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/endolaser-medium-areas/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/endolaser-medium-areas.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/endolaser-medium-areas/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/endolaser-areas-medianas/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Endolaser for Medium Areas <em>in Miami</em>",
+    "lede": "Endolaser for medium areas is a minimally invasive subdermal laser-assisted lipolysis procedure that reduces localised fat and tightens skin in zones such as the abdomen, flanks, inner thighs, and arms, performed under local anaesthesia in a session of 1.5 to 2 hours with a compression garment worn for one to two weeks.",
+    "multi": {
+      "label": "Book by area",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-arms",
+          "label": "Arms",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-flanks",
+          "label": "Flanks",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces localised fat in the abdomen, flanks, inner thighs, and arms in a single in-office session.",
+        "Tightens overlying skin through controlled subdermal heating, helping retraction over the new contour.",
+        "Refines body silhouette in zones that often resist diet and exercise alone.",
+        "Works through tiny cannula entries, typically closed without sutures and easy to conceal.",
+        "Local anaesthesia and outpatient setting — no general anaesthesia, no overnight stay.",
+        "Recovery is shorter than traditional liposuction; most patients return to desk work within three to five days.",
+        "Pairs well with lymphatic drainage massage as a post-procedure adjuvant for swelling and final contour."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How is Endolaser different from traditional liposuction?",
+          "a": "Both reduce localised fat, but Endolaser uses a fine laser fibre to first emulsify the fat and to heat the dermis from underneath. This adds a skin-tightening component that traditional liposuction does not produce. Recovery is generally shorter and the entry points are smaller. For larger volumes of fat or marked laxity, traditional surgery may still be the most appropriate option, which we discuss on a case-by-case basis."
+        },
+        {
+          "q": "Can I treat the abdomen and flanks in the same session?",
+          "a": "In many medium-area cases the lower abdomen and flanks are addressed together because they share a continuous contour. The combined session typically lasts up to two hours under local anaesthesia. Whether two zones can be combined safely depends on volume, total tumescent dose, BMI, and your medical history; this is decided during the medical consultation by Ronal Perdomo Lugo, APRN, FNP-C."
+        },
+        {
+          "q": "How long do I have to wear the compression garment?",
+          "a": "For medium areas we typically prescribe one to two weeks of compression, usually 24 hours a day for the first week and daytime only during the second. Adherence is one of the strongest predictors of a clean, smooth contour and reduces swelling, seroma, and surface irregularity. Our team fits the garment in the clinic and adjusts the schedule to your individual response."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "multi": {
+      "label": "Book by area",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-arms",
+          "label": "Arms",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-flanks",
+          "label": "Flanks",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

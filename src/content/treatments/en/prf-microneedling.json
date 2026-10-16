@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "prf-microneedling",
+  "path": "/procedures/prf-microneedling/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/prf-microneedling.webp",
+  "ctaImage": "/img/proc/prf-microneedling.webp",
+  "head": {
+    "title": "PRF + Microneedling in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "PRF combined with microneedling in Miami at Real Aesthetic. Boosts collagen induction with the patient's own growth factors. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "PRF + Microneedling in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "PRF combined with microneedling in Miami at Real Aesthetic. Boosts collagen induction with the patient's own growth factors. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/prf-microneedling/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prf-microneedling.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "PRF + Microneedling in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "PRF combined with microneedling in Miami at Real Aesthetic. Boosts collagen induction with the patient's own growth factors. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prf-microneedling.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/prf-microneedling/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/prf-microneedling/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/prf-microagujas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "PRF + Microneedling in Miami",
+        "description": "PRF combined with microneedling in Miami at Real Aesthetic. Boosts collagen induction with the patient's own growth factors. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/prf-microneedling/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/prf-microneedling/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/prf-microneedling/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why combine microneedling with PRF?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Microneedling creates controlled micro-channels in the skin that trigger collagen induction. Adding PRF at the moment those channels are open delivers your own growth factors directly into the dermis, amplifying the regenerative cascade. The combined result is often more pronounced than either modality alone."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What can I expect after the session?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Skin will be pink to red for 12 to 48 hours, similar to a mild sunburn. Most patients use only gentle skincare and broad-spectrum sun protection for 5–7 days. Makeup can typically be applied after 24 hours. We send a written aftercare guide after every session."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it safe on darker skin tones?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Microneedling is generally safe across skin tones because it does not rely on heat or pigment-targeting energy. The needle depth and PRF protocol are calibrated to your skin and goal. We assess your Fitzpatrick type during consultation and design the parameters accordingly."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PRF + Microneedling in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/prf-microneedling/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/prf-microneedling.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/prf-microneedling/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/prf-microagujas/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "PRF + Microneedling <em>in Miami</em>",
+    "lede": "Combines fractional microneedling with Platelet-Rich Fibrin applied topically and delivered through the channels created by the needles, amplifying collagen induction and skin renewal.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-microneedling",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Combines mechanical collagen induction (microneedling) with biological growth factors (PRF).",
+        "Improves skin texture, fine lines, acne scarring, pigmentation irregularities and pore appearance.",
+        "Recovery is short — most patients show mild redness for 24–48 hours.",
+        "Each session takes approximately 60 minutes including PRF preparation.",
+        "Protocol typically 3 sessions spaced 4 weeks apart with progressive improvement.",
+        "100% autologous biological component — no synthetic serums layered into open channels."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Why combine microneedling with PRF?",
+          "a": "Microneedling creates controlled micro-channels in the skin that trigger collagen induction. Adding PRF at the moment those channels are open delivers your own growth factors directly into the dermis, amplifying the regenerative cascade. The combined result is often more pronounced than either modality alone."
+        },
+        {
+          "q": "What can I expect after the session?",
+          "a": "Skin will be pink to red for 12 to 48 hours, similar to a mild sunburn. Most patients use only gentle skincare and broad-spectrum sun protection for 5–7 days. Makeup can typically be applied after 24 hours. We send a written aftercare guide after every session."
+        },
+        {
+          "q": "Is it safe on darker skin tones?",
+          "a": "Yes. Microneedling is generally safe across skin tones because it does not rely on heat or pigment-targeting energy. The needle depth and PRF protocol are calibrated to your skin and goal. We assess your Fitzpatrick type during consultation and design the parameters accordingly."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-microneedling",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

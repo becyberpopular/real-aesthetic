@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "body-contouring-mesotherapy",
+  "path": "/procedures/body-contouring-mesotherapy/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/body-contouring-mesotherapy.webp",
+  "ctaImage": "/img/proc/body-contouring-mesotherapy.webp",
+  "head": {
+    "title": "Body Contouring Mesotherapy in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Body contouring mesotherapy in Miami for abdomen, flanks, and arms. Lipolytic and firming cocktails over multiple sessions, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Body Contouring Mesotherapy in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Body contouring mesotherapy in Miami for abdomen, flanks, and arms. Lipolytic and firming cocktails over multiple sessions, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/body-contouring-mesotherapy/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/body-contouring-mesotherapy.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Body Contouring Mesotherapy in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Body contouring mesotherapy in Miami for abdomen, flanks, and arms. Lipolytic and firming cocktails over multiple sessions, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/body-contouring-mesotherapy.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/body-contouring-mesotherapy/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/body-contouring-mesotherapy/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/contorno-corporal-mesoterapia/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Body Contouring Mesotherapy in Miami",
+        "description": "Body contouring mesotherapy is a multi-session injectable protocol that combines lipolytic and firming cocktails to refine medium and large areas — abdomen, flanks, and arms — at our Miami clinic.",
+        "url": "https://realaestheticmedspa.com/procedures/body-contouring-mesotherapy/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/body-contouring-mesotherapy/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/body-contouring-mesotherapy/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How many sessions does body contouring mesotherapy require?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A complete programme for medium and large areas typically involves between four and eight sessions, spaced two to four weeks apart, alternating lipolytic and firming phases. The exact number depends on the zone, baseline tissue quality, and individual response. Ronal Perdomo Lugo, APRN, FNP-C confirms the plan after the initial consultation and reassesses every two sessions using photographic comparison."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will body contouring mesotherapy help me lose weight?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. This protocol is a contour-refinement programme, not a weight-loss method. It targets specific zones rather than overall body weight. Patients seeking weight loss are better served by our medical weight programmes, which combine lifestyle support with medically supervised pharmacotherapy when indicated. The two approaches can be complementary, planned in sequence rather than as substitutes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What areas can be treated?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The most common medium and large areas are the abdomen (upper, lower, full), flanks or love handles, posterior bra fold, upper arms, and outer thighs. Smaller, more delicate zones such as the submental area or inner thighs are addressed with our small-area protocol. Each region has its own marking pattern, cocktail concentration, and number of sessions."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Body Contouring Mesotherapy in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/body-contouring-mesotherapy/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/body-contouring-mesotherapy.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/body-contouring-mesotherapy/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/contorno-corporal-mesoterapia/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Body Contouring Mesotherapy <em>in Miami</em>",
+    "lede": "Body contouring mesotherapy is a multi-session injectable protocol that combines lipolytic and firming cocktails to refine medium and large areas — abdomen, flanks, and arms — at our Miami clinic.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-body-tightening",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Refines medium and large body zones such as abdomen, flanks, arms, and outer thighs without surgery.",
+        "Combines fat reduction and skin firming so the contour and surface improve together.",
+        "Allows return to most office-based work the same day, which fits busy schedules in Brickell and Coral Gables.",
+        "Programmed in sessions, so the change is gradual and natural-looking rather than abrupt.",
+        "Personalised cocktails dosed for each zone — the abdomen plan differs from the arms plan.",
+        "Pairs naturally with lymphatic drainage massage to enhance results and reduce inflammation.",
+        "Offers a non-surgical option for candidates who do not need or want abdominoplasty or liposuction."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How many sessions does body contouring mesotherapy require?",
+          "a": "A complete programme for medium and large areas typically involves between four and eight sessions, spaced two to four weeks apart, alternating lipolytic and firming phases. The exact number depends on the zone, baseline tissue quality, and individual response. Ronal Perdomo Lugo, APRN, FNP-C confirms the plan after the initial consultation and reassesses every two sessions using photographic comparison."
+        },
+        {
+          "q": "Will body contouring mesotherapy help me lose weight?",
+          "a": "No. This protocol is a contour-refinement programme, not a weight-loss method. It targets specific zones rather than overall body weight. Patients seeking weight loss are better served by our medical weight programmes, which combine lifestyle support with medically supervised pharmacotherapy when indicated. The two approaches can be complementary, planned in sequence rather than as substitutes."
+        },
+        {
+          "q": "What areas can be treated?",
+          "a": "The most common medium and large areas are the abdomen (upper, lower, full), flanks or love handles, posterior bra fold, upper arms, and outer thighs. Smaller, more delicate zones such as the submental area or inner thighs are addressed with our small-area protocol. Each region has its own marking pattern, cocktail concentration, and number of sessions."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-body-tightening",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

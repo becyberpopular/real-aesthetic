@@ -1,0 +1,84 @@
+{
+  "title": "Política de Privacidad · Real Aesthetic Medical Spa",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Política de Privacidad de Real Aesthetic Medical Spa, Miami. Cómo recopilamos, usamos y protegemos la información personal y médica de pacientes y visitantes."
+    },
+    {
+      "name": "robots",
+      "content": "index,follow"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:title",
+      "content": "Política de Privacidad · Real Aesthetic Medical Spa"
+    },
+    {
+      "property": "og:description",
+      "content": "Cómo recopilamos, usamos y protegemos la información personal y médica en Real Aesthetic Medical Spa."
+    },
+    {
+      "property": "og:url",
+      "content": "https://realaestheticmedspa.com/privacidad/"
+    },
+    {
+      "property": "og:image",
+      "content": "https://realaestheticmedspa.com/img/hero.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "es_US"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "en_US"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Política de Privacidad · Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Cómo recopilamos, usamos y protegemos la información personal y médica en Real Aesthetic Medical Spa."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://realaestheticmedspa.com/img/hero.webp"
+    }
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://realaestheticmedspa.com/privacidad/"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/privacy/",
+      "hrefLang": "en"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/privacidad/",
+      "hrefLang": "es"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/",
+      "hrefLang": "x-default"
+    }
+  ],
+  "jsonLd": [],
+  "preloadImages": []
+}

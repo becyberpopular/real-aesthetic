@@ -1,0 +1,279 @@
+{
+  "lang": "en",
+  "slug": "facial-glow-mesotherapy",
+  "path": "/procedures/facial-glow-mesotherapy/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/facial-glow-mesotherapy.webp",
+  "ctaImage": "/img/proc/facial-glow-mesotherapy.webp",
+  "head": {
+    "title": "Facial Glow & Hydration Therapy (Mesotherapy) in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Facial glow and hydration mesotherapy in Miami. HA, vitamins and amino acids in three sessions for luminous, pre-event skin at Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Facial Glow & Hydration Therapy (Mesotherapy) in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Facial glow and hydration mesotherapy in Miami. HA, vitamins and amino acids in three sessions for luminous, pre-event skin at Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/facial-glow-mesotherapy/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/facial-glow-mesotherapy.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Facial Glow & Hydration Therapy (Mesotherapy) in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Facial glow and hydration mesotherapy in Miami. HA, vitamins and amino acids in three sessions for luminous, pre-event skin at Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/facial-glow-mesotherapy.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/facial-glow-mesotherapy/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/facial-glow-mesotherapy/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/mesoterapia-luminosidad-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Facial Glow & Hydration Therapy (Mesotherapy)",
+        "alternateName": "Facial Glow Mesotherapy",
+        "description": "Series of micro-injections delivering hyaluronic acid, vitamins and amino acids into the dermis to restore hydration and luminosity. Performed in three sessions, two weeks apart, at Real Aesthetic Medical Spa in Miami.",
+        "bodyLocation": "Face",
+        "procedureType": "Non-surgical injectable mesotherapy",
+        "preparation": "Avoid blood-thinning supplements 48 hours before. Arrive with clean skin, no makeup. Notify the team of any active skin condition or recent procedure.",
+        "followup": "Apply broad-spectrum SPF 50 daily. Avoid intense sun, saunas and vigorous exercise for 24-48 hours. Use the gentle cleanser-and-moisturiser routine provided. Maintenance session every 3-6 months.",
+        "howPerformed": "After topical anaesthesia, a sterile cocktail of low-molecular-weight hyaluronic acid, B-complex vitamins, antioxidants and amino acids is delivered through fine-gauge needles or micro-cannula across the face.",
+        "url": "https://realaestheticmedspa.com/procedures/facial-glow-mesotherapy/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/facial-glow-mesotherapy/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Facial Glow & Hydration Therapy (Mesotherapy) in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/facial-glow-mesotherapy/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/facial-glow-mesotherapy.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/facial-glow-mesotherapy/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/mesoterapia-luminosidad-facial/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Facial Glow &amp; Hydration Therapy (Mesotherapy) <em>in Miami</em>",
+    "lede": "Facial glow mesotherapy is a series of micro-injections that deliver hyaluronic acid, vitamins and amino acids directly into the dermis to restore deep hydration and luminosity, performed at our Miami practice over three sessions spaced two weeks apart.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Restores deep hydration and improves skin elasticity from the inside out.",
+        "Reveals a luminous, even-toned complexion suitable for events and photography.",
+        "Softens fine lines linked to dehydration and environmental stress.",
+        "Supports collagen activity through targeted vitamin and amino-acid delivery.",
+        "Refines skin texture, leaving a smoother feel under makeup.",
+        "Addresses dull tone caused by Miami sun, pollution and humidity fluctuations."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How soon before a wedding should I start facial glow mesotherapy?",
+          "a": "We typically recommend beginning the protocol around eight to ten weeks before the event. This allows time for three sessions spaced two weeks apart, plus a settling window of two to three weeks for the skin to reach its peak luminosity. Avoid scheduling your final session in the seven days immediately preceding the event."
+        },
+        {
+          "q": "Does facial glow mesotherapy add volume like fillers?",
+          "a": "No. The hyaluronic acid used in this protocol is non-cross-linked and works at a hydration level rather than as a volumiser. The goal is luminosity, hydration and skin quality. If you also want to address volume loss, we can plan complementary treatments such as fillers or Sculptra during your consultation."
+        },
+        {
+          "q": "Is the treatment painful?",
+          "a": "Most patients tolerate the procedure very well. We apply a topical anaesthetic cream for around 20 minutes before starting, and we use very fine needles or a micro-cannula technique. You may feel small pinpricks and a brief warming sensation, but the experience is generally described as comfortable rather than painful."
+        },
+        {
+          "q": "Can I combine facial glow mesotherapy with other treatments?"
+        },
+        {
+          "q": "How long do the results last?",
+          "a": "After the initial three-session protocol, most patients enjoy improved skin quality and luminosity for around four to six months. Results are individual and depend on age, skin condition, sun exposure and home routine. A maintenance session every three to six months helps preserve the glow and supports ongoing skin health."
+        },
+        {
+          "q": "Is there any downtime?",
+          "a": "Downtime is minimal. Expect mild redness and small bumps at the injection points for a few hours; in some cases pinpoint bruising lasts one to two days. Most patients resume normal activities the same day and reapply makeup the next morning. We recommend avoiding intense workouts and saunas for 24 hours."
+        },
+        {
+          "q": "Who should not have this treatment?",
+          "a": "Facial glow mesotherapy is not recommended during pregnancy or breastfeeding, with active skin infections in the treatment area, with uncontrolled autoimmune disease, or with known allergy to any of the cocktail components. Ronal Perdomo Lugo, APRN, FNP-C, will review your medical history during the consultation to confirm suitability."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation at Real Aesthetic Medical Spa and let us design a personalised facial glow protocol for you.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

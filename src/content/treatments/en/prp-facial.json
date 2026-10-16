@@ -1,0 +1,357 @@
+{
+  "lang": "en",
+  "slug": "prp-facial",
+  "path": "/procedures/prp-facial/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/prp-facial.webp",
+  "ctaImage": "/img/proc/prp-facial.webp",
+  "head": {
+    "title": "PRP Facial in Miami — Autologous Skin Rejuvenation",
+    "meta": [
+      {
+        "name": "description",
+        "content": "PRP Facial in Miami uses your own platelets to stimulate collagen and renew skin tone. Autologous, biocompatible, performed by Ronal Perdomo, APRN, FNP-C. Book a consultation."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "PRP Facial in Miami — Autologous Skin Rejuvenation"
+      },
+      {
+        "property": "og:description",
+        "content": "PRP Facial in Miami uses your own platelets to stimulate collagen and renew skin tone. Autologous, biocompatible, performed by Ronal Perdomo, APRN, FNP-C. Book a consultation."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/prp-facial/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prp-facial.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "PRP Facial in Miami — Autologous Skin Rejuvenation"
+      },
+      {
+        "name": "twitter:description",
+        "content": "PRP Facial in Miami uses your own platelets to stimulate collagen and renew skin tone. Autologous, biocompatible, performed by Ronal Perdomo, APRN, FNP-C. Book a consultation."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prp-facial.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/prp-facial/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/prp-facial/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/prp-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "PRP Facial",
+        "alternateName": "Platelet-Rich Plasma Facial",
+        "description": "PRP Facial is an autologous regenerative procedure that uses platelet-rich plasma drawn from the patient's own blood and micro-injected into the facial skin to stimulate collagen, elastin and microcirculation. Performed in Miami under the supervision of Ronal Perdomo Lugo, APRN, FNP-C.",
+        "bodyLocation": "Face, including cheeks, forehead, perioral area, jawline and neck",
+        "procedureType": "Minimally invasive autologous biostimulation",
+        "preparation": "Hydrate well in the days before the session. Avoid anti-inflammatory medication for 5 days when medically possible. Avoid alcohol for 24 hours. Arrive with clean skin, no makeup. Disclose all medications and medical conditions in consultation.",
+        "followup": "Avoid makeup for 12 hours; avoid intense sun, saunas and vigorous exercise for 48 hours; avoid harsh actives (retinoids, AHAs/BHAs) for 5 days; daily SPF 50 broad-spectrum sunscreen; gentle cleanser and calming moisturiser for 7 days. Standard protocol: 3 sessions spaced 4 weeks apart, then maintenance every 6–9 months.",
+        "howPerformed": "After medical consultation, a small blood sample is drawn and processed in a sterile closed-system centrifuge to concentrate the platelet-rich plasma. Topical anaesthetic is applied for 20–30 minutes. The PRP is then delivered via fine microinjections across the treatment areas, sometimes combined with microneedling for enhanced absorption.",
+        "url": "https://realaestheticmedspa.com/procedures/prp-facial/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/prp-facial/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is PRP Facial safe?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PRP Facial uses plasma drawn and processed from the patient's own blood, which makes it autologous and biocompatible. Performed by a qualified medical team under sterile conditions, it has a strong safety profile. Side effects are typically limited to short-term redness, swelling and small bruises. Candidacy is always confirmed in a medical consultation with Ronal Perdomo Lugo, APRN, FNP-C."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions of PRP Facial do I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our standard protocol is three sessions spaced four weeks apart. This schedule allows the collagen response to build progressively. After the initial series, we recommend maintenance sessions every six to nine months. The exact plan depends on age, skin condition and lifestyle factors and is personalised during your consultation in Miami."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does PRP Facial hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients report mild discomfort, not pain. Topical anaesthetic is applied for 20 to 30 minutes before microinjections, which significantly reduces sensation. Patients usually describe small pressure points or brief stings. Sensitivity varies by zone, with the under-eye and lip border being slightly more sensitive than the cheeks or forehead."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When will I see results from PRP Facial?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Initial freshness and improved tone are often visible within 7 to 10 days. The deeper biostimulation response — new collagen and elastin — builds progressively, with peak results between weeks eight and twelve after each session. Outcomes are cumulative across the three-session series rather than immediate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can PRP Facial be combined with other treatments?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. PRP Facial integrates well with Fotona laser resurfacing, microneedling, mesotherapy and hyaluronic acid fillers within a layered, personalised plan. Our specialists at Real Aesthetic Medical Spa often combine PRP with laser sessions to enhance regeneration and shorten healing. The combination is decided in consultation based on goals and skin condition."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there downtime after PRP Facial?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PRP Facial is a low-downtime procedure. Most patients in Miami return to work or social activities within 24 hours. Expect mild redness, small pinpoint marks and occasional bruising for 24 to 72 hours. Avoid makeup for 12 hours, sun exposure for one week and intense exercise for 48 hours."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who should not have PRP Facial?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PRP is not recommended during pregnancy or breastfeeding, in patients with active skin infections in the treatment zone, certain blood disorders, ongoing anticoagulant therapy that cannot be paused, or active oncologic disease. A medical consultation with our specialist is required to confirm candidacy and review your full medical history."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is PRP different from a dermal filler?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A dermal filler adds immediate volume using a synthetic substance such as hyaluronic acid. PRP is a biostimulator: it does not add volume directly but signals the skin to produce more collagen and elastin over time. The two approaches address different goals and are often combined within a personalised facial plan at our Miami clinic."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/prp-facial/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PRP Facial in Miami — Autologous Skin Rejuvenation",
+            "item": "https://realaestheticmedspa.com/procedures/prp-facial/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/prp-facial.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/prp-facial/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/prp-facial/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "PRP Facial in Miami — Autologous <em>Skin Rejuvenation</em>",
+    "lede": "PRP Facial is a regenerative procedure that uses platelet-rich plasma drawn from the patient's own blood and micro-injected into the facial skin to stimulate collagen, elastin and a more even, luminous tone.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Stimulates the patient's own collagen and elastin production for firmer, denser skin.",
+        "Improves skin texture, fine lines and crepiness, particularly around the cheeks and under-eye area.",
+        "Refines pore appearance and supports a more uniform tone.",
+        "Uses 100% autologous material from the patient's own blood, with no synthetic additives.",
+        "Pairs well with laser, microneedling, mesotherapy and dermal fillers within a personalised plan.",
+        "Suitable for most skin types and Fitzpatrick phototypes when properly assessed.",
+        "Minimal downtime — most patients return to normal activities within 24 hours."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is PRP Facial safe?",
+          "a": "PRP Facial uses plasma drawn and processed from the patient's own blood, which makes it autologous and biocompatible. Performed by a qualified medical team under sterile conditions, it has a strong safety profile. Side effects are typically limited to short-term redness, swelling and small bruises. Candidacy is always confirmed in a medical consultation with Ronal Perdomo Lugo, APRN, FNP-C."
+        },
+        {
+          "q": "How many sessions of PRP Facial do I need?",
+          "a": "Our standard protocol is three sessions spaced four weeks apart. This schedule allows the collagen response to build progressively. After the initial series, we recommend maintenance sessions every six to nine months. The exact plan depends on age, skin condition and lifestyle factors and is personalised during your consultation in Miami."
+        },
+        {
+          "q": "Does PRP Facial hurt?",
+          "a": "Most patients report mild discomfort, not pain. Topical anaesthetic is applied for 20 to 30 minutes before microinjections, which significantly reduces sensation. Patients usually describe small pressure points or brief stings. Sensitivity varies by zone, with the under-eye and lip border being slightly more sensitive than the cheeks or forehead."
+        },
+        {
+          "q": "When will I see results from PRP Facial?",
+          "a": "Initial freshness and improved tone are often visible within 7 to 10 days. The deeper biostimulation response — new collagen and elastin — builds progressively, with peak results between weeks eight and twelve after each session. Outcomes are cumulative across the three-session series rather than immediate."
+        },
+        {
+          "q": "Can PRP Facial be combined with other treatments?",
+          "a": "Yes. PRP Facial integrates well with Fotona laser resurfacing, microneedling, mesotherapy and hyaluronic acid fillers within a layered, personalised plan. Our specialists at Real Aesthetic Medical Spa often combine PRP with laser sessions to enhance regeneration and shorten healing. The combination is decided in consultation based on goals and skin condition."
+        },
+        {
+          "q": "Is there downtime after PRP Facial?",
+          "a": "PRP Facial is a low-downtime procedure. Most patients in Miami return to work or social activities within 24 hours. Expect mild redness, small pinpoint marks and occasional bruising for 24 to 72 hours. Avoid makeup for 12 hours, sun exposure for one week and intense exercise for 48 hours."
+        },
+        {
+          "q": "Who should not have PRP Facial?",
+          "a": "PRP is not recommended during pregnancy or breastfeeding, in patients with active skin infections in the treatment zone, certain blood disorders, ongoing anticoagulant therapy that cannot be paused, or active oncologic disease. A medical consultation with our specialist is required to confirm candidacy and review your full medical history."
+        },
+        {
+          "q": "How is PRP different from a dermal filler?",
+          "a": "A dermal filler adds immediate volume using a synthetic substance such as hyaluronic acid. PRP is a biostimulator: it does not add volume directly but signals the skin to produce more collagen and elastin over time. The two approaches address different goals and are often combined within a personalised facial plan at our Miami clinic."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a personalised consultation at Real Aesthetic Medical Spa with Ronal Perdomo Lugo, APRN, FNP-C. We design your protocol based on your skin assessment and aesthetic goals.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

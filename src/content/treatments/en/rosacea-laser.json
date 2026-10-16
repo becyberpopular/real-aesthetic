@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "rosacea-laser",
+  "path": "/procedures/rosacea-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/rosacea-laser.webp",
+  "ctaImage": "/img/proc/rosacea-laser.webp",
+  "head": {
+    "title": "Rosacea Laser Treatment in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona Nd:YAG laser for rosacea in Miami. Reduces redness, visible vessels and flushing under medical supervision. Rosacea is chronic — protocol designed for long-term control."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Rosacea Laser Treatment in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona Nd:YAG laser for rosacea in Miami. Reduces redness, visible vessels and flushing under medical supervision. Rosacea is chronic — protocol designed for long-term control."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/rosacea-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/rosacea-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Rosacea Laser Treatment in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona Nd:YAG laser for rosacea in Miami. Reduces redness, visible vessels and flushing under medical supervision. Rosacea is chronic — protocol designed for long-term control."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/rosacea-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/rosacea-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/rosacea-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/laser-rosacea/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Rosacea Laser Treatment in Miami",
+        "description": "Rosacea laser treatment is a Fotona Nd:YAG protocol that targets the vascular component of rosacea, reducing facial redness, visible vessels and flushing episodes as part of a long-term control plan.",
+        "url": "https://realaestheticmedspa.com/procedures/rosacea-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/rosacea-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/rosacea-laser/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does the laser cure rosacea?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Rosacea is a chronic inflammatory skin condition and there is no definitive cure. Nd:YAG laser controls the visible vascular component — redness, vessels and flushing — and reduces the visual impact of flares. Combined with trigger management and topical care, most patients achieve durable, meaningful improvement that is maintained with periodic sessions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients complete three to five sessions spaced four to six weeks apart. The exact number depends on baseline severity, the density of visible vessels and how your skin responds to the first pass. We re-evaluate before each session with comparative photographs and only continue while documented improvement supports it."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will the redness come back?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Treated vessels do not return, but rosacea biology can produce new ones over time, especially when triggers persist. We typically recommend an annual maintenance session to address new vascular activity. Avoiding heat, alcohol, intense sun and stress, and following a barrier-supportive skincare routine, helps extend the result."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rosacea Laser Treatment in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/rosacea-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/rosacea-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/rosacea-laser/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/laser-rosacea/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Rosacea Laser Treatment <em>in Miami</em>",
+    "lede": "Rosacea laser treatment is a Fotona Nd:YAG protocol that targets the vascular component of rosacea, reducing facial redness, visible vessels and flushing episodes as part of a long-term control plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-telangiectasia-rosacea-treatment",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces diffuse facial redness associated with rosacea by targeting dilated vessels.",
+        "Attenuates visible telangiectasia on cheeks, nose and chin without damaging surrounding skin.",
+        "Softens the intensity and frequency of flushing episodes when paired with trigger management.",
+        "Supports a calmer, more even-toned complexion as part of a long-term control plan.",
+        "Compatible with topical rosacea treatments and gentle skincare under medical guidance.",
+        "Non-ablative protocol that allows most patients to return to normal activity the same day.",
+        "Suitable for many phototypes when parameters are adjusted under medical assessment."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Does the laser cure rosacea?",
+          "a": "No. Rosacea is a chronic inflammatory skin condition and there is no definitive cure. Nd:YAG laser controls the visible vascular component — redness, vessels and flushing — and reduces the visual impact of flares. Combined with trigger management and topical care, most patients achieve durable, meaningful improvement that is maintained with periodic sessions."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "Most patients complete three to five sessions spaced four to six weeks apart. The exact number depends on baseline severity, the density of visible vessels and how your skin responds to the first pass. We re-evaluate before each session with comparative photographs and only continue while documented improvement supports it."
+        },
+        {
+          "q": "Will the redness come back?",
+          "a": "Treated vessels do not return, but rosacea biology can produce new ones over time, especially when triggers persist. We typically recommend an annual maintenance session to address new vascular activity. Avoiding heat, alcohol, intense sun and stress, and following a barrier-supportive skincare routine, helps extend the result."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a vascular assessment with our Fotona team and design a personalised long-term control plan supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-telangiectasia-rosacea-treatment",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

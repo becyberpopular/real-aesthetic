@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "calm-repair-facial-rosacea",
+  "path": "/procedures/calm-repair-facial-rosacea/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/calm-repair-facial-rosacea.webp",
+  "ctaImage": "/img/proc/calm-repair-facial-rosacea.webp",
+  "head": {
+    "title": "Calm & Repair Facial (Rosacea) in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Calm & Repair Facial for rosacea-prone skin in Miami at Real Aesthetic. Anti-inflammatory clinical protocol designed to calm redness and strengthen the skin barrier. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Calm & Repair Facial (Rosacea) in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Calm & Repair Facial for rosacea-prone skin in Miami at Real Aesthetic. Anti-inflammatory clinical protocol designed to calm redness and strengthen the skin barrier. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/calm-repair-facial-rosacea/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/calm-repair-facial-rosacea.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Calm & Repair Facial (Rosacea) in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Calm & Repair Facial for rosacea-prone skin in Miami at Real Aesthetic. Anti-inflammatory clinical protocol designed to calm redness and strengthen the skin barrier. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/calm-repair-facial-rosacea.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/calm-repair-facial-rosacea/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/calm-repair-facial-rosacea/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/facial-calma-repara-rosacea/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Calm & Repair Facial (Rosacea) in Miami",
+        "description": "Calm & Repair Facial for rosacea-prone skin in Miami at Real Aesthetic. Anti-inflammatory clinical protocol designed to calm redness and strengthen the skin barrier. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/calm-repair-facial-rosacea/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/calm-repair-facial-rosacea/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/calm-repair-facial-rosacea/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Will it remove my rosacea?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Rosacea is a chronic condition that we manage rather than cure. The Calm & Repair Facial calms the inflammatory and vascular component, reducing visible redness and flare-up frequency over a maintenance plan. For stronger vascular components we add our rosacea laser protocol in a coordinated treatment plan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What should I avoid before and after the session?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Before: avoid retinoids and acid actives for 3–5 days, as well as known flare-up triggers (very hot showers, harsh exfoliation). After: avoid sun, alcohol and intense heat for 24 hours and protect the skin with the home routine we provide. Most patients return to normal activity the same day."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it safe during a flare-up?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, the protocol is designed precisely for reactive phases. We adjust intensity, skip any step that risks aggravation, and prioritise calming the inflammatory response. The goal is to bring the skin down, not to push it further."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Calm & Repair Facial (Rosacea) in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/calm-repair-facial-rosacea/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/calm-repair-facial-rosacea.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/calm-repair-facial-rosacea/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/facial-calma-repara-rosacea/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Calm &amp; Repair Facial <em>in Miami</em>",
+    "lede": "A clinical facial designed for rosacea-prone and reactive skin that uses anti-inflammatory ingredients, vascular-friendly techniques and cooling tools to calm redness and strengthen the skin barrier.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-calm-repair-facial-rosacea",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Calms visible facial redness and rosacea flare-ups using anti-inflammatory ingredients.",
+        "Avoids harsh actives that aggravate reactive or compromised skin barriers.",
+        "Includes cooling tools (e.g. jade roller, cool-tip massage) to reduce vascular reactivity.",
+        "Strengthens the skin barrier through ceramide- and niacinamide-rich finishing products.",
+        "Designed for monthly maintenance for rosacea-prone skin.",
+        "Pairs well with our rosacea laser protocol when redness has a stronger vascular component."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Will it remove my rosacea?",
+          "a": "Rosacea is a chronic condition that we manage rather than cure. The Calm &amp; Repair Facial calms the inflammatory and vascular component, reducing visible redness and flare-up frequency over a maintenance plan. For stronger vascular components we add our rosacea laser protocol in a coordinated treatment plan."
+        },
+        {
+          "q": "What should I avoid before and after the session?",
+          "a": "Before: avoid retinoids and acid actives for 3–5 days, as well as known flare-up triggers (very hot showers, harsh exfoliation). After: avoid sun, alcohol and intense heat for 24 hours and protect the skin with the home routine we provide. Most patients return to normal activity the same day."
+        },
+        {
+          "q": "Is it safe during a flare-up?",
+          "a": "Yes, the protocol is designed precisely for reactive phases. We adjust intensity, skip any step that risks aggravation, and prioritise calming the inflammatory response. The goal is to bring the skin down, not to push it further."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-calm-repair-facial-rosacea",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

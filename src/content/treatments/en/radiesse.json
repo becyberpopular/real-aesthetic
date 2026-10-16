@@ -1,0 +1,357 @@
+{
+  "lang": "en",
+  "slug": "radiesse",
+  "path": "/procedures/radiesse/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/radiesse.webp",
+  "ctaImage": "/img/proc/radiesse.webp",
+  "head": {
+    "title": "Radiesse in Miami: Immediate Volume and Long-Term Collagen",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Radiesse in Miami at Real Aesthetic Medical Spa. Calcium hydroxylapatite biostimulator for jawline, cheeks and hands: instant volume plus long-term collagen."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Radiesse in Miami: Immediate Volume and Long-Term Collagen"
+      },
+      {
+        "property": "og:description",
+        "content": "Radiesse in Miami at Real Aesthetic Medical Spa. Calcium hydroxylapatite biostimulator for jawline, cheeks and hands: instant volume plus long-term collagen."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/radiesse/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/radiesse.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Radiesse in Miami: Immediate Volume and Long-Term Collagen"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Radiesse in Miami at Real Aesthetic Medical Spa. Calcium hydroxylapatite biostimulator for jawline, cheeks and hands: instant volume plus long-term collagen."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/radiesse.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/radiesse/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/radiesse/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/radiesse/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Radiesse (Face & Hands Rejuvenation)",
+        "alternateName": "Calcium hydroxylapatite biostimulator",
+        "description": "Radiesse is an injectable biostimulator made of calcium hydroxylapatite microspheres in a gel carrier that delivers immediate volume and stimulates long-term collagen, used in Miami for jawline definition, cheek and chin support, and hand rejuvenation, with results that may last between 12 and 18 months.",
+        "bodyLocation": "Face — jawline, cheeks, chin, mid-face — and dorsum of the hands",
+        "procedureType": "https://schema.org/PercutaneousProcedure",
+        "preparation": "Avoid blood-thinning medications and alcohol for 48 hours before the session if medically possible. Arrive with clean skin, free of make-up. Inform the medical team about any active infection, recent dental work, autoimmune disease, or previous injectable treatments.",
+        "followup": "Avoid sun exposure, sauna, and intense exercise for 48 hours. Apply gentle cold compresses if there is swelling. Sleep slightly elevated the first night. Postpone aggressive facial treatments (deep peels, radiofrequency) for two weeks. Attend follow-up four to six weeks after the session.",
+        "howPerformed": "After medical assessment, the area is cleansed and topical anaesthetic applied. Radiesse, often mixed with lidocaine, is injected via cannula or needle into subcutaneous or supraperiosteal planes following a personalised plan. The clinician moulds the area manually to ensure even distribution.",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "url": "https://realaestheticmedspa.com/procedures/radiesse/",
+        "inLanguage": "en",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/radiesse/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How is Radiesse different from a hyaluronic acid filler?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hyaluronic acid fillers add volume immediately and are reversible with hyaluronidase. Radiesse delivers instant volume thanks to its gel and stimulates long-term collagen thanks to the calcium hydroxylapatite microspheres. Its profile is firmer, which makes it well suited for jawline, chin, and structural support, while hyaluronic acid is preferred for lips and very fine areas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long do the results of Radiesse last?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients experience results that last between 12 and 18 months, depending on the area treated, the volume used, age, lifestyle, and sun exposure. Areas of high mobility may metabolise the product faster than static, structural zones. A maintenance touch-up once a year is generally recommended to preserve the contour and the collagen-related firming effect."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Radiesse safe for the face and hands?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Radiesse has been used in aesthetic medicine for many years and has a well-documented safety profile when administered by qualified clinicians. Calcium hydroxylapatite is biocompatible and gradually metabolised. As with any injectable, complications are possible, which is why a complete medical history, individual planning, and proper technique are essential at every visit."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will I see results immediately?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The gel that carries the microspheres provides visible volume on the same day of the session. Over the following weeks, the additional collagen stimulation refines the result and improves skin firmness around the treated area. The combination of immediate effect and progressive maturation is one of the main reasons patients choose Radiesse."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can Radiesse be used in the lips?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Radiesse is not recommended in the lips. Its rheological profile and biostimulator nature are not suited to such a mobile, thin-skin area. For lip enhancement we use hyaluronic acid fillers, which are softer, more malleable, and reversible. During your consultation in Miami, Ronal Perdomo, APRN, FNP-C will recommend the most suitable product for each anatomical area."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the procedure painful?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Discomfort is generally mild. We apply topical anaesthetic before treatment, and Radiesse is often mixed with lidocaine to numb the area as it is delivered. Cannula technique, where appropriate, further reduces both pain and bruising. Most patients describe the session as more comfortable than expected and resume normal activities right after leaving the clinic."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can Radiesse be combined with other treatments?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Radiesse pairs very well with neuromodulators for dynamic lines, hyaluronic acid fillers for fine detail, and energy-based or skin-quality treatments such as Fotona laser, PRP, or mesotherapy. Sequencing is planned so that each treatment supports the next. During your consultation we design a personalised roadmap aligned with your aesthetic goals and timeline."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who should not have Radiesse?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Radiesse is not advised during pregnancy or breastfeeding, in active skin infections in the area, in patients with a tendency to keloid scarring, with active autoimmune disease, or with known hypersensitivity to any of its components. A complete medical history is reviewed at every visit to confirm suitability and design the safest possible plan for each patient."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/radiesse/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Radiesse in Miami: Immediate Volume and Long-Term Collagen",
+            "item": "https://realaestheticmedspa.com/procedures/radiesse/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/radiesse.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/radiesse/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/radiesse/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Radiesse in Miami: Immediate Volume and <em>Long-Term Collagen</em>",
+    "lede": "Radiesse is an injectable biostimulator made of calcium hydroxylapatite microspheres in a gel carrier that delivers instant volume and stimulates long-term collagen, ideal for jawline definition, cheek support, and hand rejuvenation.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-radiesse-biostimulator",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Provides immediate volume on the day of treatment, with visible improvement before leaving the clinic.",
+        "Stimulates the patient's own collagen for a progressive, long-term firming effect.",
+        "Defines the jawline and chin with strong yet natural-looking projection.",
+        "Restores cheek support and softens the marionette and nasolabial transition.",
+        "Rejuvenates the dorsum of the hands, attenuating the visibility of tendons and veins.",
+        "Offers long duration, with results that may last between 12 and 18 months in most patients.",
+        "Can be combined with hyaluronic acid fillers, neuromodulators, and energy-based skin treatments."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How is Radiesse different from a hyaluronic acid filler?",
+          "a": "Hyaluronic acid fillers add volume immediately and are reversible with hyaluronidase. Radiesse delivers instant volume thanks to its gel and stimulates long-term collagen thanks to the calcium hydroxylapatite microspheres. Its profile is firmer, which makes it well suited for jawline, chin, and structural support, while hyaluronic acid is preferred for lips and very fine areas."
+        },
+        {
+          "q": "How long do the results of Radiesse last?",
+          "a": "Most patients experience results that last between 12 and 18 months, depending on the area treated, the volume used, age, lifestyle, and sun exposure. Areas of high mobility may metabolise the product faster than static, structural zones. A maintenance touch-up once a year is generally recommended to preserve the contour and the collagen-related firming effect."
+        },
+        {
+          "q": "Is Radiesse safe for the face and hands?",
+          "a": "Radiesse has been used in aesthetic medicine for many years and has a well-documented safety profile when administered by qualified clinicians. Calcium hydroxylapatite is biocompatible and gradually metabolised. As with any injectable, complications are possible, which is why a complete medical history, individual planning, and proper technique are essential at every visit."
+        },
+        {
+          "q": "Will I see results immediately?",
+          "a": "Yes. The gel that carries the microspheres provides visible volume on the same day of the session. Over the following weeks, the additional collagen stimulation refines the result and improves skin firmness around the treated area. The combination of immediate effect and progressive maturation is one of the main reasons patients choose Radiesse."
+        },
+        {
+          "q": "Can Radiesse be used in the lips?",
+          "a": "Radiesse is not recommended in the lips. Its rheological profile and biostimulator nature are not suited to such a mobile, thin-skin area. For lip enhancement we use hyaluronic acid fillers, which are softer, more malleable, and reversible. During your consultation in Miami, Ronal Perdomo, APRN, FNP-C will recommend the most suitable product for each anatomical area."
+        },
+        {
+          "q": "Is the procedure painful?",
+          "a": "Discomfort is generally mild. We apply topical anaesthetic before treatment, and Radiesse is often mixed with lidocaine to numb the area as it is delivered. Cannula technique, where appropriate, further reduces both pain and bruising. Most patients describe the session as more comfortable than expected and resume normal activities right after leaving the clinic."
+        },
+        {
+          "q": "Can Radiesse be combined with other treatments?",
+          "a": "Yes. Radiesse pairs very well with neuromodulators for dynamic lines, hyaluronic acid fillers for fine detail, and energy-based or skin-quality treatments such as Fotona laser, PRP, or mesotherapy. Sequencing is planned so that each treatment supports the next. During your consultation we design a personalised roadmap aligned with your aesthetic goals and timeline."
+        },
+        {
+          "q": "Who should not have Radiesse?",
+          "a": "Radiesse is not advised during pregnancy or breastfeeding, in active skin infections in the area, in patients with a tendency to keloid scarring, with active autoimmune disease, or with known hypersensitivity to any of its components. A complete medical history is reviewed at every visit to confirm suitability and design the safest possible plan for each patient."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-radiesse-biostimulator",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

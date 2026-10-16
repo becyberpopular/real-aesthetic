@@ -1,0 +1,347 @@
+{
+  "lang": "en",
+  "slug": "hand-rejuvenation-fotona",
+  "path": "/procedures/hand-rejuvenation-fotona/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/hand-rejuvenation-fotona.webp",
+  "ctaImage": "/img/proc/hand-rejuvenation-fotona.webp",
+  "head": {
+    "title": "Hand Rejuvenation with Fotona Laser in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona Nd:YAG and Er:YAG laser hand rejuvenation in Miami. Reduces sun spots, refines texture and softens fine lines on the back of the hands. Book a consultation."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Hand Rejuvenation with Fotona Laser in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona Nd:YAG and Er:YAG laser hand rejuvenation in Miami. Reduces sun spots, refines texture and softens fine lines on the back of the hands. Book a consultation."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/hand-rejuvenation-fotona/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/hand-rejuvenation-fotona.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Hand Rejuvenation with Fotona Laser in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona Nd:YAG and Er:YAG laser hand rejuvenation in Miami. Reduces sun spots, refines texture and softens fine lines on the back of the hands. Book a consultation."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/hand-rejuvenation-fotona.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/hand-rejuvenation-fotona/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/hand-rejuvenation-fotona/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-manos-fotona/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Hand Rejuvenation with Fotona Laser in Miami",
+        "description": "Fotona hand rejuvenation is a dual-wavelength laser protocol that uses Nd:YAG to address sun spots and Er:YAG to refine texture and fine lines on the dorsum of the hands without adding volume.",
+        "url": "https://realaestheticmedspa.com/procedures/hand-rejuvenation-fotona/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/hand-rejuvenation-fotona/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/hand-rejuvenation-fotona/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How is Fotona hand rejuvenation different from Radiesse on the hands?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Fotona is a laser protocol that resurfaces the skin and addresses pigmentation. Radiesse is an injectable that restores subcutaneous volume so tendons and veins look less prominent. They solve different problems and are often used together. Many Miami patients begin with Fotona to refresh tone and texture, then add Radiesse if more volume is desired."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions of Fotona hand rejuvenation do I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients complete three to four sessions spaced three to five weeks apart for a full series. Patients with heavy sun damage may benefit from an additional session. Once the initial series is finished, we typically recommend one or two maintenance sessions per year to support the result."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there downtime after the procedure?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Downtime is mild. Hands look pink and feel warm for 24 to 48 hours and may show fine flaking for three to seven days as treated pigment lifts. Most patients resume work the next day and full social activities within two days. Strenuous exercise and pool exposure should be paused for at least 48 hours."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will my sun spots come back?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Spots that have been cleared do not \"regrow\" automatically, but new pigmentation will form if the skin is exposed to sun without protection. Daily SPF 50 on the hands, UV-protective car window film, and avoiding peak Miami sun all help preserve the result. Most patients book a yearly maintenance session."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does the procedure hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients describe a warm, manageable sensation. Topical anaesthetic cream is applied beforehand and chilled air is used during pulses. Discomfort during the Nd:YAG pass feels like brief warm stings; the Er:YAG pass feels like a fine prickling. Sensation ends as soon as the laser stops."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I combine Fotona hand rejuvenation with PRP or fillers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, in the right sequence. Many of our Miami patients combine Fotona for tone and texture with PRP for biological renewal or with Radiesse for volume restoration. We design the order and spacing during your consultation to maximise comfort, recovery and overall result."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the procedure safe for darker skin tones?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, with appropriate parameters. The Nd:YAG wavelength is generally well tolerated across phototypes. Patients with darker phototypes follow a more conservative protocol and we may perform a test spot first. We monitor for pigmentary change between sessions and adjust as needed."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hand Rejuvenation with Fotona Laser in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/hand-rejuvenation-fotona/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/hand-rejuvenation-fotona.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/hand-rejuvenation-fotona/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/rejuvenecimiento-manos-fotona/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Hand Rejuvenation with Fotona Laser <em>in Miami</em>",
+    "lede": "Fotona hand rejuvenation is a dual-wavelength laser protocol that uses Nd:YAG to address sun spots and Er:YAG to refine texture and fine lines on the dorsum of the hands without adding volume.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces visible sun spots and lentigines on the dorsum of the hands.",
+        "Refines crepey skin and softens fine lines through fractional Er:YAG resurfacing.",
+        "Stimulates dermal remodelling for firmer, smoother skin over the following weeks.",
+        "Targets the area patients show most often after the face — supporting a more cohesive overall appearance.",
+        "Non-surgical, with manageable downtime that fits busy schedules in Brickell or Coral Gables.",
+        "Compatible with later or prior volumetric treatments such as Radiesse or PRP for layered protocols.",
+        "Performed under medical supervision with parameters tailored to each phototype."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Results &amp; duration",
+      "title": "When you see it, <em>how long it lasts</em>",
+      "text": [
+        "Initial brightening of pigmentation appears within seven to 14 days as superficial spots flake away. Continued improvement in texture and tone occurs over six to 12 weeks as new collagen forms. Most patients complete a series of three to four sessions for a meaningful refresh, with maintenance once or twice a year. Strict daily sun protection — essential under the Miami sun — is what protects the result long term."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How is Fotona hand rejuvenation different from Radiesse on the hands?",
+          "a": "Fotona is a laser protocol that resurfaces the skin and addresses pigmentation. Radiesse is an injectable that restores subcutaneous volume so tendons and veins look less prominent. They solve different problems and are often used together. Many Miami patients begin with Fotona to refresh tone and texture, then add Radiesse if more volume is desired."
+        },
+        {
+          "q": "How many sessions of Fotona hand rejuvenation do I need?",
+          "a": "Most patients complete three to four sessions spaced three to five weeks apart for a full series. Patients with heavy sun damage may benefit from an additional session. Once the initial series is finished, we typically recommend one or two maintenance sessions per year to support the result."
+        },
+        {
+          "q": "Is there downtime after the procedure?",
+          "a": "Downtime is mild. Hands look pink and feel warm for 24 to 48 hours and may show fine flaking for three to seven days as treated pigment lifts. Most patients resume work the next day and full social activities within two days. Strenuous exercise and pool exposure should be paused for at least 48 hours."
+        },
+        {
+          "q": "Will my sun spots come back?",
+          "a": "Spots that have been cleared do not \"regrow\" automatically, but new pigmentation will form if the skin is exposed to sun without protection. Daily SPF 50 on the hands, UV-protective car window film, and avoiding peak Miami sun all help preserve the result. Most patients book a yearly maintenance session."
+        },
+        {
+          "q": "Does the procedure hurt?",
+          "a": "Most patients describe a warm, manageable sensation. Topical anaesthetic cream is applied beforehand and chilled air is used during pulses. Discomfort during the Nd:YAG pass feels like brief warm stings; the Er:YAG pass feels like a fine prickling. Sensation ends as soon as the laser stops."
+        },
+        {
+          "q": "Can I combine Fotona hand rejuvenation with PRP or fillers?",
+          "a": "Yes, in the right sequence. Many of our Miami patients combine Fotona for tone and texture with PRP for biological renewal or with Radiesse for volume restoration. We design the order and spacing during your consultation to maximise comfort, recovery and overall result."
+        },
+        {
+          "q": "Is the procedure safe for darker skin tones?",
+          "a": "Yes, with appropriate parameters. The Nd:YAG wavelength is generally well tolerated across phototypes. Patients with darker phototypes follow a more conservative protocol and we may perform a test spot first. We monitor for pigmentary change between sessions and adjust as needed."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

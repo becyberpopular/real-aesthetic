@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "semaglutide-weight-loss",
+  "path": "/procedures/semaglutide-weight-loss/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/semaglutide-weight-loss.webp",
+  "ctaImage": "/img/proc/semaglutide-weight-loss.webp",
+  "head": {
+    "title": "Semaglutide Medical Weight Loss in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Medically supervised semaglutide medical weight loss in Miami: weekly injection, eligibility screening, nutritional coaching and ongoing monitoring."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Semaglutide Medical Weight Loss in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Medically supervised semaglutide medical weight loss in Miami: weekly injection, eligibility screening, nutritional coaching and ongoing monitoring."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/semaglutide-weight-loss/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/semaglutide-weight-loss.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Semaglutide Medical Weight Loss in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Medically supervised semaglutide medical weight loss in Miami: weekly injection, eligibility screening, nutritional coaching and ongoing monitoring."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/semaglutide-weight-loss.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/semaglutide-weight-loss/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/semaglutide-weight-loss/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/semaglutida-perdida-peso/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Semaglutide Medical Weight Loss in Miami",
+        "description": "Semaglutide is a GLP-1 receptor agonist FDA-approved for chronic weight management, delivered as a weekly subcutaneous injection within a medically supervised medical program at our Miami clinic.",
+        "url": "https://realaestheticmedspa.com/procedures/semaglutide-weight-loss/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/semaglutide-weight-loss/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/semaglutide-weight-loss/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Am I eligible for semaglutide?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Eligibility is based on BMI and clinical history. Adults with BMI 30 or higher, or 27 or higher with a weight-related comorbidity such as hypertension, dyslipidaemia or type 2 diabetes, may be candidates. History of medullary thyroid cancer, MEN-2 or pancreatitis are exclusions. The final decision is made by Ronal Perdomo Lugo, APRN, FNP-C after consultation and labwork."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the most common side effects?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients experience some gastrointestinal effects during dose escalation, especially nausea, reduced appetite, constipation or diarrhoea. These are usually mild and improve over weeks. Less common but more serious risks include pancreatitis, gallbladder issues and severe dehydration. We review every patient's red-flag symptoms in detail before starting."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is this different from just dieting and exercising?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Diet and exercise are the foundation of any weight-management plan and remain so during semaglutide therapy. The medication does not replace lifestyle work; it supports adherence by reducing appetite signals and food preoccupation in patients for whom willpower-based approaches have repeatedly failed. Without nutritional coaching and movement, results are inferior and harder to sustain."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Semaglutide Medical Weight Loss in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/semaglutide-weight-loss/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/semaglutide-weight-loss.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/semaglutide-weight-loss/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/semaglutida-perdida-peso/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Semaglutide Medical Weight Loss <em>in Miami</em>",
+    "lede": "Semaglutide is a GLP-1 receptor agonist FDA-approved for chronic weight management, delivered as a weekly subcutaneous injection within a medically supervised medical program at our Miami clinic.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-medical-weight-loss-glp-1-program",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces appetite and food noise, supporting adherence to a calorie-controlled plan.",
+        "Slows gastric emptying, which improves satiety after meals.",
+        "Improves glycaemic regulation in patients with insulin resistance or type 2 diabetes.",
+        "Delivered once weekly, simplifying long-term adherence.",
+        "Integrated with nutritional coaching, which supports body-composition outcomes rather than only scale weight.",
+        "Ongoing physician monitoring identifies side effects early and allows dose titration.",
+        "Provides a structured framework for patients who have struggled with diet-and-exercise-only approaches."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Am I eligible for semaglutide?",
+          "a": "Eligibility is based on BMI and clinical history. Adults with BMI 30 or higher, or 27 or higher with a weight-related comorbidity such as hypertension, dyslipidaemia or type 2 diabetes, may be candidates. History of medullary thyroid cancer, MEN-2 or pancreatitis are exclusions. The final decision is made by Ronal Perdomo Lugo, APRN, FNP-C after consultation and labwork."
+        },
+        {
+          "q": "What are the most common side effects?",
+          "a": "Most patients experience some gastrointestinal effects during dose escalation, especially nausea, reduced appetite, constipation or diarrhoea. These are usually mild and improve over weeks. Less common but more serious risks include pancreatitis, gallbladder issues and severe dehydration. We review every patient's red-flag symptoms in detail before starting."
+        },
+        {
+          "q": "How is this different from just dieting and exercising?",
+          "a": "Diet and exercise are the foundation of any weight-management plan and remain so during semaglutide therapy. The medication does not replace lifestyle work; it supports adherence by reducing appetite signals and food preoccupation in patients for whom willpower-based approaches have repeatedly failed. Without nutritional coaching and movement, results are inferior and harder to sustain."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-medical-weight-loss-glp-1-program",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

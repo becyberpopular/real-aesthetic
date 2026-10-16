@@ -1,0 +1,425 @@
+{
+  "lang": "en",
+  "slug": "peptide-programs",
+  "path": "/procedures/peptide-programs/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/peptide-programs.webp",
+  "ctaImage": "/img/proc/peptide-programs.webp",
+  "head": {
+    "title": "Peptide Programs in Miami: Basic, Optimization & Elite",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Medically supervised peptide programs in Miami: Basic, Optimization and Elite tiers tailored to recovery, performance and longevity goals."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Peptide Programs in Miami: Basic, Optimization & Elite"
+      },
+      {
+        "property": "og:description",
+        "content": "Medically supervised peptide programs in Miami: Basic, Optimization and Elite tiers tailored to recovery, performance and longevity goals."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/peptide-programs/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/peptide-programs.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Peptide Programs in Miami: Basic, Optimization & Elite"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Medically supervised peptide programs in Miami: Basic, Optimization and Elite tiers tailored to recovery, performance and longevity goals."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/peptide-programs.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/peptide-programs/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/peptide-programs/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/programas-peptidos/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Peptide Programs in Miami: Basic, Optimization & Elite",
+        "description": "Peptide programs are medically supervised protocols using short chains of amino acids that act as biological signaling molecules to support recovery, performance and longevity, structured at our Miami practice into three tiers of clinical complexity.",
+        "url": "https://realaestheticmedspa.com/procedures/peptide-programs/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/peptide-programs/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/peptide-programs/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Basic",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An entry-level program built around a single foundational peptide, usually focused on recovery, sleep quality or general wellness support. Ideal for patients new to peptide therapy who want a conservative, well-tolerated starting point."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Optimization",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A combination of two to three peptides aimed at performance, body composition, cognitive support or longevity targets. Includes baseline labwork and a mid-cycle clinical check-in."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Elite",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A fully personalised stack with extended labwork, micronutrient panels and regular titration. Designed for patients with defined longevity, athletic or aesthetic goals who want the highest level of medical oversight."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is eligible for a peptide program?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Eligible patients are adults over 21 in generally good health, without active cancer, uncontrolled endocrine disease, pregnancy or breastfeeding. The medical team reviews personal and family history, current medications and baseline labwork before any prescription. Eligibility is confirmed only after the consultation with Ronal Perdomo Lugo, APRN, FNP-C."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What side effects should I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most reported effects are mild and local: minor redness at the injection site, temporary water retention, vivid dreams or short-lived headaches. Some peptides can affect appetite or energy in the first weeks. Serious reactions are uncommon but possible; we instruct every patient on warning signs and how to contact the clinic if anything unexpected occurs."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How are peptides different from diet and exercise?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Peptides do not replace nutrition, training or sleep. They are signaling molecules that can support pathways the body already uses, but only when the foundations are in place. Patients who skip lifestyle work rarely see meaningful results. We integrate peptide protocols with clear lifestyle recommendations to make the supervised cycle worthwhile."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much do peptide programs cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pricing depends on the tier selected and the specific peptides prescribed after consultation. Basic starts at $\\[CONFIRM\\] USD per cycle, Optimization at $\\[CONFIRM\\] USD per cycle and Elite at $\\[CONFIRM\\] USD per cycle, including required medical follow-up. The full quote is delivered in writing at the end of the consultation, with no obligation to start."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the monitoring schedule?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Basic patients have an onboarding visit and an end-of-cycle review. Optimization patients add baseline labwork and a mid-cycle check-in. Elite patients run an extended baseline panel, scheduled labwork during the cycle and a personalised titration meeting. Outside of these milestones, patients can contact the clinic at any time about adverse symptoms."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I inject myself at home?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Most protocols use small subcutaneous injections that the patient learns to self-administer during the onboarding visit. Needles are fine insulin-style and discomfort is minimal. Patients who prefer in-clinic administration can arrange scheduled visits to our Miami location at additional cost."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I move between tiers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Many patients begin with Basic, gather data on tolerance and response, and then progress to Optimization or Elite as their goals evolve. Movement between tiers is always a clinical decision, not a sales decision, and is confirmed during the end-of-cycle review based on labwork and reported outcomes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are peptides legal and prescribed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Every peptide we use is dispensed only on individual medical prescription issued after a complete consultation. We do not sell peptides over the counter and we do not prescribe to patients who decline labwork or follow-up. This is a medical program with all the documentation a medical program requires."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Peptide Programs in Miami: Basic, Optimization & Elite",
+            "item": "https://realaestheticmedspa.com/procedures/peptide-programs/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/peptide-programs.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/peptide-programs/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/programas-peptidos/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Peptide Programs in Miami: Basic, Optimization <em>&amp; Elite</em>",
+    "lede": "Peptide programs are medically supervised protocols using short chains of amino acids that act as biological signaling molecules to support recovery, performance and longevity, structured at our Miami practice into three tiers of clinical complexity.",
+    "multi": {
+      "label": "Book by program",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-longevity-program",
+          "label": "Longevity",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-metabolic-program",
+          "label": "Metabolic",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-performance-program",
+          "label": "Performance",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Targeted biological signaling that supports the body's own repair and regulatory pathways.",
+        "Customisation by tier so that beginners and experienced patients can both find an appropriate entry point.",
+        "Ongoing physician supervision with periodic re-evaluation rather than one-off prescriptions.",
+        "Integration with sleep, nutrition and training recommendations to amplify clinical outcomes.",
+        "Discreet self-administration protocols taught in clinic for compliant home use.",
+        "Optional labwork at higher tiers to titrate dosing and verify safety markers.",
+        "A clear escalation path: patients may progress between tiers as goals evolve."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Basic",
+          "a": "An entry-level program built around a single foundational peptide, usually focused on recovery, sleep quality or general wellness support. Ideal for patients new to peptide therapy who want a conservative, well-tolerated starting point."
+        },
+        {
+          "q": "Optimization",
+          "a": "A combination of two to three peptides aimed at performance, body composition, cognitive support or longevity targets. Includes baseline labwork and a mid-cycle clinical check-in."
+        },
+        {
+          "q": "Elite",
+          "a": "A fully personalised stack with extended labwork, micronutrient panels and regular titration. Designed for patients with defined longevity, athletic or aesthetic goals who want the highest level of medical oversight."
+        },
+        {
+          "q": "Who is eligible for a peptide program?",
+          "a": "Eligible patients are adults over 21 in generally good health, without active cancer, uncontrolled endocrine disease, pregnancy or breastfeeding. The medical team reviews personal and family history, current medications and baseline labwork before any prescription. Eligibility is confirmed only after the consultation with Ronal Perdomo Lugo, APRN, FNP-C."
+        },
+        {
+          "q": "What side effects should I expect?",
+          "a": "Most reported effects are mild and local: minor redness at the injection site, temporary water retention, vivid dreams or short-lived headaches. Some peptides can affect appetite or energy in the first weeks. Serious reactions are uncommon but possible; we instruct every patient on warning signs and how to contact the clinic if anything unexpected occurs."
+        },
+        {
+          "q": "How are peptides different from diet and exercise?",
+          "a": "Peptides do not replace nutrition, training or sleep. They are signaling molecules that can support pathways the body already uses, but only when the foundations are in place. Patients who skip lifestyle work rarely see meaningful results. We integrate peptide protocols with clear lifestyle recommendations to make the supervised cycle worthwhile."
+        },
+        {
+          "q": "How much do peptide programs cost?",
+          "a": "Pricing depends on the tier selected and the specific peptides prescribed after consultation. Basic starts at $\\[CONFIRM\\] USD per cycle, Optimization at $\\[CONFIRM\\] USD per cycle and Elite at $\\[CONFIRM\\] USD per cycle, including required medical follow-up. The full quote is delivered in writing at the end of the consultation, with no obligation to start."
+        },
+        {
+          "q": "What is the monitoring schedule?",
+          "a": "Basic patients have an onboarding visit and an end-of-cycle review. Optimization patients add baseline labwork and a mid-cycle check-in. Elite patients run an extended baseline panel, scheduled labwork during the cycle and a personalised titration meeting. Outside of these milestones, patients can contact the clinic at any time about adverse symptoms."
+        },
+        {
+          "q": "Do I inject myself at home?",
+          "a": "Yes. Most protocols use small subcutaneous injections that the patient learns to self-administer during the onboarding visit. Needles are fine insulin-style and discomfort is minimal. Patients who prefer in-clinic administration can arrange scheduled visits to our Miami location at additional cost."
+        },
+        {
+          "q": "Can I move between tiers?",
+          "a": "Yes. Many patients begin with Basic, gather data on tolerance and response, and then progress to Optimization or Elite as their goals evolve. Movement between tiers is always a clinical decision, not a sales decision, and is confirmed during the end-of-cycle review based on labwork and reported outcomes."
+        },
+        {
+          "q": "Are peptides legal and prescribed?",
+          "a": "Every peptide we use is dispensed only on individual medical prescription issued after a complete consultation. We do not sell peptides over the counter and we do not prescribe to patients who decline labwork or follow-up. This is a medical program with all the documentation a medical program requires."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "multi": {
+      "label": "Book by program",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-longevity-program",
+          "label": "Longevity",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-metabolic-program",
+          "label": "Metabolic",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-peptide-therapy-performance-program",
+          "label": "Performance",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

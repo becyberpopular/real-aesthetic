@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "body-sculpt-package",
+  "path": "/procedures/body-sculpt-package/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/body-sculpt-package.webp",
+  "ctaImage": "/img/proc/body-sculpt-package.webp",
+  "head": {
+    "title": "Body Sculpt Package in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "A focused body sculpting programme in Miami: Endolaser, mesotherapy, lymphatic drainage and skin tightening, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Body Sculpt Package in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "A focused body sculpting programme in Miami: Endolaser, mesotherapy, lymphatic drainage and skin tightening, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/body-sculpt-package/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/body-sculpt-package.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Body Sculpt Package in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "A focused body sculpting programme in Miami: Endolaser, mesotherapy, lymphatic drainage and skin tightening, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/body-sculpt-package.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/body-sculpt-package/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/body-sculpt-package/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/paquete-body-sculpt/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Body Sculpt Package in Miami",
+        "description": "The Body Sculpt Package is a focused body sculpting programme in Miami that combines Endolaser on a medium area, body contouring mesotherapy, three lymphatic drainage sessions, and a skin tightening enhancement, coordinated as one plan by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/body-sculpt-package/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/body-sculpt-package/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/body-sculpt-package/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Will the Body Sculpt Package help me lose weight?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. The Body Sculpt Package is a sculpting programme, not a weight-loss method. It refines the contour of a defined area in patients with stable weight and adequate lifestyle. Patients seeking medical weight management are evaluated separately and may be referred to our peptide or weight-loss programme when clinically appropriate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Which body areas can be treated?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The package is designed around a medium area such as the lower abdomen, flanks, inner thighs, knees, or upper arms. The chosen zone is decided during the consultation, based on the patient's priorities, anatomy and clinical suitability for Endolaser. Larger areas may be addressed with a different protocol or with an extended programme."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When will I see results?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Some smoothing is visible after the first lymphatic drainage and mesotherapy sessions. The structural result of Endolaser unfolds progressively over three to six months as collagen remodels and skin retracts. The full assessment is made at three months with comparison photography. Individual response varies depending on age, skin quality and lifestyle."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Body Sculpt Package in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/body-sculpt-package/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/body-sculpt-package.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/body-sculpt-package/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/paquete-body-sculpt/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Body Sculpt Package <em>in Miami</em>",
+    "lede": "The Body Sculpt Package is a focused body sculpting programme in Miami that combines Endolaser on a medium area, body contouring mesotherapy, three lymphatic drainage sessions, and a skin tightening enhancement, coordinated as one plan by Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Refines the contour of a defined body zone using complementary mechanisms (laser, mesotherapy, drainage, tightening).",
+        "Targets localised fat and skin laxity in the same programme rather than as separate, unconnected sessions.",
+        "Includes structured lymphatic drainage to support post-Endolaser recovery and visible smoothing.",
+        "Personalised in consultation by Ronal Perdomo Lugo, APRN, FNP-C — no fixed SKU, every cocktail and intensity is calibrated to the patient.",
+        "Designed for patients in Miami who maintain a stable lifestyle and want to refine a specific area.",
+        "Schedules across a few weeks, easy to fit around professional life in Brickell, Doral, or Miami Beach.",
+        "More cost-efficient than booking each treatment at full individual price."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Will the Body Sculpt Package help me lose weight?",
+          "a": "No. The Body Sculpt Package is a sculpting programme, not a weight-loss method. It refines the contour of a defined area in patients with stable weight and adequate lifestyle. Patients seeking medical weight management are evaluated separately and may be referred to our peptide or weight-loss programme when clinically appropriate."
+        },
+        {
+          "q": "Which body areas can be treated?",
+          "a": "The package is designed around a medium area such as the lower abdomen, flanks, inner thighs, knees, or upper arms. The chosen zone is decided during the consultation, based on the patient's priorities, anatomy and clinical suitability for Endolaser. Larger areas may be addressed with a different protocol or with an extended programme."
+        },
+        {
+          "q": "When will I see results?",
+          "a": "Some smoothing is visible after the first lymphatic drainage and mesotherapy sessions. The structural result of Endolaser unfolds progressively over three to six months as collagen remodels and skin retracts. The full assessment is made at three months with comparison photography. Individual response varies depending on age, skin quality and lifestyle."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo Lugo, APRN, FNP-C to scope your personalised body sculpting programme.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

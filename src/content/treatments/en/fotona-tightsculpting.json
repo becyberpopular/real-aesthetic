@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "fotona-tightsculpting",
+  "path": "/procedures/fotona-tightsculpting/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/fotona-tightsculpting.webp",
+  "ctaImage": "/img/proc/fotona-tightsculpting.webp",
+  "head": {
+    "title": "Fotona TightSculpting in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona TightSculpting in Miami at Real Aesthetic. Dual-wavelength body laser for skin tightening and localised fat reduction. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona TightSculpting in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona TightSculpting in Miami at Real Aesthetic. Dual-wavelength body laser for skin tightening and localised fat reduction. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/fotona-tightsculpting/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-tightsculpting.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona TightSculpting in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona TightSculpting in Miami at Real Aesthetic. Dual-wavelength body laser for skin tightening and localised fat reduction. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-tightsculpting.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-tightsculpting/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-tightsculpting/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-tightsculpting/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona TightSculpting in Miami",
+        "description": "Fotona TightSculpting in Miami at Real Aesthetic. Dual-wavelength body laser for skin tightening and localised fat reduction. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-tightsculpting/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/fotona-tightsculpting/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/fotona-tightsculpting/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is this like CoolSculpting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Both target body fat and skin, but with different physics. CoolSculpting freezes fat (cryolipolysis). TightSculpting uses heat — laser energy that warms the adipose layer and contracts collagen at the same time. It is well suited for patients who want both tightening and fat reduction in one protocol."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions until I see change?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients begin to see change after 2 sessions. Full results develop over 8 to 12 weeks as collagen reorganises and the body removes the treated fat cells through normal metabolism. A full protocol is typically 4 sessions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there downtime?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Minimal. Mild redness and warmth in the treated area are normal for a few hours. You can return to normal activity the same day. We recommend avoiding intense sun exposure on the treated area for a few days and using sunscreen as part of normal care."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona TightSculpting in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/fotona-tightsculpting/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-tightsculpting.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-tightsculpting/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/fotona-tightsculpting/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Fotona TightSculpting <em>in Miami</em>",
+    "lede": "TightSculpting combines Fotona's PIANO Nd:YAG sub-dermal heating with Er:YAG fractional resurfacing to tighten body skin and reduce localised fat without needles.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-tightsculpting",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Tightens lax body skin on the abdomen, flanks, arms and inner thighs.",
+        "Reduces localised fat through controlled hyperthermia of the adipose layer.",
+        "Improves skin texture and tone in the same session as the tightening protocol.",
+        "Non-invasive — no liposuction, no needles, no incisions.",
+        "Each session lasts 45–90 minutes depending on the area; protocol typically 4 sessions spaced 2–4 weeks apart.",
+        "Pairs naturally with endolaser, lymphatic drainage or mesotherapy in a body programme."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is this like CoolSculpting?",
+          "a": "Both target body fat and skin, but with different physics. CoolSculpting freezes fat (cryolipolysis). TightSculpting uses heat — laser energy that warms the adipose layer and contracts collagen at the same time. It is well suited for patients who want both tightening and fat reduction in one protocol."
+        },
+        {
+          "q": "How many sessions until I see change?",
+          "a": "Most patients begin to see change after 2 sessions. Full results develop over 8 to 12 weeks as collagen reorganises and the body removes the treated fat cells through normal metabolism. A full protocol is typically 4 sessions."
+        },
+        {
+          "q": "Is there downtime?",
+          "a": "Minimal. Mild redness and warmth in the treated area are normal for a few hours. You can return to normal activity the same day. We recommend avoiding intense sun exposure on the treated area for a few days and using sunscreen as part of normal care."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-tightsculpting",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

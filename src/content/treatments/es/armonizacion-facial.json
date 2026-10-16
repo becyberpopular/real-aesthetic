@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "armonizacion-facial",
+  "path": "/tratamientos/armonizacion-facial/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/facial-harmonization.webp",
+  "ctaImage": "/img/proc/facial-harmonization.webp",
+  "head": {
+    "title": "Armonización facial en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Armonización facial en Miami: plan personalizado con ácido hialurónico, neuromodulador y bioestimulador. Supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Armonización facial en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Armonización facial en Miami: plan personalizado con ácido hialurónico, neuromodulador y bioestimulador. Supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/armonizacion-facial/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/facial-harmonization.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Armonización facial en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Armonización facial en Miami: plan personalizado con ácido hialurónico, neuromodulador y bioestimulador. Supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/facial-harmonization.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/armonizacion-facial/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/facial-harmonization/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/armonizacion-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Armonización facial en Miami",
+        "description": "La armonización facial en Real Aesthetic Medical Spa, en Miami, es nuestro servicio signature: un plan inyectable artístico y personalizado que combina ácido hialurónico, neuromodulador y, cuando está indicado, un bioestimulador, diseñado por Ronal Perdomo Lugo, APRN, FNP-C, para devolver proporción y equilibrio al rostro como conjunto.",
+        "url": "https://realaestheticmedspa.com/tratamientos/armonizacion-facial/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/armonizacion-facial/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/armonizacion-facial/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿La armonización facial es un solo procedimiento o un plan?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Es un plan personalizado, no un único procedimiento. Tras la consulta, Ronal Perdomo Lugo, APRN, FNP-C diseña una secuencia de pequeñas intervenciones a lo largo de dos o tres sesiones que combinan AH, neuromodulador y, en algunos casos, un bioestimulador. El plan se entrega por escrito antes de inyectar nada, e incluye zonas, secuencia y línea temporal."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Mi cara va a verse diferente o solo más descansada?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El objetivo es una versión más descansada, equilibrada y proporcionada de ti, no una cara distinta. Tu propia estructura ósea es el mapa y buscamos un resultado que tu familia y tus colegas lean como \"te ves muy bien\" en lugar de \"¿qué te has hecho?\". La dosis conservadora, la planificación fotográfica y la revisión a las dos semanas protegen ese resultado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La armonización facial lo arregla todo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Es un plan no quirúrgico potente, pero no sustituye a la cirugía en casos de flacidez importante, ptosis avanzada o asimetrías esqueléticas marcadas. En la consulta somos claros sobre lo que los inyectables pueden y no pueden hacer. Cuando lo correcto es derivar a un cirujano, lo decimos sin rodeos."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Armonización facial en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/armonizacion-facial/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/facial-harmonization.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/facial-harmonization/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/armonizacion-facial/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Armonización facial <em>en Miami</em>",
+    "lede": "La armonización facial en Real Aesthetic Medical Spa, en Miami, es nuestro servicio signature: un plan inyectable artístico y personalizado que combina ácido hialurónico, neuromodulador y, cuando está indicado, un bioestimulador, diseñado por Ronal Perdomo Lugo, APRN, FNP-C, para devolver proporción y equilibrio al rostro como conjunto.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-full-facial-harmonization",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Aborda la cara como un todo, restaurando la relación entre los tercios superior, medio e inferior en lugar de sobrecorregir una zona aislada.",
+        "Integra proyección estructural, relajación dinámica y calidad de tejido en un mismo plan coordinado.",
+        "Utiliza tu propia estructura ósea y tus proporciones como mapa: nada de plantillas genéricas.",
+        "Reduce el coste y el downtime acumulado de tratar zonas sueltas a lo largo de varios años.",
+        "Refina perfil, simetría frontal y reflejo de luz en pómulos y mandíbula al mismo tiempo.",
+        "Construido sobre AH reversible cuando el paciente prioriza ajustabilidad; el bioestimulador se añade solo si está indicado.",
+        "Diseñado y supervisado por Ronal Perdomo Lugo, APRN, FNP-C, con planificación fotográfica y revisión en cada etapa."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿La armonización facial es un solo procedimiento o un plan?",
+          "a": "Es un plan personalizado, no un único procedimiento. Tras la consulta, Ronal Perdomo Lugo, APRN, FNP-C diseña una secuencia de pequeñas intervenciones a lo largo de dos o tres sesiones que combinan AH, neuromodulador y, en algunos casos, un bioestimulador. El plan se entrega por escrito antes de inyectar nada, e incluye zonas, secuencia y línea temporal."
+        },
+        {
+          "q": "¿Mi cara va a verse diferente o solo más descansada?",
+          "a": "El objetivo es una versión más descansada, equilibrada y proporcionada de ti, no una cara distinta. Tu propia estructura ósea es el mapa y buscamos un resultado que tu familia y tus colegas lean como \"te ves muy bien\" en lugar de \"¿qué te has hecho?\". La dosis conservadora, la planificación fotográfica y la revisión a las dos semanas protegen ese resultado."
+        },
+        {
+          "q": "¿La armonización facial lo arregla todo?",
+          "a": "No. Es un plan no quirúrgico potente, pero no sustituye a la cirugía en casos de flacidez importante, ptosis avanzada o asimetrías esqueléticas marcadas. En la consulta somos claros sobre lo que los inyectables pueden y no pueden hacer. Cuando lo correcto es derivar a un cirujano, lo decimos sin rodeos."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-full-facial-harmonization",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

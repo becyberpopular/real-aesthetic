@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "deep-cleanse-glow-facial",
+  "path": "/procedures/deep-cleanse-glow-facial/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/deep-cleanse-glow-facial.webp",
+  "ctaImage": "/img/proc/deep-cleanse-glow-facial.webp",
+  "head": {
+    "title": "Deep Cleanse + Glow Facial in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Deep Cleanse + Glow Facial in Miami at Real Aesthetic. Manual extractions, gentle exfoliation and hydration finish supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Deep Cleanse + Glow Facial in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Deep Cleanse + Glow Facial in Miami at Real Aesthetic. Manual extractions, gentle exfoliation and hydration finish supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/deep-cleanse-glow-facial/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/deep-cleanse-glow-facial.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Deep Cleanse + Glow Facial in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Deep Cleanse + Glow Facial in Miami at Real Aesthetic. Manual extractions, gentle exfoliation and hydration finish supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/deep-cleanse-glow-facial.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/deep-cleanse-glow-facial/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/deep-cleanse-glow-facial/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/facial-limpieza-profunda-glow/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Deep Cleanse + Glow Facial in Miami",
+        "description": "Deep Cleanse + Glow Facial in Miami at Real Aesthetic. Manual extractions, gentle exfoliation and hydration finish supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/deep-cleanse-glow-facial/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/deep-cleanse-glow-facial/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/deep-cleanse-glow-facial/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How often should I do this facial?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients benefit from this facial every 4 to 6 weeks as part of monthly skin maintenance. The cadence respects the natural skin renewal cycle. We may recommend a more spaced schedule for sensitive skin or a tighter cadence for acne-prone skin in active phases."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it safe before an event?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The Deep Cleanse + Glow Facial is non-aggressive and most patients leave with skin that is calmer and more luminous within hours. We recommend scheduling it 2–4 days before a major event to give the skin its full window to settle and reveal the glow."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will it cause breakouts afterwards?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not as a rule. Mild post-extraction redness is normal for a few hours. If the skin has significant active congestion before the session, a few small breakouts may surface in the following days as the pore content clears. We provide aftercare guidance to support the skin through the recovery."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Deep Cleanse + Glow Facial in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/deep-cleanse-glow-facial/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/deep-cleanse-glow-facial.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/deep-cleanse-glow-facial/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/facial-limpieza-profunda-glow/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Deep Cleanse + Glow Facial <em>in Miami</em>",
+    "lede": "A clinical deep cleanse facial that combines gentle exfoliation, careful manual extractions and a hydration finish to reset the skin, decongest pores and restore healthy glow.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Decongests clogged pores through careful manual extractions.",
+        "Removes dead-cell build-up with a clinical-grade gentle exfoliation.",
+        "Restores hydration and radiance through a tailored mask and serum sequence.",
+        "Ideal as monthly maintenance or as preparation before a procedure or event.",
+        "60-minute experience designed for an efficient appointment.",
+        "Skin is left visibly cleaner, calmer and more luminous the same day."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How often should I do this facial?",
+          "a": "Most patients benefit from this facial every 4 to 6 weeks as part of monthly skin maintenance. The cadence respects the natural skin renewal cycle. We may recommend a more spaced schedule for sensitive skin or a tighter cadence for acne-prone skin in active phases."
+        },
+        {
+          "q": "Is it safe before an event?",
+          "a": "Yes. The Deep Cleanse + Glow Facial is non-aggressive and most patients leave with skin that is calmer and more luminous within hours. We recommend scheduling it 2–4 days before a major event to give the skin its full window to settle and reveal the glow."
+        },
+        {
+          "q": "Will it cause breakouts afterwards?",
+          "a": "Not as a rule. Mild post-extraction redness is normal for a few hours. If the skin has significant active congestion before the session, a few small breakouts may surface in the following days as the pore content clears. We provide aftercare guidance to support the skin through the recovery."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

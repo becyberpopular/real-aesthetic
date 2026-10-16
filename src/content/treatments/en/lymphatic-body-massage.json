@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "lymphatic-body-massage",
+  "path": "/procedures/lymphatic-body-massage/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/lymphatic-body-massage.webp",
+  "ctaImage": "/img/proc/lymphatic-body-massage.webp",
+  "head": {
+    "title": "Lymphatic Body Massage in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Full-body manual lymphatic drainage in Miami. Critical adjuvant after endolaser, body contouring and as stand-alone wellness. 60-minute session at Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Lymphatic Body Massage in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Full-body manual lymphatic drainage in Miami. Critical adjuvant after endolaser, body contouring and as stand-alone wellness. 60-minute session at Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/lymphatic-body-massage/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-body-massage.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Lymphatic Body Massage in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Full-body manual lymphatic drainage in Miami. Critical adjuvant after endolaser, body contouring and as stand-alone wellness. 60-minute session at Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-body-massage.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-body-massage/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-body-massage/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-corporal/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Lymphatic Body Massage in Miami",
+        "description": "Lymphatic body massage is a full-body manual drainage technique that mobilises fluid through the superficial lymphatic system to support recovery before and after body procedures and to deliver stand-alone wellness benefits, performed in a 60-minute session by trained therapists at our Miami clinic.",
+        "url": "https://realaestheticmedspa.com/procedures/lymphatic-body-massage/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/lymphatic-body-massage/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/lymphatic-body-massage/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why is lymphatic body massage so important after endolaser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Across any treated body zone, post-procedure swelling is part of the normal healing pattern. Manual lymphatic drainage helps mobilise the fluid, prevents stagnation in the treated tissues, and supports a smoother, cleaner final contour. We recommend starting between day three and five and continuing with several sessions during the first weeks. Patients who follow the schedule consistently tend to show a better contour at the three-month review."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When can I start drainage after a procedure?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For most endolaser cases we begin between day three and five, when the inflammatory peak begins to settle. After traditional liposuction or other body-contouring surgery, the operating surgeon defines the start date. We never begin drainage on a treated area without the prescribing physician's authorisation, since premature drainage can be uncomfortable and counterproductive."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions do I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "After endolaser for small areas, three to five sessions is typical. After medium areas, six to eight. After large areas — full abdomen, abdomen and flanks, full thighs — we plan eight to twelve sessions concentrated during the first weeks, with continued cadence as needed. As wellness, a single session is meaningful; a regular cadence over time produces a more sustained effect."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lymphatic Body Massage in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/lymphatic-body-massage/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/lymphatic-body-massage.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/lymphatic-body-massage/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/masaje-linfatico-corporal/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Lymphatic Body Massage <em>in Miami</em>",
+    "lede": "Lymphatic body massage is a full-body manual drainage technique that mobilises fluid through the superficial lymphatic system to support recovery before and after body procedures and to deliver stand-alone wellness benefits, performed in a 60-minute session by trained therapists at our Miami clinic.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Critical adjuvant after endolaser procedures: supports resolution of swelling, prevents fluid stagnation and refines the final contour across small, medium or large areas.",
+        "Recommended adjuvant after traditional liposuction or other body-contouring surgeries when the operating surgeon authorises drainage.",
+        "Reduces sensation of leg heaviness and ankle puffiness associated with prolonged standing, sedentary work or Miami's climate.",
+        "Eases premenstrual fluid retention and the sensation of bloating.",
+        "Supports recovery after long-haul flights, when systemic fluid distribution is altered.",
+        "Creates a deep state of relaxation thanks to the slow, rhythmic, predictable nature of the strokes.",
+        "No downtime and no marks: patients return to their day immediately after the session."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Why is lymphatic body massage so important after endolaser?",
+          "a": "Across any treated body zone, post-procedure swelling is part of the normal healing pattern. Manual lymphatic drainage helps mobilise the fluid, prevents stagnation in the treated tissues, and supports a smoother, cleaner final contour. We recommend starting between day three and five and continuing with several sessions during the first weeks. Patients who follow the schedule consistently tend to show a better contour at the three-month review."
+        },
+        {
+          "q": "When can I start drainage after a procedure?",
+          "a": "For most endolaser cases we begin between day three and five, when the inflammatory peak begins to settle. After traditional liposuction or other body-contouring surgery, the operating surgeon defines the start date. We never begin drainage on a treated area without the prescribing physician's authorisation, since premature drainage can be uncomfortable and counterproductive."
+        },
+        {
+          "q": "How many sessions do I need?",
+          "a": "After endolaser for small areas, three to five sessions is typical. After medium areas, six to eight. After large areas — full abdomen, abdomen and flanks, full thighs — we plan eight to twelve sessions concentrated during the first weeks, with continued cadence as needed. As wellness, a single session is meaningful; a regular cadence over time produces a more sustained effect."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

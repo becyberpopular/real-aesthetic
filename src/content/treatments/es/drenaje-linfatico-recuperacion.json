@@ -1,0 +1,359 @@
+{
+  "lang": "es",
+  "slug": "drenaje-linfatico-recuperacion",
+  "path": "/tratamientos/drenaje-linfatico-recuperacion/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/lymphatic-drainage-enhancement.webp",
+  "ctaImage": "/img/proc/lymphatic-drainage-enhancement.webp",
+  "head": {
+    "title": "Drenaje Linfático Enhancement en Miami: Recuperación para Contorno Corporal",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Drenaje linfático enhancement en Miami en Real Aesthetic Medical Spa. Protocolo complementario que reduce inflamación y mejora resultados de contorno corporal."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Drenaje Linfático Enhancement en Miami: Recuperación para Contorno Corporal"
+      },
+      {
+        "property": "og:description",
+        "content": "Drenaje linfático enhancement en Miami en Real Aesthetic Medical Spa. Protocolo complementario que reduce inflamación y mejora resultados de contorno corporal."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/drenaje-linfatico-recuperacion/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-drainage-enhancement.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Drenaje Linfático Enhancement en Miami: Recuperación para Contorno Corporal"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Drenaje linfático enhancement en Miami en Real Aesthetic Medical Spa. Protocolo complementario que reduce inflamación y mejora resultados de contorno corporal."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-drainage-enhancement.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/drenaje-linfatico-recuperacion/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-drainage-enhancement/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/drenaje-linfatico-recuperacion/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Drenaje Linfático Enhancement en Miami: Recuperación para Contorno Corporal",
+        "description": "El drenaje linfático enhancement es un protocolo manual o asistido por equipo que se añade a planes de contorno corporal y endoláser para reducir la inflamación post-procedimiento, acelerar la recuperación y refinar el resultado final.",
+        "url": "https://realaestheticmedspa.com/tratamientos/drenaje-linfatico-recuperacion/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/drenaje-linfatico-recuperacion/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/drenaje-linfatico-recuperacion/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuándo debo iniciar el drenaje tras el endoláser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Lo habitual es comenzar entre 24 y 72 horas después del endoláser, una vez iniciada la fase inflamatoria. Empezar pronto ayuda a prevenir la fibrosis y acelera la movilización del líquido. El momento exacto lo confirma Ronal Perdomo, APRN, FNP-C según la zona tratada, la superficie abordada y la evolución individual durante la primera revisión de seguimiento en nuestra clínica de Miami."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones necesito?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tras endoláser o un procedimiento de contorno corporal, la mayoría de las pacientes completa una serie de tres a seis sesiones repartidas en las primeras tres a seis semanas de recuperación. El número exacto depende de la zona tratada, del grado de inflamación y de la respuesta tisular. Ajustamos la frecuencia según signos objetivos como edema residual, temperatura cutánea y evolución del contorno."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Manual o con presoterapia, qué es mejor?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ambas técnicas tienen su papel y a menudo se combinan. La técnica manual aporta precisión sobre zonas específicas, cicatrices y áreas irregulares. La presoterapia neumática cubre con eficiencia superficies amplias como abdomen completo o muslos, añadiendo presión rítmica constante. Nuestra especialista las selecciona y combina según la zona tratada, la fase de recuperación y el confort individual de la paciente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Duele el drenaje linfático?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Un drenaje linfático eficaz se realiza con presión ligera y rítmica que sigue la anatomía de los vasos linfáticos. El masaje profundo agresivo no es drenaje y puede ser contraproducente tras un procedimiento de contorno corporal. La mayoría de las pacientes describe nuestro protocolo como suave y relajante; muchas se duermen durante la sesión en nuestra clínica de Miami."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tengo que seguir usando la prenda de compresión?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. El drenaje y la compresión funcionan en conjunto. La prenda mantiene una presión continua y uniforme entre sesiones, mientras que el drenaje moviliza el líquido que la prenda ayuda después a redistribuir. Recomendamos llevar la prenda prescrita durante el periodo indicado tras tu endoláser o procedimiento corporal, retirándola únicamente según las instrucciones recibidas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo combinar el drenaje con otros tratamientos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, con una secuencia adecuada. El drenaje linfático enhancement se integra bien con protocolos de tensado de piel, mesoterapia para contorno corporal y planes de bienestar a largo plazo. Solemos priorizar el drenaje durante las primeras semanas de recuperación, y luego sumamos tensado o mantenimiento cuando la inflamación cede. Ronal Perdomo, APRN, FNP-C coordina el calendario para que cada modalidad refuerce a las demás."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay tiempo de inactividad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. La sesión de drenaje no requiere reposo posterior. Es habitual sentir una agradable sensación de relajación y notar un aumento de la diuresis durante las horas siguientes mientras se moviliza el líquido. Puedes regresar al trabajo, hacer recados y mantener actividad ligera el mismo día. Solo pedimos mantener la hidratación y continuar con la prenda de compresión según lo prescrito."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Quién no debe recibir drenaje linfático?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El drenaje linfático no está recomendado en infección cutánea activa sobre la zona, sospecha o confirmación de trombosis venosa profunda, insuficiencia cardiaca o renal no controlada, neoplasia activa en la zona o cirugía abdominal muy reciente sin autorización médica. Revisamos toda la historia clínica y los procedimientos recientes antes de cada serie para confirmar la idoneidad y diseñar el plan de recuperación más seguro."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Drenaje Linfático Enhancement en Miami: Recuperación para Contorno Corporal",
+            "item": "https://realaestheticmedspa.com/tratamientos/drenaje-linfatico-recuperacion/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/lymphatic-drainage-enhancement.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/lymphatic-drainage-enhancement/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/drenaje-linfatico-recuperacion/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Drenaje Linfático Enhancement en Miami: Recuperación para <em>Contorno Corporal</em>",
+    "lede": "El drenaje linfático enhancement es un protocolo manual o asistido por equipo que se añade a planes de contorno corporal y endoláser para reducir la inflamación post-procedimiento, acelerar la recuperación y refinar el resultado final.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce la inflamación post-procedimiento y la sensación de pesadez tras sesiones de contorno corporal.",
+        "Apoya la movilización del líquido inflamatorio a través de las vías linfáticas naturales.",
+        "Ayuda a prevenir fibrosis, durezas e irregularidades en la zona tratada cuando se inicia a tiempo.",
+        "Mejora el confort durante las primeras semanas de recuperación, incluyendo movilidad y sensibilidad cutánea.",
+        "Refina el contorno final al permitir que el tejido se asiente de forma uniforme.",
+        "Complementa las prendas de compresión y los cuidados pautados tras endoláser o mesoterapia.",
+        "Aporta bienestar general, sensación de ligereza y mejor circulación durante la fase de recuperación."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "Las pacientes suelen percibir menos hinchazón, sensación de ligereza y un tejido más blando desde las primeras sesiones. El beneficio acumulado se observa a lo largo de la serie completa de tres a seis visitas, favoreciendo un contorno final más uniforme tras el procedimiento corporal. Como el drenaje es un complemento de recuperación, la durabilidad del resultado contornístico depende del procedimiento original, del estilo de vida y del cumplimiento del plan completo de cuidados."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Cuándo debo iniciar el drenaje tras el endoláser?",
+          "a": "Lo habitual es comenzar entre 24 y 72 horas después del endoláser, una vez iniciada la fase inflamatoria. Empezar pronto ayuda a prevenir la fibrosis y acelera la movilización del líquido. El momento exacto lo confirma Ronal Perdomo, APRN, FNP-C según la zona tratada, la superficie abordada y la evolución individual durante la primera revisión de seguimiento en nuestra clínica de Miami."
+        },
+        {
+          "q": "¿Cuántas sesiones necesito?",
+          "a": "Tras endoláser o un procedimiento de contorno corporal, la mayoría de las pacientes completa una serie de tres a seis sesiones repartidas en las primeras tres a seis semanas de recuperación. El número exacto depende de la zona tratada, del grado de inflamación y de la respuesta tisular. Ajustamos la frecuencia según signos objetivos como edema residual, temperatura cutánea y evolución del contorno."
+        },
+        {
+          "q": "¿Manual o con presoterapia, qué es mejor?",
+          "a": "Ambas técnicas tienen su papel y a menudo se combinan. La técnica manual aporta precisión sobre zonas específicas, cicatrices y áreas irregulares. La presoterapia neumática cubre con eficiencia superficies amplias como abdomen completo o muslos, añadiendo presión rítmica constante. Nuestra especialista las selecciona y combina según la zona tratada, la fase de recuperación y el confort individual de la paciente."
+        },
+        {
+          "q": "¿Duele el drenaje linfático?",
+          "a": "No. Un drenaje linfático eficaz se realiza con presión ligera y rítmica que sigue la anatomía de los vasos linfáticos. El masaje profundo agresivo no es drenaje y puede ser contraproducente tras un procedimiento de contorno corporal. La mayoría de las pacientes describe nuestro protocolo como suave y relajante; muchas se duermen durante la sesión en nuestra clínica de Miami."
+        },
+        {
+          "q": "¿Tengo que seguir usando la prenda de compresión?",
+          "a": "Sí. El drenaje y la compresión funcionan en conjunto. La prenda mantiene una presión continua y uniforme entre sesiones, mientras que el drenaje moviliza el líquido que la prenda ayuda después a redistribuir. Recomendamos llevar la prenda prescrita durante el periodo indicado tras tu endoláser o procedimiento corporal, retirándola únicamente según las instrucciones recibidas."
+        },
+        {
+          "q": "¿Puedo combinar el drenaje con otros tratamientos?",
+          "a": "Sí, con una secuencia adecuada. El drenaje linfático enhancement se integra bien con protocolos de tensado de piel, mesoterapia para contorno corporal y planes de bienestar a largo plazo. Solemos priorizar el drenaje durante las primeras semanas de recuperación, y luego sumamos tensado o mantenimiento cuando la inflamación cede. Ronal Perdomo, APRN, FNP-C coordina el calendario para que cada modalidad refuerce a las demás."
+        },
+        {
+          "q": "¿Hay tiempo de inactividad?",
+          "a": "No. La sesión de drenaje no requiere reposo posterior. Es habitual sentir una agradable sensación de relajación y notar un aumento de la diuresis durante las horas siguientes mientras se moviliza el líquido. Puedes regresar al trabajo, hacer recados y mantener actividad ligera el mismo día. Solo pedimos mantener la hidratación y continuar con la prenda de compresión según lo prescrito."
+        },
+        {
+          "q": "¿Quién no debe recibir drenaje linfático?",
+          "a": "El drenaje linfático no está recomendado en infección cutánea activa sobre la zona, sospecha o confirmación de trombosis venosa profunda, insuficiencia cardiaca o renal no controlada, neoplasia activa en la zona o cirugía abdominal muy reciente sin autorización médica. Revisamos toda la historia clínica y los procedimientos recientes antes de cada serie para confirmar la idoneidad y diseñar el plan de recuperación más seguro."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

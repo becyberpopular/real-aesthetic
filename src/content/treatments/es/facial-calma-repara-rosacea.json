@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "facial-calma-repara-rosacea",
+  "path": "/tratamientos/facial-calma-repara-rosacea/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/calm-repair-facial-rosacea.webp",
+  "ctaImage": "/img/proc/calm-repair-facial-rosacea.webp",
+  "head": {
+    "title": "Facial Calma & Repara (Rosácea) en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Facial Calma & Repara para piel con rosácea en Miami en Real Aesthetic. Protocolo clínico antiinflamatorio diseñado para calmar enrojecimiento y reforzar la barrera cutánea. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Facial Calma & Repara (Rosácea) en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Facial Calma & Repara para piel con rosácea en Miami en Real Aesthetic. Protocolo clínico antiinflamatorio diseñado para calmar enrojecimiento y reforzar la barrera cutánea. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/facial-calma-repara-rosacea/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/calm-repair-facial-rosacea.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Facial Calma & Repara (Rosácea) en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Facial Calma & Repara para piel con rosácea en Miami en Real Aesthetic. Protocolo clínico antiinflamatorio diseñado para calmar enrojecimiento y reforzar la barrera cutánea. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/calm-repair-facial-rosacea.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/facial-calma-repara-rosacea/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/calm-repair-facial-rosacea/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/facial-calma-repara-rosacea/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Facial Calma & Repara (Rosácea) en Miami",
+        "description": "Facial Calma & Repara para piel con rosácea en Miami en Real Aesthetic. Protocolo clínico antiinflamatorio diseñado para calmar enrojecimiento y reforzar la barrera cutánea. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/facial-calma-repara-rosacea/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/facial-calma-repara-rosacea/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/facial-calma-repara-rosacea/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Eliminará mi rosácea?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La rosácea es una condición crónica que manejamos, no curamos. El facial Calma & Repara calma el componente inflamatorio y vascular, reduciendo enrojecimiento visible y frecuencia de brotes con un plan de mantenimiento. Para componentes vasculares más marcados añadimos nuestro protocolo láser de rosácea coordinado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué evitar antes y después?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Antes: evita retinoides y activos ácidos 3–5 días, y los disparadores conocidos (duchas muy calientes, exfoliación intensa). Después: evita sol, alcohol y calor intenso 24 horas y protege la piel con la rutina que entregamos. La mayoría retoma actividad el mismo día."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro durante un brote?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, el protocolo está diseñado precisamente para fases reactivas. Ajustamos intensidad, omitimos cualquier paso que pueda agravar y priorizamos calmar la respuesta inflamatoria. El objetivo es bajar la piel, no empujarla más."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Facial Calma & Repara (Rosácea) en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/facial-calma-repara-rosacea/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/calm-repair-facial-rosacea.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/facial-calma-repara-rosacea/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/calm-repair-facial-rosacea/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Calma &amp; Repara Facial <em>en Miami</em>",
+    "lede": "Un facial clínico para piel rosácea o reactiva que utiliza ingredientes antiinflamatorios, técnicas amables con el componente vascular y herramientas frías para calmar el enrojecimiento y reforzar la barrera cutánea.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-calm-repair-facial-rosacea",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Calma el enrojecimiento facial visible y los brotes de rosácea con ingredientes antiinflamatorios.",
+        "Evita activos agresivos que irritan la piel reactiva o con barrera comprometida.",
+        "Incluye herramientas frías (jade roller, masaje cool-tip) para reducir reactividad vascular.",
+        "Refuerza la barrera con productos finales ricos en ceramidas y niacinamida.",
+        "Diseñado como mantenimiento mensual para piel rosácea.",
+        "Se combina muy bien con nuestro protocolo láser de rosácea cuando el enrojecimiento tiene mayor componente vascular."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Eliminará mi rosácea?",
+          "a": "La rosácea es una condición crónica que manejamos, no curamos. El facial Calma &amp; Repara calma el componente inflamatorio y vascular, reduciendo enrojecimiento visible y frecuencia de brotes con un plan de mantenimiento. Para componentes vasculares más marcados añadimos nuestro protocolo láser de rosácea coordinado."
+        },
+        {
+          "q": "¿Qué evitar antes y después?",
+          "a": "Antes: evita retinoides y activos ácidos 3–5 días, y los disparadores conocidos (duchas muy calientes, exfoliación intensa). Después: evita sol, alcohol y calor intenso 24 horas y protege la piel con la rutina que entregamos. La mayoría retoma actividad el mismo día."
+        },
+        {
+          "q": "¿Es seguro durante un brote?",
+          "a": "Sí, el protocolo está diseñado precisamente para fases reactivas. Ajustamos intensidad, omitimos cualquier paso que pueda agravar y priorizamos calmar la respuesta inflamatoria. El objetivo es bajar la piel, no empujarla más."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-calm-repair-facial-rosacea",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

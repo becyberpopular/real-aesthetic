@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "iv-refuerzo-vitaminas",
+  "path": "/tratamientos/iv-refuerzo-vitaminas/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/iv-vitamin-boost.webp",
+  "ctaImage": "/img/proc/iv-vitamin-boost.webp",
+  "head": {
+    "title": "IV Refuerzo de Vitaminas en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "IV Refuerzo de Vitaminas en Miami en Real Aesthetic. Entrega intravenosa directa de vitaminas y minerales esenciales supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "IV Refuerzo de Vitaminas en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "IV Refuerzo de Vitaminas en Miami en Real Aesthetic. Entrega intravenosa directa de vitaminas y minerales esenciales supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/iv-refuerzo-vitaminas/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-vitamin-boost.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "IV Refuerzo de Vitaminas en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "IV Refuerzo de Vitaminas en Miami en Real Aesthetic. Entrega intravenosa directa de vitaminas y minerales esenciales supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-vitamin-boost.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-refuerzo-vitaminas/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/iv-vitamin-boost/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-refuerzo-vitaminas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "IV Refuerzo de Vitaminas en Miami",
+        "description": "IV Refuerzo de Vitaminas en Miami en Real Aesthetic. Entrega intravenosa directa de vitaminas y minerales esenciales supervisada por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/iv-refuerzo-vitaminas/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/iv-refuerzo-vitaminas/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/iv-refuerzo-vitaminas/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿La IV de vitaminas sustituye a los suplementos orales?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los complementa más que sustituirlos. La IV ofrece alta biodisponibilidad para una corrección inmediata del estado. Los suplementos orales actúan en el tiempo con menor biodisponibilidad. Muchos pacientes combinan ambos en temporadas exigentes (alto entrenamiento, jet lag, estrés, recuperación de enfermedad)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo elegir qué lleva mi IV?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Partimos de una mezcla estándar clínicamente revisada y podemos ajustarla según historia clínica, estado actual y objetivo. NAD+ y otros complementos están disponibles en programas dedicados. Ronal Perdomo Lugo, APRN, FNP-C comenta la mejor combinación en consulta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay efectos secundarios?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Son raros y suelen ser leves — sensación fresca por la vena, ligero rubor pasajero, sabor a vitaminas durante la infusión. Hacemos cribado de alergias y medicación antes de iniciar y la IV se monitoriza durante la sesión por seguridad."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IV Refuerzo de Vitaminas en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/iv-refuerzo-vitaminas/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/iv-vitamin-boost.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/iv-refuerzo-vitaminas/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/iv-vitamin-boost/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "IV Refuerzo de Vitaminas <em>en Miami</em>",
+    "lede": "Mezcla IV dirigida de vitaminas y minerales esenciales entregada directamente al torrente sanguíneo con biodisponibilidad completa — para energía, inmunidad y bienestar general.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-vitamin-boost",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Entrega complejo B, vitamina C, magnesio y minerales clave con 100% de biodisponibilidad.",
+        "Apoya niveles sostenidos de energía y reduce la fatiga cuando el estado nutricional es subóptimo.",
+        "Refuerza la función inmune en periodos de estrés, viajes o demandas estacionales.",
+        "Personalizable con vitaminas o componentes de recuperación adicionales según objetivo.",
+        "La sesión dura unos 45–60 minutos en entorno clínico cómodo.",
+        "Protocolo revisado médicamente — adaptado a tu salud basal y objetivos."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿La IV de vitaminas sustituye a los suplementos orales?",
+          "a": "Los complementa más que sustituirlos. La IV ofrece alta biodisponibilidad para una corrección inmediata del estado. Los suplementos orales actúan en el tiempo con menor biodisponibilidad. Muchos pacientes combinan ambos en temporadas exigentes (alto entrenamiento, jet lag, estrés, recuperación de enfermedad)."
+        },
+        {
+          "q": "¿Puedo elegir qué lleva mi IV?",
+          "a": "Partimos de una mezcla estándar clínicamente revisada y podemos ajustarla según historia clínica, estado actual y objetivo. NAD+ y otros complementos están disponibles en programas dedicados. Ronal Perdomo Lugo, APRN, FNP-C comenta la mejor combinación en consulta."
+        },
+        {
+          "q": "¿Hay efectos secundarios?",
+          "a": "Son raros y suelen ser leves — sensación fresca por la vena, ligero rubor pasajero, sabor a vitaminas durante la infusión. Hacemos cribado de alergias y medicación antes de iniciar y la IV se monitoriza durante la sesión por seguridad."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-vitamin-boost",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "nad-im",
+  "path": "/procedures/nad-im/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/nad-im-add-on.webp",
+  "ctaImage": "/img/proc/nad-im-add-on.webp",
+  "head": {
+    "title": "NAD+ IM Injection in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "NAD+ intramuscular add-on in Miami at Real Aesthetic. Direct delivery of NAD+ for cellular energy and cognitive support, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "NAD+ IM Injection in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "NAD+ intramuscular add-on in Miami at Real Aesthetic. Direct delivery of NAD+ for cellular energy and cognitive support, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/nad-im/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/nad-im-add-on.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "NAD+ IM Injection in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "NAD+ intramuscular add-on in Miami at Real Aesthetic. Direct delivery of NAD+ for cellular energy and cognitive support, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/nad-im-add-on.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/nad-im/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/nad-im/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/nad-im/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "NAD+ IM Injection in Miami",
+        "description": "NAD+ intramuscular add-on in Miami at Real Aesthetic. Direct delivery of NAD+ for cellular energy and cognitive support, supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/nad-im/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/nad-im/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/nad-im/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is NAD+ and what does it do?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "NAD+ (nicotinamide adenine dinucleotide) is a coenzyme that plays a central role in cellular energy production and DNA repair. Levels naturally decline with age. Supplementation via IM or IV is intended to support mitochondrial function, energy and cognitive performance, particularly in longevity-focused wellness."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does IM differ from IV NAD+?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "IM injection is faster and more practical for regular maintenance, with a slightly lower peak concentration. Full IV NAD+ delivers higher doses over a longer infusion, often used as a more intensive entry protocol. We recommend IM for most maintenance cases and IV when a deeper baseline reset is the goal."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are there side effects?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Side effects are uncommon and usually mild — slight injection site discomfort, occasional transient warmth or chest pressure during full IV protocols. The IM route is generally very tolerable. We screen for contraindications and review medications before every NAD+ session."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "NAD+ IM Injection in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/nad-im/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/nad-im-add-on.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/nad-im/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/nad-im/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "NAD+ IM <em>in Miami</em>",
+    "lede": "NAD+ intramuscular injection delivers nicotinamide adenine dinucleotide directly to support cellular energy metabolism, cognitive function and longevity-aligned wellness in a quick add-on session.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nad-im-add-on",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Supports cellular energy production at the mitochondrial level.",
+        "May contribute to improved focus, mental clarity and recovery from fatigue.",
+        "Aligned with longevity and biological-age-conscious wellness programmes.",
+        "Quick IM injection — significantly faster than full NAD+ IV protocols.",
+        "Can be added before or after an IV session for compounded effect.",
+        "Medically reviewed and administered by trained clinical staff."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "What is NAD+ and what does it do?",
+          "a": "NAD+ (nicotinamide adenine dinucleotide) is a coenzyme that plays a central role in cellular energy production and DNA repair. Levels naturally decline with age. Supplementation via IM or IV is intended to support mitochondrial function, energy and cognitive performance, particularly in longevity-focused wellness."
+        },
+        {
+          "q": "How does IM differ from IV NAD+?",
+          "a": "IM injection is faster and more practical for regular maintenance, with a slightly lower peak concentration. Full IV NAD+ delivers higher doses over a longer infusion, often used as a more intensive entry protocol. We recommend IM for most maintenance cases and IV when a deeper baseline reset is the goal."
+        },
+        {
+          "q": "Are there side effects?",
+          "a": "Side effects are uncommon and usually mild — slight injection site discomfort, occasional transient warmth or chest pressure during full IV protocols. The IM route is generally very tolerable. We screen for contraindications and review medications before every NAD+ session."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nad-im-add-on",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

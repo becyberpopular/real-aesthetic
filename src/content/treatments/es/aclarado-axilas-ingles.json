@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "aclarado-axilas-ingles",
+  "path": "/tratamientos/aclarado-axilas-ingles/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/underarm-thigh-brightening.webp",
+  "ctaImage": "/img/proc/underarm-thigh-brightening.webp",
+  "head": {
+    "title": "Aclarado de axilas, ingles y entrepierna en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Mesoterapia médica para hiperpigmentación de axilas, ingles y entrepierna en Miami. Protocolo con ácido tranexámico y glutatión, plan de mantenimiento."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Aclarado de axilas, ingles y entrepierna en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Mesoterapia médica para hiperpigmentación de axilas, ingles y entrepierna en Miami. Protocolo con ácido tranexámico y glutatión, plan de mantenimiento."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/aclarado-axilas-ingles/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/underarm-thigh-brightening.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Aclarado de axilas, ingles y entrepierna en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Mesoterapia médica para hiperpigmentación de axilas, ingles y entrepierna en Miami. Protocolo con ácido tranexámico y glutatión, plan de mantenimiento."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/underarm-thigh-brightening.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/aclarado-axilas-ingles/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/underarm-thigh-brightening/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/aclarado-axilas-ingles/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Aclarado de axilas, ingles y entrepierna en Miami",
+        "description": "El aclarado de axilas, ingles y entrepierna es un protocolo médico de mesoterapia que aborda la hiperpigmentación de axilas, cara interna del muslo y pliegues inguinales mediante un cóctel suave de ácido tranexámico y glutatión, realizado en un entorno clínico privado en Miami con un plan de mantenimiento estructurado.",
+        "url": "https://realaestheticmedspa.com/tratamientos/aclarado-axilas-ingles/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/aclarado-axilas-ingles/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/aclarado-axilas-ingles/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Por qué tengo las axilas y la entrepierna más oscuras que el resto de la piel?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Estas zonas sufren fricción crónica y depilación repetida, ambos factores generan una inflamación de bajo grado a la que la piel responde con más pigmento. Las influencias hormonales (problemas tiroideos, resistencia a la insulina, embarazo) también pueden generar cambios tipo acantosis nigricans en las mismas regiones. La mayoría de pacientes presenta una combinación de causas, por eso las abordamos en conjunto y no solo blanqueamos la superficie."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La depilación láser por sí sola corrige la pigmentación?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La depilación láser reduce una de las causas principales —la depilación repetida y los pelos encarnados— y, con el tiempo, la zona suele aclararse de forma natural. Sin embargo, la pigmentación ya instaurada normalmente necesita un protocolo activo para atenuarse. Combinar la depilación láser con mesoterapia ofrece resultados más rápidos, consistentes y duraderos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones necesitaré?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El protocolo estándar incluye de cuatro a seis sesiones cada tres o cuatro semanas, seguidas de mantenimiento cada tres o cuatro meses. El número exacto depende de cuán oscura esté la zona, su fototipo y la respuesta cutánea. Reevaluamos el plan tras la segunda sesión para asegurarnos de que se ajusta a su piel y a sus objetivos."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Aclarado de axilas, ingles y entrepierna en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/aclarado-axilas-ingles/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/underarm-thigh-brightening.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/underarm-thigh-brightening/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/aclarado-axilas-ingles/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Aclarado de axilas, ingles y entrepierna <em>en Miami</em>",
+    "lede": "El aclarado de axilas, ingles y entrepierna es un protocolo médico de mesoterapia que aborda la hiperpigmentación de axilas, cara interna del muslo y pliegues inguinales mediante un cóctel suave de ácido tranexámico y glutatión, realizado en un entorno clínico privado en Miami con un plan de mantenimiento estructurado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Atenúa la hiperpigmentación de axilas, cara interna del muslo y pliegues inguinales.",
+        "Actúa sobre la vía del pigmento desde dentro, alcanzando profundidades que las cremas no consiguen.",
+        "Evita blanqueadores agresivos y respeta la barrera cutánea en lugar de adelgazarla.",
+        "Combina muy bien con la depilación láser para abordar la causa depilatoria de la nueva pigmentación.",
+        "Incluye educación sobre fricción, depilación y desencadenantes hormonales como parte del plan.",
+        "Adecuado para una amplia variedad de fototipos cuando lo supervisa un equipo médico cualificado.",
+        "Ofrece un plan de mantenimiento estructurado para mantener la zona estable a largo plazo."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Por qué tengo las axilas y la entrepierna más oscuras que el resto de la piel?",
+          "a": "Estas zonas sufren fricción crónica y depilación repetida, ambos factores generan una inflamación de bajo grado a la que la piel responde con más pigmento. Las influencias hormonales (problemas tiroideos, resistencia a la insulina, embarazo) también pueden generar cambios tipo acantosis nigricans en las mismas regiones. La mayoría de pacientes presenta una combinación de causas, por eso las abordamos en conjunto y no solo blanqueamos la superficie."
+        },
+        {
+          "q": "¿La depilación láser por sí sola corrige la pigmentación?",
+          "a": "La depilación láser reduce una de las causas principales —la depilación repetida y los pelos encarnados— y, con el tiempo, la zona suele aclararse de forma natural. Sin embargo, la pigmentación ya instaurada normalmente necesita un protocolo activo para atenuarse. Combinar la depilación láser con mesoterapia ofrece resultados más rápidos, consistentes y duraderos."
+        },
+        {
+          "q": "¿Cuántas sesiones necesitaré?",
+          "a": "El protocolo estándar incluye de cuatro a seis sesiones cada tres o cuatro semanas, seguidas de mantenimiento cada tres o cuatro meses. El número exacto depende de cuán oscura esté la zona, su fototipo y la respuesta cutánea. Reevaluamos el plan tras la segunda sesión para asegurarnos de que se ajusta a su piel y a sus objetivos."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserve una consulta privada en Real Aesthetic Medical Spa para una evaluación médica y un plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

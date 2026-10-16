@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "masaje-linfatico-corporal",
+  "path": "/tratamientos/masaje-linfatico-corporal/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/lymphatic-body-massage.webp",
+  "ctaImage": "/img/proc/lymphatic-body-massage.webp",
+  "head": {
+    "title": "Masaje linfático corporal en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Drenaje linfático manual de cuerpo entero en Miami. Adyuvante esencial tras endolaser y como sesión de bienestar. 60 minutos en Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Masaje linfático corporal en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Drenaje linfático manual de cuerpo entero en Miami. Adyuvante esencial tras endolaser y como sesión de bienestar. 60 minutos en Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-corporal/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-body-massage.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Masaje linfático corporal en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Drenaje linfático manual de cuerpo entero en Miami. Adyuvante esencial tras endolaser y como sesión de bienestar. 60 minutos en Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-body-massage.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-corporal/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-body-massage/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-corporal/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Masaje linfático corporal en Miami",
+        "description": "El masaje linfático corporal es una técnica manual de drenaje de cuerpo entero que moviliza el líquido a través del sistema linfático superficial para apoyar la recuperación antes y después de procedimientos corporales y aportar beneficios de bienestar como sesión independiente, en una visita de 60 minutos realizada por terapeutas formados en nuestra clínica de Miami.",
+        "url": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-corporal/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-corporal/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-corporal/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Por qué es tan importante el drenaje linfático tras un endolaser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En cualquier zona corporal tratada, el edema postprocedimiento forma parte del patrón normal de cicatrización. El drenaje linfático manual ayuda a movilizar el líquido, evita el estancamiento en los tejidos tratados y favorece un contorno final más uniforme. Recomendamos comenzar entre el tercer y el quinto día y continuar varias sesiones durante las primeras semanas. Quienes siguen el calendario de forma constante suelen mostrar un mejor contorno en la revisión de los tres meses."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo puedo empezar el drenaje tras un procedimiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En la mayoría de los casos de endolaser comenzamos entre el tercer y el quinto día, cuando empieza a ceder el pico inflamatorio. Tras una liposucción tradicional u otra cirugía de contorno corporal, el cirujano define la fecha de inicio. Nunca iniciamos el drenaje sobre una zona tratada sin autorización del médico prescriptor: un drenaje prematuro puede ser molesto y contraproducente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones necesito?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tras un endolaser de áreas pequeñas, suele bastar una serie de tres a cinco sesiones. Tras áreas medianas, de seis a ocho. Tras áreas grandes — abdomen completo, abdomen y flancos, muslos completos — planificamos de ocho a doce sesiones concentradas en las primeras semanas, con cadencia mantenida si procede. Como bienestar, una sesión aislada ya es relevante; una cadencia regular en el tiempo aporta un efecto más sostenido."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Masaje linfático corporal en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/masaje-linfatico-corporal/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/lymphatic-body-massage.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/lymphatic-body-massage/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/masaje-linfatico-corporal/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Masaje linfático corporal <em>en Miami</em>",
+    "lede": "El masaje linfático corporal es una técnica manual de drenaje de cuerpo entero que moviliza el líquido a través del sistema linfático superficial para apoyar la recuperación antes y después de procedimientos corporales y aportar beneficios de bienestar como sesión independiente, en una visita de 60 minutos realizada por terapeutas formados en nuestra clínica de Miami.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Adyuvante esencial tras procedimientos de endolaser: apoya la resolución del edema, evita el estancamiento y refina el contorno final en áreas pequeñas, medianas o grandes.",
+        "Adyuvante recomendado tras liposucción tradicional u otra cirugía de contorno corporal cuando el cirujano lo autoriza.",
+        "Reduce la sensación de pesadez en piernas y la hinchazón en tobillos asociadas a estar mucho tiempo de pie, al sedentarismo o al clima de Miami.",
+        "Alivia la retención de líquidos premenstrual y la sensación de hinchazón abdominal.",
+        "Apoya la recuperación tras vuelos largos, cuando la distribución sistémica del líquido se ve alterada.",
+        "Genera un estado de relajación profunda gracias al ritmo lento, predecible y constante de las maniobras.",
+        "No deja marcas ni requiere recuperación: la paciente vuelve a su día inmediatamente después."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Por qué es tan importante el drenaje linfático tras un endolaser?",
+          "a": "En cualquier zona corporal tratada, el edema postprocedimiento forma parte del patrón normal de cicatrización. El drenaje linfático manual ayuda a movilizar el líquido, evita el estancamiento en los tejidos tratados y favorece un contorno final más uniforme. Recomendamos comenzar entre el tercer y el quinto día y continuar varias sesiones durante las primeras semanas. Quienes siguen el calendario de forma constante suelen mostrar un mejor contorno en la revisión de los tres meses."
+        },
+        {
+          "q": "¿Cuándo puedo empezar el drenaje tras un procedimiento?",
+          "a": "En la mayoría de los casos de endolaser comenzamos entre el tercer y el quinto día, cuando empieza a ceder el pico inflamatorio. Tras una liposucción tradicional u otra cirugía de contorno corporal, el cirujano define la fecha de inicio. Nunca iniciamos el drenaje sobre una zona tratada sin autorización del médico prescriptor: un drenaje prematuro puede ser molesto y contraproducente."
+        },
+        {
+          "q": "¿Cuántas sesiones necesito?",
+          "a": "Tras un endolaser de áreas pequeñas, suele bastar una serie de tres a cinco sesiones. Tras áreas medianas, de seis a ocho. Tras áreas grandes — abdomen completo, abdomen y flancos, muslos completos — planificamos de ocho a doce sesiones concentradas en las primeras semanas, con cadencia mantenida si procede. Como bienestar, una sesión aislada ya es relevante; una cadencia regular en el tiempo aporta un efecto más sostenido."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva un masaje linfático corporal de 60 minutos en Real Aesthetic Medical Spa, Miami, dentro de tu recuperación postprocedimiento o como sesión de bienestar.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

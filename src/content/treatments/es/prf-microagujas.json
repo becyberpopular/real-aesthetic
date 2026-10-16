@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "prf-microagujas",
+  "path": "/tratamientos/prf-microagujas/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/prf-microneedling.webp",
+  "ctaImage": "/img/proc/prf-microneedling.webp",
+  "head": {
+    "title": "PRF + Microagujas en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "PRF combinado con microagujas (microneedling) en Miami en Real Aesthetic. Potencia la inducción de colágeno con los factores de crecimiento del propio paciente. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "PRF + Microagujas en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "PRF combinado con microagujas (microneedling) en Miami en Real Aesthetic. Potencia la inducción de colágeno con los factores de crecimiento del propio paciente. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/prf-microagujas/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prf-microneedling.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "PRF + Microagujas en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "PRF combinado con microagujas (microneedling) en Miami en Real Aesthetic. Potencia la inducción de colágeno con los factores de crecimiento del propio paciente. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prf-microneedling.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/prf-microagujas/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/prf-microneedling/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/prf-microagujas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "PRF + Microagujas en Miami",
+        "description": "PRF combinado con microagujas (microneedling) en Miami en Real Aesthetic. Potencia la inducción de colágeno con los factores de crecimiento del propio paciente. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/prf-microagujas/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/prf-microagujas/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/prf-microagujas/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Por qué combinar microagujas con PRF?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El microneedling crea microcanales controlados en la piel que activan inducción de colágeno. Añadir PRF cuando esos canales están abiertos entrega tus propios factores de crecimiento directamente a la dermis, amplificando la cascada regenerativa. El resultado combinado suele ser más marcado que cada modalidad por separado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué puedo esperar después de la sesión?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La piel queda rosada a roja durante 12–48 horas, similar a una quemadura solar leve. La mayoría usa solo skincare suave y protección solar amplia durante 5–7 días. El maquillaje suele aplicarse tras 24 horas. Enviamos guía de cuidados por escrito tras cada sesión."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro en pieles oscuras?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. Microagujas es generalmente seguro en todos los fototipos porque no depende de calor ni energía dirigida al pigmento. La profundidad de la aguja y el protocolo PRF se calibran a tu piel y objetivo. Evaluamos tu fototipo Fitzpatrick en consulta y ajustamos los parámetros."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PRF + Microagujas en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/prf-microagujas/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/prf-microneedling.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/prf-microagujas/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/prf-microneedling/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "PRF + Microagujas <em>en Miami</em>",
+    "lede": "Combina microneedling fraccionado con fibrina rica en plaquetas aplicada tópicamente y entregada a través de los canales creados por las agujas, amplificando la inducción de colágeno y la renovación cutánea.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-microneedling",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Combina inducción mecánica de colágeno (microagujas) con factores de crecimiento biológicos (PRF).",
+        "Mejora textura, líneas finas, cicatrices de acné, irregularidades de pigmentación y aspecto del poro.",
+        "Recuperación corta — la mayoría presenta enrojecimiento leve 24–48 horas.",
+        "Cada sesión dura unos 60 minutos incluyendo preparación de PRF.",
+        "Protocolo habitual de 3 sesiones cada 4 semanas con mejora progresiva.",
+        "Componente biológico 100% autólogo — sin sueros sintéticos en canales abiertos."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Por qué combinar microagujas con PRF?",
+          "a": "El microneedling crea microcanales controlados en la piel que activan inducción de colágeno. Añadir PRF cuando esos canales están abiertos entrega tus propios factores de crecimiento directamente a la dermis, amplificando la cascada regenerativa. El resultado combinado suele ser más marcado que cada modalidad por separado."
+        },
+        {
+          "q": "¿Qué puedo esperar después de la sesión?",
+          "a": "La piel queda rosada a roja durante 12–48 horas, similar a una quemadura solar leve. La mayoría usa solo skincare suave y protección solar amplia durante 5–7 días. El maquillaje suele aplicarse tras 24 horas. Enviamos guía de cuidados por escrito tras cada sesión."
+        },
+        {
+          "q": "¿Es seguro en pieles oscuras?",
+          "a": "Sí. Microagujas es generalmente seguro en todos los fototipos porque no depende de calor ni energía dirigida al pigmento. La profundidad de la aguja y el protocolo PRF se calibran a tu piel y objetivo. Evaluamos tu fototipo Fitzpatrick en consulta y ajustamos los parámetros."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-microneedling",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

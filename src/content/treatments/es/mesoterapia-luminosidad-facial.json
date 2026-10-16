@@ -1,0 +1,287 @@
+{
+  "lang": "es",
+  "slug": "mesoterapia-luminosidad-facial",
+  "path": "/tratamientos/mesoterapia-luminosidad-facial/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/facial-glow-mesotherapy.webp",
+  "ctaImage": "/img/proc/facial-glow-mesotherapy.webp",
+  "head": {
+    "title": "Mesoterapia de luminosidad e hidratación facial en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Mesoterapia de luminosidad e hidratación facial en Miami: ácido hialurónico, vitaminas y aminoácidos en tres sesiones para una piel radiante."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Mesoterapia de luminosidad e hidratación facial en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Mesoterapia de luminosidad e hidratación facial en Miami: ácido hialurónico, vitaminas y aminoácidos en tres sesiones para una piel radiante."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/mesoterapia-luminosidad-facial/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/facial-glow-mesotherapy.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Mesoterapia de luminosidad e hidratación facial en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Mesoterapia de luminosidad e hidratación facial en Miami: ácido hialurónico, vitaminas y aminoácidos en tres sesiones para una piel radiante."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/facial-glow-mesotherapy.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/mesoterapia-luminosidad-facial/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/facial-glow-mesotherapy/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/mesoterapia-luminosidad-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Mesoterapia de luminosidad e hidratación facial",
+        "alternateName": "Mesoterapia luminosidad facial",
+        "description": "Serie de microinyecciones que aportan ácido hialurónico, vitaminas y aminoácidos a la dermis para restaurar hidratación y luminosidad. Tres sesiones cada dos semanas en Real Aesthetic Medical Spa, Miami.",
+        "bodyLocation": "Rostro",
+        "procedureType": "Mesoterapia inyectable no quirúrgica",
+        "preparation": "Evitar suplementos anticoagulantes 48 horas antes. Acudir con la piel limpia, sin maquillaje. Informar al equipo sobre cualquier afección cutánea activa o procedimiento reciente.",
+        "followup": "Protector solar SPF 50 a diario. Evitar sol intenso, sauna y ejercicio vigoroso 24-48 horas. Rutina suave de limpieza e hidratación entregada en consulta. Sesión de mantenimiento cada 3-6 meses.",
+        "howPerformed": "Tras anestesia tópica, se aplica un cóctel estéril de ácido hialurónico de bajo peso molecular, vitaminas del complejo B, antioxidantes y aminoácidos mediante agujas finas o microcánula en todo el rostro.",
+        "url": "https://realaestheticmedspa.com/tratamientos/mesoterapia-luminosidad-facial/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/mesoterapia-luminosidad-facial/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mesoterapia de luminosidad e hidratación facial en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/mesoterapia-luminosidad-facial/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/facial-glow-mesotherapy.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/facial-glow-mesotherapy/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/mesoterapia-luminosidad-facial/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Mesoterapia de luminosidad e hidratación facial <em>en Miami</em>",
+    "lede": "La mesoterapia de luminosidad facial es un protocolo de microinyecciones que aporta ácido hialurónico, vitaminas y aminoácidos directamente a la dermis para devolver hidratación profunda y luminosidad, realizado en nuestra clínica de Miami en tres sesiones separadas dos semanas.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Restaura la hidratación profunda y mejora la elasticidad cutánea desde dentro.",
+        "Aporta una luminosidad uniforme ideal para eventos y fotografía.",
+        "Suaviza líneas finas asociadas a deshidratación y estrés ambiental.",
+        "Apoya la actividad del colágeno mediante vitaminas y aminoácidos específicos.",
+        "Refina la textura cutánea y mejora la sensación al tacto y bajo el maquillaje.",
+        "Atenúa el aspecto apagado provocado por el sol, la contaminación y la humedad de Miami."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "Una primera luminosidad suele apreciarse entre 48 y 72 horas tras la primera sesión. Los resultados acumulativos — más hidratación, mejor textura y tono más uniforme — alcanzan su pico aproximadamente tres a cuatro semanas después de la tercera sesión. Para mantenerlos, recomendamos una sesión de mantenimiento cada tres a seis meses, ajustada al estilo de vida y a la respuesta de la piel."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Con cuánta antelación debo empezar antes de una boda?",
+          "a": "Recomendamos empezar entre ocho y diez semanas antes del evento. Así hay tiempo para tres sesiones cada dos semanas y un margen de dos a tres semanas para que la piel alcance su luminosidad máxima. Evite programar la última sesión en los siete días previos al evento para llegar con la piel asentada."
+        },
+        {
+          "q": "¿Aporta volumen como un relleno?",
+          "a": "No. El ácido hialurónico que utilizamos en este protocolo no está reticulado y trabaja a nivel de hidratación, no de volumen. El objetivo es luminosidad, hidratación y calidad de piel. Si además desea corregir pérdida de volumen, en consulta podemos planificar tratamientos complementarios como rellenos o Sculptra dentro de su plan personalizado."
+        },
+        {
+          "q": "¿Es doloroso?",
+          "a": "La mayoría de pacientes lo tolera muy bien. Aplicamos crema anestésica tópica unos 20 minutos antes de iniciar y utilizamos agujas muy finas o microcánula. Puede notar pinchazos suaves y una sensación de calor breve, pero la experiencia se describe en general como cómoda más que dolorosa."
+        },
+        {
+          "q": "¿Se puede combinar con otros tratamientos?"
+        },
+        {
+          "q": "¿Cuánto duran los resultados?",
+          "a": "Tras el protocolo inicial de tres sesiones, la mayoría de pacientes mantiene una mejor calidad de piel y luminosidad durante cuatro a seis meses. Los resultados son individuales y dependen de la edad, el estado cutáneo, la exposición solar y la rutina en casa. Una sesión de mantenimiento cada tres a seis meses ayuda a preservar el efecto."
+        },
+        {
+          "q": "¿Hay tiempo de recuperación?",
+          "a": "El tiempo de recuperación es mínimo. Suele aparecer un ligero enrojecimiento y pequeñas pápulas durante unas horas; en algunos casos hay micro-hematomas que duran uno o dos días. La mayoría de pacientes retoma sus actividades el mismo día y aplica maquillaje al día siguiente. Conviene evitar entrenamientos intensos y sauna durante 24 horas."
+        },
+        {
+          "q": "¿Quién no debería realizarse este tratamiento?",
+          "a": "No se recomienda durante el embarazo o la lactancia, con infecciones cutáneas activas en la zona, con enfermedades autoinmunes no controladas o ante alergia conocida a algún componente del cóctel. Ronal Perdomo Lugo, APRN, FNP-C, revisará su historia clínica en la consulta para confirmar la idoneidad del tratamiento."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

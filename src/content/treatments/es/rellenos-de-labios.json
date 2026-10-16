@@ -1,0 +1,353 @@
+{
+  "lang": "es",
+  "slug": "rellenos-de-labios",
+  "path": "/tratamientos/rellenos-de-labios/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/lip-fillers.webp",
+  "ctaImage": "/img/proc/lip-fillers.webp",
+  "head": {
+    "title": "Rellenos de labios en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Rellenos de labios naturales en Miami con ácido hialurónico. Labios hidratados y proporcionados con Ronal Perdomo Lugo, APRN, FNP-C. Reserva tu consulta."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Rellenos de labios en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Rellenos de labios naturales en Miami con ácido hialurónico. Labios hidratados y proporcionados con Ronal Perdomo Lugo, APRN, FNP-C. Reserva tu consulta."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/rellenos-de-labios/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lip-fillers.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Rellenos de labios en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Rellenos de labios naturales en Miami con ácido hialurónico. Labios hidratados y proporcionados con Ronal Perdomo Lugo, APRN, FNP-C. Reserva tu consulta."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lip-fillers.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/rellenos-de-labios/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/lip-fillers/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/rellenos-de-labios/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Rellenos de labios",
+        "alternateName": "Aumento de labios con ácido hialurónico",
+        "description": "Inyectables labiales de ácido hialurónico (AH) para hidratación, refinamiento de forma, proporción y definición, con técnica deliberadamente conservadora que respeta la anatomía.",
+        "bodyLocation": "Labios y zona perioral",
+        "procedureType": "Inyectable no quirúrgico",
+        "preparation": "Evitar antiagregantes y alcohol 24 horas antes cuando sea médicamente posible. Profilaxis antiviral si hay herpes labial recurrente.",
+        "followup": "Revisión opcional a las 2 semanas para afinado simétrico.",
+        "howPerformed": "Anestesia tópica, asepsia, inyección lenta en microalícuotas de gel de AH (habitualmente 1mL) con aguja fina o cánula roma, modelado suave.",
+        "url": "https://realaestheticmedspa.com/tratamientos/rellenos-de-labios/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/rellenos-de-labios/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Se verán naturales mis labios?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de primeras sesiones utiliza 1mL o menos, distribuido de forma conservadora. Preservamos filtrum, arco de Cupido y bermellón para que los labios se vean sanos y descansados, no tratados."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto duran los rellenos de labios?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los rellenos de AH duran entre 6 y 12 meses según gel, volumen, zona y metabolismo. El labio es una zona de alta movilidad, lo que puede acortar la duración en algunos pacientes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Duele?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Anestesia tópica de 15 a 20 minutos y lidocaína dentro del gel hacen la sesión bien tolerada. Se describe presión breve, no dolor intenso."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánta inflamación tendré?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Inflamación leve durante 2-5 días. Los labios se ven más voluminosos al día siguiente y se asientan progresivamente; resultado final a las 2-4 semanas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Pueden revertirse?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. El AH se disuelve con hialuronidasa. Siempre disponemos de hialuronidasa en la clínica de Miami para indicaciones médicas o estéticas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Por qué 1mL en la primera sesión?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "1mL es suficiente para refinar hidratación, contorno y proporción sin tensar el tejido. Construir los labios en una o dos sesiones protege su forma natural."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Son seguros?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tienen un largo historial de seguridad con médicos cualificados. Conocimiento anatómico, dosis conservadora, técnica estéril y disponibilidad inmediata de hialuronidasa son los factores clave."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/tratamientos/rellenos-de-labios/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rellenos de labios en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/rellenos-de-labios/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/lip-fillers.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/lip-fillers/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/rellenos-de-labios/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Rellenos de labios <em>en Miami</em>",
+    "lede": "Los rellenos de labios en Real Aesthetic Medical Spa, en Miami, utilizan ácido hialurónico para refinar la forma, recuperar hidratación y crear unos labios proporcionados que parecen una versión cuidada de los tuyos, nunca artificiales.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lip-filler",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Devuelve hidratación y calidad de superficie a labios secos, desinflados o de aspecto cansado.",
+        "Refina la proporción entre labio superior e inferior sin alterar la anatomía natural.",
+        "Suaviza las líneas verticales periorales con técnica delicada complementaria.",
+        "Define el borde bermellón para una línea de labial más limpia y un labio en reposo más cuidado.",
+        "Puede mejorar sutilmente la curva ascendente de las comisuras en casos conservadores.",
+        "Es reversible: el AH puede disolverse si el paciente no está satisfecho con el resultado.",
+        "Ideal para pacientes de Miami que viajan y desean unos labios refinados y naturales, no llamativos."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "La hidratación y el refinamiento de la forma son visibles de inmediato, pero el resultado final real se asienta entre dos y cuatro semanas, cuando la inflamación remite y el gel se integra. Los rellenos de AH para labios duran habitualmente entre 6 y 12 meses según el gel, la zona y el metabolismo individual. Los retoques se planifican para mantener una silueta refinada, no para sumar volumen."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Mis rellenos de labios se verán naturales?",
+          "a": "Sí — esa es la base de nuestro enfoque. La mayoría de primeras sesiones utiliza 1mL o menos, distribuido de forma conservadora para hidratación y proporción. Preservamos a propósito la anatomía natural del filtrum, el arco de Cupido y el borde bermellón. El resultado debe leerse como unos labios sanos y descansados, no como un tratamiento."
+        },
+        {
+          "q": "¿Cuánto duran los rellenos de labios?",
+          "a": "El ácido hialurónico en labios dura entre 6 y 12 meses según el gel utilizado, el volumen inyectado, la zona tratada y el metabolismo individual. El labio es una zona de alta movilidad, lo que puede acortar la duración en algunos pacientes. Las sesiones de mantenimiento se planifican cuando la definición empieza a suavizarse, no cuando ha desaparecido el volumen."
+        },
+        {
+          "q": "¿Duele?",
+          "a": "El labio es sensible, por eso usamos crema anestésica tópica durante 15 a 20 minutos previos, y la mayoría de los geles de AH modernos incluyen lidocaína para mayor comodidad. Los pacientes suelen describir presión breve o pinchazo más que dolor agudo. Las compresas frías ayudan. El procedimiento es bien tolerado por la gran mayoría de pacientes."
+        },
+        {
+          "q": "¿Cuánta inflamación es esperable?",
+          "a": "La inflamación leve es normal durante dos a cinco días. Los labios se ven más voluminosos al día siguiente del procedimiento y se asientan progresivamente. El resultado final real se aprecia entre dos y cuatro semanas. Recomendamos planificar el tratamiento al menos dos semanas antes de un evento importante para que el resultado se asiente con naturalidad."
+        },
+        {
+          "q": "¿Pueden revertirse?",
+          "a": "Sí. Los rellenos de ácido hialurónico pueden disolverse con hialuronidasa, una enzima inyectable. En nuestra clínica de Miami siempre disponemos de hialuronidasa. La reversión se reserva para indicaciones médicas o casos en los que el paciente esté realmente insatisfecho con el resultado; siempre comenzamos por la opción más conservadora."
+        },
+        {
+          "q": "¿Por qué recomiendan una sesión de 1mL?",
+          "a": "Un mililitro es suficiente para refinar hidratación, contorno y proporción en la mayoría de primeras sesiones sin tensar el tejido. Construir los labios poco a poco a lo largo de una o dos sesiones protege la forma natural y permite que el cuerpo se adapte. Si tras dos semanas se desea más definición, completamos el resultado con un pequeño retoque en lugar de sobrellenar el día uno."
+        },
+        {
+          "q": "¿Son seguros los rellenos de labios?",
+          "a": "Los rellenos de ácido hialurónico cuentan con un largo historial de seguridad cuando los administra un médico cualificado. Los factores clave son el conocimiento anatómico, una dosis conservadora, técnica estéril y disponibilidad inmediata de hialuronidasa para la rara complicación vascular. Todas las sesiones en Real Aesthetic se supervisan por Ronal Perdomo Lugo, APRN, FNP-C."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lip-filler",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "lang": "en",
+  "slug": "prp-hand-rejuvenation",
+  "path": "/procedures/prp-hand-rejuvenation/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/prp-hand-rejuvenation.webp",
+  "ctaImage": "/img/proc/prp-hand-rejuvenation.webp",
+  "head": {
+    "title": "PRP Hand Rejuvenation in Miami — Autologous Renewal for the Hands",
+    "meta": [
+      {
+        "name": "description",
+        "content": "PRP Hand Rejuvenation in Miami uses your own platelets to renew the skin on the back of the hands. Autologous, biocompatible, supervised by Ronal Perdomo, APRN, FNP-C. Book today."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "PRP Hand Rejuvenation in Miami — Autologous Renewal for the Hands"
+      },
+      {
+        "property": "og:description",
+        "content": "PRP Hand Rejuvenation in Miami uses your own platelets to renew the skin on the back of the hands. Autologous, biocompatible, supervised by Ronal Perdomo, APRN, FNP-C. Book today."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/prp-hand-rejuvenation/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prp-hand-rejuvenation.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "PRP Hand Rejuvenation in Miami — Autologous Renewal for the Hands"
+      },
+      {
+        "name": "twitter:description",
+        "content": "PRP Hand Rejuvenation in Miami uses your own platelets to renew the skin on the back of the hands. Autologous, biocompatible, supervised by Ronal Perdomo, APRN, FNP-C. Book today."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prp-hand-rejuvenation.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/prp-hand-rejuvenation/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/prp-hand-rejuvenation/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/prp-rejuvenecimiento-manos/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "PRP Hand Rejuvenation in Miami — Autologous Renewal for the Hands",
+        "description": "PRP Hand Rejuvenation is a regenerative procedure that uses platelet-rich plasma drawn from the patient's own blood and micro-injected into the dorsum of the hands to improve skin quality, texture and tone.",
+        "url": "https://realaestheticmedspa.com/procedures/prp-hand-rejuvenation/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/prp-hand-rejuvenation/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/prp-hand-rejuvenation/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is PRP for hands safe?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PRP Hand Rejuvenation uses plasma drawn and processed from the patient's own blood, which makes it autologous and biocompatible. Performed by a qualified medical team under sterile conditions, it has a strong safety profile. Side effects are generally limited to short-term redness, mild swelling and small bruises. Candidacy is confirmed in consultation with Ronal Perdomo Lugo, APRN, FNP-C."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can PRP be combined with Radiesse on the hands?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. PRP and Radiesse target complementary aspects: Radiesse restores volume and softens the appearance of tendons and veins, while PRP supports skin quality, texture and tone. We typically schedule the procedures in separate sessions to optimise comfort and recovery. The exact sequencing is decided in consultation based on your goals and the current condition of the hands."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions of PRP do the hands need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our standard protocol is three sessions spaced four weeks apart, which allows the collagen response to build progressively. After the initial series, we typically recommend maintenance every six to nine months. The plan is personalised based on age, sun exposure history and overall skin condition during your consultation in Miami."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does PRP on the hands hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients report mild discomfort, not pain. Topical anaesthetic is applied to the dorsum for 20 to 30 minutes before the microinjections. The sensation is usually described as small pressure points or brief stings. The dorsum can feel tight or warm immediately after, which typically settles within hours."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When will I see results on my hands?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Initial freshness and improved tone are often visible within 10 to 14 days. The deeper biostimulation response — new collagen and elastin — builds progressively, with peak results between weeks eight and twelve after each session. Outcomes are cumulative across the three-session series rather than immediate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there downtime after PRP on the hands?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Downtime is short. Most patients in Miami return to normal activities within 24 to 48 hours. Expect mild redness, small pinpoint marks and occasional bruising. Avoid swimming pools, jacuzzis and saunas for 48 hours, harsh cleaning products for 5 days, and direct sun exposure for one week, with daily SPF 50 always on the dorsum."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will PRP remove sun spots on my hands?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PRP is not a primary treatment for pigmented sun spots. It improves skin quality, density and tone, which can soften the overall look, but specific lentigines and dark spots respond better to laser-based protocols. We frequently combine PRP with laser pigmentation treatments to address both quality and spots within a single personalised plan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long do results last?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "After the three-session protocol, results typically hold for nine to twelve months, supported by maintenance sessions every six to nine months. Longevity depends heavily on sun exposure, skincare and lifestyle. We always recommend daily SPF 50 on the hands and protective measures during outdoor activities to preserve outcomes."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PRP Hand Rejuvenation in Miami — Autologous Renewal for the Hands",
+            "item": "https://realaestheticmedspa.com/procedures/prp-hand-rejuvenation/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/prp-hand-rejuvenation.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/prp-hand-rejuvenation/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/prp-rejuvenecimiento-manos/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "PRP Hand Rejuvenation in Miami — Autologous Renewal for <em>the Hands</em>",
+    "lede": "PRP Hand Rejuvenation is a regenerative procedure that uses platelet-rich plasma drawn from the patient's own blood and micro-injected into the dorsum of the hands to improve skin quality, texture and tone.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Improves the texture of the dorsum, addressing crepey, thin or fatigued skin.",
+        "Stimulates the patient's own collagen and elastin for firmer, denser skin over time.",
+        "Refines tone and supports a more uniform appearance, particularly when combined with sun protection.",
+        "Uses 100% autologous material from the patient's own blood, with no synthetic additives.",
+        "Can be combined with Radiesse hand rejuvenation for a layered, structural-plus-quality result.",
+        "Suitable for most adults, including patients with sensitive or reactive skin.",
+        "Minimal downtime — most patients in Miami return to normal activities within 24 to 48 hours."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is PRP for hands safe?",
+          "a": "PRP Hand Rejuvenation uses plasma drawn and processed from the patient's own blood, which makes it autologous and biocompatible. Performed by a qualified medical team under sterile conditions, it has a strong safety profile. Side effects are generally limited to short-term redness, mild swelling and small bruises. Candidacy is confirmed in consultation with Ronal Perdomo Lugo, APRN, FNP-C."
+        },
+        {
+          "q": "Can PRP be combined with Radiesse on the hands?",
+          "a": "Yes. PRP and Radiesse target complementary aspects: Radiesse restores volume and softens the appearance of tendons and veins, while PRP supports skin quality, texture and tone. We typically schedule the procedures in separate sessions to optimise comfort and recovery. The exact sequencing is decided in consultation based on your goals and the current condition of the hands."
+        },
+        {
+          "q": "How many sessions of PRP do the hands need?",
+          "a": "Our standard protocol is three sessions spaced four weeks apart, which allows the collagen response to build progressively. After the initial series, we typically recommend maintenance every six to nine months. The plan is personalised based on age, sun exposure history and overall skin condition during your consultation in Miami."
+        },
+        {
+          "q": "Does PRP on the hands hurt?",
+          "a": "Most patients report mild discomfort, not pain. Topical anaesthetic is applied to the dorsum for 20 to 30 minutes before the microinjections. The sensation is usually described as small pressure points or brief stings. The dorsum can feel tight or warm immediately after, which typically settles within hours."
+        },
+        {
+          "q": "When will I see results on my hands?",
+          "a": "Initial freshness and improved tone are often visible within 10 to 14 days. The deeper biostimulation response — new collagen and elastin — builds progressively, with peak results between weeks eight and twelve after each session. Outcomes are cumulative across the three-session series rather than immediate."
+        },
+        {
+          "q": "Is there downtime after PRP on the hands?",
+          "a": "Downtime is short. Most patients in Miami return to normal activities within 24 to 48 hours. Expect mild redness, small pinpoint marks and occasional bruising. Avoid swimming pools, jacuzzis and saunas for 48 hours, harsh cleaning products for 5 days, and direct sun exposure for one week, with daily SPF 50 always on the dorsum."
+        },
+        {
+          "q": "Will PRP remove sun spots on my hands?",
+          "a": "PRP is not a primary treatment for pigmented sun spots. It improves skin quality, density and tone, which can soften the overall look, but specific lentigines and dark spots respond better to laser-based protocols. We frequently combine PRP with laser pigmentation treatments to address both quality and spots within a single personalised plan."
+        },
+        {
+          "q": "How long do results last?",
+          "a": "After the three-session protocol, results typically hold for nine to twelve months, supported by maintenance sessions every six to nine months. Longevity depends heavily on sun exposure, skincare and lifestyle. We always recommend daily SPF 50 on the hands and protective measures during outdoor activities to preserve outcomes."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a personalised consultation at Real Aesthetic Medical Spa with Ronal Perdomo Lugo, APRN, FNP-C. We assess the dorsum and design a layered plan — PRP alone or combined with Radiesse hand rejuvenation.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

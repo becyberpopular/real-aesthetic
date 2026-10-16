@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "pigmentation-sun-damage",
+  "path": "/procedures/pigmentation-sun-damage/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/pigmentation-sun-damage.webp",
+  "ctaImage": "/img/proc/pigmentation-sun-damage.webp",
+  "head": {
+    "title": "Pigmentation and Sun Damage Laser Treatment in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Q-switched Nd:YAG for solar lentigines, sun spots and post-inflammatory pigmentation in Miami. Typically 2 to 4 sessions with non-negotiable sun protection."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Pigmentation and Sun Damage Laser Treatment in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Q-switched Nd:YAG for solar lentigines, sun spots and post-inflammatory pigmentation in Miami. Typically 2 to 4 sessions with non-negotiable sun protection."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/pigmentation-sun-damage/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/pigmentation-sun-damage.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Pigmentation and Sun Damage Laser Treatment in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Q-switched Nd:YAG for solar lentigines, sun spots and post-inflammatory pigmentation in Miami. Typically 2 to 4 sessions with non-negotiable sun protection."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/pigmentation-sun-damage.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/pigmentation-sun-damage/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/pigmentation-sun-damage/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/pigmentacion-manchas-sol/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Pigmentation and Sun Damage Laser Treatment in Miami",
+        "description": "Pigmentation and sun damage laser treatment is a Q-switched Nd:YAG protocol that targets solar lentigines, sun spots and post-inflammatory pigmentation, typically across two to four sessions with strict daily sun protection.",
+        "url": "https://realaestheticmedspa.com/procedures/pigmentation-sun-damage/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/pigmentation-sun-damage/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/pigmentation-sun-damage/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need to clear sun spots?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients with solar lentigines and sun spots complete between two and four sessions spaced four to six weeks apart. Some isolated lentigines respond meaningfully after the first session. The exact number depends on lesion depth, density and phototype. Diffuse photoageing or post-inflammatory pigmentation may require additional low-fluence passes within the same plan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will the spots come back?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Treated lesions do not reappear. New pigmentation can, however, develop on previously sun-exposed skin if UV protection is not maintained. Daily mineral SPF 50+, reapplied every two hours outdoors, plus shade and protective clothing, is what extends the result for years. Most patients also schedule occasional maintenance sessions for new lesions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is this the same protocol as melasma?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Melasma is a chronic, hormonally driven pigmentation that requires a much more conservative, layered protocol with strict topical maintenance. Solar lentigines and sun spots are stable benign pigmentation that respond to direct Q-switched action. If we suspect melasma during your assessment, we move you onto our specific melasma plan to avoid rebound."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pigmentation and Sun Damage Laser Treatment in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/pigmentation-sun-damage/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/pigmentation-sun-damage.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/pigmentation-sun-damage/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/pigmentacion-manchas-sol/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Pigmentation and Sun Damage Laser Treatment <em>in Miami</em>",
+    "lede": "Pigmentation and sun damage laser treatment is a Q-switched Nd:YAG protocol that targets solar lentigines, sun spots and post-inflammatory pigmentation, typically across two to four sessions with strict daily sun protection.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Targets solar lentigines, sun spots and post-inflammatory pigmentation with selective photoacoustic action.",
+        "Improves overall skin tone homogeneity in zones marked by years of UV exposure.",
+        "Visible attenuation is often perceptible after the first session in solar lentigines.",
+        "Compatible with brightening topicals and antioxidants under medical supervision.",
+        "Short downtime, with most patients returning to normal activity the same day.",
+        "Calibrated to phototype to reduce the risk of paradoxical post-inflammatory darkening.",
+        "Refines the way light reflects on photoaged skin, supporting a more uniform finish."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How many sessions will I need to clear sun spots?",
+          "a": "Most patients with solar lentigines and sun spots complete between two and four sessions spaced four to six weeks apart. Some isolated lentigines respond meaningfully after the first session. The exact number depends on lesion depth, density and phototype. Diffuse photoageing or post-inflammatory pigmentation may require additional low-fluence passes within the same plan."
+        },
+        {
+          "q": "Will the spots come back?",
+          "a": "Treated lesions do not reappear. New pigmentation can, however, develop on previously sun-exposed skin if UV protection is not maintained. Daily mineral SPF 50+, reapplied every two hours outdoors, plus shade and protective clothing, is what extends the result for years. Most patients also schedule occasional maintenance sessions for new lesions."
+        },
+        {
+          "q": "Is this the same protocol as melasma?",
+          "a": "No. Melasma is a chronic, hormonally driven pigmentation that requires a much more conservative, layered protocol with strict topical maintenance. Solar lentigines and sun spots are stable benign pigmentation that respond to direct Q-switched action. If we suspect melasma during your assessment, we move you onto our specific melasma plan to avoid rebound."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a diagnostic mapping with our Fotona team and design a personalised pigmentation plan supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

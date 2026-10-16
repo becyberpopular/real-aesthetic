@@ -1,0 +1,353 @@
+{
+  "lang": "es",
+  "slug": "cicatrices-acne-laser",
+  "path": "/tratamientos/cicatrices-acne-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/acne-scars-laser.webp",
+  "ctaImage": "/img/proc/acne-scars-laser.webp",
+  "head": {
+    "title": "Tratamiento láser para cicatrices de acné en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Er:YAG fraccional Fotona para cicatrices atróficas de acné en Miami. Remodelación progresiva de ice pick, boxcar y rolling en 4 a 6 sesiones."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Tratamiento láser para cicatrices de acné en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Er:YAG fraccional Fotona para cicatrices atróficas de acné en Miami. Remodelación progresiva de ice pick, boxcar y rolling en 4 a 6 sesiones."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/cicatrices-acne-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/acne-scars-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Tratamiento láser para cicatrices de acné en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Er:YAG fraccional Fotona para cicatrices atróficas de acné en Miami. Remodelación progresiva de ice pick, boxcar y rolling en 4 a 6 sesiones."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/acne-scars-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/cicatrices-acne-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/acne-scars-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/cicatrices-acne-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Tratamiento láser para cicatrices de acné (Er:YAG fraccional)",
+        "alternateName": "Resurfacing Fotona fraccional para cicatrices atróficas",
+        "description": "Protocolo láser Er:YAG fraccional que remodela de forma progresiva las cicatrices atróficas de acné (ice pick, boxcar y rolling) estimulando el colágeno y la elastina dérmicos. Se realiza en cuatro a seis sesiones en Real Aesthetic Medical Spa, Miami.",
+        "bodyLocation": "Rostro, cuello, espalda alta",
+        "procedureType": "https://schema.org/NoninvasiveProcedure",
+        "preparation": "Evitar el sol dos semanas antes de la sesión. Informar de toda la medicación, incluida la isotretinoína. Suspender retinoides y ácidos exfoliantes 7 días antes.",
+        "followup": "SPF 50+ mineral diario, bálsamo reparador dos veces al día, sin retinoides ni ácidos durante 10-14 días. Revisión a las 4-6 semanas para la siguiente sesión.",
+        "howPerformed": "Tras la anestesia tópica, se realizan pases de Er:YAG con parámetros calibrados para zonas ice pick, boxcar y rolling. Se añade un pase opcional de calentamiento global para apoyar la remodelación dérmica profunda. La sesión termina con enfriamiento, sérum reparador y protector solar de alta cobertura.",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es",
+        "url": "https://realaestheticmedspa.com/tratamientos/cicatrices-acne-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/cicatrices-acne-laser/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿El láser borra del todo las cicatrices de acné?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El Er:YAG fraccional suaviza y remodela de forma progresiva las cicatrices atróficas, pero ningún láser elimina por completo el tejido cicatricial maduro. Buscamos una mejora real en profundidad, definición de bordes y reflejo de la luz. Cuando está indicado, podemos asociar subcisión para cicatrices rolling con tethering y ampliar el resultado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto dura la recuperación?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Reserva de tres a cinco días de discreción social, según la intensidad de la sesión. La piel se ve enrojecida con una textura tipo lija fina y leve hinchazón la primera noche. Hacia el quinto día la mayoría retoma su rutina con maquillaje. La remodelación cutánea sigue activa varios meses tras cada visita."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los planes habituales son de cuatro a seis sesiones cada cuatro a seis semanas. El número exacto depende de la profundidad y el tipo de cicatriz y de la respuesta de tu dermis. Reevaluamos antes de cada sesión con fotografías clínicas comparativas y solo continuamos mientras se observe una mejora documentable."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro con el sol de Miami?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La fotoprotección es la variable más importante. La piel tratada es más vulnerable a la pigmentación durante la remodelación, y el índice UV de Miami exige SPF 50+ a diario, preferiblemente mineral, reaplicado cada dos horas al aire libre. Programamos las sesiones en semanas de menor exposición y reforzamos los cuidados en cada visita."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede combinar con PRP o microneedling?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en muchos casos los planes combinados ofrecen un resultado más uniforme. El plasma rico en plaquetas puede aplicarse justo después del láser para apoyar la cicatrización, y el microneedling se intercala entre sesiones. Toda combinación se decide en consulta con Ronal Perdomo, APRN, FNP-C para mantener bajo control la carga sobre la dermis."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿El procedimiento es doloroso?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Con anestesia tópica aplicada 30 a 45 minutos antes, la mayoría describe calor con pinchazos breves más que dolor. Los pases más profundos sobre cicatrices rolling se notan algo más intensos durante segundos. Aire frío y pequeñas pausas entre zonas mantienen la sesión cómoda de principio a fin."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo voy a ver el resultado final?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La textura empieza a mejorar entre la cuarta y la sexta semana. Cada sesión añade un peldaño de remodelación y el efecto completo se valora mejor entre tres y seis meses después de la última visita, cuando madura el colágeno. Las fotografías clínicas comparativas con la misma luz son la forma más fiable de seguir el progreso."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/tratamientos/cicatrices-acne-laser/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tratamiento láser para cicatrices de acné en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/cicatrices-acne-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/acne-scars-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/acne-scars-laser/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/cicatrices-acne-laser/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Tratamiento láser para cicatrices de acné <em>en Miami</em>",
+    "lede": "El tratamiento láser para cicatrices de acné es un protocolo Er:YAG fraccional que remodela de forma progresiva las cicatrices atróficas —ice pick, boxcar y rolling— estimulando el colágeno dérmico durante varias sesiones.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-acne-scar-treatment",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Remodela de forma progresiva las cicatrices atróficas mediante el estímulo de colágeno y elastina.",
+        "Trata cicatrices ice pick, boxcar y rolling con parámetros adaptados a cada tipo.",
+        "Refina la textura general y reduce el aspecto del poro en la zona tratada.",
+        "Mejora la forma en que la luz incide sobre la piel y atenúa la profundidad visual de la cicatriz.",
+        "Compatible con planes combinados (subcisión, PRP) bajo supervisión médica.",
+        "Recuperación más corta que un resurfacing totalmente ablativo gracias al patrón fraccional.",
+        "Adecuado para la mayoría de fototipos cuando se aplica de forma conservadora bajo evaluación médica."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "La textura empieza a mejorar entre la cuarta y la sexta semana, y la remodelación profunda continúa hasta seis meses después de cada sesión. La mayoría completa entre cuatro y seis sesiones cada cuatro a seis semanas, con un mantenimiento anual posterior si está indicado. El resultado se mantiene de forma prolongada cuando se controla la exposición solar, aunque el envejecimiento natural sigue influyendo."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿El láser borra del todo las cicatrices de acné?",
+          "a": "El Er:YAG fraccional suaviza y remodela de forma progresiva las cicatrices atróficas, pero ningún láser elimina por completo el tejido cicatricial maduro. Buscamos una mejora real en profundidad, definición de bordes y reflejo de la luz. Cuando está indicado, podemos asociar subcisión para cicatrices rolling con tethering y ampliar el resultado."
+        },
+        {
+          "q": "¿Cuánto dura la recuperación?",
+          "a": "Reserva de tres a cinco días de discreción social, según la intensidad de la sesión. La piel se ve enrojecida con una textura tipo lija fina y leve hinchazón la primera noche. Hacia el quinto día la mayoría retoma su rutina con maquillaje. La remodelación cutánea sigue activa varios meses tras cada visita."
+        },
+        {
+          "q": "¿Cuántas sesiones voy a necesitar?",
+          "a": "Los planes habituales son de cuatro a seis sesiones cada cuatro a seis semanas. El número exacto depende de la profundidad y el tipo de cicatriz y de la respuesta de tu dermis. Reevaluamos antes de cada sesión con fotografías clínicas comparativas y solo continuamos mientras se observe una mejora documentable."
+        },
+        {
+          "q": "¿Es seguro con el sol de Miami?",
+          "a": "La fotoprotección es la variable más importante. La piel tratada es más vulnerable a la pigmentación durante la remodelación, y el índice UV de Miami exige SPF 50+ a diario, preferiblemente mineral, reaplicado cada dos horas al aire libre. Programamos las sesiones en semanas de menor exposición y reforzamos los cuidados en cada visita."
+        },
+        {
+          "q": "¿Se puede combinar con PRP o microneedling?",
+          "a": "Sí, en muchos casos los planes combinados ofrecen un resultado más uniforme. El plasma rico en plaquetas puede aplicarse justo después del láser para apoyar la cicatrización, y el microneedling se intercala entre sesiones. Toda combinación se decide en consulta con Ronal Perdomo, APRN, FNP-C para mantener bajo control la carga sobre la dermis."
+        },
+        {
+          "q": "¿El procedimiento es doloroso?",
+          "a": "Con anestesia tópica aplicada 30 a 45 minutos antes, la mayoría describe calor con pinchazos breves más que dolor. Los pases más profundos sobre cicatrices rolling se notan algo más intensos durante segundos. Aire frío y pequeñas pausas entre zonas mantienen la sesión cómoda de principio a fin."
+        },
+        {
+          "q": "¿Cuándo voy a ver el resultado final?",
+          "a": "La textura empieza a mejorar entre la cuarta y la sexta semana. Cada sesión añade un peldaño de remodelación y el efecto completo se valora mejor entre tres y seis meses después de la última visita, cuando madura el colágeno. Las fotografías clínicas comparativas con la misma luz son la forma más fiable de seguir el progreso."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva un mapeo clínico con nuestro equipo Fotona y diseña un plan de remodelación supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-acne-scar-treatment",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

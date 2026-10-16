@@ -1,0 +1,351 @@
+{
+  "lang": "en",
+  "slug": "lymphatic-drainage-enhancement",
+  "path": "/procedures/lymphatic-drainage-enhancement/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/lymphatic-drainage-enhancement.webp",
+  "ctaImage": "/img/proc/lymphatic-drainage-enhancement.webp",
+  "head": {
+    "title": "Lymphatic Drainage Enhancement in Miami: Recovery Add-On for Body Contouring",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Lymphatic drainage enhancement in Miami at Real Aesthetic Medical Spa. Add-on protocol that reduces post-procedure swelling and refines body contouring results."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Lymphatic Drainage Enhancement in Miami: Recovery Add-On for Body Contouring"
+      },
+      {
+        "property": "og:description",
+        "content": "Lymphatic drainage enhancement in Miami at Real Aesthetic Medical Spa. Add-on protocol that reduces post-procedure swelling and refines body contouring results."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/lymphatic-drainage-enhancement/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-drainage-enhancement.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Lymphatic Drainage Enhancement in Miami: Recovery Add-On for Body Contouring"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Lymphatic drainage enhancement in Miami at Real Aesthetic Medical Spa. Add-on protocol that reduces post-procedure swelling and refines body contouring results."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/lymphatic-drainage-enhancement.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-drainage-enhancement/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/lymphatic-drainage-enhancement/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/drenaje-linfatico-recuperacion/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Lymphatic Drainage Enhancement in Miami: Recovery Add-On for Body Contouring",
+        "description": "Lymphatic drainage enhancement is a manual or machine-assisted protocol added to body contouring and endolaser plans to reduce post-procedure swelling, accelerate recovery, and refine the final aesthetic outcome.",
+        "url": "https://realaestheticmedspa.com/procedures/lymphatic-drainage-enhancement/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/lymphatic-drainage-enhancement/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/lymphatic-drainage-enhancement/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "When should I start lymphatic drainage after my endolaser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In most cases we begin between 24 and 72 hours after the endolaser session, once the initial inflammatory phase is under way. Starting early helps prevent fibrosis and accelerates fluid mobilisation. The exact timing is confirmed by Ronal Perdomo, APRN, FNP-C based on the area treated, the surface size, and your individual recovery progression at the first follow-up review in our Miami clinic."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions do I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "After endolaser or body contouring procedures, most patients complete a series of three to six sessions across the first three to six weeks of recovery. The exact number depends on the area treated, the degree of swelling, and your tissue response. We adjust frequency based on objective signs such as remaining oedema, skin temperature, and how the contour is settling."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Manual or machine-assisted — which is better?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Both have a role and are often combined. Manual technique provides precision over specific zones, scars, and irregular areas. Machine-assisted pneumatic compression efficiently covers large surfaces such as the entire abdomen or thighs and adds consistent rhythmic pressure. Our specialist selects and combines them based on the area treated, the recovery stage, and your individual comfort."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does lymphatic drainage hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Effective lymphatic drainage is performed with light, rhythmic pressure that follows the anatomy of the lymphatic vessels. Aggressive deep-tissue massage is not lymphatic drainage and can be counterproductive after body contouring. Most patients describe our protocol as gentle and relaxing, and many fall asleep during the session in our Miami clinic."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I still need to wear my compression garment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Lymphatic drainage and compression work together. The garment maintains continuous, even pressure between sessions, and the drainage protocol mobilises fluid that the garment then helps redistribute. We recommend wearing the prescribed garment for the period indicated after your endolaser or body contouring procedure, removing it only as instructed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I combine drainage with other treatments?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, with proper sequencing. Lymphatic drainage enhancement integrates well with skin tightening protocols, mesotherapy for body contouring, and longer-term wellness plans. We typically prioritise drainage during the first weeks of recovery, then layer in tightening or maintenance treatments as inflammation subsides. Ronal Perdomo, APRN, FNP-C coordinates the calendar so each modality reinforces the others."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there any downtime?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. There is no recovery period after the drainage session itself. You may feel pleasantly relaxed and notice increased urination during the following hours as fluid clears. You can return to work, errands, and light activity the same day. We simply ask that you maintain hydration and continue using your compression garment as prescribed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who should not receive lymphatic drainage?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Lymphatic drainage is not recommended in active skin infection over the treated zone, suspected or confirmed deep vein thrombosis, uncontrolled cardiac or renal failure, active malignancy in the area, or very recent abdominal surgery without medical clearance. We review your full medical history and recent procedures before every series to confirm suitability and design the safest recovery plan."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lymphatic Drainage Enhancement in Miami: Recovery Add-On for Body Contouring",
+            "item": "https://realaestheticmedspa.com/procedures/lymphatic-drainage-enhancement/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/lymphatic-drainage-enhancement.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/lymphatic-drainage-enhancement/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/drenaje-linfatico-recuperacion/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Lymphatic Drainage Enhancement in Miami: Recovery Add-On for <em>Body Contouring</em>",
+    "lede": "Lymphatic drainage enhancement is a manual or machine-assisted protocol added to body contouring and endolaser plans to reduce post-procedure swelling, accelerate recovery, and refine the final aesthetic outcome.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduces post-procedure swelling and the heavy sensation that follows body contouring sessions.",
+        "Supports faster mobilisation of inflammatory fluid through the natural lymphatic pathways.",
+        "Helps prevent fibrosis, hardness, and irregularities in the treated area when started early.",
+        "Improves comfort during the first weeks of recovery, including range of motion and skin sensitivity.",
+        "Refines the final contour by allowing the tissue to settle smoothly and evenly.",
+        "Complements compression garments and aftercare prescribed after endolaser or mesotherapy.",
+        "Supports overall well-being, circulation, and a feeling of lightness during the recovery window."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "When should I start lymphatic drainage after my endolaser?",
+          "a": "In most cases we begin between 24 and 72 hours after the endolaser session, once the initial inflammatory phase is under way. Starting early helps prevent fibrosis and accelerates fluid mobilisation. The exact timing is confirmed by Ronal Perdomo, APRN, FNP-C based on the area treated, the surface size, and your individual recovery progression at the first follow-up review in our Miami clinic."
+        },
+        {
+          "q": "How many sessions do I need?",
+          "a": "After endolaser or body contouring procedures, most patients complete a series of three to six sessions across the first three to six weeks of recovery. The exact number depends on the area treated, the degree of swelling, and your tissue response. We adjust frequency based on objective signs such as remaining oedema, skin temperature, and how the contour is settling."
+        },
+        {
+          "q": "Manual or machine-assisted — which is better?",
+          "a": "Both have a role and are often combined. Manual technique provides precision over specific zones, scars, and irregular areas. Machine-assisted pneumatic compression efficiently covers large surfaces such as the entire abdomen or thighs and adds consistent rhythmic pressure. Our specialist selects and combines them based on the area treated, the recovery stage, and your individual comfort."
+        },
+        {
+          "q": "Does lymphatic drainage hurt?",
+          "a": "No. Effective lymphatic drainage is performed with light, rhythmic pressure that follows the anatomy of the lymphatic vessels. Aggressive deep-tissue massage is not lymphatic drainage and can be counterproductive after body contouring. Most patients describe our protocol as gentle and relaxing, and many fall asleep during the session in our Miami clinic."
+        },
+        {
+          "q": "Do I still need to wear my compression garment?",
+          "a": "Yes. Lymphatic drainage and compression work together. The garment maintains continuous, even pressure between sessions, and the drainage protocol mobilises fluid that the garment then helps redistribute. We recommend wearing the prescribed garment for the period indicated after your endolaser or body contouring procedure, removing it only as instructed."
+        },
+        {
+          "q": "Can I combine drainage with other treatments?",
+          "a": "Yes, with proper sequencing. Lymphatic drainage enhancement integrates well with skin tightening protocols, mesotherapy for body contouring, and longer-term wellness plans. We typically prioritise drainage during the first weeks of recovery, then layer in tightening or maintenance treatments as inflammation subsides. Ronal Perdomo, APRN, FNP-C coordinates the calendar so each modality reinforces the others."
+        },
+        {
+          "q": "Is there any downtime?",
+          "a": "No. There is no recovery period after the drainage session itself. You may feel pleasantly relaxed and notice increased urination during the following hours as fluid clears. You can return to work, errands, and light activity the same day. We simply ask that you maintain hydration and continue using your compression garment as prescribed."
+        },
+        {
+          "q": "Who should not receive lymphatic drainage?",
+          "a": "Lymphatic drainage is not recommended in active skin infection over the treated zone, suspected or confirmed deep vein thrombosis, uncontrolled cardiac or renal failure, active malignancy in the area, or very recent abdominal surgery without medical clearance. We review your full medical history and recent procedures before every series to confirm suitability and design the safest recovery plan."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

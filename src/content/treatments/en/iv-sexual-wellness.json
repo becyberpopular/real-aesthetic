@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "iv-sexual-wellness",
+  "path": "/procedures/iv-sexual-wellness/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/iv-sexual-wellness-boost.webp",
+  "ctaImage": "/img/proc/iv-sexual-wellness-boost.webp",
+  "head": {
+    "title": "IV Sexual Wellness Boost in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "IV Sexual Wellness Boost in Miami at Real Aesthetic. Targeted IV protocol designed to support sexual wellness, energy and circulation, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "IV Sexual Wellness Boost in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "IV Sexual Wellness Boost in Miami at Real Aesthetic. Targeted IV protocol designed to support sexual wellness, energy and circulation, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/iv-sexual-wellness/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-sexual-wellness-boost.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "IV Sexual Wellness Boost in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "IV Sexual Wellness Boost in Miami at Real Aesthetic. Targeted IV protocol designed to support sexual wellness, energy and circulation, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-sexual-wellness-boost.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/iv-sexual-wellness/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/iv-sexual-wellness/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-bienestar-sexual/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "IV Sexual Wellness Boost in Miami",
+        "description": "IV Sexual Wellness Boost in Miami at Real Aesthetic. Targeted IV protocol designed to support sexual wellness, energy and circulation, supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/iv-sexual-wellness/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/iv-sexual-wellness/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/iv-sexual-wellness/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "When will I feel the effect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Many patients notice a sense of refreshed energy within hours of the session, with circulation-related effects developing over the next 24–48 hours. The protocol is designed to support wellness rather than replace medical treatment for specific clinical conditions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is this a treatment for erectile dysfunction?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. This protocol supports general sexual wellness through nutrient and circulation support. Specific medical conditions like erectile dysfunction or low testosterone require dedicated medical evaluation and treatment that we do not provide here. We will refer when appropriate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is privacy respected?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. All sessions are conducted in a private clinical setting and the medical consultation is fully confidential, like any other medical service. You will speak only with the clinical staff and the visit is handled with the same standards as any aesthetic medical appointment."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IV Sexual Wellness Boost in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/iv-sexual-wellness/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/iv-sexual-wellness-boost.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/iv-sexual-wellness/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/iv-bienestar-sexual/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "IV Sexual Wellness Boost <em>in Miami</em>",
+    "lede": "A targeted IV blend designed to support sexual wellness through amino acids, B-complex, vitamin C and circulation-supporting compounds that address energy, libido and overall vitality.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-sexual-wellness-boost",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Supports sexual energy, libido and overall vitality through targeted nutrients.",
+        "L-arginine and related amino acids support circulation and vascular health.",
+        "B-complex sustains energy and contributes to neurological function.",
+        "Discreet, comfortable session in a private clinical setting.",
+        "Approximately 60 minutes per session, medically supervised.",
+        "Adaptable to individual goals — consultation reviews history and current state."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "When will I feel the effect?",
+          "a": "Many patients notice a sense of refreshed energy within hours of the session, with circulation-related effects developing over the next 24–48 hours. The protocol is designed to support wellness rather than replace medical treatment for specific clinical conditions."
+        },
+        {
+          "q": "Is this a treatment for erectile dysfunction?",
+          "a": "No. This protocol supports general sexual wellness through nutrient and circulation support. Specific medical conditions like erectile dysfunction or low testosterone require dedicated medical evaluation and treatment that we do not provide here. We will refer when appropriate."
+        },
+        {
+          "q": "Is privacy respected?",
+          "a": "Yes. All sessions are conducted in a private clinical setting and the medical consultation is fully confidential, like any other medical service. You will speak only with the clinical staff and the visit is handled with the same standards as any aesthetic medical appointment."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-sexual-wellness-boost",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

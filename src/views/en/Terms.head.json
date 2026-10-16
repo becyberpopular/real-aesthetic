@@ -1,0 +1,84 @@
+{
+  "title": "Terms of Service · Real Aesthetic Medical Spa",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Terms of Service for Real Aesthetic Medical Spa, Miami. Conditions of use of the website, scheduling and aesthetic medical services."
+    },
+    {
+      "name": "robots",
+      "content": "index,follow"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:title",
+      "content": "Terms of Service · Real Aesthetic Medical Spa"
+    },
+    {
+      "property": "og:description",
+      "content": "Conditions of use of Real Aesthetic Medical Spa website and services."
+    },
+    {
+      "property": "og:url",
+      "content": "https://realaestheticmedspa.com/terms/"
+    },
+    {
+      "property": "og:image",
+      "content": "https://realaestheticmedspa.com/img/hero.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "es_US"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Terms of Service · Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Conditions of use of Real Aesthetic Medical Spa website and services."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://realaestheticmedspa.com/img/hero.webp"
+    }
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://realaestheticmedspa.com/terms/"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/terms/",
+      "hrefLang": "en"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/terminos/",
+      "hrefLang": "es"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/",
+      "hrefLang": "x-default"
+    }
+  ],
+  "jsonLd": [],
+  "preloadImages": []
+}

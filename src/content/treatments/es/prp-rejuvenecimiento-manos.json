@@ -1,0 +1,359 @@
+{
+  "lang": "es",
+  "slug": "prp-rejuvenecimiento-manos",
+  "path": "/tratamientos/prp-rejuvenecimiento-manos/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/prp-hand-rejuvenation.webp",
+  "ctaImage": "/img/proc/prp-hand-rejuvenation.webp",
+  "head": {
+    "title": "PRP Rejuvenecimiento de Manos en Miami — Renovación autóloga del dorso",
+    "meta": [
+      {
+        "name": "description",
+        "content": "PRP para rejuvenecimiento de manos en Miami: plasma del propio paciente para renovar el dorso. Tratamiento autólogo supervisado por Ronal Perdomo, APRN, FNP-C. Reserva consulta."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "PRP Rejuvenecimiento de Manos en Miami — Renovación autóloga del dorso"
+      },
+      {
+        "property": "og:description",
+        "content": "PRP para rejuvenecimiento de manos en Miami: plasma del propio paciente para renovar el dorso. Tratamiento autólogo supervisado por Ronal Perdomo, APRN, FNP-C. Reserva consulta."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/prp-rejuvenecimiento-manos/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prp-hand-rejuvenation.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "PRP Rejuvenecimiento de Manos en Miami — Renovación autóloga del dorso"
+      },
+      {
+        "name": "twitter:description",
+        "content": "PRP para rejuvenecimiento de manos en Miami: plasma del propio paciente para renovar el dorso. Tratamiento autólogo supervisado por Ronal Perdomo, APRN, FNP-C. Reserva consulta."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/prp-hand-rejuvenation.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/prp-rejuvenecimiento-manos/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/prp-hand-rejuvenation/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/prp-rejuvenecimiento-manos/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "PRP Rejuvenecimiento de Manos en Miami — Renovación autóloga del dorso",
+        "description": "El PRP para manos es un procedimiento regenerativo que utiliza plasma rico en plaquetas obtenido de la sangre del propio paciente, microinyectado en el dorso de las manos para mejorar calidad, textura y tono de la piel.",
+        "url": "https://realaestheticmedspa.com/tratamientos/prp-rejuvenecimiento-manos/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/prp-rejuvenecimiento-manos/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/prp-rejuvenecimiento-manos/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿El PRP en manos es seguro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El PRP para manos utiliza plasma extraído y procesado de la sangre del propio paciente, lo que lo convierte en un tratamiento autólogo y biocompatible. Realizado por un equipo médico cualificado en condiciones estériles, presenta un buen perfil de seguridad. Los efectos suelen limitarse a enrojecimiento, hinchazón leve y pequeños hematomas pasajeros. La candidatura se confirma en consulta con Ronal Perdomo Lugo, APRN, FNP-C."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede combinar el PRP con Radiesse en las manos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. El PRP y Radiesse abordan aspectos complementarios: Radiesse aporta volumen y suaviza la apariencia de tendones y venas, mientras que el PRP apoya la calidad, textura y tono de la piel. Solemos programar los procedimientos en sesiones separadas para optimizar el confort y la recuperación. La secuencia exacta se decide en consulta según objetivos y estado actual de las manos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones de PRP necesitan las manos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Nuestro protocolo estándar son tres sesiones separadas cuatro semanas entre sí, lo que permite que la respuesta de colágeno se construya progresivamente. Tras la serie inicial recomendamos mantenimiento cada seis a nueve meses. El plan se personaliza según edad, historial de exposición solar y estado general de la piel durante la consulta en Miami."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Duele el PRP en las manos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de pacientes refiere molestia leve, no dolor. Antes de las microinyecciones aplicamos anestesia tópica en el dorso durante 20 a 30 minutos. La sensación se describe como pequeños puntos de presión o pinchazos breves. El dorso puede sentirse algo tirante o caliente justo después, una sensación que cede habitualmente en pocas horas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo se ven los resultados en las manos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La frescura inicial y la mejora del tono suelen apreciarse entre 10 y 14 días. La bioestimulación más profunda —colágeno y elastina nuevos— se construye de forma progresiva, con su pico entre las semanas ocho y doce. Los resultados son acumulativos a lo largo de las tres sesiones, no inmediatos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay tiempo de recuperación tras el PRP en manos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La recuperación es corta. La mayoría de pacientes en Miami retoma su rutina en 24 a 48 horas. Es habitual enrojecimiento leve, marcas puntiformes y, en ocasiones, pequeños hematomas. Recomendamos evitar piscinas, jacuzzis y saunas 48 horas, productos de limpieza agresivos durante 5 días y exposición solar directa durante una semana, con SPF 50 diario en el dorso siempre."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿El PRP elimina las manchas solares de las manos?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El PRP no es un tratamiento principal para manchas solares pigmentadas. Mejora calidad, densidad y tono de la piel, lo que puede suavizar el aspecto general, pero los léntigos y manchas concretas responden mejor a protocolos con láser. Solemos combinar PRP con tratamientos láser de pigmentación para abordar calidad y manchas dentro de un mismo plan personalizado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto duran los resultados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tras el protocolo de tres sesiones, los resultados suelen mantenerse de nueve a doce meses, apoyados por sesiones de mantenimiento cada seis a nueve meses. La duración depende mucho de la exposición solar, la rutina de cuidado y el estilo de vida. Recomendamos siempre SPF 50 diario en las manos y medidas de protección durante actividades al aire libre."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PRP Rejuvenecimiento de Manos en Miami — Renovación autóloga del dorso",
+            "item": "https://realaestheticmedspa.com/tratamientos/prp-rejuvenecimiento-manos/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/prp-hand-rejuvenation.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/prp-hand-rejuvenation/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/prp-rejuvenecimiento-manos/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "PRP Rejuvenecimiento de Manos en Miami — Renovación autóloga <em>del dorso</em>",
+    "lede": "El PRP para manos es un procedimiento regenerativo que utiliza plasma rico en plaquetas obtenido de la sangre del propio paciente, microinyectado en el dorso de las manos para mejorar calidad, textura y tono de la piel.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Mejora la textura del dorso, abordando piel apergaminada, fina o fatigada.",
+        "Estimula la producción del propio colágeno y elastina del paciente para mayor firmeza y densidad.",
+        "Refina el tono y favorece una apariencia más uniforme, especialmente con buena fotoprotección.",
+        "Utiliza material 100 % autólogo del propio paciente, sin aditivos sintéticos.",
+        "Se puede combinar con Radiesse para un resultado por capas: estructura más calidad de piel.",
+        "Apto para la mayoría de adultos, incluyendo pieles sensibles o reactivas.",
+        "Tiempo de recuperación bajo: la mayoría retoma su rutina en 24 a 48 horas."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "La frescura inicial y la mejora del tono suelen apreciarse entre 10 y 14 días, a medida que cede la inflamación y mejora la microcirculación. La respuesta de colágeno y elastina se construye de forma progresiva, con resultados máximos entre las semanas ocho y doce posteriores a cada sesión. Nuestro protocolo estándar son tres sesiones separadas cuatro semanas, seguidas de mantenimiento cada seis a nueve meses. Cuando el PRP se combina con Radiesse, secuenciamos los protocolos cuidadosamente para apoyar tanto el volumen como la calidad de la piel."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿El PRP en manos es seguro?",
+          "a": "El PRP para manos utiliza plasma extraído y procesado de la sangre del propio paciente, lo que lo convierte en un tratamiento autólogo y biocompatible. Realizado por un equipo médico cualificado en condiciones estériles, presenta un buen perfil de seguridad. Los efectos suelen limitarse a enrojecimiento, hinchazón leve y pequeños hematomas pasajeros. La candidatura se confirma en consulta con Ronal Perdomo Lugo, APRN, FNP-C."
+        },
+        {
+          "q": "¿Se puede combinar el PRP con Radiesse en las manos?",
+          "a": "Sí. El PRP y Radiesse abordan aspectos complementarios: Radiesse aporta volumen y suaviza la apariencia de tendones y venas, mientras que el PRP apoya la calidad, textura y tono de la piel. Solemos programar los procedimientos en sesiones separadas para optimizar el confort y la recuperación. La secuencia exacta se decide en consulta según objetivos y estado actual de las manos."
+        },
+        {
+          "q": "¿Cuántas sesiones de PRP necesitan las manos?",
+          "a": "Nuestro protocolo estándar son tres sesiones separadas cuatro semanas entre sí, lo que permite que la respuesta de colágeno se construya progresivamente. Tras la serie inicial recomendamos mantenimiento cada seis a nueve meses. El plan se personaliza según edad, historial de exposición solar y estado general de la piel durante la consulta en Miami."
+        },
+        {
+          "q": "¿Duele el PRP en las manos?",
+          "a": "La mayoría de pacientes refiere molestia leve, no dolor. Antes de las microinyecciones aplicamos anestesia tópica en el dorso durante 20 a 30 minutos. La sensación se describe como pequeños puntos de presión o pinchazos breves. El dorso puede sentirse algo tirante o caliente justo después, una sensación que cede habitualmente en pocas horas."
+        },
+        {
+          "q": "¿Cuándo se ven los resultados en las manos?",
+          "a": "La frescura inicial y la mejora del tono suelen apreciarse entre 10 y 14 días. La bioestimulación más profunda —colágeno y elastina nuevos— se construye de forma progresiva, con su pico entre las semanas ocho y doce. Los resultados son acumulativos a lo largo de las tres sesiones, no inmediatos."
+        },
+        {
+          "q": "¿Hay tiempo de recuperación tras el PRP en manos?",
+          "a": "La recuperación es corta. La mayoría de pacientes en Miami retoma su rutina en 24 a 48 horas. Es habitual enrojecimiento leve, marcas puntiformes y, en ocasiones, pequeños hematomas. Recomendamos evitar piscinas, jacuzzis y saunas 48 horas, productos de limpieza agresivos durante 5 días y exposición solar directa durante una semana, con SPF 50 diario en el dorso siempre."
+        },
+        {
+          "q": "¿El PRP elimina las manchas solares de las manos?",
+          "a": "El PRP no es un tratamiento principal para manchas solares pigmentadas. Mejora calidad, densidad y tono de la piel, lo que puede suavizar el aspecto general, pero los léntigos y manchas concretas responden mejor a protocolos con láser. Solemos combinar PRP con tratamientos láser de pigmentación para abordar calidad y manchas dentro de un mismo plan personalizado."
+        },
+        {
+          "q": "¿Cuánto duran los resultados?",
+          "a": "Tras el protocolo de tres sesiones, los resultados suelen mantenerse de nueve a doce meses, apoyados por sesiones de mantenimiento cada seis a nueve meses. La duración depende mucho de la exposición solar, la rutina de cuidado y el estilo de vida. Recomendamos siempre SPF 50 diario en las manos y medidas de protección durante actividades al aire libre."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta personalizada en Real Aesthetic Medical Spa con Ronal Perdomo Lugo, APRN, FNP-C. Evaluamos el dorso y diseñamos un plan por capas: PRP solo o combinado con Radiesse para manos.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "iv-hidratacion-basica",
+  "path": "/tratamientos/iv-hidratacion-basica/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/iv-hydration-basic.webp",
+  "ctaImage": "/img/proc/iv-hydration-basic.webp",
+  "head": {
+    "title": "IV Hidratación Básica en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "IV Hidratación Básica en Miami en Real Aesthetic. Reposición de líquidos clínica supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "IV Hidratación Básica en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "IV Hidratación Básica en Miami en Real Aesthetic. Reposición de líquidos clínica supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/iv-hidratacion-basica/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-hydration-basic.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "IV Hidratación Básica en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "IV Hidratación Básica en Miami en Real Aesthetic. Reposición de líquidos clínica supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-hydration-basic.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-hidratacion-basica/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/iv-hydration-basic/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-hidratacion-basica/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "IV Hidratación Básica en Miami",
+        "description": "IV Hidratación Básica en Miami en Real Aesthetic. Reposición de líquidos clínica supervisada por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/iv-hidratacion-basica/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/iv-hidratacion-basica/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/iv-hidratacion-basica/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia de beber agua?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La hidratación IV evita el tracto gastrointestinal y entrega líquido directamente al torrente. La absorción es prácticamente inmediata y completa, mientras que la hidratación oral depende de tasas de absorción intestinal variables. Para deshidratación aguda o reposición rápida, la IV es significativamente más rápida."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Con qué frecuencia es seguro hacerlo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Para la mayoría de adultos sanos, la IV ocasional se tolera bien. La cadencia semanal o quincenal es común en temporadas exigentes. Ronal Perdomo Lugo, APRN, FNP-C revisa tu historia clínica y medicación en la primera visita para confirmar la cadencia adecuada."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Notaré la diferencia enseguida?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría nota cambio claro durante la propia sesión — menos fatiga, mayor claridad mental, mejor textura cutánea los días siguientes. El efecto es más marcado cuando el estado de hidratación inicial es pobre, pero incluso pacientes bien hidratados refieren sensación de bienestar renovado."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IV Hidratación Básica en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/iv-hidratacion-basica/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/iv-hydration-basic.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/iv-hidratacion-basica/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/iv-hydration-basic/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "IV Hidratación Básica <em>en Miami</em>",
+    "lede": "Protocolo IV fundamental que entrega una solución isotónica balanceada directamente al torrente sanguíneo para restaurar la hidratación más rápida y eficientemente que la vía oral.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-hydration-basic",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Restaura la hidratación celular directamente al torrente — sin pasar por absorción gastrointestinal.",
+        "Útil tras ejercicio intenso, viaje, episodios de deshidratación o estados crónicos de bajo aporte hídrico.",
+        "Sesión rápida de unos 45–60 minutos en un entorno spa-clínico cómodo.",
+        "Supervisión médica — cada IV es revisada y administrada por personal clínico capacitado.",
+        "Base fundamental que se puede personalizar con complementos de vitaminas o recuperación.",
+        "Efecto casi inmediato — apoya piel, energía y claridad mental."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿En qué se diferencia de beber agua?",
+          "a": "La hidratación IV evita el tracto gastrointestinal y entrega líquido directamente al torrente. La absorción es prácticamente inmediata y completa, mientras que la hidratación oral depende de tasas de absorción intestinal variables. Para deshidratación aguda o reposición rápida, la IV es significativamente más rápida."
+        },
+        {
+          "q": "¿Con qué frecuencia es seguro hacerlo?",
+          "a": "Para la mayoría de adultos sanos, la IV ocasional se tolera bien. La cadencia semanal o quincenal es común en temporadas exigentes. Ronal Perdomo Lugo, APRN, FNP-C revisa tu historia clínica y medicación en la primera visita para confirmar la cadencia adecuada."
+        },
+        {
+          "q": "¿Notaré la diferencia enseguida?",
+          "a": "La mayoría nota cambio claro durante la propia sesión — menos fatiga, mayor claridad mental, mejor textura cutánea los días siguientes. El efecto es más marcado cuando el estado de hidratación inicial es pobre, pero incluso pacientes bien hidratados refieren sensación de bienestar renovado."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-hydration-basic",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

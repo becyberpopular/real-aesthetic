@@ -1,0 +1,315 @@
+{
+  "lang": "es",
+  "slug": "endolaser-areas-grandes",
+  "path": "/tratamientos/endolaser-areas-grandes/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/endolaser-large-areas.webp",
+  "ctaImage": "/img/proc/endolaser-large-areas.webp",
+  "head": {
+    "title": "Endolaser para áreas grandes en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Endolaser para abdomen completo, abdomen con flancos y muslos completos en Miami. Lipólisis láser subdérmica con supervisión médica. Reserva tu evaluación."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Endolaser para áreas grandes en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Endolaser para abdomen completo, abdomen con flancos y muslos completos en Miami. Lipólisis láser subdérmica con supervisión médica. Reserva tu evaluación."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-grandes/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/endolaser-large-areas.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Endolaser para áreas grandes en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Endolaser para abdomen completo, abdomen con flancos y muslos completos en Miami. Lipólisis láser subdérmica con supervisión médica. Reserva tu evaluación."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/endolaser-large-areas.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-grandes/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/endolaser-large-areas/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-grandes/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Endolaser para áreas grandes en Miami",
+        "description": "El Endolaser para áreas grandes es un procedimiento mínimamente invasivo de lipólisis láser subdérmica para zonas corporales extensas como el abdomen completo, el abdomen junto a los flancos o los muslos completos, realizado con anestesia local tumescente en una sesión de dos a tres horas y seguido de dos semanas de prenda de compresión y un retorno gradual a la actividad de alta intensidad durante cuatro semanas.",
+        "url": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-grandes/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-grandes/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-grandes/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia el Endolaser de áreas grandes de una liposucción tradicional?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ambas técnicas reducen la grasa localizada, pero el Endolaser utiliza una fibra láser fina que primero emulsiona la grasa y, además, calienta la dermis desde dentro, añadiendo un componente de tensado. La recuperación suele ser más corta y los puntos de entrada son más pequeños. En volúmenes muy altos, exceso cutáneo importante o indicación quirúrgica clara, la liposucción o la cirugía excisional pueden seguir siendo la mejor opción, y lo comentamos con honestidad en la consulta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Por qué importa el IMC en un Endolaser de áreas grandes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El IMC es uno de los marcadores que utilizamos para decidir si el Endolaser puede aportar un cambio significativo, seguro y duradero. Pacientes lejos de un peso estable suelen no obtener el cambio de contorno esperado porque el compartimento graso no es el factor limitante. En esos casos planteamos primero un plan médico de pérdida de peso y revisamos el contorno cuando el peso es estable. La decisión es clínica, no comercial."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué importancia tiene la prenda de compresión en áreas grandes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La adherencia a la compresión es uno de los factores más determinantes para la calidad del resultado en zonas extensas. Indicamos aproximadamente dos semanas de prenda, 24 horas al día la primera semana y solo durante el día la segunda. Llevarla según indicación reduce el edema, ayuda a que la piel se asiente sobre el nuevo contorno y disminuye el riesgo de seroma e irregularidades. La prenda se ajusta en consulta y el calendario se adapta a tu evolución."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Endolaser para áreas grandes en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-grandes/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/endolaser-large-areas.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/endolaser-large-areas/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/endolaser-areas-grandes/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Endolaser para áreas grandes <em>en Miami</em>",
+    "lede": "El Endolaser para áreas grandes es un procedimiento mínimamente invasivo de lipólisis láser subdérmica para zonas corporales extensas como el abdomen completo, el abdomen junto a los flancos o los muslos completos, realizado con anestesia local tumescente en una sesión de dos a tres horas y seguido de dos semanas de prenda de compresión y un retorno gradual a la actividad de alta intensidad durante cuatro semanas.",
+    "multi": {
+      "label": "Reserva por zona",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-abdomen",
+          "label": "Abdomen",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-body-combo-abdomen-flanks",
+          "label": "Combo (Abdomen + Flancos)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce la grasa localizada en zonas continuas y anatómicamente relacionadas en una única sesión coordinada.",
+        "Tensa la piel suprayacente mediante el calentamiento subdérmico controlado, ayudando a la retracción sobre una superficie amplia.",
+        "Permite trabajar abdomen y flancos a la vez, abordando la cintura completa en lugar de zonas aisladas.",
+        "Trata los tres compartimentos del muslo dentro de un único plan para una silueta de pierna coherente.",
+        "Se realiza con anestesia local tumescente en régimen ambulatorio, sin anestesia general ni ingreso hospitalario.",
+        "La recuperación es más corta y menos invasiva que la de una liposucción de gran volumen, cuando la candidatura es adecuada.",
+        "Se integra de forma estratégica con un programa amplio de drenaje linfático manual para gestionar el edema y refinar el contorno final."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿En qué se diferencia el Endolaser de áreas grandes de una liposucción tradicional?",
+          "a": "Ambas técnicas reducen la grasa localizada, pero el Endolaser utiliza una fibra láser fina que primero emulsiona la grasa y, además, calienta la dermis desde dentro, añadiendo un componente de tensado. La recuperación suele ser más corta y los puntos de entrada son más pequeños. En volúmenes muy altos, exceso cutáneo importante o indicación quirúrgica clara, la liposucción o la cirugía excisional pueden seguir siendo la mejor opción, y lo comentamos con honestidad en la consulta."
+        },
+        {
+          "q": "¿Por qué importa el IMC en un Endolaser de áreas grandes?",
+          "a": "El IMC es uno de los marcadores que utilizamos para decidir si el Endolaser puede aportar un cambio significativo, seguro y duradero. Pacientes lejos de un peso estable suelen no obtener el cambio de contorno esperado porque el compartimento graso no es el factor limitante. En esos casos planteamos primero un plan médico de pérdida de peso y revisamos el contorno cuando el peso es estable. La decisión es clínica, no comercial."
+        },
+        {
+          "q": "¿Qué importancia tiene la prenda de compresión en áreas grandes?",
+          "a": "La adherencia a la compresión es uno de los factores más determinantes para la calidad del resultado en zonas extensas. Indicamos aproximadamente dos semanas de prenda, 24 horas al día la primera semana y solo durante el día la segunda. Llevarla según indicación reduce el edema, ayuda a que la piel se asiente sobre el nuevo contorno y disminuye el riesgo de seroma e irregularidades. La prenda se ajusta en consulta y el calendario se adapta a tu evolución."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta médica privada en Real Aesthetic Medical Spa, Miami, para valorar si el Endolaser de áreas grandes es la opción adecuada para tus objetivos.",
+    "multi": {
+      "label": "Reserva por zona",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-abdomen",
+          "label": "Abdomen",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-body-combo-abdomen-flanks",
+          "label": "Combo (Abdomen + Flancos)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

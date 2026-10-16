@@ -1,0 +1,425 @@
+{
+  "lang": "en",
+  "slug": "face-contour-package",
+  "path": "/procedures/face-contour-package/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/face-contour-package.webp",
+  "ctaImage": "/img/proc/face-contour-package.webp",
+  "head": {
+    "title": "Face Contour Package in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "The signature facial refinement programme in Miami. Botox, jawline contouring and Fotona 4D coordinated by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Face Contour Package in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "The signature facial refinement programme in Miami. Botox, jawline contouring and Fotona 4D coordinated by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/face-contour-package/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/face-contour-package.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Face Contour Package in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "The signature facial refinement programme in Miami. Botox, jawline contouring and Fotona 4D coordinated by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/face-contour-package.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/face-contour-package/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/face-contour-package/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/paquete-contorno-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Face Contour Package",
+        "alternateName": "Signature Facial Refinement Programme",
+        "category": "Medical Spa — Signature Package (curated bundle)",
+        "serviceType": "Curated bundle of complementary aesthetic treatments",
+        "description": "Signature facial refinement programme combining Full Face Botox, jawline contouring with hyaluronic acid filler or Radiesse and one Fotona 4D session. Personalised in consultation by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaesthetic.datagoldsolutions.com/treatments/face-contour-package",
+        "inLanguage": "en",
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Miami"
+          },
+          {
+            "@type": "Place",
+            "name": "Brickell"
+          },
+          {
+            "@type": "Place",
+            "name": "Coral Gables"
+          },
+          {
+            "@type": "Place",
+            "name": "Coconut Grove"
+          },
+          {
+            "@type": "Place",
+            "name": "Key Biscayne"
+          },
+          {
+            "@type": "Place",
+            "name": "Miami Beach"
+          },
+          {
+            "@type": "Place",
+            "name": "Aventura"
+          },
+          {
+            "@type": "Place",
+            "name": "Doral"
+          }
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Face Contour Package — included treatments",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Full Face Botox",
+                "url": "https://realaesthetic.datagoldsolutions.com/treatments/full-face-botox"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Jawline Contouring",
+                "url": "https://realaesthetic.datagoldsolutions.com/treatments/jawline-contouring"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Fotona 4D",
+                "url": "https://realaesthetic.datagoldsolutions.com/treatments/fotona-4d"
+              }
+            }
+          ]
+        },
+        "provider": {
+          "@type": "MedicalBusiness",
+          "name": "Real Aesthetic Medical Spa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Miami",
+            "addressRegion": "FL",
+            "addressCountry": "US"
+          },
+          "medicalSpecialty": "CosmeticSurgery",
+          "url": "https://realaesthetic.datagoldsolutions.com",
+          "priceRange": "$$$"
+        },
+        "performer": {
+          "@type": "Person",
+          "name": "Ronal Perdomo Lugo, APRN, FNP-C",
+          "medicalSpecialty": "CosmeticSurgery"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is the Face Contour Package a fixed price?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. The package is personalised in consultation. Ronal Perdomo Lugo, APRN, FNP-C will recommend specific components, doses, and the filler material best suited to the patient's anatomy and goals. We provide a written estimate after the assessment so the patient knows exactly what is included and the expected investment before scheduling treatments."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does the full programme take?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The Face Contour Package is typically completed across two to three visits over four to six weeks. We separate the sessions to respect the optimal timing of each treatment — for example, reviewing Botox effect at two weeks before fine-tuning the contour with filler if needed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I substitute a treatment in the package?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, within clinical reason. If a patient is not a candidate for one of the components, or if their priority is different, Ronal Perdomo Lugo, APRN, FNP-C can replace a treatment with another suitable option from our menu. Substitutions are decided in consultation, never as an upsell, and the package value is recalculated transparently."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will I look done after the package?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our philosophy is refinement rather than transformation in this package. The objective is a more rested, more defined version of the patient's own face. Doses, filler volumes, and laser intensity are calibrated so friends and colleagues notice that the patient looks better without being able to point to a specific procedure."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long do the results last?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Each component has its own duration. Botox lasts three to four months; hyaluronic acid jawline filler nine to 18 months; Radiesse 12 to 18 months; Fotona 4D collagen remodelling continues for three to six months and is typically renewed once or twice a year. We propose a maintenance calendar so the contour stays consistent over time."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there downtime?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Downtime is minimal but not zero. Most patients resume normal activity the same day. Filler can produce mild swelling for two to five days, Fotona 4D mild redness for 24 to 48 hours, and Botox occasional pinpoint bruises. We recommend scheduling the package at least 10 to 14 days before any major event so all components have settled."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who supervises the package?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Every Face Contour Package is medically supervised by Ronal Perdomo Lugo, APRN, FNP-C. He performs the consultation, designs the protocol, and personally delivers each component of the package in our Miami clinic."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/face-contour-package/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Face Contour Package in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/face-contour-package/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/face-contour-package.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/face-contour-package/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/paquete-contorno-facial/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Face Contour Package <em>in Miami</em>",
+    "lede": "The Face Contour Package is our signature facial refinement programme in Miami, combining neuromodulator, jawline contouring and Fotona 4D into a single coordinated plan supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Coordinates three complementary treatments under a single medical plan supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "Refines the contour of the lower face and jawline while softening expression lines on the upper third.",
+        "Addresses skin quality, laxity, hydration, and tone in the same programme rather than over disconnected visits.",
+        "Personalised in consultation — components, doses, and sequencing are tailored to each patient.",
+        "Streamlined calendar that suits patients commuting from Brickell, Coconut Grove or Aventura.",
+        "Considered investment compared with booking each treatment separately at full individual price.",
+        "Includes a structured follow-up to fine-tune the result at two weeks post-protocol."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Results &amp; duration",
+      "title": "When you see it, <em>how long it lasts</em>",
+      "text": [
+        "The contour refinement is progressive. Fotona 4D produces visible glow and tone improvement within days; Botox reaches peak effect at approximately 14 days; jawline contouring shows immediate definition that settles over two to four weeks. Botox results typically last three to four months; hyaluronic acid jawline filler nine to 18 months; Radiesse 12 to 18 months; Fotona 4D collagen remodelling continues for three to six months. A maintenance plan is built into the package follow-up."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is the Face Contour Package a fixed price?",
+          "a": "No. The package is personalised in consultation. Ronal Perdomo Lugo, APRN, FNP-C will recommend specific components, doses, and the filler material best suited to the patient's anatomy and goals. We provide a written estimate after the assessment so the patient knows exactly what is included and the expected investment before scheduling treatments."
+        },
+        {
+          "q": "How long does the full programme take?",
+          "a": "The Face Contour Package is typically completed across two to three visits over four to six weeks. We separate the sessions to respect the optimal timing of each treatment — for example, reviewing Botox effect at two weeks before fine-tuning the contour with filler if needed."
+        },
+        {
+          "q": "Can I substitute a treatment in the package?",
+          "a": "Yes, within clinical reason. If a patient is not a candidate for one of the components, or if their priority is different, Ronal Perdomo Lugo, APRN, FNP-C can replace a treatment with another suitable option from our menu. Substitutions are decided in consultation, never as an upsell, and the package value is recalculated transparently."
+        },
+        {
+          "q": "Will I look \"done\" after the package?",
+          "a": "Our philosophy is refinement rather than transformation in this package. The objective is a more rested, more defined version of the patient's own face. Doses, filler volumes, and laser intensity are calibrated so friends and colleagues notice that the patient looks better without being able to point to a specific procedure."
+        },
+        {
+          "q": "How long do the results last?",
+          "a": "Each component has its own duration. Botox lasts three to four months; hyaluronic acid jawline filler nine to 18 months; Radiesse 12 to 18 months; Fotona 4D collagen remodelling continues for three to six months and is typically renewed once or twice a year. We propose a maintenance calendar so the contour stays consistent over time."
+        },
+        {
+          "q": "Is there downtime?",
+          "a": "Downtime is minimal but not zero. Most patients resume normal activity the same day. Filler can produce mild swelling for two to five days, Fotona 4D mild redness for 24 to 48 hours, and Botox occasional pinpoint bruises. We recommend scheduling the package at least 10 to 14 days before any major event so all components have settled."
+        },
+        {
+          "q": "Who supervises the package?",
+          "a": "Every Face Contour Package is medically supervised by Ronal Perdomo Lugo, APRN, FNP-C. He performs the consultation, designs the protocol, and personally delivers each component of the package in our Miami clinic."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

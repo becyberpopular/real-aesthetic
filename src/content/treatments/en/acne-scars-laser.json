@@ -1,0 +1,353 @@
+{
+  "lang": "en",
+  "slug": "acne-scars-laser",
+  "path": "/procedures/acne-scars-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/acne-scars-laser.webp",
+  "ctaImage": "/img/proc/acne-scars-laser.webp",
+  "head": {
+    "title": "Acne Scars Laser Treatment in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fractional Fotona Er:YAG for atrophic acne scars in Miami. Progressive remodeling of ice pick, boxcar and rolling scars across 4 to 6 sessions."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Acne Scars Laser Treatment in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fractional Fotona Er:YAG for atrophic acne scars in Miami. Progressive remodeling of ice pick, boxcar and rolling scars across 4 to 6 sessions."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/acne-scars-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/acne-scars-laser.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Acne Scars Laser Treatment in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fractional Fotona Er:YAG for atrophic acne scars in Miami. Progressive remodeling of ice pick, boxcar and rolling scars across 4 to 6 sessions."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/acne-scars-laser.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/acne-scars-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/acne-scars-laser/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/cicatrices-acne-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Acne Scars Laser Treatment (Fractional Er:YAG)",
+        "alternateName": "Fotona Fractional Resurfacing for Atrophic Acne Scars",
+        "description": "Fractional Er:YAG laser protocol that progressively remodels atrophic acne scars (ice pick, boxcar and rolling) by stimulating dermal collagen and elastin. Delivered over four to six sessions at Real Aesthetic Medical Spa, Miami.",
+        "bodyLocation": "Face, neck, upper back",
+        "procedureType": "https://schema.org/NoninvasiveProcedure",
+        "preparation": "Avoid sun exposure two weeks before the session. Disclose all medication including isotretinoin. Suspend retinoids and exfoliating acids 7 days prior.",
+        "followup": "Mineral SPF 50+ daily, repair balm twice a day, no retinoids or acids for 10-14 days. Review at 4-6 weeks for the next session.",
+        "howPerformed": "Topical anaesthesia is applied. Targeted Er:YAG passes are calibrated for ice pick, boxcar and rolling areas. An optional bulk heating pass supports deep dermal remodeling. Session ends with cooling, repair serum and high-protection sunscreen.",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en",
+        "url": "https://realaestheticmedspa.com/procedures/acne-scars-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/acne-scars-laser/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Can the laser remove acne scars completely?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Fractional Er:YAG progressively softens and reshapes atrophic scars, but no laser fully removes mature scar tissue. We aim for a meaningful improvement in depth, edge sharpness and the way light falls on the skin. Combined plans, such as subcision for tethered rolling scars, can extend the result when clinically indicated."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long is the recovery?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Plan for three to five days of social downtime depending on the intensity of the session. The skin looks flushed and may feel like fine sandpaper, with mild swelling on the first night. By day five most patients can return to make-up routines. Full skin remodeling continues for several months after each visit."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Typical plans run between four and six sessions spaced four to six weeks apart. The exact number depends on scar depth, scar type and how your dermis responds. We re-evaluate before each session with side-by-side clinical photographs and only continue while documented improvement is visible."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it safe in Miami sunlight?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sun protection is the single most important variable. Treated skin is more vulnerable to pigmentation while it remodels, and Miami's UV index requires SPF 50+ daily, ideally mineral, with reapplication every two hours outdoors. We schedule sessions during lower-exposure weeks and reinforce after-care with each visit."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I combine the laser with PRP or microneedling?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, in many cases combined plans deliver more even results. Platelet-rich plasma can be applied immediately after the laser pass to support healing, and microneedling can be staggered between sessions. Any combination is decided in consultation with Ronal Perdomo, APRN, FNP-C so the dermal load stays controlled."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will the procedure be painful?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "With topical numbing applied 30 to 45 minutes before, most patients describe a warm prickling rather than pain. Deeper passes on rolling scars feel a little more intense for a few seconds at a time. Cooling air and pauses between zones keep the session comfortable from start to finish."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When can I see the final result?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Texture starts improving from week four to six. Each session adds incremental remodeling and the full effect is best assessed three to six months after the last visit, when collagen has finished maturing. Side-by-side photographs taken under the same lighting are the most reliable way to track progress."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/acne-scars-laser/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Acne Scars Laser Treatment in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/acne-scars-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/acne-scars-laser.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/acne-scars-laser/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/cicatrices-acne-laser/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Acne Scars Laser Treatment <em>in Miami</em>",
+    "lede": "Acne scar laser treatment is a fractional Er:YAG protocol that progressively remodels atrophic scars — ice pick, boxcar and rolling — by stimulating dermal collagen across multiple sessions.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-acne-scar-treatment",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Progressively remodels atrophic acne scars by stimulating dermal collagen and elastin.",
+        "Targets ice pick, boxcar and rolling scars with parameters adjusted per lesion type.",
+        "Refines overall skin texture and refines pore appearance in the treated area.",
+        "Improves the way light reflects on the skin, softening the visual depth of scars.",
+        "Compatible with combined plans (subcision, PRP) under medical supervision.",
+        "Recovery is shorter than fully ablative resurfacing thanks to the fractional pattern.",
+        "Suitable for most phototypes when delivered conservatively under medical assessment."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Results &amp; duration",
+      "title": "When you see it, <em>how long it lasts</em>",
+      "text": [
+        "Texture begins to improve at four to six weeks, while deeper remodeling continues for up to six months after each session. Most patients complete four to six sessions spaced four to six weeks apart, sometimes followed by an annual maintenance visit. Results are long-lasting when sun exposure is controlled, although natural ageing continues to influence the skin."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Can the laser remove acne scars completely?",
+          "a": "Fractional Er:YAG progressively softens and reshapes atrophic scars, but no laser fully removes mature scar tissue. We aim for a meaningful improvement in depth, edge sharpness and the way light falls on the skin. Combined plans, such as subcision for tethered rolling scars, can extend the result when clinically indicated."
+        },
+        {
+          "q": "How long is the recovery?",
+          "a": "Plan for three to five days of social downtime depending on the intensity of the session. The skin looks flushed and may feel like fine sandpaper, with mild swelling on the first night. By day five most patients can return to make-up routines. Full skin remodeling continues for several months after each visit."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "Typical plans run between four and six sessions spaced four to six weeks apart. The exact number depends on scar depth, scar type and how your dermis responds. We re-evaluate before each session with side-by-side clinical photographs and only continue while documented improvement is visible."
+        },
+        {
+          "q": "Is it safe in Miami sunlight?",
+          "a": "Sun protection is the single most important variable. Treated skin is more vulnerable to pigmentation while it remodels, and Miami's UV index requires SPF 50+ daily, ideally mineral, with reapplication every two hours outdoors. We schedule sessions during lower-exposure weeks and reinforce after-care with each visit."
+        },
+        {
+          "q": "Can I combine the laser with PRP or microneedling?",
+          "a": "Yes, in many cases combined plans deliver more even results. Platelet-rich plasma can be applied immediately after the laser pass to support healing, and microneedling can be staggered between sessions. Any combination is decided in consultation with Ronal Perdomo, APRN, FNP-C so the dermal load stays controlled."
+        },
+        {
+          "q": "Will the procedure be painful?",
+          "a": "With topical numbing applied 30 to 45 minutes before, most patients describe a warm prickling rather than pain. Deeper passes on rolling scars feel a little more intense for a few seconds at a time. Cooling air and pauses between zones keep the session comfortable from start to finish."
+        },
+        {
+          "q": "When can I see the final result?",
+          "a": "Texture starts improving from week four to six. Each session adds incremental remodeling and the full effect is best assessed three to six months after the last visit, when collagen has finished maturing. Side-by-side photographs taken under the same lighting are the most reliable way to track progress."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a clinical mapping with our Fotona team and design a remodeling plan supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-acne-scar-treatment",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

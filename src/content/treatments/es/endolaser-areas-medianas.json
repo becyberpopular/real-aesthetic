@@ -1,0 +1,315 @@
+{
+  "lang": "es",
+  "slug": "endolaser-areas-medianas",
+  "path": "/tratamientos/endolaser-areas-medianas/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/endolaser-medium-areas.webp",
+  "ctaImage": "/img/proc/endolaser-medium-areas.webp",
+  "head": {
+    "title": "Endolaser para áreas medianas en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Endolaser para áreas medianas en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-medianas/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/endolaser-medium-areas.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Endolaser para áreas medianas en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/endolaser-medium-areas.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-medianas/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/endolaser-medium-areas/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-medianas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Endolaser para áreas medianas en Miami",
+        "description": "El Endolaser para áreas medianas es un procedimiento mínimamente invasivo de lipólisis láser subdérmica que reduce la grasa localizada y tensa la piel en zonas como abdomen, flancos, cara interna del muslo y brazos, realizado bajo anestesia local en una sesión de 1,5 a 2 horas con prenda de compresión durante una a dos semanas.",
+        "url": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-medianas/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-medianas/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-medianas/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia el Endolaser de la liposucción tradicional?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ambos reducen grasa localizada, pero el Endolaser usa una fibra láser fina que primero emulsiona la grasa y, además, calienta la dermis desde adentro. Eso añade un componente de tensado de piel que la liposucción tradicional no produce. La recuperación suele ser más corta y los puntos de entrada son más pequeños. Para grandes volúmenes de grasa o flacidez marcada, la cirugía tradicional sigue siendo la opción más adecuada y lo evaluamos caso por caso."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo tratar abdomen y flancos en la misma sesión?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En muchos casos de áreas medianas tratamos abdomen inferior y flancos en la misma sesión, ya que comparten un contorno continuo. La sesión combinada suele durar hasta dos horas bajo anestesia local. Si dos zonas pueden combinarse de forma segura depende del volumen, la dosis total tumescente, el IMC y tu historia médica; lo decide Ronal Perdomo Lugo, APRN, FNP-C durante la consulta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto tiempo debo usar la prenda de compresión?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Para áreas medianas indicamos habitualmente una a dos semanas de compresión, generalmente 24 horas al día durante la primera semana y solo durante el día en la segunda. La constancia es uno de los factores que más influye en un contorno limpio y parejo, y reduce hinchazón, seromas e irregularidades. Nuestro equipo coloca la prenda en clínica y ajusta el calendario a tu respuesta individual."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Endolaser para áreas medianas en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/endolaser-areas-medianas/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/endolaser-medium-areas.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/endolaser-medium-areas/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/endolaser-areas-medianas/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Endolaser para áreas medianas <em>en Miami</em>",
+    "lede": "El Endolaser para áreas medianas es un procedimiento mínimamente invasivo de lipólisis láser subdérmica que reduce la grasa localizada y tensa la piel en zonas como abdomen, flancos, cara interna del muslo y brazos, realizado bajo anestesia local en una sesión de 1,5 a 2 horas con prenda de compresión durante una a dos semanas.",
+    "multi": {
+      "label": "Reserva por zona",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-arms",
+          "label": "Brazos",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-flanks",
+          "label": "Flancos",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce la grasa localizada en abdomen, flancos, cara interna del muslo y brazos en una sola sesión ambulatoria.",
+        "Tensa la piel suprayacente mediante calentamiento subdérmico controlado, ayudando a que la piel se retraiga sobre el nuevo contorno.",
+        "Refina la silueta en zonas que suelen resistir la dieta y el ejercicio por sí solos.",
+        "Trabaja a través de pequeñas entradas con cánula que en general se cierran sin suturas y resultan fáciles de disimular.",
+        "Anestesia local y entorno ambulatorio: sin anestesia general y sin pernoctar en clínica.",
+        "La recuperación es más corta que la de una liposucción tradicional; la mayoría vuelve a tareas de oficina en tres a cinco días.",
+        "Combina muy bien con drenaje linfático como adyuvante posterior para reducir hinchazón y mejorar el contorno final."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿En qué se diferencia el Endolaser de la liposucción tradicional?",
+          "a": "Ambos reducen grasa localizada, pero el Endolaser usa una fibra láser fina que primero emulsiona la grasa y, además, calienta la dermis desde adentro. Eso añade un componente de tensado de piel que la liposucción tradicional no produce. La recuperación suele ser más corta y los puntos de entrada son más pequeños. Para grandes volúmenes de grasa o flacidez marcada, la cirugía tradicional sigue siendo la opción más adecuada y lo evaluamos caso por caso."
+        },
+        {
+          "q": "¿Puedo tratar abdomen y flancos en la misma sesión?",
+          "a": "En muchos casos de áreas medianas tratamos abdomen inferior y flancos en la misma sesión, ya que comparten un contorno continuo. La sesión combinada suele durar hasta dos horas bajo anestesia local. Si dos zonas pueden combinarse de forma segura depende del volumen, la dosis total tumescente, el IMC y tu historia médica; lo decide Ronal Perdomo Lugo, APRN, FNP-C durante la consulta."
+        },
+        {
+          "q": "¿Cuánto tiempo debo usar la prenda de compresión?",
+          "a": "Para áreas medianas indicamos habitualmente una a dos semanas de compresión, generalmente 24 horas al día durante la primera semana y solo durante el día en la segunda. La constancia es uno de los factores que más influye en un contorno limpio y parejo, y reduce hinchazón, seromas e irregularidades. Nuestro equipo coloca la prenda en clínica y ajusta el calendario a tu respuesta individual."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "multi": {
+      "label": "Reserva por zona",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-arms",
+          "label": "Brazos",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-flanks",
+          "label": "Flancos",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

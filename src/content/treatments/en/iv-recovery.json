@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "iv-recovery",
+  "path": "/procedures/iv-recovery/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/iv-recovery-hangover-post-workout.webp",
+  "ctaImage": "/img/proc/iv-recovery-hangover-post-workout.webp",
+  "head": {
+    "title": "IV Recovery — Hangover & Post-Workout in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "IV Recovery in Miami at Real Aesthetic. Targeted IV protocol for hangover relief and post-workout recovery, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "IV Recovery — Hangover & Post-Workout in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "IV Recovery in Miami at Real Aesthetic. Targeted IV protocol for hangover relief and post-workout recovery, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/iv-recovery/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-recovery-hangover-post-workout.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "IV Recovery — Hangover & Post-Workout in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "IV Recovery in Miami at Real Aesthetic. Targeted IV protocol for hangover relief and post-workout recovery, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-recovery-hangover-post-workout.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/iv-recovery/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/iv-recovery/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-recuperacion/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "IV Recovery — Hangover & Post-Workout in Miami",
+        "description": "IV Recovery in Miami at Real Aesthetic. Targeted IV protocol for hangover relief and post-workout recovery, supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/iv-recovery/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/iv-recovery/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/iv-recovery/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How fast does it work for a hangover?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients describe a meaningful improvement within the first 30 to 45 minutes of the infusion. The combination of rapid hydration, anti-nausea support and B-complex addresses several mechanisms of the hangover at the same time. You should leave the session feeling significantly better than when you arrived."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it useful for athletic recovery?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The protocol supports rehydration, electrolyte balance, anti-inflammatory recovery and energy restoration after demanding training. Endurance athletes, weekend warriors and travelers competing in events benefit from a scheduled recovery IV the day after a hard effort."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How often can I use it?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Occasional use is well tolerated by most healthy adults. Frequent use should be coordinated with our clinical team to confirm there are no contraindications. We always review your health history at the first visit and provide a recommended cadence based on your situation."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IV Recovery — Hangover & Post-Workout in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/iv-recovery/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/iv-recovery-hangover-post-workout.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/iv-recovery/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/iv-recuperacion/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "IV Recovery <em>in Miami</em>",
+    "lede": "A focused IV recovery protocol that combines rapid rehydration with anti-nausea, anti-inflammatory and B-complex support to bring you back from a hard night or a demanding training session.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-recovery-hangover-post-workout",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Rapid rehydration plus electrolyte rebalancing in a single session.",
+        "Anti-nausea and headache relief support for severe hangover days.",
+        "Anti-inflammatory and B-complex components accelerate post-workout recovery.",
+        "Most patients feel a clear improvement within the first 30 minutes of the infusion.",
+        "Session lasts approximately 45–60 minutes in a quiet clinical setting.",
+        "Medically supervised and screened for contraindications before each visit."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "How fast does it work for a hangover?",
+          "a": "Most patients describe a meaningful improvement within the first 30 to 45 minutes of the infusion. The combination of rapid hydration, anti-nausea support and B-complex addresses several mechanisms of the hangover at the same time. You should leave the session feeling significantly better than when you arrived."
+        },
+        {
+          "q": "Is it useful for athletic recovery?",
+          "a": "Yes. The protocol supports rehydration, electrolyte balance, anti-inflammatory recovery and energy restoration after demanding training. Endurance athletes, weekend warriors and travelers competing in events benefit from a scheduled recovery IV the day after a hard effort."
+        },
+        {
+          "q": "How often can I use it?",
+          "a": "Occasional use is well tolerated by most healthy adults. Frequent use should be coordinated with our clinical team to confirm there are no contraindications. We always review your health history at the first visit and provide a recommended cadence based on your situation."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-recovery-hangover-post-workout",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

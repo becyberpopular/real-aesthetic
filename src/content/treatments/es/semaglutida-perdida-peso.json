@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "semaglutida-perdida-peso",
+  "path": "/tratamientos/semaglutida-perdida-peso/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/semaglutide-weight-loss.webp",
+  "ctaImage": "/img/proc/semaglutide-weight-loss.webp",
+  "head": {
+    "title": "Pérdida de peso médica con semaglutida en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Pérdida de peso médica con semaglutida en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/semaglutida-perdida-peso/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/semaglutide-weight-loss.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Pérdida de peso médica con semaglutida en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "\\*0 ch"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/semaglutide-weight-loss.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/semaglutida-perdida-peso/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/semaglutide-weight-loss/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/semaglutida-perdida-peso/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Pérdida de peso médica con semaglutida en Miami",
+        "description": "La semaglutida es un agonista del receptor GLP-1 aprobado por la FDA para el manejo crónico del peso, administrado como inyección subcutánea semanal dentro de un programa médico supervisado en nuestra clínica de Miami.",
+        "url": "https://realaestheticmedspa.com/tratamientos/semaglutida-perdida-peso/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/semaglutida-perdida-peso/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/semaglutida-perdida-peso/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Soy candidata para la semaglutida?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La elegibilidad se basa en el IMC y la historia clínica. Pueden ser candidatos los adultos con IMC de 30 o superior, o de 27 o superior con una comorbilidad relacionada con el peso, como hipertensión, dislipidemia o diabetes tipo 2. Antecedentes de carcinoma medular de tiroides, MEN-2 o pancreatitis son exclusiones. La decisión final la toma Ronal Perdomo Lugo, APRN, FNP-C tras la consulta y la analítica."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuáles son los efectos secundarios más comunes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría experimenta algunos efectos digestivos durante la escalada de dosis, sobre todo náuseas, reducción del apetito, estreñimiento o diarrea. Suelen ser leves y mejoran en pocas semanas. Riesgos menos frecuentes pero más serios incluyen pancreatitis, problemas de vesícula y deshidratación severa. Antes de iniciar revisamos en detalle los signos de alarma con cada paciente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia esto de hacer dieta y ejercicio?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La dieta y el ejercicio son la base de cualquier plan de manejo del peso y siguen siéndolo durante el tratamiento con semaglutida. La medicación no sustituye el trabajo de hábitos: apoya la adherencia al reducir las señales de apetito y la preocupación por la comida en pacientes para quienes los enfoques basados solo en fuerza de voluntad han fracasado de forma reiterada. Sin acompañamiento nutricional y movimiento, los resultados son inferiores y más difíciles de sostener."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pérdida de peso médica con semaglutida en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/semaglutida-perdida-peso/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/semaglutide-weight-loss.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/semaglutide-weight-loss/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/semaglutida-perdida-peso/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Pérdida de peso médica con semaglutida <em>en Miami</em>",
+    "lede": "La semaglutida es un agonista del receptor GLP-1 aprobado por la FDA para el manejo crónico del peso, administrado como inyección subcutánea semanal dentro de un programa médico supervisado en nuestra clínica de Miami.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-medical-weight-loss-glp-1-program",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce el apetito y el \"ruido\" mental en torno a la comida, lo que apoya la adherencia a un plan calórico controlado.",
+        "Enlentece el vaciado gástrico y mejora la saciedad después de las comidas.",
+        "Mejora la regulación glucémica en pacientes con resistencia a la insulina o diabetes tipo 2.",
+        "Se administra una vez por semana, lo que simplifica la adherencia a largo plazo.",
+        "Integra acompañamiento nutricional, lo que favorece resultados de composición corporal y no solo el número de la balanza.",
+        "La monitorización médica continua identifica los efectos adversos pronto y permite ajustar la dosis.",
+        "Aporta un marco estructurado a pacientes que han luchado con enfoques basados solo en dieta y ejercicio."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Soy candidata para la semaglutida?",
+          "a": "La elegibilidad se basa en el IMC y la historia clínica. Pueden ser candidatos los adultos con IMC de 30 o superior, o de 27 o superior con una comorbilidad relacionada con el peso, como hipertensión, dislipidemia o diabetes tipo 2. Antecedentes de carcinoma medular de tiroides, MEN-2 o pancreatitis son exclusiones. La decisión final la toma Ronal Perdomo Lugo, APRN, FNP-C tras la consulta y la analítica."
+        },
+        {
+          "q": "¿Cuáles son los efectos secundarios más comunes?",
+          "a": "La mayoría experimenta algunos efectos digestivos durante la escalada de dosis, sobre todo náuseas, reducción del apetito, estreñimiento o diarrea. Suelen ser leves y mejoran en pocas semanas. Riesgos menos frecuentes pero más serios incluyen pancreatitis, problemas de vesícula y deshidratación severa. Antes de iniciar revisamos en detalle los signos de alarma con cada paciente."
+        },
+        {
+          "q": "¿En qué se diferencia esto de hacer dieta y ejercicio?",
+          "a": "La dieta y el ejercicio son la base de cualquier plan de manejo del peso y siguen siéndolo durante el tratamiento con semaglutida. La medicación no sustituye el trabajo de hábitos: apoya la adherencia al reducir las señales de apetito y la preocupación por la comida en pacientes para quienes los enfoques basados solo en fuerza de voluntad han fracasado de forma reiterada. Sin acompañamiento nutricional y movimiento, los resultados son inferiores y más difíciles de sostener."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "La elegibilidad para semaglutida empieza con una evaluación médica completa, no con una llamada comercial.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-medical-weight-loss-glp-1-program",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

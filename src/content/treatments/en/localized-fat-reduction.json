@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "slug": "localized-fat-reduction",
+  "path": "/procedures/localized-fat-reduction/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/localized-fat-reduction.webp",
+  "ctaImage": "/img/proc/localized-fat-reduction.webp",
+  "head": {
+    "title": "Localized Fat Reduction in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Lipolytic mesotherapy in Miami for small fat pockets such as the double chin or bra fat. Targeted protocol supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Localized Fat Reduction in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Lipolytic mesotherapy in Miami for small fat pockets such as the double chin or bra fat. Targeted protocol supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/localized-fat-reduction/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/localized-fat-reduction.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Localized Fat Reduction in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Lipolytic mesotherapy in Miami for small fat pockets such as the double chin or bra fat. Targeted protocol supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/localized-fat-reduction.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/localized-fat-reduction/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/localized-fat-reduction/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/reduccion-grasa-localizada/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Localized Fat Reduction (Small Area)",
+        "alternateName": "Lipolytic Mesotherapy for Small Areas",
+        "description": "Injectable lipolytic mesotherapy with a phosphatidylcholine and deoxycholate cocktail to refine small, defined fat pockets such as the submental area, bra fat, or inner thigh patches. Not a weight-loss treatment.",
+        "bodyLocation": "Submental area, posterior bra fold, inner thigh, inner knee",
+        "procedureType": "Non-surgical injectable lipolysis",
+        "preparation": "Stable weight, no anticoagulant interference where possible, hydration, no alcohol 24 hours prior, antiseptic skin preparation.",
+        "followup": "Hydration, light walking, lymphatic drainage massage one week after the session, follow-up at four to six weeks, two to four sessions on average.",
+        "howPerformed": "After medical consultation and marking of the target area, microinjections of a phosphatidylcholine-deoxycholate lipolytic cocktail are delivered with ultrafine needles across a precise grid in the subcutaneous fat pocket. The treated adipocytes are then metabolised and cleared by the lymphatic system over the following weeks.",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "url": "https://realaestheticmedspa.com/procedures/localized-fat-reduction/",
+        "inLanguage": "en",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/localized-fat-reduction/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is localized fat reduction a weight-loss treatment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Localized fat reduction is a contour-refinement procedure for small, defined fat pockets that resist diet and exercise. It is not designed for overall weight loss and will not change your weight in a meaningful way. Patients with a weight-loss goal are better served by our medical weight programs, which combine lifestyle support with medically supervised pharmacotherapy when indicated."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions will I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most small areas respond to two to four sessions spaced four to six weeks apart. The submental area often responds well to two or three sessions. Larger or denser fat pockets may need additional sessions. Ronal Perdomo Lugo, APRN, FNP-C confirms the protocol after the initial consultation and reviews progress at the four-to-six-week follow-up before scheduling each subsequent session."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does the treatment hurt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most patients report a stinging or warm sensation during the injections that fades within minutes. Topical anesthetic and cold compresses make the session well tolerated. After the procedure, the area feels swollen, warm, and tender for several days, which is part of the expected lipolytic response and indicates that the cocktail is acting on the targeted adipocytes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When will I see results?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Initial refinement is typically visible between four and eight weeks after each session, as the metabolised fat is cleared by the lymphatic system. The complete result of a protocol becomes evident a few weeks after the final session. Photographs taken at the consultation are used at follow-up to document the change objectively across the protocol."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I treat my abdomen with this protocol?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The small-area lipolytic protocol is reserved for compact pockets such as the submental area, bra fat, or small inner thigh and knee patches. For abdomen, flanks, or arms, we use our medium and large-area body contouring mesotherapy protocol, which is designed for those zones and combines lipolytic and firming cocktails over a different number of sessions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the result permanent?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The fat cells metabolised during the protocol are cleared from the treated area. However, remaining adipocytes can still enlarge if you gain significant weight, and new fat can be stored in untreated areas. A stable weight and a healthy lifestyle protect the contour you obtained. We do not promise permanent or absolute results — a realistic, well-supported maintenance plan is part of the consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is this different from liposuction?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Liposuction is a surgical procedure that mechanically removes fat through cannulas under anesthesia. Localized fat reduction is a non-surgical injectable protocol intended for small, defined pockets. It avoids surgery and downtime but works in gradual sessions and is not designed for large volumes. During consultation we are honest about which option suits your anatomy and goals."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I combine it with other treatments?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Lymphatic drainage massage is commonly combined to support clearance of metabolised fat and reduce swelling. Skin-tightening protocols such as Fotona may be added when laxity is a concern. Combinations are planned individually by Ronal Perdomo Lugo, APRN, FNP-C so the protocols complement each other and respect recovery timelines."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/localized-fat-reduction/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Localized Fat Reduction in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/localized-fat-reduction/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/localized-fat-reduction.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/localized-fat-reduction/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/reduccion-grasa-localizada/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Localized Fat Reduction <em>in Miami</em>",
+    "lede": "Localized fat reduction is an injectable lipolytic mesotherapy protocol that targets small, stubborn fat pockets — such as the double chin, bra fat, or inner thigh patches — at our Miami clinic, and is not intended as a weight-loss treatment.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-fat-reduction",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Targets small, defined fat pockets that resist diet and exercise, such as the submental area or bra fat.",
+        "Refines body contour without surgery, scalpels, or general anesthesia.",
+        "Allows immediate return to most daily activities, which suits busy Brickell and Coral Gables professionals.",
+        "Works in a series of sessions, so the change is gradual and natural rather than abrupt.",
+        "Localised effect — the cocktail acts only where injected, sparing surrounding tissue.",
+        "Can be combined with lymphatic drainage massage to support clearance of metabolised fat.",
+        "Offers a non-surgical option for candidates who do not need or want liposuction."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Results &amp; duration",
+      "title": "When you see it, <em>how long it lasts</em>",
+      "text": [
+        "Visible refinement typically appears between week four and week eight after each session. A complete protocol generally requires two to four sessions spaced four to six weeks apart, depending on the area and the patient's response. Once the targeted fat cells are metabolised, they are cleared from the body. Maintaining a stable weight and a healthy lifestyle preserves the result; significant weight gain can affect remaining adipocytes in the area."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is localized fat reduction a weight-loss treatment?",
+          "a": "No. Localized fat reduction is a contour-refinement procedure for small, defined fat pockets that resist diet and exercise. It is not designed for overall weight loss and will not change your weight in a meaningful way. Patients with a weight-loss goal are better served by our medical weight programs, which combine lifestyle support with medically supervised pharmacotherapy when indicated."
+        },
+        {
+          "q": "How many sessions will I need?",
+          "a": "Most small areas respond to two to four sessions spaced four to six weeks apart. The submental area often responds well to two or three sessions. Larger or denser fat pockets may need additional sessions. Ronal Perdomo Lugo, APRN, FNP-C confirms the protocol after the initial consultation and reviews progress at the four-to-six-week follow-up before scheduling each subsequent session."
+        },
+        {
+          "q": "Does the treatment hurt?",
+          "a": "Most patients report a stinging or warm sensation during the injections that fades within minutes. Topical anesthetic and cold compresses make the session well tolerated. After the procedure, the area feels swollen, warm, and tender for several days, which is part of the expected lipolytic response and indicates that the cocktail is acting on the targeted adipocytes."
+        },
+        {
+          "q": "When will I see results?",
+          "a": "Initial refinement is typically visible between four and eight weeks after each session, as the metabolised fat is cleared by the lymphatic system. The complete result of a protocol becomes evident a few weeks after the final session. Photographs taken at the consultation are used at follow-up to document the change objectively across the protocol."
+        },
+        {
+          "q": "Can I treat my abdomen with this protocol?",
+          "a": "The small-area lipolytic protocol is reserved for compact pockets such as the submental area, bra fat, or small inner thigh and knee patches. For abdomen, flanks, or arms, we use our medium and large-area body contouring mesotherapy protocol, which is designed for those zones and combines lipolytic and firming cocktails over a different number of sessions."
+        },
+        {
+          "q": "Is the result permanent?",
+          "a": "The fat cells metabolised during the protocol are cleared from the treated area. However, remaining adipocytes can still enlarge if you gain significant weight, and new fat can be stored in untreated areas. A stable weight and a healthy lifestyle protect the contour you obtained. We do not promise permanent or absolute results — a realistic, well-supported maintenance plan is part of the consultation."
+        },
+        {
+          "q": "How is this different from liposuction?",
+          "a": "Liposuction is a surgical procedure that mechanically removes fat through cannulas under anesthesia. Localized fat reduction is a non-surgical injectable protocol intended for small, defined pockets. It avoids surgery and downtime but works in gradual sessions and is not designed for large volumes. During consultation we are honest about which option suits your anatomy and goals."
+        },
+        {
+          "q": "Can I combine it with other treatments?",
+          "a": "Yes. Lymphatic drainage massage is commonly combined to support clearance of metabolised fat and reduce swelling. Skin-tightening protocols such as Fotona may be added when laxity is a concern. Combinations are planned individually by Ronal Perdomo Lugo, APRN, FNP-C so the protocols complement each other and respect recovery timelines."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-fat-reduction",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

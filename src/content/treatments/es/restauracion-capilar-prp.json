@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "restauracion-capilar-prp",
+  "path": "/tratamientos/restauracion-capilar-prp/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/hair-restoration-prp.webp",
+  "ctaImage": "/img/proc/hair-restoration-prp.webp",
+  "head": {
+    "title": "Restauración Capilar con PRP en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Restauración capilar con PRP en Miami en Real Aesthetic. Inyecciones de plasma rico en plaquetas en cuero cabelludo para estimular crecimiento del cabello en alopecia androgénica y caída. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Restauración Capilar con PRP en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Restauración capilar con PRP en Miami en Real Aesthetic. Inyecciones de plasma rico en plaquetas en cuero cabelludo para estimular crecimiento del cabello en alopecia androgénica y caída. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/restauracion-capilar-prp/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/hair-restoration-prp.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Restauración Capilar con PRP en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Restauración capilar con PRP en Miami en Real Aesthetic. Inyecciones de plasma rico en plaquetas en cuero cabelludo para estimular crecimiento del cabello en alopecia androgénica y caída. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/hair-restoration-prp.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/restauracion-capilar-prp/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/hair-restoration-prp/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/restauracion-capilar-prp/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Restauración Capilar con PRP en Miami",
+        "description": "Restauración capilar con PRP en Miami en Real Aesthetic. Inyecciones de plasma rico en plaquetas en cuero cabelludo para estimular crecimiento del cabello en alopecia androgénica y caída. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/restauracion-capilar-prp/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/restauracion-capilar-prp/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/restauracion-capilar-prp/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuándo veré crecimiento nuevo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría nota menor caída tras la segunda o tercera sesión y mejora visible de densidad a los 3–6 meses. El PRP trabaja con el ciclo capilar y los resultados son graduales. La comparación fotográfica es la mejor forma de medir el cambio — documentamos cuero cabelludo en línea de base y en cada visita."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo se prepara el plasma?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tomamos un pequeño volumen de sangre del brazo y lo centrifugamos en consulta para separar el plasma rico en plaquetas. Luego se inyecta a intervalos en el cuero cabelludo con aguja fina. La sesión completa, incluyendo extracción y centrifugado, dura unos 60–90 minutos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es doloroso?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Aplicamos anestesia tópica en el cuero cabelludo antes de inyectar y la molestia suele ser manejable. Se puede usar también un dispositivo de vibración para reducir aún más la sensación. La mayoría lo tolera bien y retoma actividad normal el mismo día."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Restauración Capilar con PRP en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/restauracion-capilar-prp/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/hair-restoration-prp.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/restauracion-capilar-prp/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/hair-restoration-prp/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Restauración Capilar + PRP <em>en Miami</em>",
+    "lede": "Plasma rico en plaquetas (PRP) preparado a partir de tu propia sangre e inyectado en cuero cabelludo para estimular la actividad folicular, frenar la caída y mejorar la densidad capilar en alopecia androgénica.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hair-restoration-prp",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Estimula folículos dormidos mediante factores de crecimiento concentrados de tus propias plaquetas.",
+        "Frena la progresión de la alopecia androgénica (patrón masculino y femenino).",
+        "Mejora densidad, grosor y salud general del cuero cabelludo.",
+        "100% autólogo — solo usa el plasma del propio paciente, sin compuestos sintéticos.",
+        "Protocolo inicial habitual de 3–4 sesiones cada 4 semanas, luego mantenimiento cada 4–6 meses.",
+        "Compatible con minoxidil tópico o finasteride oral para efecto compuesto."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Cuándo veré crecimiento nuevo?",
+          "a": "La mayoría nota menor caída tras la segunda o tercera sesión y mejora visible de densidad a los 3–6 meses. El PRP trabaja con el ciclo capilar y los resultados son graduales. La comparación fotográfica es la mejor forma de medir el cambio — documentamos cuero cabelludo en línea de base y en cada visita."
+        },
+        {
+          "q": "¿Cómo se prepara el plasma?",
+          "a": "Tomamos un pequeño volumen de sangre del brazo y lo centrifugamos en consulta para separar el plasma rico en plaquetas. Luego se inyecta a intervalos en el cuero cabelludo con aguja fina. La sesión completa, incluyendo extracción y centrifugado, dura unos 60–90 minutos."
+        },
+        {
+          "q": "¿Es doloroso?",
+          "a": "Aplicamos anestesia tópica en el cuero cabelludo antes de inyectar y la molestia suele ser manejable. Se puede usar también un dispositivo de vibración para reducir aún más la sensación. La mayoría lo tolera bien y retoma actividad normal el mismo día."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hair-restoration-prp",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

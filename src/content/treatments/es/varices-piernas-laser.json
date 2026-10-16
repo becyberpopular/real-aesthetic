@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "varices-piernas-laser",
+  "path": "/tratamientos/varices-piernas-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/leg-vein-treatment.webp",
+  "ctaImage": "/img/proc/leg-vein-treatment.webp",
+  "head": {
+    "title": "Várices y arañitas en piernas con láser Nd:YAG en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Láser Nd:YAG para vasos reticulares y arañitas en piernas en Miami. Protocolo estético complementario a la valoración vascular médica. Reserva con Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Várices y arañitas en piernas con láser Nd:YAG en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Láser Nd:YAG para vasos reticulares y arañitas en piernas en Miami. Protocolo estético complementario a la valoración vascular médica. Reserva con Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/varices-piernas-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/leg-vein-treatment.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Várices y arañitas en piernas con láser Nd:YAG en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Láser Nd:YAG para vasos reticulares y arañitas en piernas en Miami. Protocolo estético complementario a la valoración vascular médica. Reserva con Ronal Perdomo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/leg-vein-treatment.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/varices-piernas-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/leg-vein-treatment/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/varices-piernas-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Várices y arañitas en piernas con láser Nd:YAG en Miami",
+        "description": "El tratamiento láser de várices y arañitas en piernas es un protocolo médico-estético cosmético con láser Nd:YAG dirigido a vasos reticulares y pequeñas várices, que complementa —y nunca sustituye— la valoración médica de la enfermedad venosa.",
+        "url": "https://realaestheticmedspa.com/tratamientos/varices-piernas-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/varices-piernas-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/varices-piernas-laser/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Es un sustituto de la cirugía vascular?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Es un protocolo láser cosmético para vasos reticulares pequeños y arañitas. Las várices grandes, la pesadez, el edema o los cambios pigmentarios necesitan una consulta de cirugía vascular o flebología, con frecuencia con eco-Doppler, antes de cualquier tratamiento estético. Ronal Perdomo, APRN, FNP-C deriva al especialista vascular cuando el cuadro clínico indica una insuficiencia venosa subyacente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es lo mismo que la escleroterapia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. La escleroterapia inyecta una solución dentro del vaso para cerrarlo desde el interior; el láser Nd:YAG lo cierra desde fuera de la piel mediante calor selectivo. Ambos tienen indicaciones válidas y pueden combinarse en un protocolo planificado. Algunos vasos responden mejor a un enfoque y un plan completo puede integrar ambos según el calibre y la profundidad."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones voy a necesitar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los planes habituales son de dos a cuatro sesiones cada seis a ocho semanas, según la densidad y profundidad de los vasos. Documentamos la zona con fotografías estandarizadas y reevaluamos antes de cada sesión, continuando solo mientras se observa una mejora medible. Los vasos más grandes o profundos pueden requerir visitas adicionales o una sesión complementaria de escleroterapia."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Várices y arañitas en piernas con láser Nd:YAG en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/varices-piernas-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/leg-vein-treatment.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/leg-vein-treatment/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/varices-piernas-laser/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Várices y arañitas en piernas con láser Nd:YAG <em>en Miami</em>",
+    "lede": "El tratamiento láser de várices y arañitas en piernas es un protocolo médico-estético cosmético con láser Nd:YAG dirigido a vasos reticulares y pequeñas várices, que complementa —y nunca sustituye— la valoración médica de la enfermedad venosa.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-varicose-veins-full-leg",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Reduce la apariencia de pequeños vasos reticulares y arañitas rojas o azules en las piernas.",
+        "Actúa de forma selectiva sobre los vasos a través de una longitud de onda absorbida por la hemoglobina, respetando el tejido circundante.",
+        "Compatible con la mayoría de fototipos cuando los parámetros se calibran correctamente.",
+        "Alternativa o complemento no inyectable a la escleroterapia en casos seleccionados.",
+        "Procedimiento ágil, sin incisiones, sin suturas y sin tiempo de recuperación formal.",
+        "Se realiza bajo supervisión médica, con fotografías estandarizadas en cada visita.",
+        "Diseñado para coordinarse con la valoración vascular previa cuando está indicada."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Es un sustituto de la cirugía vascular?",
+          "a": "No. Es un protocolo láser cosmético para vasos reticulares pequeños y arañitas. Las várices grandes, la pesadez, el edema o los cambios pigmentarios necesitan una consulta de cirugía vascular o flebología, con frecuencia con eco-Doppler, antes de cualquier tratamiento estético. Ronal Perdomo, APRN, FNP-C deriva al especialista vascular cuando el cuadro clínico indica una insuficiencia venosa subyacente."
+        },
+        {
+          "q": "¿Es lo mismo que la escleroterapia?",
+          "a": "No. La escleroterapia inyecta una solución dentro del vaso para cerrarlo desde el interior; el láser Nd:YAG lo cierra desde fuera de la piel mediante calor selectivo. Ambos tienen indicaciones válidas y pueden combinarse en un protocolo planificado. Algunos vasos responden mejor a un enfoque y un plan completo puede integrar ambos según el calibre y la profundidad."
+        },
+        {
+          "q": "¿Cuántas sesiones voy a necesitar?",
+          "a": "Los planes habituales son de dos a cuatro sesiones cada seis a ocho semanas, según la densidad y profundidad de los vasos. Documentamos la zona con fotografías estandarizadas y reevaluamos antes de cada sesión, continuando solo mientras se observa una mejora medible. Los vasos más grandes o profundos pueden requerir visitas adicionales o una sesión complementaria de escleroterapia."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Habla con nuestro equipo sobre un plan láser personalizado bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-varicose-veins-full-leg",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

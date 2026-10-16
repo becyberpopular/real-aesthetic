@@ -1,0 +1,88 @@
+{
+  "title": "The Real Aesthetic Club · Membership · Real Aesthetic Medical Spa",
+  "meta": [
+    {
+      "name": "description",
+      "content": "The Real Aesthetic Club: one simple plan at $199/month with a $100 accumulating Beauty Bank, 15% off, a monthly laser upgrade and priority scheduling at our Miami medical spa."
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:title",
+      "content": "The Real Aesthetic Club · Membership · Real Aesthetic Medical Spa"
+    },
+    {
+      "property": "og:description",
+      "content": "The Real Aesthetic Club: one simple plan at $199/month with a $100 accumulating Beauty Bank, 15% off, a monthly laser upgrade and priority scheduling at our Miami medical spa."
+    },
+    {
+      "property": "og:url",
+      "content": "https://realaestheticmedspa.com/the-real-aesthetic-club/"
+    },
+    {
+      "property": "og:image",
+      "content": "https://realaestheticmedspa.com/img/club/skin-club.webp"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "es_US"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "The Real Aesthetic Club · Membership · Real Aesthetic Medical Spa"
+    },
+    {
+      "name": "twitter:description",
+      "content": "The Real Aesthetic Club: one simple plan at $199/month with a $100 accumulating Beauty Bank, 15% off, a monthly laser upgrade and priority scheduling at our Miami medical spa."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://realaestheticmedspa.com/img/club/skin-club.webp"
+    }
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://realaestheticmedspa.com/the-real-aesthetic-club/"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/the-real-aesthetic-club/",
+      "hrefLang": "en"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/el-club-real-aesthetic/",
+      "hrefLang": "es"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://realaestheticmedspa.com/",
+      "hrefLang": "x-default"
+    }
+  ],
+  "jsonLd": [],
+  "preloadImages": []
+}

@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "under-eye-rejuvenation",
+  "path": "/procedures/under-eye-rejuvenation/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/under-eye-rejuvenation.webp",
+  "ctaImage": "/img/proc/under-eye-rejuvenation.webp",
+  "head": {
+    "title": "Under-Eye Rejuvenation in Miami: Fotona SmoothEye",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Under-eye rejuvenation in Miami at Real Aesthetic Medical Spa. Fotona SmoothEye protocol with Nd:YAG to tighten skin, soften fine lines, and refine crepe texture."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Under-Eye Rejuvenation in Miami: Fotona SmoothEye"
+      },
+      {
+        "property": "og:description",
+        "content": "Under-eye rejuvenation in Miami at Real Aesthetic Medical Spa. Fotona SmoothEye protocol with Nd:YAG to tighten skin, soften fine lines, and refine crepe texture."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/under-eye-rejuvenation/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/under-eye-rejuvenation.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Under-Eye Rejuvenation in Miami: Fotona SmoothEye"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Under-eye rejuvenation in Miami at Real Aesthetic Medical Spa. Fotona SmoothEye protocol with Nd:YAG to tighten skin, soften fine lines, and refine crepe texture."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/under-eye-rejuvenation.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/under-eye-rejuvenation/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/under-eye-rejuvenation/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/rejuvenecimiento-ojeras/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Under-Eye Rejuvenation in Miami: Fotona SmoothEye",
+        "description": "Under-eye rejuvenation with the Fotona SmoothEye protocol uses non-ablative Nd:YAG laser energy delivered around the orbital area to tighten the skin, soften fine lines, and refine crepe texture, with a comfortable session and no significant downtime.",
+        "url": "https://realaestheticmedspa.com/procedures/under-eye-rejuvenation/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/under-eye-rejuvenation/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/under-eye-rejuvenation/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is laser safe so close to the eye?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The Fotona SmoothEye protocol is specifically designed for use around the eyes. Specially shaped handpieces and mandatory metallic eye shields protect the eyeball during every pass, while the Nd:YAG wavelength delivers controlled heat into the dermis without breaking the skin surface. The procedure is performed by a qualified medical professional after a complete history that includes any ophthalmological condition."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will it remove my dark circles?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SmoothEye primarily improves skin quality — texture, fine lines, and crepe appearance — by stimulating collagen. It is not specifically a pigmentation treatment. Pigmentary or vascular dark circles may improve indirectly through better skin density, but they are usually addressed more directly with Under-Eye Brightening mesotherapy or pigmentation-specific protocols. During consultation we identify the dominant cause and design a layered plan accordingly."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions are needed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A protocol of three to four sessions spaced three to four weeks apart is generally recommended. The exact number depends on your starting skin condition, age, and goals. Maintenance sessions every four to six months help preserve the result. The cadence is reviewed at every follow-up so the plan stays aligned with the response observed and with your aesthetic objectives at the clinic in Miami."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Under-Eye Rejuvenation in Miami: Fotona SmoothEye",
+            "item": "https://realaestheticmedspa.com/procedures/under-eye-rejuvenation/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/under-eye-rejuvenation.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/under-eye-rejuvenation/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/rejuvenecimiento-ojeras/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Under-Eye Rejuvenation in Miami: <em>Fotona SmoothEye</em>",
+    "lede": "Under-eye rejuvenation with the Fotona SmoothEye protocol uses non-ablative Nd:YAG laser energy delivered around the orbital area to tighten the skin, soften fine lines, and refine crepe texture, with a comfortable session and no significant downtime.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-under-eyes",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Tightens periorbital skin progressively through controlled deep heating without ablating the surface.",
+        "Softens fine lines and refines crepe texture under and around the eyes.",
+        "Stimulates neocollagenesis for results that improve over the following weeks and months.",
+        "Performed comfortably with proper eye shields and a gentle, non-ablative thermal sensation.",
+        "Allows immediate return to normal activities in most cases, with no significant downtime.",
+        "Pairs naturally with Under-Eye Brightening mesotherapy for a layered protocol addressing tone and texture.",
+        "Suitable across a range of skin types when assessed and parametrised properly during consultation."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is laser safe so close to the eye?",
+          "a": "The Fotona SmoothEye protocol is specifically designed for use around the eyes. Specially shaped handpieces and mandatory metallic eye shields protect the eyeball during every pass, while the Nd:YAG wavelength delivers controlled heat into the dermis without breaking the skin surface. The procedure is performed by a qualified medical professional after a complete history that includes any ophthalmological condition."
+        },
+        {
+          "q": "Will it remove my dark circles?",
+          "a": "SmoothEye primarily improves skin quality — texture, fine lines, and crepe appearance — by stimulating collagen. It is not specifically a pigmentation treatment. Pigmentary or vascular dark circles may improve indirectly through better skin density, but they are usually addressed more directly with Under-Eye Brightening mesotherapy or pigmentation-specific protocols. During consultation we identify the dominant cause and design a layered plan accordingly."
+        },
+        {
+          "q": "How many sessions are needed?",
+          "a": "A protocol of three to four sessions spaced three to four weeks apart is generally recommended. The exact number depends on your starting skin condition, age, and goals. Maintenance sessions every four to six months help preserve the result. The cadence is reviewed at every follow-up so the plan stays aligned with the response observed and with your aesthetic objectives at the clinic in Miami."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-under-eyes",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

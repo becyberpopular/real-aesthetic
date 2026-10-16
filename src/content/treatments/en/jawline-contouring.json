@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "jawline-contouring",
+  "path": "/procedures/jawline-contouring/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/jawline-contouring.webp",
+  "ctaImage": "/img/proc/jawline-contouring.webp",
+  "head": {
+    "title": "Jawline Contouring in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Non-surgical jawline contouring in Miami at Real Aesthetic. HA or Radiesse along the mandibular border, optional masseter Botox, by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Jawline Contouring in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Non-surgical jawline contouring in Miami at Real Aesthetic. HA or Radiesse along the mandibular border, optional masseter Botox, by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/jawline-contouring/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/jawline-contouring.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Jawline Contouring in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Non-surgical jawline contouring in Miami at Real Aesthetic. HA or Radiesse along the mandibular border, optional masseter Botox, by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/jawline-contouring.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/jawline-contouring/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/jawline-contouring/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/perfilado-mandibular/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Jawline Contouring in Miami",
+        "description": "Non-surgical jawline contouring at Real Aesthetic Medical Spa in Miami uses hyaluronic acid filler or Radiesse along the mandibular border — and, when appropriate, masseter neuromodulator — to define the lower face without surgery, supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/jawline-contouring/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/jawline-contouring/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/jawline-contouring/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is this surgical jaw contouring?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. The jawline contouring we offer at Real Aesthetic is non-surgical and works on the soft tissues that drape the mandible. Surgical jaw contouring — osteotomy, genioplasty, mandibular angle reduction — is performed by a maxillofacial surgeon and reshapes bone. Injectables refine and define the existing jaw; they do not modify the skeleton."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "HA filler or Radiesse — which is better for the jaw?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It depends on goals and anatomy. HA is softer and reversible, ideal for patients who want adjustability and a more refined feel. Radiesse is firmer and more structural, biostimulates collagen, and is preferred when stronger projection along the bony border is the priority. Ronal Perdomo Lugo, APRN, FNP-C recommends the right option after assessing your jaw."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are male and female jawlines treated differently?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Male jaws typically benefit from a more angular, anteriorly projected angle and stronger ramus support, with a flat-bottom mandibular border. Female jaws are usually shaped towards a softer, slightly tapered line with refined projection. We use your bone structure as the reference rather than a generic template."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jawline Contouring in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/jawline-contouring/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/jawline-contouring.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/jawline-contouring/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/perfilado-mandibular/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Jawline Contouring <em>in Miami</em>",
+    "lede": "Non-surgical jawline contouring at Real Aesthetic Medical Spa in Miami uses hyaluronic acid filler or Radiesse along the mandibular border — and, when appropriate, masseter neuromodulator — to define the lower face without surgery, supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-jawline-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Sharpens the mandibular line and improves the visual transition between face and neck.",
+        "Defines the gonial angle (jaw angle) when projection is needed for structural support.",
+        "Softens the appearance of an enlarged masseter when combined with neuromodulator.",
+        "Creates a more balanced lower-face frame for chin, lips, and neck features.",
+        "Adapts to gender-specific aesthetic goals: more angular and projected for male patients, more refined and tapered for female patients.",
+        "Performed in a single in-office session per visit — no incisions, no anesthesia beyond topical, predictable recovery.",
+        "HA versions are reversible with hyaluronidase if the patient wants to step back from a result."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is this surgical jaw contouring?",
+          "a": "No. The jawline contouring we offer at Real Aesthetic is non-surgical and works on the soft tissues that drape the mandible. Surgical jaw contouring — osteotomy, genioplasty, mandibular angle reduction — is performed by a maxillofacial surgeon and reshapes bone. Injectables refine and define the existing jaw; they do not modify the skeleton."
+        },
+        {
+          "q": "HA filler or Radiesse — which is better for the jaw?",
+          "a": "It depends on goals and anatomy. HA is softer and reversible, ideal for patients who want adjustability and a more refined feel. Radiesse is firmer and more structural, biostimulates collagen, and is preferred when stronger projection along the bony border is the priority. Ronal Perdomo Lugo, APRN, FNP-C recommends the right option after assessing your jaw."
+        },
+        {
+          "q": "Are male and female jawlines treated differently?",
+          "a": "Yes. Male jaws typically benefit from a more angular, anteriorly projected angle and stronger ramus support, with a flat-bottom mandibular border. Female jaws are usually shaped towards a softer, slightly tapered line with refined projection. We use your bone structure as the reference rather than a generic template."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-jawline-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

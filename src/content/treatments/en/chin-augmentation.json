@@ -1,0 +1,291 @@
+{
+  "lang": "en",
+  "slug": "chin-augmentation",
+  "path": "/procedures/chin-augmentation/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/chin-augmentation.webp",
+  "ctaImage": "/img/proc/chin-augmentation.webp",
+  "head": {
+    "title": "Chin Augmentation in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Non-surgical chin augmentation in Miami at Real Aesthetic. HA filler or Radiesse for projection and profile harmony, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Chin Augmentation in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Non-surgical chin augmentation in Miami at Real Aesthetic. HA filler or Radiesse for projection and profile harmony, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/chin-augmentation/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/chin-augmentation.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Chin Augmentation in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Non-surgical chin augmentation in Miami at Real Aesthetic. HA filler or Radiesse for projection and profile harmony, supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/chin-augmentation.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/chin-augmentation/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/chin-augmentation/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/aumento-de-menton/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Chin Augmentation in Miami",
+        "description": "Non-surgical chin augmentation at Real Aesthetic Medical Spa in Miami uses hyaluronic acid filler or Radiesse to refine projection, balance the profile, and support the lower third of the face.",
+        "url": "https://realaestheticmedspa.com/procedures/chin-augmentation/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/chin-augmentation/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/chin-augmentation/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is chin augmentation surgical?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The chin augmentation we perform at Real Aesthetic is non-surgical. We use injectable HA or Radiesse to add projection and structural support without implants or incisions. Severe skeletal cases may still benefit from surgical evaluation, but most aesthetic concerns about chin projection can be addressed in a single in-office session."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "HA filler or Radiesse — which one is right for me?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It depends on your anatomy and goals. HA is softer, fully reversible, and ideal for patients who want adjustability. Radiesse is firmer, more structural, biostimulates collagen, and is preferred when stronger projection or a longer-lasting effect is the priority. Ronal Perdomo Lugo, APRN, FNP-C recommends the most suitable option after assessing your profile."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will it look natural in profile?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — natural profile harmony is the goal of the treatment. We use objective reference lines (such as the Riedel plane) and the patient's own facial proportions to plan projection. The result should align the chin with the lips and the rest of the face, not protrude beyond it. Conservative dosing across one or two sessions protects this balance."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Chin Augmentation in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/chin-augmentation/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/chin-augmentation.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/chin-augmentation/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/aumento-de-menton/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Chin Augmentation <em>in Miami</em>",
+    "lede": "Non-surgical chin augmentation at Real Aesthetic Medical Spa in Miami uses hyaluronic acid filler or Radiesse to refine projection, balance the profile, and support the lower third of the face.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-chin-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Restores or builds chin projection in patients with mild-to-moderate retrogenia (recessed chin).",
+        "Improves the visual harmony of the profile in relation to lips, nose, and jawline.",
+        "Supports the lower third of the face and softens the appearance of a heavy-looking jaw.",
+        "Helps lengthen a short lower face when used together with subtle jawline contouring.",
+        "HA is fully reversible if the patient is unhappy with the result.",
+        "Radiesse offers a firmer, more structural feel and stimulates collagen over time.",
+        "Performed in a single in-office session without the downtime of surgical implants."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "Is chin augmentation surgical?",
+          "a": "The chin augmentation we perform at Real Aesthetic is non-surgical. We use injectable HA or Radiesse to add projection and structural support without implants or incisions. Severe skeletal cases may still benefit from surgical evaluation, but most aesthetic concerns about chin projection can be addressed in a single in-office session."
+        },
+        {
+          "q": "HA filler or Radiesse — which one is right for me?",
+          "a": "It depends on your anatomy and goals. HA is softer, fully reversible, and ideal for patients who want adjustability. Radiesse is firmer, more structural, biostimulates collagen, and is preferred when stronger projection or a longer-lasting effect is the priority. Ronal Perdomo Lugo, APRN, FNP-C recommends the most suitable option after assessing your profile."
+        },
+        {
+          "q": "Will it look natural in profile?",
+          "a": "Yes — natural profile harmony is the goal of the treatment. We use objective reference lines (such as the Riedel plane) and the patient's own facial proportions to plan projection. The result should align the chin with the lips and the rest of the face, not protrude beyond it. Conservative dosing across one or two sessions protects this balance."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-chin-filler",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "iv-beauty-glow",
+  "path": "/tratamientos/iv-beauty-glow/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/iv-beauty-glow.webp",
+  "ctaImage": "/img/proc/iv-beauty-glow.webp",
+  "head": {
+    "title": "IV Beauty Glow en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "IV Beauty Glow en Miami en Real Aesthetic. Mezcla IV dirigida a la calidad de piel, pelo y uñas, supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "IV Beauty Glow en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "IV Beauty Glow en Miami en Real Aesthetic. Mezcla IV dirigida a la calidad de piel, pelo y uñas, supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/iv-beauty-glow/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-beauty-glow.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "IV Beauty Glow en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "IV Beauty Glow en Miami en Real Aesthetic. Mezcla IV dirigida a la calidad de piel, pelo y uñas, supervisada por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/iv-beauty-glow.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-beauty-glow/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/iv-beauty-glow/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/iv-beauty-glow/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "IV Beauty Glow en Miami",
+        "description": "IV Beauty Glow en Miami en Real Aesthetic. Mezcla IV dirigida a la calidad de piel, pelo y uñas, supervisada por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/iv-beauty-glow/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/iv-beauty-glow/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/iv-beauty-glow/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Mi piel se verá más luminosa de inmediato?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría describe sensación de piel renovada en las primeras 24 horas. La luminosidad visible se desarrolla en los días siguientes a medida que los efectos antioxidantes y nutricionales actúan en el ciclo de renovación cutánea. El efecto se potencia si la IV es parte de un programa de piel más amplio."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro el glutatión?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cuando se administra en entornos clínicos por profesionales formados en dosis apropiadas, el glutatión IV tiene un perfil de seguridad sólido. Hacemos cribado de contraindicaciones (deficiencia G6PD, interacciones con medicamentos azufrados) antes de la primera sesión y monitorizamos cada infusión. Comentamos tu historia clínica en consulta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cada cuánto puedo hacerla?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría la agenda mensual para beneficio sostenido en calidad de piel. Algunas la reservan 5–7 días antes de un evento para glow puntual. Ronal Perdomo Lugo, APRN, FNP-C recomienda la cadencia ideal según tu piel y plan global."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IV Beauty Glow en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/iv-beauty-glow/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/iv-beauty-glow.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/iv-beauty-glow/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/iv-beauty-glow/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "IV Beauty Glow <em>en Miami</em>",
+    "lede": "Mezcla IV rica en glutatión, biotina, vitamina C y complejo B diseñada para iluminar la piel, apoyar calidad de pelo y uñas y reforzar las defensas antioxidantes desde dentro.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-beauty-glow",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Glutatión en alta dosis para defensa antioxidante e iluminación de la piel.",
+        "Biotina y complejo B para apoyo de calidad capilar, ungueal y cutánea.",
+        "Vitamina C para síntesis de colágeno y luminosidad visible.",
+        "La sesión dura unos 60 minutos en entorno clínico cómodo.",
+        "Cadencia recomendada: mensual o pre-evento para realce visible de la piel.",
+        "Se combina muy bien con protocolos faciales y skin boosters para efecto compuesto."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Mi piel se verá más luminosa de inmediato?",
+          "a": "La mayoría describe sensación de piel renovada en las primeras 24 horas. La luminosidad visible se desarrolla en los días siguientes a medida que los efectos antioxidantes y nutricionales actúan en el ciclo de renovación cutánea. El efecto se potencia si la IV es parte de un programa de piel más amplio."
+        },
+        {
+          "q": "¿Es seguro el glutatión?",
+          "a": "Cuando se administra en entornos clínicos por profesionales formados en dosis apropiadas, el glutatión IV tiene un perfil de seguridad sólido. Hacemos cribado de contraindicaciones (deficiencia G6PD, interacciones con medicamentos azufrados) antes de la primera sesión y monitorizamos cada infusión. Comentamos tu historia clínica en consulta."
+        },
+        {
+          "q": "¿Cada cuánto puedo hacerla?",
+          "a": "La mayoría la agenda mensual para beneficio sostenido en calidad de piel. Algunas la reservan 5–7 días antes de un evento para glow puntual. Ronal Perdomo Lugo, APRN, FNP-C recomienda la cadencia ideal según tu piel y plan global."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-beauty-glow",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "lang": "en",
+  "slug": "advanced-regenerative-facial-exosomes",
+  "path": "/procedures/advanced-regenerative-facial-exosomes/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/advanced-regenerative-facial-exosomes.webp",
+  "ctaImage": "/img/proc/advanced-regenerative-facial-exosomes.webp",
+  "head": {
+    "title": "Advanced Regenerative Facial with Exosomes in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Advanced Regenerative Facial with exosomes in Miami at Real Aesthetic. Premium-tier regeneration using exosome technology and bio-stimulation. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Advanced Regenerative Facial with Exosomes in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Advanced Regenerative Facial with exosomes in Miami at Real Aesthetic. Premium-tier regeneration using exosome technology and bio-stimulation. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/advanced-regenerative-facial-exosomes/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/advanced-regenerative-facial-exosomes.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Advanced Regenerative Facial with Exosomes in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Advanced Regenerative Facial with exosomes in Miami at Real Aesthetic. Premium-tier regeneration using exosome technology and bio-stimulation. Supervised by Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/advanced-regenerative-facial-exosomes.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/advanced-regenerative-facial-exosomes/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/advanced-regenerative-facial-exosomes/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/facial-regenerativo-exosomas/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Advanced Regenerative Facial with Exosomes in Miami",
+        "description": "Advanced Regenerative Facial with exosomes in Miami at Real Aesthetic. Premium-tier regeneration using exosome technology and bio-stimulation. Supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/procedures/advanced-regenerative-facial-exosomes/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/advanced-regenerative-facial-exosomes/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/procedures/advanced-regenerative-facial-exosomes/",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What exactly are exosomes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Exosomes are tiny extracellular vesicles that cells use to communicate, carrying proteins, lipids and nucleic acids that regulate biological processes. In aesthetic medicine, clinical-grade exosomes deliver regenerative signals into the skin, promoting collagen synthesis, anti-inflammatory response and cell turnover."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is this different from PRP or PRF?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PRP and PRF use your own platelets and growth factors. Exosomes are a different class of biological signal — nanovesicles produced from stem cells and processed under pharmaceutical-grade protocols. Exosomes can deliver a more concentrated and targeted regenerative effect, often used as the premium tier of regenerative facials."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions are recommended?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We typically suggest a series of 3 sessions spaced 4 weeks apart for the initial protocol, then maintenance every 6 to 12 months. Some patients add a single exosome session as a recovery boost after intensive laser or microneedling. Ronal Perdomo Lugo, APRN, FNP-C tailors the plan to your skin objective."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Advanced Regenerative Facial with Exosomes in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/advanced-regenerative-facial-exosomes/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/advanced-regenerative-facial-exosomes.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/advanced-regenerative-facial-exosomes/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/facial-regenerativo-exosomas/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "Advanced Regenerative Facial · Exosomes <em>in Miami</em>",
+    "lede": "The Advanced Regenerative Facial uses exosome technology — nanovesicles that carry regenerative signals between cells — to deliver high-grade bio-stimulation and accelerate skin renewal beyond what conventional protocols achieve.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-advanced-regenerative-facial-exosomes",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Delivers regenerative signals at the cellular level through exosome technology.",
+        "Improves skin firmness, fine lines, tone and overall radiance in a measurable way.",
+        "Supports recovery after intensive procedures (laser, microneedling) by accelerating tissue repair.",
+        "Calibrated to deliver maximum regeneration with comfortable in-office time.",
+        "Performed in a controlled clinical environment with cold-chain handled exosome product.",
+        "Pairs naturally with microneedling, laser or PRF for compounded effect."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "What exactly are exosomes?",
+          "a": "Exosomes are tiny extracellular vesicles that cells use to communicate, carrying proteins, lipids and nucleic acids that regulate biological processes. In aesthetic medicine, clinical-grade exosomes deliver regenerative signals into the skin, promoting collagen synthesis, anti-inflammatory response and cell turnover."
+        },
+        {
+          "q": "How is this different from PRP or PRF?",
+          "a": "PRP and PRF use your own platelets and growth factors. Exosomes are a different class of biological signal — nanovesicles produced from stem cells and processed under pharmaceutical-grade protocols. Exosomes can deliver a more concentrated and targeted regenerative effect, often used as the premium tier of regenerative facials."
+        },
+        {
+          "q": "How many sessions are recommended?",
+          "a": "We typically suggest a series of 3 sessions spaced 4 weeks apart for the initial protocol, then maintenance every 6 to 12 months. Some patients add a single exosome session as a recovery boost after intensive laser or microneedling. Ronal Perdomo Lugo, APRN, FNP-C tailors the plan to your skin objective."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-advanced-regenerative-facial-exosomes",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Treatments",
+        "icon": "Sparkle",
+        "label": "Treatments"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book consultation",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contact/",
+        "className": "bb-item",
+        "ariaLabel": "Contact",
+        "icon": "Pin",
+        "label": "Contact"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "lang": "es",
+  "slug": "fotona-smootheye",
+  "path": "/tratamientos/fotona-smootheye/",
+  "cssFamily": "a",
+  "heroImage": "/img/proc/fotona-smootheye.webp",
+  "ctaImage": "/img/proc/fotona-smootheye.webp",
+  "head": {
+    "title": "Fotona SmoothEye en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Fotona SmoothEye, tratamiento láser no ablativo en Miami en Real Aesthetic. Tensa la piel del párpado y suaviza líneas finas alrededor de los ojos. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Fotona SmoothEye en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Fotona SmoothEye, tratamiento láser no ablativo en Miami en Real Aesthetic. Tensa la piel del párpado y suaviza líneas finas alrededor de los ojos. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/fotona-smootheye/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-smootheye.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1600"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fotona SmoothEye en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Fotona SmoothEye, tratamiento láser no ablativo en Miami en Real Aesthetic. Tensa la piel del párpado y suaviza líneas finas alrededor de los ojos. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/fotona-smootheye.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-smootheye/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/fotona-smootheye/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/fotona-smootheye/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Fotona SmoothEye en Miami",
+        "description": "Fotona SmoothEye, tratamiento láser no ablativo en Miami en Real Aesthetic. Tensa la piel del párpado y suaviza líneas finas alrededor de los ojos. Supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/fotona-smootheye/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/fotona-smootheye/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/fotona-smootheye/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Se protege el ojo durante el tratamiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. Usamos escudos oculares opacos colocados sobre el ojo antes de cada disparo láser. La punta Er:YAG de Fotona se calibra en modo no ablativo diseñado específicamente para la zona periocular. La seguridad es la prioridad y el protocolo está bien documentado en literatura clínica."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones necesito para ver resultados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría nota cambios tempranos tras la segunda sesión y el efecto completo a los tres meses de completar 3–4 sesiones. El mantenimiento suele ser 1–2 sesiones al año, agendadas según el calendario del paciente y otros tratamientos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Sustituye a la blefaroplastia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. SmoothEye es un protocolo no quirúrgico de tensado. Si hay exceso de piel palpebral que supera lo que el láser puede abordar, la blefaroplastia sigue siendo la opción adecuada. En consulta te diremos con honestidad si te conviene la vía quirúrgica."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fotona SmoothEye en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/fotona-smootheye/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/fotona-smootheye.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "ES",
+        "href": "/tratamientos/fotona-smootheye/",
+        "active": true
+      },
+      {
+        "label": "EN",
+        "href": "/procedures/fotona-smootheye/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Reservar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Fotona SmoothEye <em>en Miami</em>",
+    "lede": "Fotona SmoothEye es un protocolo láser no ablativo suave que estimula colágeno en la zona delicada de los ojos para tensar la piel del párpado y suavizar líneas finas sin inyecciones.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-smootheye",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Qué hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Tensa la piel laxa del párpado superior y del contorno inferior mediante estimulación controlada de colágeno.",
+        "Suaviza líneas finas y patas de gallo del contorno ocular.",
+        "No ablativo — sin agujas, sin cirugía, prácticamente sin recuperación.",
+        "Cada sesión dura unos 30 minutos; protocolo completo de 3 a 4 sesiones cada 3–4 semanas.",
+        "Los resultados progresan en semanas a medida que se forma colágeno nuevo y siguen mejorando hasta 3 meses tras la última sesión.",
+        "Se combina muy bien con Fotona 4D, neuromoduladores o skin boosters en un plan facial coordinado."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Se protege el ojo durante el tratamiento?",
+          "a": "Sí. Usamos escudos oculares opacos colocados sobre el ojo antes de cada disparo láser. La punta Er:YAG de Fotona se calibra en modo no ablativo diseñado específicamente para la zona periocular. La seguridad es la prioridad y el protocolo está bien documentado en literatura clínica."
+        },
+        {
+          "q": "¿Cuántas sesiones necesito para ver resultados?",
+          "a": "La mayoría nota cambios tempranos tras la segunda sesión y el efecto completo a los tres meses de completar 3–4 sesiones. El mantenimiento suele ser 1–2 sesiones al año, agendadas según el calendario del paciente y otros tratamientos."
+        },
+        {
+          "q": "¿Sustituye a la blefaroplastia?",
+          "a": "No. SmoothEye es un protocolo no quirúrgico de tensado. Si hay exceso de piel palpebral que supera lo que el láser puede abordar, la blefaroplastia sigue siendo la opción adecuada. En consulta te diremos con honestidad si te conviene la vía quirúrgica."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-smootheye",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

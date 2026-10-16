@@ -1,0 +1,391 @@
+{
+  "lang": "es",
+  "slug": "botox-completo-facial",
+  "path": "/tratamientos/botox-completo-facial/",
+  "cssFamily": "c",
+  "heroImage": "/img/proc/full-face-botox.webp",
+  "ctaImage": "/img/proc/full-face-botox.webp",
+  "head": {
+    "title": "Botox completo facial en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Botox facial completo en Miami en Real Aesthetic. Protocolo neuromodulador del tercio superior, medio e inferior con Ronal Perdomo Lugo, APRN, FNP-C. AUTONOMOUS APRN"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Botox completo facial en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Botox facial completo en Miami en Real Aesthetic. Protocolo neuromodulador del tercio superior, medio e inferior con Ronal Perdomo Lugo, APRN, FNP-C. AUTONOMOUS APRN"
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/botox-completo-facial/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/full-face-botox.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Botox completo facial en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Botox facial completo en Miami en Real Aesthetic. Protocolo neuromodulador del tercio superior, medio e inferior con Ronal Perdomo Lugo, APRN, FNP-C. AUTONOMOUS APRN"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/full-face-botox.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-completo-facial/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/full-face-botox/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/botox-completo-facial/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Botox completo facial",
+        "alternateName": "Neuromodulador facial completo (onabotulinumtoxinA)",
+        "description": "Protocolo neuromodulador integral que atenúa las líneas dinámicas del tercio superior, medio e inferior del rostro: entrecejo, frente, patas de gallo, líneas de conejito y textura del mentón.",
+        "bodyLocation": "Rostro (tercio superior, medio e inferior)",
+        "procedureType": "Inyectable no quirúrgico",
+        "preparation": "Evitar antiagregantes y alcohol 24 horas antes cuando sea médicamente posible. Acudir con la piel limpia, sin maquillaje en las zonas de tratamiento.",
+        "followup": "Revisión clínica a los 14 días para valoración del efecto y ajuste si fuera necesario.",
+        "howPerformed": "Mapeo facial en reposo y animación, asepsia y microinyecciones precisas de onabotulinumtoxinA en puntos musculares marcados de los tres tercios faciales.",
+        "url": "https://realaestheticmedspa.com/tratamientos/botox-completo-facial/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/botox-completo-facial/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuánto dura el botox completo facial?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El efecto dura habitualmente de tres a cuatro meses. Inicio entre el día tres y el cinco, efecto pleno hacia el día 14. La duración depende del metabolismo, los músculos tratados, la dosis y el estilo de vida."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿El botox completo facial congela la expresión?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Un protocolo correctamente dosificado no congela la expresión. Priorizamos el suavizado y ajustamos la dosis a la fuerza y asimetría de cada músculo, con revisión a los 14 días para ajustes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Duele el botox facial completo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría describe la inyección como un pinchazo breve de uno o dos segundos por punto. Usamos aguja ultrafina y compresas frías. La sesión completa dura unos 20 a 30 minutos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo puedo hacer ejercicio?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evita ejercicio intenso, hot yoga, sauna y baño turco durante 24 horas. Caminar suave sí es aceptable el mismo día. Esto favorece la difusión adecuada y reduce el riesgo de hematomas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puede tratar la 'piel de naranja' del mentón?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. Una dosis precisa en el músculo mentoniano suaviza esa textura. Se incluye habitualmente en el plan completo cuando es visible en reposo o al hablar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro el botox completo facial?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La onabotulinumtoxinA cuenta con décadas de datos clínicos cuando la administra un médico cualificado. Los efectos suelen ser leves y transitorios; los eventos graves son infrecuentes. Requiere consulta médica previa."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿En qué se diferencia del botox de una sola zona?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Una sesión de una sola zona trata un único grupo muscular; el protocolo completo coordina la dosis en los tres tercios para un movimiento armónico sin que las áreas no tratadas parezcan más activas."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/tratamientos/botox-completo-facial/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Botox completo facial en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/botox-completo-facial/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/full-face-botox.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/full-face-botox/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/botox-completo-facial/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Botox completo facial <em>en Miami</em>",
+    "lede": "El botox completo facial es un protocolo neuromodulador integral que atenúa las líneas de expresión del tercio superior, medio e inferior del rostro en una sola sesión cuidadosamente planificada en nuestra clínica de Miami.",
+    "multi": {
+      "label": "Reserva por indicación",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-full-face",
+          "label": "Cara completa",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+          "label": "Bruxismo (maseteros)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+          "label": "Hiperhidrosis",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Suaviza el entrecejo, las arrugas frontales, las patas de gallo y las líneas de conejito en una única sesión coordinada.",
+        "Refina la textura del mentón al relajar el músculo mentoniano que produce el aspecto de \"piel de naranja\".",
+        "Apoya un rostro descansado y armónico sin congelar la expresión cuando se dosifica correctamente.",
+        "Ayuda a prevenir la profundización de las arrugas dinámicas en pacientes jóvenes con uso preventivo.",
+        "Sesión rápida de unos 20 a 30 minutos, compatible con una jornada de trabajo en Brickell o Coral Gables.",
+        "Recuperación mínima: la mayoría de pacientes retoma su actividad la misma tarde.",
+        "Efecto reversible y predecible que se desvanece gradualmente en tres a cuatro meses."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "El inicio del efecto es progresivo: la mayoría de pacientes nota un suavizado entre el tercer y el quinto día, con efecto pleno hacia el día 14. El resultado estético dura habitualmente de tres a cuatro meses, y las líneas de expresión reaparecen lentamente a medida que el neuromodulador se metaboliza. Un calendario de mantenimiento cada tres a cuatro meses sostiene un resultado consistente; los intervalos los personaliza Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner)"
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Cuánto dura el botox completo facial?",
+          "a": "El efecto estético del botox completo facial dura habitualmente de tres a cuatro meses. El inicio es entre el tercer y el quinto día y el efecto pleno se aprecia hacia el día 14. La duración depende del metabolismo individual, los grupos musculares tratados, la dosis utilizada y factores de estilo de vida como el ejercicio intenso. Un plan de mantenimiento cada tres a cuatro meses ayuda a sostener un aspecto refinado y estable."
+        },
+        {
+          "q": "¿El botox completo facial congela la expresión?",
+          "a": "Un protocolo correctamente dosificado no debe congelar la expresión. Nuestra estrategia prioriza el suavizado, no la parálisis, ajustando la dosis a la fuerza y asimetría de cada músculo. El paciente conserva su sonrisa, su mirada y su animación, mientras las líneas dinámicas se atenúan visiblemente. Si la respuesta es excesiva o asimétrica en la revisión a los 14 días, ajustamos en esa misma visita."
+        },
+        {
+          "q": "¿Duele el botox facial completo?",
+          "a": "La mayoría de pacientes describe la inyección como un pinchazo breve de uno o dos segundos por punto. Utilizamos aguja ultrafina y compresas frías para mejorar la comodidad. La anestesia tópica rara vez se necesita y la ofrecemos cuando la sensibilidad del paciente lo justifica. La sesión completa dura unos 20 a 30 minutos y suele tolerarse muy bien."
+        },
+        {
+          "q": "¿Cuándo puedo volver a hacer ejercicio?",
+          "a": "Recomendamos evitar el ejercicio intenso, hot yoga, sauna y baño turco durante las primeras 24 horas. Caminar suavemente sí es aceptable el mismo día. Evitar el esfuerzo intenso favorece la difusión correcta del neuromodulador hacia el músculo objetivo y reduce el pequeño riesgo de hematomas en los puntos de inyección."
+        },
+        {
+          "q": "¿Puede tratar la \"piel de naranja\" del mentón?",
+          "a": "Sí. La textura irregular o \"empedrada\" del mentón se debe a la hiperactividad del músculo mentoniano. Una pequeña dosis precisa de neuromodulador en este músculo suaviza la textura y aporta una superficie más lisa. Esta zona se incluye habitualmente en un plan completo cuando el paciente presenta textura mentoniana visible en reposo o al hablar."
+        },
+        {
+          "q": "¿Es seguro el botox facial completo?",
+          "a": "La onabotulinumtoxinA cuenta con décadas de datos clínicos y se utiliza ampliamente en medicina estética por médicos cualificados. Los efectos secundarios suelen ser leves y transitorios; los eventos graves son infrecuentes. La seguridad depende de una planificación anatómica precisa, una dosis adecuada y una buena selección del paciente, motivo por el que exigimos consulta médica previa con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner)"
+        },
+        {
+          "q": "¿En qué se diferencia del botox de una sola zona?",
+          "a": "El botox de una sola zona trata un único grupo muscular, por ejemplo solo el entrecejo. El protocolo completo coordina la distribución de dosis en los tercios superior, medio e inferior para que el rostro se mueva en armonía. Tratar solo una zona puede hacer que las áreas no tratadas parezcan relativamente más activas; el plan completo equilibra toda la expresión facial."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "para diseñar tu plan neuromodulador personalizado.",
+    "multi": {
+      "label": "Reserva por indicación",
+      "buttons": [
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-full-face",
+          "label": "Cara completa",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+          "label": "Bruxismo (maseteros)",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+          "label": "Hiperhidrosis",
+          "className": "cta cta-zone",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ]
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

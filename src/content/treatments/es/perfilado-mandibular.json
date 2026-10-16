@@ -1,0 +1,291 @@
+{
+  "lang": "es",
+  "slug": "perfilado-mandibular",
+  "path": "/tratamientos/perfilado-mandibular/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/jawline-contouring.webp",
+  "ctaImage": "/img/proc/jawline-contouring.webp",
+  "head": {
+    "title": "Perfilado mandibular en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Perfilado mandibular no quirúrgico en Miami con ácido hialurónico o Radiesse y bótox de masetero opcional. Supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Perfilado mandibular en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Perfilado mandibular no quirúrgico en Miami con ácido hialurónico o Radiesse y bótox de masetero opcional. Supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/perfilado-mandibular/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/jawline-contouring.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Perfilado mandibular en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Perfilado mandibular no quirúrgico en Miami con ácido hialurónico o Radiesse y bótox de masetero opcional. Supervisión Ronal Perdomo Lugo, APRN, FNP-C."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/jawline-contouring.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/perfilado-mandibular/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/jawline-contouring/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/perfilado-mandibular/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Perfilado mandibular en Miami",
+        "description": "El perfilado mandibular en Real Aesthetic Medical Spa, en Miami, define la línea de la mandíbula con ácido hialurónico o Radiesse y, cuando es apropiado, neuromodulador en el masetero, para conseguir un tercio inferior más limpio sin cirugía, bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
+        "url": "https://realaestheticmedspa.com/tratamientos/perfilado-mandibular/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/perfilado-mandibular/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/perfilado-mandibular/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Esto es cirugía mandibular?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. El perfilado mandibular en Real Aesthetic es no quirúrgico y trabaja sobre los tejidos blandos que cubren la mandíbula. La cirugía mandibular —osteotomía, genioplastia, reducción del ángulo— remodela el hueso y la realiza un cirujano maxilofacial. Los inyectables refinan y definen la mandíbula existente; no modifican el esqueleto."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿AH o Radiesse para la mandíbula?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende del objetivo y de la anatomía. El AH es más blando y reversible, ideal para quienes priorizan ajustabilidad y un acabado más suave. Radiesse es más firme y estructural, bioestimula colágeno y se prefiere cuando se busca una proyección más fuerte a lo largo del borde óseo. Ronal Perdomo Lugo, APRN, FNP-C recomienda la opción adecuada tras evaluar tu mandíbula."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La mandíbula masculina y la femenina se tratan igual?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. La mandíbula masculina suele beneficiarse de un ángulo más anguloso y proyectado, con buena rama y un borde inferior más recto. La mandíbula femenina se trabaja hacia una línea más suave y ligeramente atenuada, con proyección refinada. Tu propia estructura ósea es la referencia, no una plantilla genérica."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Perfilado mandibular en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/perfilado-mandibular/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/jawline-contouring.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/jawline-contouring/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/perfilado-mandibular/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Perfilado mandibular <em>en Miami</em>",
+    "lede": "El perfilado mandibular en Real Aesthetic Medical Spa, en Miami, define la línea de la mandíbula con ácido hialurónico o Radiesse y, cuando es apropiado, neuromodulador en el masetero, para conseguir un tercio inferior más limpio sin cirugía, bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-jawline-filler",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Define la línea mandibular y mejora la transición visual entre rostro y cuello.",
+        "Refuerza el ángulo gonial cuando se necesita proyección para dar soporte estructural.",
+        "Suaviza un tercio inferior pesado por hipertrofia del masetero al combinar relleno con neuromodulador.",
+        "Crea un marco inferior más equilibrado para mentón, labios y cuello.",
+        "Se adapta al objetivo estético: más anguloso y proyectado en hombres, más refinado y atenuado en mujeres.",
+        "Se realiza en una sesión ambulatoria por visita: sin incisiones, sin anestesia más allá de la tópica, recuperación predecible.",
+        "El AH es reversible con hialuronidasa si el paciente desea revertir el resultado."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Esto es cirugía mandibular?",
+          "a": "No. El perfilado mandibular en Real Aesthetic es no quirúrgico y trabaja sobre los tejidos blandos que cubren la mandíbula. La cirugía mandibular —osteotomía, genioplastia, reducción del ángulo— remodela el hueso y la realiza un cirujano maxilofacial. Los inyectables refinan y definen la mandíbula existente; no modifican el esqueleto."
+        },
+        {
+          "q": "¿AH o Radiesse para la mandíbula?",
+          "a": "Depende del objetivo y de la anatomía. El AH es más blando y reversible, ideal para quienes priorizan ajustabilidad y un acabado más suave. Radiesse es más firme y estructural, bioestimula colágeno y se prefiere cuando se busca una proyección más fuerte a lo largo del borde óseo. Ronal Perdomo Lugo, APRN, FNP-C recomienda la opción adecuada tras evaluar tu mandíbula."
+        },
+        {
+          "q": "¿La mandíbula masculina y la femenina se tratan igual?",
+          "a": "No. La mandíbula masculina suele beneficiarse de un ángulo más anguloso y proyectado, con buena rama y un borde inferior más recto. La mandíbula femenina se trabaja hacia una línea más suave y ligeramente atenuada, con proyección refinada. Tu propia estructura ósea es la referencia, no una plantilla genérica."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-jawline-filler",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar consulta",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/contacto/",
+        "className": "bb-item",
+        "ariaLabel": "Contacto",
+        "icon": "Pin",
+        "label": "Contacto"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

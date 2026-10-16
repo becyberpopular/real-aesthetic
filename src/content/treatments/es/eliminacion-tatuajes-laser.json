@@ -1,0 +1,347 @@
+{
+  "lang": "es",
+  "slug": "eliminacion-tatuajes-laser",
+  "path": "/tratamientos/eliminacion-tatuajes-laser/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/laser-tattoo-removal.webp",
+  "ctaImage": "/img/proc/laser-tattoo-removal.webp",
+  "head": {
+    "title": "Eliminación de tatuajes con láser en Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Eliminación de tatuajes con láser Q-switched Nd:YAG en Miami. Multi-longitud de onda para tinta negra, roja, azul y verde. Reserva tu consulta en Real Aesthetic."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Eliminación de tatuajes con láser en Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "Eliminación de tatuajes con láser Q-switched Nd:YAG en Miami. Multi-longitud de onda para tinta negra, roja, azul y verde. Reserva tu consulta en Real Aesthetic."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/tratamientos/eliminacion-tatuajes-laser/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-tattoo-removal.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Eliminación de tatuajes con láser en Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Eliminación de tatuajes con láser Q-switched Nd:YAG en Miami. Multi-longitud de onda para tinta negra, roja, azul y verde. Reserva tu consulta en Real Aesthetic."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/laser-tattoo-removal.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/tratamientos/eliminacion-tatuajes-laser/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/laser-tattoo-removal/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/eliminacion-tatuajes-laser/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Eliminación de tatuajes con láser en Miami",
+        "description": "La eliminación de tatuajes con láser es un procedimiento no quirúrgico que utiliza un láser Q-switched Nd:YAG para fragmentar las partículas de tinta en la piel y permitir que el organismo las elimine progresivamente, atenuando el tatuaje a lo largo de varias sesiones.",
+        "url": "https://realaestheticmedspa.com/tratamientos/eliminacion-tatuajes-laser/",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/tratamientos/eliminacion-tatuajes-laser/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://realaestheticmedspa.com/tratamientos/eliminacion-tatuajes-laser/",
+        "inLanguage": "es",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones de eliminación de tatuajes con láser necesito?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de tatuajes requiere entre seis y 12 sesiones separadas cuatro a ocho semanas. Los tatuajes amateurs y los más antiguos suelen aclararse antes. Los profesionales, densos o multicolor requieren más sesiones. En tu consulta en Miami estimamos un rango realista según densidad de tinta, profundidad, ubicación y fototipo, y lo ajustamos durante el tratamiento."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Duele eliminar un tatuaje con láser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La sensación se describe como una goma elástica al chocar o pinchazos calientes rápidos. Aplicamos crema anestésica antes de cada sesión, usamos aire frío durante los pulsos y disponemos de medidas adicionales para zonas sensibles como costillas, tobillos o dedos. La molestia es breve y desaparece al detener el láser."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se pueden eliminar todos los colores de tinta?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Las tintas negra, azul oscuro y roja suelen responder muy bien. Los verdes, turquesas y pasteles son más complejos y pueden requerir más sesiones o un aclarado parcial. Los amarillos y blancos son los más resistentes. Valoramos cada color en consulta y explicamos la respuesta esperada antes de empezar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿El láser deja cicatriz en la piel?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cuando lo realiza un especialista con parámetros adecuados, el riesgo de cicatriz es bajo. Una cicatriz preexistente del propio tatuaje puede hacerse más visible al aclararse la tinta. Seguir las indicaciones de cuidados — sobre todo no arrancar costras y proteger la zona del sol — reduce de forma notable el riesgo de cambios de textura."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Es seguro en pieles morenas u oscuras?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, calibrando bien los parámetros. Nuestra longitud Nd:YAG 1064 nm suele ser bien tolerada en el rango completo de fototipos Fitzpatrick que vemos en Miami. Realizamos siempre una prueba previa, comenzamos con fluencias conservadoras en fototipos altos y vigilamos cualquier cambio pigmentario transitorio entre sesiones."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo hacerme un cover-up tras el aclarado láser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. Muchos pacientes realizan tres a cinco sesiones para aclarar el tatuaje original lo suficiente para que un tatuador pueda diseñar un cover-up con éxito. Coordinamos el grado de aclarado con tu artista y detenemos las sesiones cuando se ha alcanzado el nivel necesario."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo puedo volver a tomar el sol o nadar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evita piscinas, jacuzzis, el mar y saunas durante al menos 10 días, y la exposición solar directa o cabinas de bronceado durante cuatro semanas antes y después de cada sesión. Una piel bronceada aumenta el riesgo de cambios pigmentarios y puede obligarnos a reprogramar el tratamiento."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://realaestheticmedspa.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tratamientos",
+            "item": "https://realaestheticmedspa.com/tratamientos/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Eliminación de tatuajes con láser en Miami",
+            "item": "https://realaestheticmedspa.com/tratamientos/eliminacion-tatuajes-laser/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/laser-tattoo-removal.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Idioma",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/laser-tattoo-removal/",
+        "active": false
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/eliminacion-tatuajes-laser/",
+        "active": true
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Agendar",
+  "hero": {
+    "pretitle": "Tratamiento · Miami",
+    "title": "Eliminación de tatuajes con láser <em>en Miami</em>",
+    "lede": "La eliminación de tatuajes con láser es un procedimiento no quirúrgico que utiliza un láser Q-switched Nd:YAG para fragmentar las partículas de tinta en la piel y permitir que el organismo las elimine progresivamente, atenuando el tatuaje a lo largo de varias sesiones.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Beneficios",
+      "title": "Lo que hace <em>por ti</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Actúa selectivamente sobre la tinta, protegiendo la piel circundante gracias a los pulsos ultracortos Q-switched.",
+        "Trata un amplio rango de colores de tinta mediante las longitudes 1064 nm y 532 nm.",
+        "Apto para tatuajes en brazos, piernas, espalda, pecho, cuello y otras zonas habituales en pacientes de Miami.",
+        "No quirúrgico: sin incisiones, sin suturas y sin tiempos de inactividad significativos entre sesiones.",
+        "Permite una atenuación progresiva, ideal cuando se busca preparar un cover-up y no la eliminación total.",
+        "Realizado bajo supervisión médica con parámetros personalizados para cada fototipo cutáneo.",
+        "Compatible con tatuajes amateurs, profesionales, traumáticos y cosméticos."
+      ]
+    },
+    {
+      "className": "proc-block charcoal results",
+      "eyebrow": "Resultados y duración",
+      "title": "Cuándo se ve, <em>cuánto dura</em>",
+      "text": [
+        "La atenuación visible suele aparecer entre dos y cuatro semanas tras cada sesión, a medida que el sistema linfático elimina la tinta fragmentada. La mayoría de pacientes nota un aclarado importante tras tres o cuatro sesiones y un aclarado total o casi total tras seis a 12 sesiones. La tinta negra responde más rápido; los verdes y azules claros suelen necesitar más sesiones. Una vez aclarado el tatuaje, el resultado se mantiene en el tiempo, aunque pueden persistir sombreados residuales o cambios pigmentarios."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que <em>realmente preguntan</em>",
+      "faq": [
+        {
+          "q": "¿Cuántas sesiones de eliminación de tatuajes con láser necesito?",
+          "a": "La mayoría de tatuajes requiere entre seis y 12 sesiones separadas cuatro a ocho semanas. Los tatuajes amateurs y los más antiguos suelen aclararse antes. Los profesionales, densos o multicolor requieren más sesiones. En tu consulta en Miami estimamos un rango realista según densidad de tinta, profundidad, ubicación y fototipo, y lo ajustamos durante el tratamiento."
+        },
+        {
+          "q": "¿Duele eliminar un tatuaje con láser?",
+          "a": "La sensación se describe como una goma elástica al chocar o pinchazos calientes rápidos. Aplicamos crema anestésica antes de cada sesión, usamos aire frío durante los pulsos y disponemos de medidas adicionales para zonas sensibles como costillas, tobillos o dedos. La molestia es breve y desaparece al detener el láser."
+        },
+        {
+          "q": "¿Se pueden eliminar todos los colores de tinta?",
+          "a": "Las tintas negra, azul oscuro y roja suelen responder muy bien. Los verdes, turquesas y pasteles son más complejos y pueden requerir más sesiones o un aclarado parcial. Los amarillos y blancos son los más resistentes. Valoramos cada color en consulta y explicamos la respuesta esperada antes de empezar."
+        },
+        {
+          "q": "¿El láser deja cicatriz en la piel?",
+          "a": "Cuando lo realiza un especialista con parámetros adecuados, el riesgo de cicatriz es bajo. Una cicatriz preexistente del propio tatuaje puede hacerse más visible al aclararse la tinta. Seguir las indicaciones de cuidados — sobre todo no arrancar costras y proteger la zona del sol — reduce de forma notable el riesgo de cambios de textura."
+        },
+        {
+          "q": "¿Es seguro en pieles morenas u oscuras?",
+          "a": "Sí, calibrando bien los parámetros. Nuestra longitud Nd:YAG 1064 nm suele ser bien tolerada en el rango completo de fototipos Fitzpatrick que vemos en Miami. Realizamos siempre una prueba previa, comenzamos con fluencias conservadoras en fototipos altos y vigilamos cualquier cambio pigmentario transitorio entre sesiones."
+        },
+        {
+          "q": "¿Puedo hacerme un cover-up tras el aclarado láser?",
+          "a": "Sí. Muchos pacientes realizan tres a cinco sesiones para aclarar el tatuaje original lo suficiente para que un tatuador pueda diseñar un cover-up con éxito. Coordinamos el grado de aclarado con tu artista y detenemos las sesiones cuando se ha alcanzado el nivel necesario."
+        },
+        {
+          "q": "¿Cuándo puedo volver a tomar el sol o nadar?",
+          "a": "Evita piscinas, jacuzzis, el mar y saunas durante al menos 10 días, y la exposición solar directa o cabinas de bronceado durante cuatro semanas antes y después de cada sesión. Una piel bronceada aumenta el riesgo de cambios pigmentarios y puede obligarnos a reprogramar el tratamiento."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Planifica tu visita",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Planifica tu tratamiento <em>en Miami</em>",
+    "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "label": "Reservar consulta",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Navegación móvil",
+    "items": [
+      {
+        "href": "/",
+        "className": "bb-item",
+        "ariaLabel": "Inicio",
+        "icon": "Home",
+        "label": "Inicio"
+      },
+      {
+        "href": "/tratamientos/",
+        "className": "bb-item active",
+        "ariaLabel": "Tratamientos",
+        "icon": "Sparkle",
+        "label": "Tratamientos"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Reservar",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/el-club-real-aesthetic/",
+        "className": "bb-item",
+        "ariaLabel": "El Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}

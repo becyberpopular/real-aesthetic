@@ -1,0 +1,344 @@
+{
+  "lang": "en",
+  "slug": "pdrn-skin-regeneration",
+  "path": "/procedures/pdrn-skin-regeneration/",
+  "cssFamily": "b",
+  "heroImage": "/img/proc/pdrn-skin-regeneration.webp",
+  "ctaImage": "/img/proc/pdrn-skin-regeneration.webp",
+  "head": {
+    "title": "PDRN Skin Regeneration Therapy in Miami",
+    "meta": [
+      {
+        "name": "description",
+        "content": "PDRN skin regeneration therapy in Miami: DNA-fragment injections that stimulate fibroblasts and support post-sun, post-procedural recovery."
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "PDRN Skin Regeneration Therapy in Miami"
+      },
+      {
+        "property": "og:description",
+        "content": "PDRN skin regeneration therapy in Miami: DNA-fragment injections that stimulate fibroblasts and support post-sun, post-procedural recovery."
+      },
+      {
+        "property": "og:url",
+        "content": "https://realaestheticmedspa.com/procedures/pdrn-skin-regeneration/"
+      },
+      {
+        "property": "og:image",
+        "content": "https://realaestheticmedspa.com/img/proc/pdrn-skin-regeneration.webp"
+      },
+      {
+        "property": "og:image:width",
+        "content": "2400"
+      },
+      {
+        "property": "og:image:height",
+        "content": "1260"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_US"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Real Aesthetic Medical Spa"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "PDRN Skin Regeneration Therapy in Miami"
+      },
+      {
+        "name": "twitter:description",
+        "content": "PDRN skin regeneration therapy in Miami: DNA-fragment injections that stimulate fibroblasts and support post-sun, post-procedural recovery."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://realaestheticmedspa.com/img/proc/pdrn-skin-regeneration.webp"
+      }
+    ],
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://realaestheticmedspa.com/procedures/pdrn-skin-regeneration/"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/procedures/pdrn-skin-regeneration/",
+        "hrefLang": "en"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/tratamientos/regeneracion-piel-pdrn/",
+        "hrefLang": "es"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://realaestheticmedspa.com/",
+        "hrefLang": "x-default"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "PDRN Skin Regeneration Therapy",
+        "alternateName": "Polydeoxyribonucleotide Skin Regeneration",
+        "description": "Regenerative injectable protocol that uses polydeoxyribonucleotide — purified DNA fragments — to stimulate fibroblasts and support skin repair. Three to four sessions, two to three weeks apart, at Real Aesthetic Medical Spa in Miami.",
+        "bodyLocation": "Face, neck, décolleté",
+        "procedureType": "Regenerative injectable mesotherapy",
+        "preparation": "Avoid blood-thinning supplements 48 hours before. Inform the team of any fish allergy, autoimmune disease, recent procedure or active skin condition. Arrive with clean skin.",
+        "followup": "Apply broad-spectrum SPF 50. Avoid intense sun, saunas and vigorous workouts for 48 hours. Pause retinoids and acids for around 48 hours. Maintenance every 4-6 months as advised.",
+        "howPerformed": "After topical anaesthesia, a sterile PDRN solution is delivered through fine-gauge needles or micro-cannula across the dermis of the treatment area to stimulate fibroblasts and support tissue repair.",
+        "url": "https://realaestheticmedspa.com/procedures/pdrn-skin-regeneration/",
+        "provider": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "performer": {
+          "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo"
+        },
+        "inLanguage": "en",
+        "mainEntityOfPage": "https://realaestheticmedspa.com/procedures/pdrn-skin-regeneration/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "inLanguage": "en",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What exactly is PDRN, in plain language?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PDRN stands for polydeoxyribonucleotide. It is a regenerative active made of small, purified DNA fragments. Once injected into the dermis, it interacts with skin cells called fibroblasts and provides building blocks the skin reuses to repair itself. It does not add volume; it supports the skin's own regeneration."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is PDRN the same as PRP?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. PRP, or platelet-rich plasma, is prepared from a patient's own blood and works through growth factors released by platelets. PDRN is a standardised biological active derived from salmon-trout DNA. Both are regenerative, but they use different mechanisms and can sometimes be combined within a personalised plan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is PDRN safe for sensitive skin?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PDRN is generally well tolerated and is often chosen for sensitive or reactive skin because of its calming, regenerative profile. As with any injectable, patients with fish allergy, autoimmune disease, active skin infection or pregnancy should not receive it. We complete a full medical history and skin assessment in consultation to confirm suitability."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When is the best time to start PDRN after a laser?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PDRN is often used to support recovery after Fotona laser sessions, microneedling or peels. We usually wait until the skin has re-epithelialised and any open lesions have closed, which is typically five to ten days after the procedure. The exact timing is decided by Ronal Perdomo Lugo, APRN, FNP-C based on the laser used and your healing."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions do I need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The standard protocol is three to four sessions, scheduled two to three weeks apart. Patients with significant sun damage or post-procedural needs may benefit from an additional session. After the initial cycle, a single maintenance session every four to six months helps preserve the regenerative effect and supports long-term skin quality."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will I see results immediately?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Some patients notice a softer, more hydrated feel within a few days, but PDRN is fundamentally regenerative. The most meaningful improvements in firmness, tone and texture develop progressively over the protocol and peak around four to eight weeks after the final session. We document progress with standardised photos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can PDRN be combined with fillers or Botox?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, when sequenced correctly. PDRN improves skin quality at the dermal level, while neuromodulators such as Botox relax dynamic lines and fillers restore volume. We typically separate sessions by one to two weeks and design a personalised plan during your consultation so that each treatment supports the others."
+            }
+          }
+        ],
+        "url": "https://realaestheticmedspa.com/procedures/pdrn-skin-regeneration/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://realaestheticmedspa.com/en/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Procedures",
+            "item": "https://realaestheticmedspa.com/procedures/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PDRN Skin Regeneration Therapy in Miami",
+            "item": "https://realaestheticmedspa.com/procedures/pdrn-skin-regeneration/"
+          }
+        ]
+      }
+    ],
+    "preloadImages": [
+      "/img/proc/pdrn-skin-regeneration.webp"
+    ]
+  },
+  "langSwitcher": {
+    "ariaLabel": "Language",
+    "links": [
+      {
+        "label": "EN",
+        "href": "/procedures/pdrn-skin-regeneration/",
+        "active": true
+      },
+      {
+        "label": "ES",
+        "href": "/tratamientos/regeneracion-piel-pdrn/",
+        "active": false
+      }
+    ],
+    "separator": "·"
+  },
+  "navCta": "Book",
+  "hero": {
+    "pretitle": "Treatment · Miami",
+    "title": "PDRN Skin Regeneration Therapy <em>in Miami</em>",
+    "lede": "PDRN skin regeneration therapy is a regenerative injectable protocol that uses polydeoxyribonucleotide — purified DNA fragments derived from salmon trout — to stimulate fibroblasts and support skin repair, performed in three to four sessions at our Miami medical spa.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-dna-repair-treatment-pdrn-facial",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "blocks": [
+    {
+      "className": "proc-block cream",
+      "eyebrow": "Benefits",
+      "title": "What it does <em>for you</em>",
+      "listClass": "benefits-list",
+      "list": [
+        "Supports skin repair after sun damage, laser sessions or microneedling.",
+        "Stimulates fibroblast activity and renews collagen and elastin synthesis.",
+        "Improves overall skin quality, firmness and texture in a natural way.",
+        "Hydrates the dermis and softens fine lines linked to thinning skin.",
+        "Calms reactive or sensitised skin, including post-procedural redness.",
+        "Suitable for patients who want regeneration without volumising injectables."
+      ]
+    },
+    {
+      "className": "proc-block bone",
+      "eyebrow": "Frequently asked questions",
+      "title": "Things people <em>actually ask</em>",
+      "faq": [
+        {
+          "q": "What exactly is PDRN, in plain language?",
+          "a": "PDRN stands for polydeoxyribonucleotide. It is a regenerative active made of small, purified DNA fragments. Once injected into the dermis, it interacts with skin cells called fibroblasts and provides building blocks the skin reuses to repair itself. It does not add volume; it supports the skin's own regeneration."
+        },
+        {
+          "q": "Is PDRN the same as PRP?",
+          "a": "No. PRP, or platelet-rich plasma, is prepared from a patient's own blood and works through growth factors released by platelets. PDRN is a standardised biological active derived from salmon-trout DNA. Both are regenerative, but they use different mechanisms and can sometimes be combined within a personalised plan."
+        },
+        {
+          "q": "Is PDRN safe for sensitive skin?",
+          "a": "PDRN is generally well tolerated and is often chosen for sensitive or reactive skin because of its calming, regenerative profile. As with any injectable, patients with fish allergy, autoimmune disease, active skin infection or pregnancy should not receive it. We complete a full medical history and skin assessment in consultation to confirm suitability."
+        },
+        {
+          "q": "When is the best time to start PDRN after a laser?",
+          "a": "PDRN is often used to support recovery after Fotona laser sessions, microneedling or peels. We usually wait until the skin has re-epithelialised and any open lesions have closed, which is typically five to ten days after the procedure. The exact timing is decided by Ronal Perdomo Lugo, APRN, FNP-C based on the laser used and your healing."
+        },
+        {
+          "q": "How many sessions do I need?",
+          "a": "The standard protocol is three to four sessions, scheduled two to three weeks apart. Patients with significant sun damage or post-procedural needs may benefit from an additional session. After the initial cycle, a single maintenance session every four to six months helps preserve the regenerative effect and supports long-term skin quality."
+        },
+        {
+          "q": "Will I see results immediately?",
+          "a": "Some patients notice a softer, more hydrated feel within a few days, but PDRN is fundamentally regenerative. The most meaningful improvements in firmness, tone and texture develop progressively over the protocol and peak around four to eight weeks after the final session. We document progress with standardised photos."
+        },
+        {
+          "q": "Can PDRN be combined with fillers or Botox?",
+          "a": "Yes, when sequenced correctly. PDRN improves skin quality at the dermal level, while neuromodulators such as Botox relax dynamic lines and fillers restore volume. We typically separate sessions by one to two weeks and design a personalised plan during your consultation so that each treatment supports the others."
+        }
+      ]
+    }
+  ],
+  "ctaStrip": {
+    "eyebrow": "Plan your visit",
+    "eyebrowStyle": "color:var(--gold-bright);",
+    "title": "Plan your treatment <em>in Miami</em>",
+    "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
+    "cta": {
+      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-dna-repair-treatment-pdrn-facial",
+      "label": "Book consultation",
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
+    }
+  },
+  "bottomBar": {
+    "ariaLabel": "Mobile navigation",
+    "items": [
+      {
+        "href": "/en/",
+        "className": "bb-item",
+        "ariaLabel": "Home",
+        "icon": "Home",
+        "label": "Home"
+      },
+      {
+        "href": "/procedures/",
+        "className": "bb-item active",
+        "ariaLabel": "Procedures",
+        "icon": "Sparkle",
+        "label": "Procedures"
+      },
+      {
+        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "className": "bb-cta",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "Book",
+        "icon": "Calendar"
+      },
+      {
+        "href": "/the-real-aesthetic-club/",
+        "className": "bb-item",
+        "ariaLabel": "The Club",
+        "icon": "Star",
+        "label": "Club"
+      },
+      {
+        "href": "https://wa.me/17862443722",
+        "className": "bb-item",
+        "target": "_blank",
+        "rel": "noopener",
+        "ariaLabel": "WhatsApp",
+        "icon": "WhatsApp",
+        "label": "WhatsApp"
+      }
+    ]
+  }
+}
