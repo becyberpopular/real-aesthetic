@@ -227,11 +227,9 @@
     "title": "Acne Scars Laser Treatment <em>in Miami</em>",
     "lede": "Acne scar laser treatment is a fractional Er:YAG protocol that progressively remodels atrophic scars — ice pick, boxcar and rolling — by stimulating dermal collagen across multiple sessions.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/6CjK34EvQroEkpncoILu?language=en",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -300,11 +298,9 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a clinical mapping with our Fotona team and design a remodeling plan supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/6CjK34EvQroEkpncoILu?language=en",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {

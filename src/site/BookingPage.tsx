@@ -8,8 +8,10 @@ import { PageStyle } from "./PageStyle";
 import { SiteChrome } from "./SiteChrome";
 import { SiteLink } from "./SiteLink";
 
-// The catalog page's styles, plus one line for the duration / "Book" label on each card.
+// The catalog page's styles, plus the price line and the duration / "Book" label on each card.
 const EXTRA_CSS = `
+.proc-card .card-price{margin-top:14px;font-family:'Newsreader',serif;font-weight:400;font-size:1.05rem;color:#a87a48;line-height:1.3;}
+.proc-card .card-price + .card-meta{margin-top:8px;}
 .proc-card .card-meta{margin-top:14px;font-family:'JetBrains Mono',monospace;font-size:.6rem;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);}
 `;
 
@@ -96,6 +98,7 @@ export function BookingPage({ lang }: { lang: Lang }) {
           ...s,
           name: lang === "es" ? s.es : s.en,
           desc: lang === "es" ? s.descEs : s.descEn,
+          price: lang === "es" ? s.priceEs : s.priceEn,
           category: lang === "es" ? c.es : c.en,
         }))
         .filter((s) => !q || fold(`${s.name} ${s.desc} ${s.es} ${s.en} ${s.keywords}`).includes(q)),
@@ -204,6 +207,7 @@ export function BookingPage({ lang }: { lang: Lang }) {
               <div className="card-body">
                 <div className="card-name">{s.name}</div>
                 {s.desc && <div className="card-tag">{s.desc}</div>}
+                {s.price && <div className="card-price">{s.price}</div>}
                 <div className="card-meta">
                   {s.minutes} min · {t.book} →
                 </div>

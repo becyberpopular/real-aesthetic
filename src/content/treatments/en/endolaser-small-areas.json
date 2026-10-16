@@ -259,14 +259,12 @@
           "rel": "noopener"
         },
         {
-          "href": "https://api.leadconnectorhq.com/widget/booking/LaviyAuVLZMp4jxtMeiO?language=en",
+          "href": "/book/",
           "label": "Neck",
-          "className": "cta cta-zone",
-          "target": "_blank",
-          "rel": "noopener"
+          "className": "cta cta-zone"
         },
         {
-          "href": "https://api.leadconnectorhq.com/widget/booking/I96OtMzO456WsaWLA6gk?language=en",
+          "href": "https://api.leadconnectorhq.com/widget/booking/mjA5fLwtIK8FVj2Wzs58?language=en",
           "label": "Facial",
           "className": "cta cta-zone",
           "target": "_blank",
@@ -362,14 +360,12 @@
           "rel": "noopener"
         },
         {
-          "href": "https://api.leadconnectorhq.com/widget/booking/LaviyAuVLZMp4jxtMeiO?language=en",
+          "href": "/book/",
           "label": "Neck",
-          "className": "cta cta-zone",
-          "target": "_blank",
-          "rel": "noopener"
+          "className": "cta cta-zone"
         },
         {
-          "href": "https://api.leadconnectorhq.com/widget/booking/I96OtMzO456WsaWLA6gk?language=en",
+          "href": "https://api.leadconnectorhq.com/widget/booking/mjA5fLwtIK8FVj2Wzs58?language=en",
           "label": "Facial",
           "className": "cta cta-zone",
           "target": "_blank",

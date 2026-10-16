@@ -235,11 +235,9 @@
     "title": "Reducción de grasa localizada <em>en Miami</em>",
     "lede": "La reducción de grasa localizada es un protocolo inyectable de mesoterapia lipolítica para acúmulos pequeños y definidos —papada, pliegue del sostén o cara interna del muslo— en nuestra clínica de Miami, y no es un tratamiento para perder peso.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/N17fw5Wrkinaj71nLkm9?language=es",
+      "href": "/reservar/",
       "label": "Reservar consulta",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -312,11 +310,9 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/N17fw5Wrkinaj71nLkm9?language=es",
+      "href": "/reservar/",
       "label": "Reservar consulta",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {

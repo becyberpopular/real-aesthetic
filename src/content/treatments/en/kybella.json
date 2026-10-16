@@ -189,11 +189,9 @@
     "title": "Kybella <em>in Miami</em>",
     "lede": "Kybella is a non-surgical injectable treatment that dissolves submental fat to refine the chin profile and define the jawline in patients with mild-to-moderate double chin.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/krto7SRAcxnoHLyq8QNH?language=en",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -237,11 +235,9 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/krto7SRAcxnoHLyq8QNH?language=en",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {

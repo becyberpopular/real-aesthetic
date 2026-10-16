@@ -189,11 +189,9 @@
     "title": "Fotona Wart Removal <em>in Miami</em>",
     "lede": "Fotona Er:YAG laser precisely ablates common warts and small benign skin lesions in one to three sessions, with minimal scarring and a clean healing process.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/4iHET4RAAF9l3fmhkJMu?language=en",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -237,11 +235,9 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/4iHET4RAAF9l3fmhkJMu?language=en",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {

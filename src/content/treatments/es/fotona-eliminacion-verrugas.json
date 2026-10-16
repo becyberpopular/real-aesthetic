@@ -189,11 +189,9 @@
     "title": "Fotona Eliminación de Verrugas <em>en Miami</em>",
     "lede": "El láser Er:YAG de Fotona ablata con precisión verrugas comunes y pequeñas lesiones cutáneas benignas en una a tres sesiones, con mínima cicatriz y cicatrización limpia.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/4iHET4RAAF9l3fmhkJMu?language=es",
+      "href": "/reservar/",
       "label": "Reservar consulta",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -237,11 +235,9 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://api.leadconnectorhq.com/widget/booking/4iHET4RAAF9l3fmhkJMu?language=es",
+      "href": "/reservar/",
       "label": "Reservar consulta",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {
