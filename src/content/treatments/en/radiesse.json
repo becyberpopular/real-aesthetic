@@ -235,7 +235,7 @@
     "title": "Radiesse in Miami: Immediate Volume and <em>Long-Term Collagen</em>",
     "lede": "Radiesse is an injectable biostimulator made of calcium hydroxylapatite microspheres in a gel carrier that delivers instant volume and stimulates long-term collagen, ideal for jawline definition, cheek support, and hand rejuvenation.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-radiesse-biostimulator",
+      "href": "https://api.leadconnectorhq.com/widget/booking/UPfhQ1Yfnn6f42WTAnBB?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -304,7 +304,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-radiesse-biostimulator",
+      "href": "https://api.leadconnectorhq.com/widget/booking/UPfhQ1Yfnn6f42WTAnBB?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -329,10 +329,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

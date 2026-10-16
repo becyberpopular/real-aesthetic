@@ -227,7 +227,7 @@
     "title": "Rellenos de labios <em>en Miami</em>",
     "lede": "Los rellenos de labios en Real Aesthetic Medical Spa, en Miami, utilizan ácido hialurónico para refinar la forma, recuperar hidratación y crear unos labios proporcionados que parecen una versión cuidada de los tuyos, nunca artificiales.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lip-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/VPGHxgES2PsJ343QAvJ0?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -300,7 +300,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lip-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/VPGHxgES2PsJ343QAvJ0?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -325,10 +325,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

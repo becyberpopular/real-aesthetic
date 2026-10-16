@@ -189,7 +189,7 @@
     "title": "Masaje linfático corporal <em>en Miami</em>",
     "lede": "El masaje linfático corporal es una técnica manual de drenaje de cuerpo entero que moviliza el líquido a través del sistema linfático superficial para apoyar la recuperación antes y después de procedimientos corporales y aportar beneficios de bienestar como sesión independiente, en una visita de 60 minutos realizada por terapeutas formados en nuestra clínica de Miami.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "href": "https://api.leadconnectorhq.com/widget/booking/OoY3f7Z0oL66ZXAojyVw?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva un masaje linfático corporal de 60 minutos en Real Aesthetic Medical Spa, Miami, dentro de tu recuperación postprocedimiento o como sesión de bienestar.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "href": "https://api.leadconnectorhq.com/widget/booking/OoY3f7Z0oL66ZXAojyVw?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

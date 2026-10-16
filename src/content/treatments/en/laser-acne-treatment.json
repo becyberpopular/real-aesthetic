@@ -227,7 +227,7 @@
     "title": "Laser Acne Treatment in Miami <em>with Fotona</em>",
     "lede": "Laser acne treatment is a medical-aesthetic protocol that uses Fotona Nd:YAG and Er:YAG wavelengths to reduce *P. acnes* bacteria, calm inflammation and regulate sebaceous activity in patients with active acne.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-active-acne-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/akVUY99DRcQjFbgFVYVC?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -300,7 +300,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-active-acne-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/akVUY99DRcQjFbgFVYVC?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -325,10 +325,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

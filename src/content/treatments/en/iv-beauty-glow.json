@@ -189,7 +189,7 @@
     "title": "IV Beauty Glow <em>in Miami</em>",
     "lede": "An IV blend rich in glutathione, biotin, vitamin C and B-complex designed to brighten the skin, support hair and nail quality, and reinforce antioxidant defences from within.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-beauty-glow",
+      "href": "https://api.leadconnectorhq.com/widget/booking/7kT9DtYZQQ6ijhhQ2e53?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-beauty-glow",
+      "href": "https://api.leadconnectorhq.com/widget/booking/7kT9DtYZQQ6ijhhQ2e53?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

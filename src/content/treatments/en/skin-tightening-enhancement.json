@@ -189,7 +189,7 @@
     "title": "Skin Tightening Enhancement in Miami: Body Firming for <em>Lasting Contour</em>",
     "lede": "Skin tightening enhancement is a non-invasive body firming protocol that uses radio-frequency or Nd:YAG energy to remodel collagen and tighten the skin envelope after body contouring or as an independent plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-tightening",
+      "href": "https://api.leadconnectorhq.com/widget/booking/QCbAuTXAbcnz7Bs17j1q?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-tightening",
+      "href": "https://api.leadconnectorhq.com/widget/booking/QCbAuTXAbcnz7Bs17j1q?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

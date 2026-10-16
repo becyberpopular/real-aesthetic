@@ -163,7 +163,7 @@
     "title": "Mesoterapia de luminosidad e hidratación facial <em>en Miami</em>",
     "lede": "La mesoterapia de luminosidad facial es un protocolo de microinyecciones que aporta ácido hialurónico, vitaminas y aminoácidos directamente a la dermis para devolver hidratación profunda y luminosidad, realizado en nuestra clínica de Miami en tres sesiones separadas dos semanas.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/J897FuHLxj4kpEB5rUMc?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -234,7 +234,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/J897FuHLxj4kpEB5rUMc?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -259,10 +259,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

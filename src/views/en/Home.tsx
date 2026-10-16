@@ -61,14 +61,9 @@ export default function HomeEn() {
             </SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/book/" className="nav-cta">
           Book
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       <div className="pager" id="pager">
         {" "}
@@ -94,14 +89,9 @@ export default function HomeEn() {
           <p className="doctor-line">
             Ronal Perdomo Lugo, APRN, FNP-C — Aesthetic Nurse Practitioner
           </p>{" "}
-          <a
-            className="cta"
-            target="_blank"
-            rel="noopener"
-            href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          >
+          <SiteLink className="cta" href="/book/">
             Book consultation
-          </a>{" "}
+          </SiteLink>{" "}
         </div>{" "}
         <a href="#treatments" className="hero-scrollcue">
           Treatments
@@ -370,14 +360,9 @@ export default function HomeEn() {
               <SiteLink className="primary" href="/about/">
                 Meet Ronal
               </SiteLink>{" "}
-              <a
-                className="ghost"
-                target="_blank"
-                rel="noopener"
-                href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-              >
+              <SiteLink className="ghost" href="/book/">
                 Book consultation
-              </a>{" "}
+              </SiteLink>{" "}
             </div>{" "}
           </div>{" "}
         </div>{" "}
@@ -567,14 +552,9 @@ export default function HomeEn() {
             A private consultation with Ronal Perdomo Lugo. No commercial pressure, no commitment —
             just a conversation about what's possible.
           </p>{" "}
-          <a
-            className="cta"
-            target="_blank"
-            rel="noopener"
-            href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          >
+          <SiteLink className="cta" href="/book/">
             Book consultation
-          </a>{" "}
+          </SiteLink>{" "}
         </div>{" "}
       </section>{" "}
       {/* FOOTER */}{" "}
@@ -611,13 +591,7 @@ export default function HomeEn() {
           </svg>{" "}
           <span>Treatments</span>{" "}
         </SiteLink>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="bb-cta"
-          aria-label="Book"
-        >
+        <SiteLink href="/book/" className="bb-cta" aria-label="Book">
           {" "}
           <svg
             viewBox="0 0 24 24"
@@ -633,7 +607,7 @@ export default function HomeEn() {
             <path d="M16 4v4" />
             <path d="M9 15l2 2 4-4" />
           </svg>{" "}
-        </a>{" "}
+        </SiteLink>{" "}
         <SiteLink href="/the-real-aesthetic-club/" className="bb-item" aria-label="The Club">
           {" "}
           <svg

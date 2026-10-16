@@ -163,7 +163,7 @@
     "title": "Facial Glow &amp; Hydration Therapy (Mesotherapy) <em>in Miami</em>",
     "lede": "Facial glow mesotherapy is a series of micro-injections that deliver hyaluronic acid, vitamins and amino acids directly into the dermis to restore deep hydration and luminosity, performed at our Miami practice over three sessions spaced two weeks apart.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/J897FuHLxj4kpEB5rUMc?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -226,7 +226,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation at Real Aesthetic Medical Spa and let us design a personalised facial glow protocol for you.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/J897FuHLxj4kpEB5rUMc?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -251,10 +251,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

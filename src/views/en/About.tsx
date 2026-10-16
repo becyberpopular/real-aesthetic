@@ -61,14 +61,9 @@ export default function AboutEn() {
             </SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/book/" className="nav-cta">
           Book
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       {/* HERO */}{" "}
       <section className="about-hero">
@@ -194,14 +189,9 @@ export default function AboutEn() {
           </p>{" "}
           <div className="cta-row">
             {" "}
-            <a
-              className="primary"
-              target="_blank"
-              rel="noopener"
-              href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-            >
+            <SiteLink className="primary" href="/book/">
               Book consultation
-            </a>{" "}
+            </SiteLink>{" "}
             <SiteLink className="ghost" href="/procedures/">
               Browse treatments
             </SiteLink>{" "}
@@ -242,13 +232,7 @@ export default function AboutEn() {
           </svg>{" "}
           <span>Treatments</span>{" "}
         </SiteLink>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="bb-cta"
-          aria-label="Book"
-        >
+        <SiteLink href="/book/" className="bb-cta" aria-label="Book">
           {" "}
           <svg
             viewBox="0 0 24 24"
@@ -264,7 +248,7 @@ export default function AboutEn() {
             <path d="M16 4v4" />
             <path d="M9 15l2 2 4-4" />
           </svg>{" "}
-        </a>{" "}
+        </SiteLink>{" "}
         <SiteLink href="/the-real-aesthetic-club/" className="bb-item" aria-label="The Club">
           {" "}
           <svg

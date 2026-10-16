@@ -189,11 +189,9 @@
     "title": "Intimate Area Brightening <em>in Miami</em>",
     "lede": "Intimate area brightening is a medical mesotherapy protocol that addresses hyperpigmentation in the intimate and bikini area through a delicate cocktail of tranexamic acid and glutathione, performed under strict medical and privacy standards at our Miami practice.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -238,11 +236,9 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a private consultation at Real Aesthetic Medical Spa to discuss whether this protocol is suitable for you.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {
@@ -263,10 +259,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

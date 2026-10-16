@@ -61,14 +61,9 @@ export default function AboutEs() {
             </SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/reservar/" className="nav-cta">
           Reservar
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       {/* HERO */}{" "}
       <section className="about-hero">
@@ -198,14 +193,9 @@ export default function AboutEs() {
           </p>{" "}
           <div className="cta-row">
             {" "}
-            <a
-              className="primary"
-              target="_blank"
-              rel="noopener"
-              href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-            >
+            <SiteLink className="primary" href="/reservar/">
               Reservar consulta
-            </a>{" "}
+            </SiteLink>{" "}
             <SiteLink className="ghost" href="/tratamientos/">
               Ver tratamientos
             </SiteLink>{" "}
@@ -246,13 +236,7 @@ export default function AboutEs() {
           </svg>{" "}
           <span>Tratamientos</span>{" "}
         </SiteLink>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="bb-cta"
-          aria-label="Reservar"
-        >
+        <SiteLink href="/reservar/" className="bb-cta" aria-label="Reservar">
           {" "}
           <svg
             viewBox="0 0 24 24"
@@ -268,7 +252,7 @@ export default function AboutEs() {
             <path d="M16 4v4" />
             <path d="M9 15l2 2 4-4" />
           </svg>{" "}
-        </a>{" "}
+        </SiteLink>{" "}
         <SiteLink href="/el-club-real-aesthetic/" className="bb-item" aria-label="El Club">
           {" "}
           <svg

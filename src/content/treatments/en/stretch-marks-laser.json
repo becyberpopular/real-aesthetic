@@ -189,11 +189,9 @@
     "title": "Stretch Marks Laser Treatment <em>in Miami</em>",
     "lede": "Fractional Er:YAG laser treatment with the Fotona platform addresses both red (early) and white (mature) stretch marks by stimulating collagen and remodelling the dermal scar pattern, with progressive improvement over a protocol of four to six sessions.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -238,11 +236,9 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {
@@ -263,10 +259,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

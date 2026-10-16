@@ -227,7 +227,7 @@
     "title": "Regeneración de piel con PDRN <em>en Miami</em>",
     "lede": "La regeneración de piel con PDRN es un protocolo inyectable regenerativo que utiliza polidesoxirribonucleótido — fragmentos purificados de ADN procedentes de la trucha de salmón — para estimular los fibroblastos y apoyar la reparación cutánea, con tres a cuatro sesiones en nuestra clínica de Miami.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-dna-repair-treatment-pdrn-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/BrWpbM5oCweD3lbsPvOr?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -299,7 +299,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-dna-repair-treatment-pdrn-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/BrWpbM5oCweD3lbsPvOr?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -324,10 +324,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

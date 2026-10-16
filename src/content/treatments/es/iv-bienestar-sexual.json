@@ -189,7 +189,7 @@
     "title": "IV Bienestar Sexual <em>en Miami</em>",
     "lede": "Mezcla IV dirigida diseñada para apoyar el bienestar sexual con aminoácidos, complejo B, vitamina C y compuestos que favorecen la circulación, abordando energía, libido y vitalidad general.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-sexual-wellness-boost",
+      "href": "https://api.leadconnectorhq.com/widget/booking/gsgNDD5qbIVShnZaW2dg?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-sexual-wellness-boost",
+      "href": "https://api.leadconnectorhq.com/widget/booking/gsgNDD5qbIVShnZaW2dg?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

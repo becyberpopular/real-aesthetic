@@ -189,7 +189,7 @@
     "title": "IV Hydration Basic <em>in Miami</em>",
     "lede": "Foundational IV protocol that delivers a balanced isotonic solution directly into the bloodstream to restore hydration faster and more efficiently than oral fluids alone.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-hydration-basic",
+      "href": "https://api.leadconnectorhq.com/widget/booking/evAXB956Wld8ug4gsIND?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-hydration-basic",
+      "href": "https://api.leadconnectorhq.com/widget/booking/evAXB956Wld8ug4gsIND?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

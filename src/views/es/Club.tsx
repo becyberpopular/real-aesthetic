@@ -50,14 +50,9 @@ export default function ClubEs() {
             <SiteLink href="/contacto/">Contacto</SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/reservar/" className="nav-cta">
           Reservar
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       <main>
         {" "}
@@ -145,14 +140,9 @@ export default function ClubEs() {
                 >
                   Unirme al Club →
                 </a>{" "}
-                <a
-                  className="secondary"
-                  target="_blank"
-                  rel="noopener"
-                  href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-                >
+                <SiteLink className="secondary" href="/reservar/">
                   Reservar consulta
-                </a>{" "}
+                </SiteLink>{" "}
               </div>{" "}
               <p className="fine">
                 Compromiso mínimo de 3 meses. Se renueva automáticamente. No transferible.
@@ -232,14 +222,9 @@ export default function ClubEs() {
           </p>{" "}
           <div className="ctas">
             {" "}
-            <a
-              className="primary"
-              target="_blank"
-              rel="noopener"
-              href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-            >
+            <SiteLink className="primary" href="/reservar/">
               Reservar consulta gratuita →
-            </a>{" "}
+            </SiteLink>{" "}
             <a
               className="secondary"
               href="https://wa.me/17862443722"
@@ -282,13 +267,7 @@ export default function ClubEs() {
           </svg>{" "}
           <span>Tratam.</span>{" "}
         </SiteLink>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="bb-cta"
-          aria-label="Reservar"
-        >
+        <SiteLink href="/reservar/" className="bb-cta" aria-label="Reservar">
           {" "}
           <svg
             viewBox="0 0 24 24"
@@ -304,7 +283,7 @@ export default function ClubEs() {
             <line x1="3" y1="10" x2="21" y2="10" />
             <polyline points="9 16 11 18 15 14" />
           </svg>{" "}
-        </a>{" "}
+        </SiteLink>{" "}
         <SiteLink href="/el-club-real-aesthetic/" className="bb-item" aria-label="El Club">
           {" "}
           <svg

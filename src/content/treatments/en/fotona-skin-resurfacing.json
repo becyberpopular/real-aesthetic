@@ -221,7 +221,7 @@
     "title": "Fotona Skin Resurfacing <em>in Miami</em>",
     "lede": "Fotona skin resurfacing is an ablative or fractional Er:YAG laser treatment that creates a controlled micro-injury in the upper layers of the skin to renew texture, soften wrinkles, refine enlarged pores, and restore an even, luminous surface.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-resurfacing",
+      "href": "https://api.leadconnectorhq.com/widget/booking/XMj3xHeroZj2gWteHZ7G?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -294,7 +294,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-resurfacing",
+      "href": "https://api.leadconnectorhq.com/widget/booking/XMj3xHeroZj2gWteHZ7G?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -319,10 +319,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

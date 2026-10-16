@@ -229,7 +229,7 @@
     "title": "Lymphatic Drainage Enhancement in Miami: Recovery Add-On for <em>Body Contouring</em>",
     "lede": "Lymphatic drainage enhancement is a manual or machine-assisted protocol added to body contouring and endolaser plans to reduce post-procedure swelling, accelerate recovery, and refine the final aesthetic outcome.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "href": "https://api.leadconnectorhq.com/widget/booking/OoY3f7Z0oL66ZXAojyVw?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -298,7 +298,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "href": "https://api.leadconnectorhq.com/widget/booking/OoY3f7Z0oL66ZXAojyVw?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -323,10 +323,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

@@ -189,7 +189,7 @@
     "title": "Fotona Vector Lift <em>in Miami</em>",
     "lede": "Vector Lift uses Fotona's intra-oral Nd:YAG handpiece to deliver gentle heat to the deeper layers of the lower face from inside the mouth, lifting and tightening the jowls and jawline.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-vectorlift",
+      "href": "https://api.leadconnectorhq.com/widget/booking/M9AJ6GxpBfQQinLEYdCY?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-vectorlift",
+      "href": "https://api.leadconnectorhq.com/widget/booking/M9AJ6GxpBfQQinLEYdCY?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

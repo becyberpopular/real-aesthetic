@@ -46,14 +46,9 @@ export default function FinancingEn() {
             <SiteLink href="/contact/">Contact</SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/book/" className="nav-cta">
           Book
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       <main>
         {" "}
@@ -156,14 +151,9 @@ export default function FinancingEn() {
             >
               Pre-qualify with Cherry →
             </a>{" "}
-            <a
-              className="secondary"
-              target="_blank"
-              rel="noopener"
-              href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-            >
+            <SiteLink className="secondary" href="/book/">
               Book consultation
-            </a>{" "}
+            </SiteLink>{" "}
           </div>{" "}
         </section>{" "}
         <div className="disclaimer">
@@ -206,13 +196,7 @@ export default function FinancingEn() {
           </svg>{" "}
           <span>Treat.</span>{" "}
         </SiteLink>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="bb-cta"
-          aria-label="Book"
-        >
+        <SiteLink href="/book/" className="bb-cta" aria-label="Book">
           {" "}
           <svg
             viewBox="0 0 24 24"
@@ -228,7 +212,7 @@ export default function FinancingEn() {
             <line x1="3" y1="10" x2="21" y2="10" />
             <polyline points="9 16 11 18 15 14" />
           </svg>{" "}
-        </a>{" "}
+        </SiteLink>{" "}
         <SiteLink href="/financing/" className="bb-item active" aria-label="Financing">
           {" "}
           <svg

@@ -221,7 +221,7 @@
     "title": "Fotona 4D en Miami: lifting láser <em>sin cirugía</em>",
     "lede": "Fotona 4D es un protocolo láser no invasivo de cuatro modalidades que combina pases intraorales y externos con láser Er:YAG y Nd:YAG para tensar, redefinir y rejuvenecer el rostro completo en una sola sesión, sin incisiones y con mínima recuperación social.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-4d-laser-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/U8ifa6Rea59YgkMLwKEC?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -294,7 +294,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-4d-laser-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/U8ifa6Rea59YgkMLwKEC?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -319,10 +319,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

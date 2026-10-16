@@ -189,7 +189,7 @@
     "title": "Leg Vein Laser Treatment in Miami <em>with Nd:YAG</em>",
     "lede": "Leg vein laser treatment is a cosmetic medical-aesthetic protocol that uses an Nd:YAG laser to address reticular veins and small varicosities, complementing — never replacing — the medical assessment of underlying venous disease.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-varicose-veins-full-leg",
+      "href": "https://api.leadconnectorhq.com/widget/booking/uXSL0jXGYFdX1xPNXfeQ?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-varicose-veins-full-leg",
+      "href": "https://api.leadconnectorhq.com/widget/booking/uXSL0jXGYFdX1xPNXfeQ?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

@@ -11,6 +11,7 @@ const EN_ROOTS = [
   "financing",
   "terms",
   "privacy",
+  "book",
 ];
 
 export function langFromPath(pathname: string): Lang {

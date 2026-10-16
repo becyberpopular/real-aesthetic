@@ -189,7 +189,7 @@
     "title": "Facial Telangiectasia Laser in Miami <em>with Nd:YAG</em>",
     "lede": "Facial telangiectasia laser is a medical-aesthetic protocol that uses an Nd:YAG laser to selectively close small visible blood vessels on the cheeks, nose and chin, refining the skin's overall colour and uniformity.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-telangiectasia-rosacea-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/KhgCQb5QweWjtMGWw6zo?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-telangiectasia-rosacea-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/KhgCQb5QweWjtMGWw6zo?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

@@ -189,11 +189,9 @@
     "title": "Melasma Treatment <em>in Miami</em>",
     "lede": "Melasma treatment is a medically supervised plan that combines a gentle Fotona Er:YAG micropeel with low-fluence Nd:YAG passes and rigorous topical and sun-protection maintenance to control — not eliminate — chronic facial pigmentation.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -238,11 +236,9 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/book/",
       "label": "Book consultation",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {
@@ -263,10 +259,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

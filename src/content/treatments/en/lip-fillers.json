@@ -227,7 +227,7 @@
     "title": "Lip Fillers <em>in Miami</em>",
     "lede": "Lip fillers at Real Aesthetic Medical Spa in Miami use hyaluronic acid to refine shape, restore hydration, and create proportional lips that look like a refined version of your own — never overfilled.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lip-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/VPGHxgES2PsJ343QAvJ0?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -300,7 +300,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lip-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/VPGHxgES2PsJ343QAvJ0?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -325,10 +325,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

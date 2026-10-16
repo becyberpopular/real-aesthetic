@@ -235,7 +235,7 @@
     "title": "Sculptra in Miami: Collagen Stimulation for <em>Natural Volume</em>",
     "lede": "Sculptra is an injectable biostimulator made of poly-L-lactic acid that gradually rebuilds your own collagen, restoring facial structure and volume over a course of two to three sessions.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-sculptra-biostimulator",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RzU6WrOwiepfOTy27uQX?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -304,7 +304,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo Lugo, APRN, FNP-C to design a personalised collagen-stimulation plan at Real Aesthetic Medical Spa.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-sculptra-biostimulator",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RzU6WrOwiepfOTy27uQX?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -329,10 +329,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

@@ -227,7 +227,7 @@
     "title": "Tratamiento láser para cicatrices de acné <em>en Miami</em>",
     "lede": "El tratamiento láser para cicatrices de acné es un protocolo Er:YAG fraccional que remodela de forma progresiva las cicatrices atróficas —ice pick, boxcar y rolling— estimulando el colágeno dérmico durante varias sesiones.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-acne-scar-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/6CjK34EvQroEkpncoILu?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -300,7 +300,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva un mapeo clínico con nuestro equipo Fotona y diseña un plan de remodelación supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-acne-scar-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/6CjK34EvQroEkpncoILu?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -325,10 +325,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

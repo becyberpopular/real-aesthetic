@@ -189,7 +189,7 @@
     "title": "Facial Harmonization <em>in Miami</em>",
     "lede": "Facial harmonization at Real Aesthetic Medical Spa in Miami is a signature, multi-area injectable plan that combines hyaluronic acid fillers, neuromodulator, and — when indicated — a biostimulator, designed by Ronal Perdomo Lugo, APRN, FNP-C, to bring proportion, balance, and refinement to the face as a whole.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-full-facial-harmonization",
+      "href": "https://api.leadconnectorhq.com/widget/booking/5CGTvqM1e8VHPD1lK9cc?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-full-facial-harmonization",
+      "href": "https://api.leadconnectorhq.com/widget/booking/5CGTvqM1e8VHPD1lK9cc?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

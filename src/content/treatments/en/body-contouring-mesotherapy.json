@@ -189,7 +189,7 @@
     "title": "Body Contouring Mesotherapy <em>in Miami</em>",
     "lede": "Body contouring mesotherapy is a multi-session injectable protocol that combines lipolytic and firming cocktails to refine medium and large areas — abdomen, flanks, and arms — at our Miami clinic.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-body-tightening",
+      "href": "https://api.leadconnectorhq.com/widget/booking/Ki3qMGuBwVEq2gIGoTOA?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-laser-body-tightening",
+      "href": "https://api.leadconnectorhq.com/widget/booking/Ki3qMGuBwVEq2gIGoTOA?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

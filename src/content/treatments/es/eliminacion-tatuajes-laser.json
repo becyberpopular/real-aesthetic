@@ -221,11 +221,9 @@
     "title": "Eliminación de tatuajes con láser <em>en Miami</em>",
     "lede": "La eliminación de tatuajes con láser es un procedimiento no quirúrgico que utiliza un láser Q-switched Nd:YAG para fragmentar las partículas de tinta en la piel y permitir que el organismo las elimine progresivamente, atenuando el tatuaje a lo largo de varias sesiones.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/reservar/",
       "label": "Reservar consulta",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -294,11 +292,9 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/reservar/",
       "label": "Reservar consulta",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {
@@ -319,10 +315,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

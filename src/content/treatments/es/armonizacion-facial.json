@@ -189,7 +189,7 @@
     "title": "Armonización facial <em>en Miami</em>",
     "lede": "La armonización facial en Real Aesthetic Medical Spa, en Miami, es nuestro servicio signature: un plan inyectable artístico y personalizado que combina ácido hialurónico, neuromodulador y, cuando está indicado, un bioestimulador, diseñado por Ronal Perdomo Lugo, APRN, FNP-C, para devolver proporción y equilibrio al rostro como conjunto.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-full-facial-harmonization",
+      "href": "https://api.leadconnectorhq.com/widget/booking/5CGTvqM1e8VHPD1lK9cc?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-full-facial-harmonization",
+      "href": "https://api.leadconnectorhq.com/widget/booking/5CGTvqM1e8VHPD1lK9cc?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

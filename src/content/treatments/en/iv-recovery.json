@@ -189,7 +189,7 @@
     "title": "IV Recovery <em>in Miami</em>",
     "lede": "A focused IV recovery protocol that combines rapid rehydration with anti-nausea, anti-inflammatory and B-complex support to bring you back from a hard night or a demanding training session.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-recovery-hangover-post-workout",
+      "href": "https://api.leadconnectorhq.com/widget/booking/aNSQazFVAtY7PE3Q4vFN?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-iv-recovery-hangover-post-workout",
+      "href": "https://api.leadconnectorhq.com/widget/booking/aNSQazFVAtY7PE3Q4vFN?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

@@ -229,7 +229,7 @@
     "title": "PRP Hand Rejuvenation in Miami — Autologous Renewal for <em>the Hands</em>",
     "lede": "PRP Hand Rejuvenation is a regenerative procedure that uses platelet-rich plasma drawn from the patient's own blood and micro-injected into the dorsum of the hands to improve skin quality, texture and tone.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "href": "https://api.leadconnectorhq.com/widget/booking/Y5IDrzW4nhxKJtgWlj4X?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -298,7 +298,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a personalised consultation at Real Aesthetic Medical Spa with Ronal Perdomo Lugo, APRN, FNP-C. We assess the dorsum and design a layered plan — PRP alone or combined with Radiesse hand rejuvenation.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "href": "https://api.leadconnectorhq.com/widget/booking/Y5IDrzW4nhxKJtgWlj4X?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -323,10 +323,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

@@ -189,7 +189,7 @@
     "title": "Hand Rejuvenation with Radiesse <em>in Miami</em>",
     "lede": "Hand rejuvenation with Radiesse is an injectable treatment that restores lost volume on the dorsum of the hands using calcium hydroxylapatite, attenuating the visibility of tendons and veins while stimulating long-term collagen for firmer, more youthful-looking skin.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "href": "https://api.leadconnectorhq.com/widget/booking/Y5IDrzW4nhxKJtgWlj4X?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "href": "https://api.leadconnectorhq.com/widget/booking/Y5IDrzW4nhxKJtgWlj4X?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

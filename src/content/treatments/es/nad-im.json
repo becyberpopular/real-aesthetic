@@ -189,7 +189,7 @@
     "title": "NAD+ IM <em>en Miami</em>",
     "lede": "Inyección NAD+ intramuscular que entrega nicotinamida adenina dinucleótido directamente para apoyar el metabolismo energético celular, la función cognitiva y un bienestar alineado con longevidad, en una sesión complementaria rápida.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nad-im-add-on",
+      "href": "https://api.leadconnectorhq.com/widget/booking/PyZ88xS5Z27JG6lkkfsG?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nad-im-add-on",
+      "href": "https://api.leadconnectorhq.com/widget/booking/PyZ88xS5Z27JG6lkkfsG?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

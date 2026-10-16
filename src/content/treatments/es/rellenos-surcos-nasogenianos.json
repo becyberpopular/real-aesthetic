@@ -189,7 +189,7 @@
     "title": "Relleno de Surcos Nasogenianos <em>en Miami</em>",
     "lede": "Colocación conservadora de ácido hialurónico que suaviza los pliegues profundos que van de la nariz a la comisura de los labios, devolviendo soporte al tercio medio sin sobrellenar.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nasolabial-fold-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/KrQHSiBABmViJYiNWppC?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nasolabial-fold-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/KrQHSiBABmViJYiNWppC?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

@@ -189,7 +189,7 @@
     "title": "Nasolabial Fold Filler <em>in Miami</em>",
     "lede": "Conservative hyaluronic acid placement softens the deep folds that run from the nose to the corners of the mouth, restoring midface support without overfilling.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nasolabial-fold-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/KrQHSiBABmViJYiNWppC?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-nasolabial-fold-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/KrQHSiBABmViJYiNWppC?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

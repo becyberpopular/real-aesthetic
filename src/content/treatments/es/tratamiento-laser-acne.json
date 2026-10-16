@@ -227,7 +227,7 @@
     "title": "Tratamiento láser para el acné en Miami <em>con Fotona</em>",
     "lede": "El tratamiento láser para el acné es un protocolo médico-estético con Fotona Nd:YAG y Er:YAG que reduce la bacteria *C. acnes*, calma la inflamación y regula la actividad sebácea en pacientes con acné activo.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-active-acne-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/akVUY99DRcQjFbgFVYVC?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -300,7 +300,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Conversa con nuestro equipo sobre un plan láser personalizado bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-active-acne-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/akVUY99DRcQjFbgFVYVC?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -325,10 +325,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

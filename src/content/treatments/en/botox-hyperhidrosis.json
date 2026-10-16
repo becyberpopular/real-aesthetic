@@ -189,7 +189,7 @@
     "title": "Botox for Hyperhidrosis <em>in Miami</em>",
     "lede": "FDA-approved use of botulinum toxin in the axilla blocks the sweat glands that cause excessive underarm perspiration, providing reliable dryness for 6–9 months per session.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+      "href": "https://api.leadconnectorhq.com/widget/booking/7O9fifM8ceroOlzlZUSo?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+      "href": "https://api.leadconnectorhq.com/widget/booking/7O9fifM8ceroOlzlZUSo?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

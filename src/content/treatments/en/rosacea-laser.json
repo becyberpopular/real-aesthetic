@@ -189,7 +189,7 @@
     "title": "Rosacea Laser Treatment <em>in Miami</em>",
     "lede": "Rosacea laser treatment is a Fotona Nd:YAG protocol that targets the vascular component of rosacea, reducing facial redness, visible vessels and flushing episodes as part of a long-term control plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-telangiectasia-rosacea-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/KhgCQb5QweWjtMGWw6zo?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a vascular assessment with our Fotona team and design a personalised long-term control plan supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-telangiectasia-rosacea-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/KhgCQb5QweWjtMGWw6zo?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

@@ -221,7 +221,7 @@
     "title": "Hand Rejuvenation with Fotona Laser <em>in Miami</em>",
     "lede": "Fotona hand rejuvenation is a dual-wavelength laser protocol that uses Nd:YAG to address sun spots and Er:YAG to refine texture and fine lines on the dorsum of the hands without adding volume.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "href": "https://api.leadconnectorhq.com/widget/booking/Y5IDrzW4nhxKJtgWlj4X?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -294,7 +294,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hand-rejuvenation",
+      "href": "https://api.leadconnectorhq.com/widget/booking/Y5IDrzW4nhxKJtgWlj4X?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -319,10 +319,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

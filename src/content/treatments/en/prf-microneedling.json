@@ -189,7 +189,7 @@
     "title": "PRF + Microneedling <em>in Miami</em>",
     "lede": "Combines fractional microneedling with Platelet-Rich Fibrin applied topically and delivered through the channels created by the needles, amplifying collagen induction and skin renewal.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-microneedling",
+      "href": "https://api.leadconnectorhq.com/widget/booking/cVNYGVHWXhxgxbc8HyA3?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-prf-microneedling",
+      "href": "https://api.leadconnectorhq.com/widget/booking/cVNYGVHWXhxgxbc8HyA3?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

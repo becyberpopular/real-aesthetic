@@ -229,7 +229,7 @@
     "title": "Drenaje Linfático Enhancement en Miami: Recuperación para <em>Contorno Corporal</em>",
     "lede": "El drenaje linfático enhancement es un protocolo manual o asistido por equipo que se añade a planes de contorno corporal y endoláser para reducir la inflamación post-procedimiento, acelerar la recuperación y refinar el resultado final.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "href": "https://api.leadconnectorhq.com/widget/booking/OoY3f7Z0oL66ZXAojyVw?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -306,7 +306,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "href": "https://api.leadconnectorhq.com/widget/booking/OoY3f7Z0oL66ZXAojyVw?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -331,10 +331,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

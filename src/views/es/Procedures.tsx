@@ -61,14 +61,9 @@ export default function ProceduresEs() {
             </SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/reservar/" className="nav-cta">
           Reservar
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       <section className="hero">
         {" "}
@@ -430,13 +425,7 @@ export default function ProceduresEs() {
           </svg>{" "}
           <span>Tratamientos</span>{" "}
         </SiteLink>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="bb-cta"
-          aria-label="Reservar"
-        >
+        <SiteLink href="/reservar/" className="bb-cta" aria-label="Reservar">
           {" "}
           <svg
             viewBox="0 0 24 24"
@@ -452,7 +441,7 @@ export default function ProceduresEs() {
             <path d="M16 4v4" />
             <path d="M9 15l2 2 4-4" />
           </svg>{" "}
-        </a>{" "}
+        </SiteLink>{" "}
         <SiteLink href="/el-club-real-aesthetic/" className="bb-item" aria-label="El Club">
           {" "}
           <svg

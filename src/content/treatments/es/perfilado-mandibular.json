@@ -189,7 +189,7 @@
     "title": "Perfilado mandibular <em>en Miami</em>",
     "lede": "El perfilado mandibular en Real Aesthetic Medical Spa, en Miami, define la línea de la mandíbula con ácido hialurónico o Radiesse y, cuando es apropiado, neuromodulador en el masetero, para conseguir un tercio inferior más limpio sin cirugía, bajo la supervisión Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-jawline-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/cj5EWJa0TwbCgI7htwf8?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-jawline-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/cj5EWJa0TwbCgI7htwf8?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

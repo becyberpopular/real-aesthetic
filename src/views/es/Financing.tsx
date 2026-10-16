@@ -46,14 +46,9 @@ export default function FinancingEs() {
             <SiteLink href="/contacto/">Contacto</SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/reservar/" className="nav-cta">
           Reservar
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       <main>
         {" "}
@@ -157,14 +152,9 @@ export default function FinancingEs() {
             >
               Pre-calificar con Cherry →
             </a>{" "}
-            <a
-              className="secondary"
-              target="_blank"
-              rel="noopener"
-              href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-            >
+            <SiteLink className="secondary" href="/reservar/">
               Reservar consulta
-            </a>{" "}
+            </SiteLink>{" "}
           </div>{" "}
         </section>{" "}
         <div className="disclaimer">
@@ -208,13 +198,7 @@ export default function FinancingEs() {
           </svg>{" "}
           <span>Tratam.</span>{" "}
         </SiteLink>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="bb-cta"
-          aria-label="Reservar"
-        >
+        <SiteLink href="/reservar/" className="bb-cta" aria-label="Reservar">
           {" "}
           <svg
             viewBox="0 0 24 24"
@@ -230,7 +214,7 @@ export default function FinancingEs() {
             <line x1="3" y1="10" x2="21" y2="10" />
             <polyline points="9 16 11 18 15 14" />
           </svg>{" "}
-        </a>{" "}
+        </SiteLink>{" "}
         <SiteLink href="/financiacion/" className="bb-item active" aria-label="Financiación">
           {" "}
           <svg

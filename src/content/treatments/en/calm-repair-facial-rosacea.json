@@ -189,7 +189,7 @@
     "title": "Calm &amp; Repair Facial <em>in Miami</em>",
     "lede": "A clinical facial designed for rosacea-prone and reactive skin that uses anti-inflammatory ingredients, vascular-friendly techniques and cooling tools to calm redness and strengthen the skin barrier.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-calm-repair-facial-rosacea",
+      "href": "https://api.leadconnectorhq.com/widget/booking/O7idVd8Ixxf0gWslEkJj?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-calm-repair-facial-rosacea",
+      "href": "https://api.leadconnectorhq.com/widget/booking/O7idVd8Ixxf0gWslEkJj?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

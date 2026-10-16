@@ -189,7 +189,7 @@
     "title": "Lymphatic Facial Massage <em>in Miami</em>",
     "lede": "Lymphatic facial massage is a gentle, manual technique that mobilises lymphatic fluid through the superficial vessels of the face to reduce puffiness, support recovery after filler or Botox, and bring a clear pre-event glow, delivered as a relaxing 30-minute session by trained therapists at our Miami clinic.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "href": "https://api.leadconnectorhq.com/widget/booking/OoY3f7Z0oL66ZXAojyVw?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-lymphatic-drainage-single-session",
+      "href": "https://api.leadconnectorhq.com/widget/booking/OoY3f7Z0oL66ZXAojyVw?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

@@ -53,6 +53,11 @@ function observeHeroForNav(): () => void {
   };
 }
 
+/** Booking page: same hero-aware top nav as the catalog page. */
+export function useHeroNav() {
+  useEffect(() => observeHeroForNav(), []);
+}
+
 /** Home: treatment slides pager, in-view animations, hero-aware nav and parallax. */
 export function useHomePage() {
   useEffect(() => {

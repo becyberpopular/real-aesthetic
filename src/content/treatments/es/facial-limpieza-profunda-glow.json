@@ -189,7 +189,7 @@
     "title": "Limpieza Profunda + Glow <em>en Miami</em>",
     "lede": "Un facial clínico de limpieza profunda que combina exfoliación suave, extracciones manuales cuidadas y un final hidratante para resetear la piel, descongestionar poros y devolver luminosidad sana.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/J897FuHLxj4kpEB5rUMc?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-deep-cleanse-glow-facial",
+      "href": "https://api.leadconnectorhq.com/widget/booking/J897FuHLxj4kpEB5rUMc?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

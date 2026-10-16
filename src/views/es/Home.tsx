@@ -61,14 +61,9 @@ export default function HomeEs() {
             </SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/reservar/" className="nav-cta">
           Agendar
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       <div className="pager" id="pager">
         {" "}
@@ -94,14 +89,9 @@ export default function HomeEs() {
           <p className="doctor-line">
             Ronal Perdomo Lugo, APRN, FNP-C — Aesthetic Nurse Practitioner
           </p>{" "}
-          <a
-            className="cta"
-            target="_blank"
-            rel="noopener"
-            href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          >
+          <SiteLink className="cta" href="/reservar/">
             Agendar consulta
-          </a>{" "}
+          </SiteLink>{" "}
         </div>{" "}
         <a href="#treatments" className="hero-scrollcue">
           Tratamientos
@@ -372,14 +362,9 @@ export default function HomeEs() {
               <SiteLink className="primary" href="/sobre/">
                 Conoce a Ronal
               </SiteLink>{" "}
-              <a
-                className="ghost"
-                target="_blank"
-                rel="noopener"
-                href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-              >
+              <SiteLink className="ghost" href="/reservar/">
                 Agendar consulta
-              </a>{" "}
+              </SiteLink>{" "}
             </div>{" "}
           </div>{" "}
         </div>{" "}
@@ -569,14 +554,9 @@ export default function HomeEs() {
             Una consulta privada con Ronal Perdomo Lugo. Sin presión comercial, sin compromiso —
             solo una conversación sobre lo que es posible.
           </p>{" "}
-          <a
-            className="cta"
-            target="_blank"
-            rel="noopener"
-            href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          >
+          <SiteLink className="cta" href="/reservar/">
             Agendar consulta
-          </a>{" "}
+          </SiteLink>{" "}
         </div>{" "}
       </section>{" "}
       {/* FOOTER */}{" "}
@@ -613,13 +593,7 @@ export default function HomeEs() {
           </svg>{" "}
           <span>Tratam.</span>{" "}
         </SiteLink>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="bb-cta"
-          aria-label="Reservar"
-        >
+        <SiteLink href="/reservar/" className="bb-cta" aria-label="Reservar">
           {" "}
           <svg
             viewBox="0 0 24 24"
@@ -635,7 +609,7 @@ export default function HomeEs() {
             <path d="M16 4v4" />
             <path d="M9 15l2 2 4-4" />
           </svg>{" "}
-        </a>{" "}
+        </SiteLink>{" "}
         <SiteLink href="/el-club-real-aesthetic/" className="bb-item" aria-label="El Club">
           {" "}
           <svg

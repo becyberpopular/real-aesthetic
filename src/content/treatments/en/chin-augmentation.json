@@ -189,7 +189,7 @@
     "title": "Chin Augmentation <em>in Miami</em>",
     "lede": "Non-surgical chin augmentation at Real Aesthetic Medical Spa in Miami uses hyaluronic acid filler or Radiesse to refine projection, balance the profile, and support the lower third of the face.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-chin-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/ahidkKN63dVDrUBqk57W?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-chin-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/ahidkKN63dVDrUBqk57W?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

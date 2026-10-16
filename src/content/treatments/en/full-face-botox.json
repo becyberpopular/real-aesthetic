@@ -230,21 +230,21 @@
       "label": "Book by indication",
       "buttons": [
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-full-face",
+          "href": "https://api.leadconnectorhq.com/widget/booking/8Oz5MPL3z14HKwu6kFUa?language=en",
           "label": "Full face",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+          "href": "https://api.leadconnectorhq.com/widget/booking/zqBrWu9UerKh41QnmysK?language=en",
           "label": "Bruxism (masseter)",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+          "href": "https://api.leadconnectorhq.com/widget/booking/7O9fifM8ceroOlzlZUSo?language=en",
           "label": "Hyperhidrosis",
           "className": "cta cta-zone",
           "target": "_blank",
@@ -314,21 +314,21 @@
       "label": "Book by indication",
       "buttons": [
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-full-face",
+          "href": "https://api.leadconnectorhq.com/widget/booking/8Oz5MPL3z14HKwu6kFUa?language=en",
           "label": "Full face",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-bruxism-masseter",
+          "href": "https://api.leadconnectorhq.com/widget/booking/zqBrWu9UerKh41QnmysK?language=en",
           "label": "Bruxism (masseter)",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-botox-hyperhidrosis",
+          "href": "https://api.leadconnectorhq.com/widget/booking/7O9fifM8ceroOlzlZUSo?language=en",
           "label": "Hyperhidrosis",
           "className": "cta cta-zone",
           "target": "_blank",
@@ -355,10 +355,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book",
         "icon": "Calendar"
       },

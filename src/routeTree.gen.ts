@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
+import { Route as BookRouteImport } from './routes/book'
 import { Route as ContactRouteImport } from './routes/contact'
 import { Route as ContactoRouteImport } from './routes/contacto'
 import { Route as ElClubRealAestheticRouteImport } from './routes/el-club-real-aesthetic'
@@ -18,6 +19,7 @@ import { Route as FinanciacionRouteImport } from './routes/financiacion'
 import { Route as FinancingRouteImport } from './routes/financing'
 import { Route as PrivacidadRouteImport } from './routes/privacidad'
 import { Route as PrivacyRouteImport } from './routes/privacy'
+import { Route as ReservarRouteImport } from './routes/reservar'
 import { Route as SobreRouteImport } from './routes/sobre'
 import { Route as TerminosRouteImport } from './routes/terminos'
 import { Route as TermsRouteImport } from './routes/terms'
@@ -36,6 +38,11 @@ const IndexRoute = IndexRouteImport.update({
 const AboutRoute = AboutRouteImport.update({
   id: '/about',
   path: '/about',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BookRoute = BookRouteImport.update({
+  id: '/book',
+  path: '/book',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ContactRoute = ContactRouteImport.update({
@@ -71,6 +78,11 @@ const PrivacidadRoute = PrivacidadRouteImport.update({
 const PrivacyRoute = PrivacyRouteImport.update({
   id: '/privacy',
   path: '/privacy',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ReservarRoute = ReservarRouteImport.update({
+  id: '/reservar',
+  path: '/reservar',
   getParentRoute: () => rootRouteImport,
 } as any)
 const SobreRoute = SobreRouteImport.update({
@@ -122,6 +134,7 @@ const TratamientosSlugRoute = TratamientosSlugRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/book': typeof BookRoute
   '/contact': typeof ContactRoute
   '/contacto': typeof ContactoRoute
   '/el-club-real-aesthetic': typeof ElClubRealAestheticRoute
@@ -129,6 +142,7 @@ export interface FileRoutesByFullPath {
   '/financing': typeof FinancingRoute
   '/privacidad': typeof PrivacidadRoute
   '/privacy': typeof PrivacyRoute
+  '/reservar': typeof ReservarRoute
   '/sobre': typeof SobreRoute
   '/terminos': typeof TerminosRoute
   '/terms': typeof TermsRoute
@@ -142,6 +156,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/book': typeof BookRoute
   '/contact': typeof ContactRoute
   '/contacto': typeof ContactoRoute
   '/el-club-real-aesthetic': typeof ElClubRealAestheticRoute
@@ -149,6 +164,7 @@ export interface FileRoutesByTo {
   '/financing': typeof FinancingRoute
   '/privacidad': typeof PrivacidadRoute
   '/privacy': typeof PrivacyRoute
+  '/reservar': typeof ReservarRoute
   '/sobre': typeof SobreRoute
   '/terminos': typeof TerminosRoute
   '/terms': typeof TermsRoute
@@ -163,6 +179,7 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/book': typeof BookRoute
   '/contact': typeof ContactRoute
   '/contacto': typeof ContactoRoute
   '/el-club-real-aesthetic': typeof ElClubRealAestheticRoute
@@ -170,6 +187,7 @@ export interface FileRoutesById {
   '/financing': typeof FinancingRoute
   '/privacidad': typeof PrivacidadRoute
   '/privacy': typeof PrivacyRoute
+  '/reservar': typeof ReservarRoute
   '/sobre': typeof SobreRoute
   '/terminos': typeof TerminosRoute
   '/terms': typeof TermsRoute
@@ -185,6 +203,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/about'
+    | '/book'
     | '/contact'
     | '/contacto'
     | '/el-club-real-aesthetic'
@@ -192,6 +211,7 @@ export interface FileRouteTypes {
     | '/financing'
     | '/privacidad'
     | '/privacy'
+    | '/reservar'
     | '/sobre'
     | '/terminos'
     | '/terms'
@@ -205,6 +225,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/about'
+    | '/book'
     | '/contact'
     | '/contacto'
     | '/el-club-real-aesthetic'
@@ -212,6 +233,7 @@ export interface FileRouteTypes {
     | '/financing'
     | '/privacidad'
     | '/privacy'
+    | '/reservar'
     | '/sobre'
     | '/terminos'
     | '/terms'
@@ -225,6 +247,7 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/about'
+    | '/book'
     | '/contact'
     | '/contacto'
     | '/el-club-real-aesthetic'
@@ -232,6 +255,7 @@ export interface FileRouteTypes {
     | '/financing'
     | '/privacidad'
     | '/privacy'
+    | '/reservar'
     | '/sobre'
     | '/terminos'
     | '/terms'
@@ -246,6 +270,7 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
+  BookRoute: typeof BookRoute
   ContactRoute: typeof ContactRoute
   ContactoRoute: typeof ContactoRoute
   ElClubRealAestheticRoute: typeof ElClubRealAestheticRoute
@@ -253,6 +278,7 @@ export interface RootRouteChildren {
   FinancingRoute: typeof FinancingRoute
   PrivacidadRoute: typeof PrivacidadRoute
   PrivacyRoute: typeof PrivacyRoute
+  ReservarRoute: typeof ReservarRoute
   SobreRoute: typeof SobreRoute
   TerminosRoute: typeof TerminosRoute
   TermsRoute: typeof TermsRoute
@@ -278,6 +304,13 @@ declare module '@tanstack/react-router' {
       path: '/about'
       fullPath: '/about'
       preLoaderRoute: typeof AboutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/book': {
+      id: '/book'
+      path: '/book'
+      fullPath: '/book'
+      preLoaderRoute: typeof BookRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/contact': {
@@ -327,6 +360,13 @@ declare module '@tanstack/react-router' {
       path: '/privacy'
       fullPath: '/privacy'
       preLoaderRoute: typeof PrivacyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/reservar': {
+      id: '/reservar'
+      path: '/reservar'
+      fullPath: '/reservar'
+      preLoaderRoute: typeof ReservarRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/sobre': {
@@ -398,6 +438,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
+  BookRoute: BookRoute,
   ContactRoute: ContactRoute,
   ContactoRoute: ContactoRoute,
   ElClubRealAestheticRoute: ElClubRealAestheticRoute,
@@ -405,6 +446,7 @@ const rootRouteChildren: RootRouteChildren = {
   FinancingRoute: FinancingRoute,
   PrivacidadRoute: PrivacidadRoute,
   PrivacyRoute: PrivacyRoute,
+  ReservarRoute: ReservarRoute,
   SobreRoute: SobreRoute,
   TerminosRoute: TerminosRoute,
   TermsRoute: TermsRoute,

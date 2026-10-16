@@ -157,7 +157,7 @@
     "title": "Skinboosters en <em>Miami</em>",
     "lede": "Los skinboosters en Real Aesthetic Medical Spa, en Miami, son tratamientos inyectables de ácido hialurónico —tipo Profhilo— diseñados para hidratar la piel desde dentro, mejorar la elasticidad y la luminosidad, y conseguir un aspecto sano y luminoso sin sumar volumen ni cambiar la forma.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-facial-mesotherapy",
+      "href": "https://api.leadconnectorhq.com/widget/booking/cnbdUVZeohlKzbWU42Wp?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -204,7 +204,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-facial-mesotherapy",
+      "href": "https://api.leadconnectorhq.com/widget/booking/cnbdUVZeohlKzbWU42Wp?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -229,10 +229,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

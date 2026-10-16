@@ -192,14 +192,14 @@
       "label": "Book by area",
       "buttons": [
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-arms",
+          "href": "https://api.leadconnectorhq.com/widget/booking/mmRyB8iVs9krjaDLP07P?language=en",
           "label": "Arms",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-flanks",
+          "href": "https://api.leadconnectorhq.com/widget/booking/YTtKg2L1Miamas4SpM7v?language=en",
           "label": "Flanks",
           "className": "cta cta-zone",
           "target": "_blank",
@@ -253,14 +253,14 @@
       "label": "Book by area",
       "buttons": [
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-arms",
+          "href": "https://api.leadconnectorhq.com/widget/booking/mmRyB8iVs9krjaDLP07P?language=en",
           "label": "Arms",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-flanks",
+          "href": "https://api.leadconnectorhq.com/widget/booking/YTtKg2L1Miamas4SpM7v?language=en",
           "label": "Flanks",
           "className": "cta cta-zone",
           "target": "_blank",
@@ -287,10 +287,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

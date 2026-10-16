@@ -189,7 +189,7 @@
     "title": "Hair Restoration + PRP <em>in Miami</em>",
     "lede": "Platelet-Rich Plasma (PRP) prepared from your own blood and injected into the scalp to stimulate follicular activity, slow thinning, and improve hair density in androgenic alopecia.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hair-restoration-prp",
+      "href": "https://api.leadconnectorhq.com/widget/booking/gtX5J0b9vic552CI98DZ?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-hair-restoration-prp",
+      "href": "https://api.leadconnectorhq.com/widget/booking/gtX5J0b9vic552CI98DZ?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Treatments"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

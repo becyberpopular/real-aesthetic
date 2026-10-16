@@ -30,14 +30,9 @@ export default function NotFoundEs() {
             </SiteLink>
           </li>
         </ul>{" "}
-        <a
-          target="_blank"
-          rel="noopener"
-          href="https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa"
-          className="nav-cta"
-        >
+        <SiteLink href="/reservar/" className="nav-cta">
           Reservar
-        </a>{" "}
+        </SiteLink>{" "}
       </nav>{" "}
       <main className="notfound">
         {" "}

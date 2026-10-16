@@ -189,7 +189,7 @@
     "title": "Under-Eye Brightening for Dark Circles <em>in Miami</em>",
     "lede": "Under-eye brightening is a targeted mesotherapy protocol that delivers a delicate cocktail of brightening, antioxidant and microcirculation-supporting actives into the periocular skin to address dark circles, performed in a series of sessions at our Miami practice and tailored to the underlying cause of pigmentation.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-tear-trough-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/9clMrSyalMc4KaIH90JD?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation at Real Aesthetic Medical Spa for a precise periocular assessment and a personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-tear-trough-filler",
+      "href": "https://api.leadconnectorhq.com/widget/booking/9clMrSyalMc4KaIH90JD?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

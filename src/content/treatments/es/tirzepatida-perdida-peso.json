@@ -189,7 +189,7 @@
     "title": "Pérdida de peso médica con tirzepatida <em>en Miami</em>",
     "lede": "La tirzepatida es un agonista dual de los receptores GLP-1 y GIP aprobado por la FDA para el manejo crónico del peso, administrada como inyección subcutánea semanal dentro de un programa médico supervisado en nuestra clínica de Miami, con elegibilidad decidida por IMC e historia clínica.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-medical-weight-loss-glp-1-program",
+      "href": "https://api.leadconnectorhq.com/widget/booking/I9qHohv2BroVMWoDU9Sm?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "La elegibilidad para tirzepatida empieza con una evaluación médica completa, no con una llamada comercial.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-medical-weight-loss-glp-1-program",
+      "href": "https://api.leadconnectorhq.com/widget/booking/I9qHohv2BroVMWoDU9Sm?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

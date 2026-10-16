@@ -189,7 +189,7 @@
     "title": "Skin Tightening with Fotona <em>in Miami</em>",
     "lede": "Skin tightening with Fotona is a non-invasive Nd:YAG laser treatment that delivers controlled, deep thermal energy into the dermis to remodel collagen and progressively firm the face, neck, and décolleté with no downtime.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-tightening",
+      "href": "https://api.leadconnectorhq.com/widget/booking/QCbAuTXAbcnz7Bs17j1q?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-fotona-skin-tightening",
+      "href": "https://api.leadconnectorhq.com/widget/booking/QCbAuTXAbcnz7Bs17j1q?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

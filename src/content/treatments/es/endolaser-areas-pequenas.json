@@ -245,28 +245,28 @@
       "label": "Reserva por zona",
       "buttons": [
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-double-chin",
+          "href": "https://api.leadconnectorhq.com/widget/booking/4TWjVELhbf5MvFsd16ft?language=es",
           "label": "Papada",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-jawline",
+          "href": "https://api.leadconnectorhq.com/widget/booking/zxQ3iJrTFCzeZGqx58ml?language=es",
           "label": "Jawline",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-cuello",
+          "href": "https://api.leadconnectorhq.com/widget/booking/LaviyAuVLZMp4jxtMeiO?language=es",
           "label": "Cuello",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-facial",
+          "href": "https://api.leadconnectorhq.com/widget/booking/I96OtMzO456WsaWLA6gk?language=es",
           "label": "Facial",
           "className": "cta cta-zone",
           "target": "_blank",
@@ -348,28 +348,28 @@
       "label": "Reserva por zona",
       "buttons": [
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-double-chin",
+          "href": "https://api.leadconnectorhq.com/widget/booking/4TWjVELhbf5MvFsd16ft?language=es",
           "label": "Papada",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-jawline",
+          "href": "https://api.leadconnectorhq.com/widget/booking/zxQ3iJrTFCzeZGqx58ml?language=es",
           "label": "Jawline",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-cuello",
+          "href": "https://api.leadconnectorhq.com/widget/booking/LaviyAuVLZMp4jxtMeiO?language=es",
           "label": "Cuello",
           "className": "cta cta-zone",
           "target": "_blank",
           "rel": "noopener"
         },
         {
-          "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-endolaser-facial",
+          "href": "https://api.leadconnectorhq.com/widget/booking/I96OtMzO456WsaWLA6gk?language=es",
           "label": "Facial",
           "className": "cta cta-zone",
           "target": "_blank",
@@ -396,10 +396,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

@@ -189,7 +189,7 @@
     "title": "Reset de Acné <em>en Miami</em>",
     "lede": "Un protocolo enfocado para acné activo que combina limpieza con pH adaptado, extracciones controladas, mascarilla mineral clarificante y final calmante para resetear la piel sin agredirla.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-acne-reset-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/IpnvcsL5jXdR4JQ2PRbm?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -237,7 +237,7 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-acne-reset-treatment",
+      "href": "https://api.leadconnectorhq.com/widget/booking/IpnvcsL5jXdR4JQ2PRbm?language=es",
       "label": "Reservar consulta",
       "className": "cta",
       "target": "_blank",
@@ -262,10 +262,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar consulta",
         "icon": "Calendar"
       },

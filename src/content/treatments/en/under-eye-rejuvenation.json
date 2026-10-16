@@ -189,7 +189,7 @@
     "title": "Under-Eye Rejuvenation in Miami: <em>Fotona SmoothEye</em>",
     "lede": "Under-eye rejuvenation with the Fotona SmoothEye protocol uses non-ablative Nd:YAG laser energy delivered around the orbital area to tighten the skin, soften fine lines, and refine crepe texture, with a comfortable session and no significant downtime.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-under-eyes",
+      "href": "https://api.leadconnectorhq.com/widget/booking/yv4vpJO6IwER7mJpz20C?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -238,7 +238,7 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa/sv/rams-svc-skin-booster-therapy-under-eyes",
+      "href": "https://api.leadconnectorhq.com/widget/booking/yv4vpJO6IwER7mJpz20C?language=en",
       "label": "Book consultation",
       "className": "cta",
       "target": "_blank",
@@ -263,10 +263,8 @@
         "label": "Procedures"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/book/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Book consultation",
         "icon": "Calendar"
       },

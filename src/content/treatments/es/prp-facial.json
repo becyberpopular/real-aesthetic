@@ -235,11 +235,9 @@
     "title": "PRP Facial en Miami — Rejuvenecimiento autólogo de <em>la piel</em>",
     "lede": "El PRP Facial es un procedimiento regenerativo que utiliza el plasma rico en plaquetas obtenido de la sangre del propio paciente, microinyectado en el rostro para estimular colágeno, elastina y un tono más uniforme y luminoso.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/reservar/",
       "label": "Reservar consulta",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "blocks": [
@@ -312,11 +310,9 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta personalizada en Real Aesthetic Medical Spa con Ronal Perdomo Lugo, APRN, FNP-C. Diseñamos tu protocolo a partir de la evaluación cutánea y tus objetivos estéticos.",
     "cta": {
-      "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+      "href": "/reservar/",
       "label": "Reservar consulta",
-      "className": "cta",
-      "target": "_blank",
-      "rel": "noopener"
+      "className": "cta"
     }
   },
   "bottomBar": {
@@ -337,10 +333,8 @@
         "label": "Tratamientos"
       },
       {
-        "href": "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa",
+        "href": "/reservar/",
         "className": "bb-cta",
-        "target": "_blank",
-        "rel": "noopener",
         "ariaLabel": "Reservar",
         "icon": "Calendar"
       },

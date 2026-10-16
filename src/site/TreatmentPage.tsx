@@ -17,6 +17,7 @@ const CSS: Record<string, string> = { a: cssA, b: cssB, c: cssC, d: cssD, e: css
 const NAV = {
   en: {
     home: "/en/",
+    book: "/book/",
     items: [
       { href: "/en/", label: "Home" },
       { href: "/procedures/", label: "Treatments", active: true },
@@ -28,6 +29,7 @@ const NAV = {
   },
   es: {
     home: "/",
+    book: "/reservar/",
     items: [
       { href: "/", label: "Inicio" },
       { href: "/tratamientos/", label: "Tratamientos", active: true },
@@ -38,7 +40,6 @@ const NAV = {
     ],
   },
 };
-const BOOKING = "https://be.realaestheticmedspa.com/booking/real-aesthetic-medical-spa";
 const NAV_LINK_STYLE: CSSProperties = { color: "inherit", textDecoration: "none" };
 
 /** Inline HTML from the content files (headings with <em>, FAQ answers, etc.). */
@@ -159,9 +160,9 @@ export function TreatmentPage({ t }: { t: Treatment }) {
             </li>
           ))}
         </ul>
-        <a target="_blank" rel="noopener" href={BOOKING} className="nav-cta">
+        <SiteLink href={nav.book} className="nav-cta">
           {t.navCta}
-        </a>
+        </SiteLink>
       </nav>
 
       <section className="proc-hero">
