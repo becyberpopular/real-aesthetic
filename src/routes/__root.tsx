@@ -12,6 +12,7 @@ import { useEffect, type ReactNode } from "react";
 import appCss from "../styles.css?url";
 import { reportVibeError } from "../lib/vibe-error-reporting";
 import { langFromPath } from "../site/lang";
+import { BookingPopupHost } from "../site/BookingPopupHost";
 import { MetaPixel, PIXEL_ID } from "../site/MetaPixel";
 import NotFoundEs from "../views/es/NotFound";
 import notFoundHead from "../views/es/NotFound.head.json";
@@ -133,6 +134,7 @@ function RootComponent() {
     <QueryClientProvider client={queryClient}>
       {/* Required: nested routes render here. Removing <Outlet /> breaks all child routes. */}
       <Outlet />
+      <BookingPopupHost />
       <MetaPixel />
     </QueryClientProvider>
   );
