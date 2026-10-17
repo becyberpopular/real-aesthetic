@@ -260,7 +260,7 @@ export default function TermsEs() {
           </p>{" "}
           <p>8360 W Flagler St, Suite 108</p> <p>Miami, FL 33144</p>{" "}
           <p>
-            Teléfono: <a href="tel:+17862443722">+1 786-244-3722</a>
+            Teléfono: <a href="tel:+17865805702">+1 786-580-5702</a>
           </p>{" "}
           <p>
             Email: <a href="mailto:info@realaestheticmedspa.com">info@realaestheticmedspa.com</a>

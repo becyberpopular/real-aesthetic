@@ -12,8 +12,8 @@ export const SITE = {
   cityzip: "Miami, FL 33144",
   // Direct link to the Google Business Profile listing (CID 0x502bbb27de268ada)
   mapsUrl: "https://maps.google.com/?cid=5776916726937979610",
-  phoneDisplay: "+1 786-244-3722",
-  phoneTel: "+17862443722",
+  phoneDisplay: "+1 786-580-5702",
+  phoneTel: "+17865805702",
   email: "info@realaestheticmedspa.com",
 };
 
