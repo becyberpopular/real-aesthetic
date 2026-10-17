@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "Eliminación de verrugas con láser Fotona en Miami en Real Aesthetic. Retiro preciso de verrugas comunes y lesiones cutáneas benignas, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+        "content": "Eliminación de verrugas con láser Fotona en Miami. Retiro preciso de verrugas comunes y lesiones cutáneas benignas, supervisado por Ronal Perdomo, APRN."
       },
       {
         "property": "og:type",
@@ -189,9 +189,11 @@
     "title": "Fotona Eliminación de Verrugas <em>en Miami</em>",
     "lede": "El láser Er:YAG de Fotona ablata con precisión verrugas comunes y pequeñas lesiones cutáneas benignas en una a tres sesiones, con mínima cicatriz y cicatrización limpia.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -235,9 +237,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

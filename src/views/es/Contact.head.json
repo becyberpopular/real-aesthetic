@@ -83,6 +83,86 @@
       "hrefLang": "x-default"
     }
   ],
-  "jsonLd": [],
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalBusiness",
+      "@id": "https://realaestheticmedspa.com/#organization",
+      "name": "Real Aesthetic Medical Spa",
+      "url": "https://realaestheticmedspa.com/",
+      "logo": "https://realaestheticmedspa.com/img/logo.webp",
+      "image": "https://realaestheticmedspa.com/img/hero.webp",
+      "telephone": "+1-786-580-5702",
+      "email": "info@realaestheticmedspa.com",
+      "priceRange": "$$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8360 W Flagler St, Suite 108",
+        "addressLocality": "Miami",
+        "addressRegion": "FL",
+        "postalCode": "33144",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.7669",
+        "longitude": "-80.3372"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "10:00",
+          "closes": "19:00"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Miami"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Brickell"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Coral Gables"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Doral"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Aventura"
+        }
+      ],
+      "medicalSpecialty": ["DermatologicSurgery", "Dermatology"],
+      "employee": {
+        "@type": "Person",
+        "@id": "https://realaestheticmedspa.com/about/#ronal-perdomo",
+        "name": "Ronal Perdomo Lugo",
+        "honorificSuffix": "APRN, FNP-C",
+        "jobTitle": "Aesthetic Nurse Practitioner",
+        "worksFor": {
+          "@id": "https://realaestheticmedspa.com/#organization"
+        },
+        "hasCredential": [
+          {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "license",
+            "name": "APRN — Advanced Practice Registered Nurse"
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "certification",
+            "name": "FNP-C — Family Nurse Practitioner Certified"
+          }
+        ]
+      },
+      "inLanguage": "es"
+    }
+  ],
   "preloadImages": []
 }

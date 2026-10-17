@@ -70,7 +70,10 @@ export function RelatedTreatments({ slug, lang }: { slug: string; lang: Lang }) 
             if (!url || !r) return null;
             return (
               <SiteLink className="rt-card" href={url} key={s}>
-                <div className="rt-img" style={{ backgroundImage: `url('/img/proc/${s}.webp')` }} />
+                <div
+                  className="rt-img"
+                  style={{ backgroundImage: `url('/img/thumb/${s}.webp')` }}
+                />
                 <div className="rt-card-body">
                   <h3>{lang === "es" ? r.name_es : r.name_en}</h3>
                   <p>{lang === "es" ? r.tag_es : r.tag_en}</p>

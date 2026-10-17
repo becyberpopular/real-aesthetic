@@ -32,6 +32,7 @@ const CSS = `
   .ra-bk-dialog{max-width:none;height:94vh;height:94dvh;border-bottom:0;border-radius:18px 18px 0 0;}
   .ra-bk-head{padding:18px 18px 14px;}
   .ra-bk-title{font-size:1.2rem;}
+  .ra-bk-close{width:44px;height:44px;}
 }
 @keyframes ra-bk-fade{from{opacity:0}}
 @keyframes ra-bk-rise{from{opacity:0;transform:translateY(16px)}}

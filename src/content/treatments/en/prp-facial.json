@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "PRP Facial in Miami uses your own platelets to stimulate collagen and renew skin tone. Autologous, biocompatible, performed by Ronal Perdomo, APRN, FNP-C. Book a consultation."
+        "content": "PRP Facial in Miami uses your own platelets to stimulate collagen and renew skin tone. Autologous, biocompatible, performed by Ronal Perdomo, APRN."
       },
       {
         "property": "og:type",
@@ -235,9 +235,11 @@
     "title": "PRP Facial in Miami — Autologous <em>Skin Rejuvenation</em>",
     "lede": "PRP Facial is a regenerative procedure that uses platelet-rich plasma drawn from the patient's own blood and micro-injected into the facial skin to stimulate collagen, elastin and a more even, luminous tone.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -302,9 +304,11 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a personalised consultation at Real Aesthetic Medical Spa with Ronal Perdomo Lugo, APRN, FNP-C. We design your protocol based on your skin assessment and aesthetic goals.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

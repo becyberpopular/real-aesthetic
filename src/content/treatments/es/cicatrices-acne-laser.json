@@ -227,9 +227,11 @@
     "title": "Tratamiento láser para cicatrices de acné <em>en Miami</em>",
     "lede": "El tratamiento láser para cicatrices de acné es un protocolo Er:YAG fraccional que remodela de forma progresiva las cicatrices atróficas —ice pick, boxcar y rolling— estimulando el colágeno dérmico durante varias sesiones.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -298,9 +300,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva un mapeo clínico con nuestro equipo Fotona y diseña un plan de remodelación supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

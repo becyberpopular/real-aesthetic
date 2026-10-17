@@ -1,5 +1,6 @@
 import { lazy, Suspense, useCallback, useEffect, useState } from "react";
-import { langFromPath, type Lang } from "./lang";
+import { OPEN_BOOKING_EVENT, type OpenBookingDetail } from "./booking-events";
+import { langFromPath } from "./lang";
 
 // Loaded on the first booking click, so the service list stays out of every page's bundle.
 const BookingPopup = lazy(() => import("./BookingPopup"));
@@ -8,7 +9,7 @@ const BOOKING_LINK = /^https:\/\/api\.leadconnectorhq\.com\/widget\/booking\/([A
 // Calendar links (booking page cards, treatment "Book" buttons) open in an on-page pop-up instead of a new tab.
 // The links keep target="_blank", so a modified click (or no JavaScript) still opens the calendar in a new tab.
 export function BookingPopupHost() {
-  const [open, setOpen] = useState<{ calendarId: string; lang: Lang } | null>(null);
+  const [open, setOpen] = useState<OpenBookingDetail | null>(null);
 
   useEffect(() => {
     const onClick = (e: MouseEvent) => {
@@ -25,8 +26,13 @@ export function BookingPopupHost() {
         lang: lang === "es" || lang === "en" ? lang : langFromPath(window.location.pathname),
       });
     };
+    const onOpen = (e: Event) => setOpen((e as CustomEvent<OpenBookingDetail>).detail);
     document.addEventListener("click", onClick);
-    return () => document.removeEventListener("click", onClick);
+    window.addEventListener(OPEN_BOOKING_EVENT, onOpen);
+    return () => {
+      document.removeEventListener("click", onClick);
+      window.removeEventListener(OPEN_BOOKING_EVENT, onOpen);
+    };
   }, []);
 
   const close = useCallback(() => setOpen(null), []);

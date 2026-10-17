@@ -189,9 +189,11 @@
     "title": "Tratamiento de estrías con láser <em>en Miami</em>",
     "lede": "El tratamiento de estrías con láser Er:YAG fraccionado de la plataforma Fotona aborda tanto las estrías rojas (recientes) como las blancas (maduras), estimulando colágeno y remodelando el patrón cicatricial dérmico, con una mejora progresiva en un protocolo de cuatro a seis sesiones.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -236,9 +238,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

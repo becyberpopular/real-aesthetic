@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "\\*0 ch"
+        "content": "El Paquete Body Sculpt es un programa de escultura corporal en Miami que combina Endolaser de área mediana, mesoterapia de contorno corporal, tres sesiones…"
       },
       {
         "property": "og:type",
@@ -189,9 +189,11 @@
     "title": "Paquete Body Sculpt <em>en Miami</em>",
     "lede": "El Paquete Body Sculpt es un programa de escultura corporal en Miami que combina Endolaser de área mediana, mesoterapia de contorno corporal, tres sesiones de drenaje linfático y un enhancement de tensado de piel, coordinado como un único plan por Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -236,9 +238,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo Lugo, APRN, FNP-C para diseñar tu programa personalizado de escultura corporal.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

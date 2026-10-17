@@ -10,6 +10,8 @@ export type BookingService = {
   descEn: string;
   minutes: number;
   image: string;
+  /** 720px version of image for the booking cards. */
+  thumb: string;
   /** Extra search terms (everyday names like "botox", "filler"). */
   keywords: string;
   /** Price from the clinic's price list, e.g. "$800", "Desde $1,700", "$399 al mes" ("" = not listed). */
@@ -40,6 +42,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "",
         priceEs: "",
         priceEn: "",
+        thumb: "/img/thumb/doctor.webp",
       },
       {
         calendarId: "bJTONowJ1IrTLYdsNIpS",
@@ -52,6 +55,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "",
         priceEs: "",
         priceEn: "",
+        thumb: "/img/thumb/doctor.webp",
       },
     ],
   },
@@ -71,6 +75,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona vectorlift",
         priceEs: "$200",
         priceEn: "$200",
+        thumb: "/img/thumb/fotona-vectorlift.webp",
       },
       {
         calendarId: "g0DaAGm1WvAjVT3o6zgm",
@@ -83,6 +88,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona liplase",
         priceEs: "$300",
         priceEn: "$300",
+        thumb: "/img/thumb/fotona-liplase.webp",
       },
       {
         calendarId: "v2GZLjHRdKME5tgO50YT",
@@ -95,6 +101,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona nightlase",
         priceEs: "$350",
         priceEn: "$350",
+        thumb: "/img/thumb/fotona-nightlase.webp",
       },
       {
         calendarId: "U8ifa6Rea59YgkMLwKEC",
@@ -109,6 +116,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona 4d laser facial",
         priceEs: "$800",
         priceEn: "$800",
+        thumb: "/img/thumb/fotona-4d-v2.webp",
       },
       {
         calendarId: "akVUY99DRcQjFbgFVYVC",
@@ -121,6 +129,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona active acne treatment",
         priceEs: "$350",
         priceEn: "$350",
+        thumb: "/img/thumb/laser-acne-treatment.webp",
       },
       {
         calendarId: "2CJyTDEarhO1prXKcIAR",
@@ -134,6 +143,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona smootheye",
         priceEs: "$400",
         priceEn: "$400",
+        thumb: "/img/thumb/fotona-smootheye.webp",
       },
       {
         calendarId: "P6oowEVfnmJDMmXiGa4Y",
@@ -147,6 +157,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "",
         priceEs: "$350",
         priceEn: "$350",
+        thumb: "/img/thumb/fotona-skin-resurfacing.webp",
       },
       {
         calendarId: "XMj3xHeroZj2gWteHZ7G",
@@ -160,6 +171,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona skin resurfacing",
         priceEs: "$500",
         priceEn: "$500",
+        thumb: "/img/thumb/fotona-skin-resurfacing.webp",
       },
       {
         calendarId: "QCbAuTXAbcnz7Bs17j1q",
@@ -172,6 +184,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona skin tightening",
         priceEs: "$500",
         priceEn: "$500",
+        thumb: "/img/thumb/skin-tightening-enhancement.webp",
       },
       {
         calendarId: "MlFxbRZqdYNJsDJj8FBI",
@@ -185,6 +198,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "fotona tightsculpting",
         priceEs: "$500",
         priceEn: "$500",
+        thumb: "/img/thumb/fotona-tightsculpting.webp",
       },
     ],
   },
@@ -204,6 +218,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "jawline filler",
         priceEs: "$1,200",
         priceEn: "$1,200",
+        thumb: "/img/thumb/jawline-contouring.webp",
       },
       {
         calendarId: "RzU6WrOwiepfOTy27uQX",
@@ -217,6 +232,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "sculptra biostimulator",
         priceEs: "$800 por vial",
         priceEn: "$800 per vial",
+        thumb: "/img/thumb/sculptra.webp",
       },
       {
         calendarId: "ahidkKN63dVDrUBqk57W",
@@ -229,6 +245,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "chin filler",
         priceEs: "$700",
         priceEn: "$700",
+        thumb: "/img/thumb/chin-augmentation.webp",
       },
       {
         calendarId: "KrQHSiBABmViJYiNWppC",
@@ -241,6 +258,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "nasolabial fold filler",
         priceEs: "$700",
         priceEn: "$700",
+        thumb: "/img/thumb/nasolabial-fold-filler.webp",
       },
       {
         calendarId: "5CGTvqM1e8VHPD1lK9cc",
@@ -255,6 +273,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "full facial harmonization",
         priceEs: "$3,400",
         priceEn: "$3,400",
+        thumb: "/img/thumb/facial-harmonization.webp",
       },
       {
         calendarId: "7O9fifM8ceroOlzlZUSo",
@@ -267,6 +286,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "botox hyperhidrosis",
         priceEs: "$900",
         priceEn: "$900",
+        thumb: "/img/thumb/botox-hyperhidrosis.webp",
       },
       {
         calendarId: "VPGHxgES2PsJ343QAvJ0",
@@ -279,6 +299,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "lip filler",
         priceEs: "$750",
         priceEn: "$750",
+        thumb: "/img/thumb/lip-fillers.webp",
       },
       {
         calendarId: "UPfhQ1Yfnn6f42WTAnBB",
@@ -292,6 +313,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "radiesse biostimulator",
         priceEs: "$800 por jeringa",
         priceEn: "$800 per syringe",
+        thumb: "/img/thumb/radiesse.webp",
       },
       {
         calendarId: "8Oz5MPL3z14HKwu6kFUa",
@@ -305,6 +327,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "botox full face",
         priceEs: "$550",
         priceEn: "$550",
+        thumb: "/img/thumb/full-face-botox.webp",
       },
       {
         calendarId: "9clMrSyalMc4KaIH90JD",
@@ -317,6 +340,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "tear trough filler",
         priceEs: "$800",
         priceEn: "$800",
+        thumb: "/img/thumb/under-eye-brightening.webp",
       },
       {
         calendarId: "zqBrWu9UerKh41QnmysK",
@@ -330,6 +354,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "botox bruxism masseter",
         priceEs: "$500",
         priceEn: "$500",
+        thumb: "/img/thumb/botox-bruxism-masseter.webp",
       },
       {
         calendarId: "vfB3mAJ5fDjpdgYHhm2E",
@@ -342,6 +367,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "",
         priceEs: "",
         priceEn: "",
+        thumb: "/img/thumb/doctor.webp",
       },
     ],
   },
@@ -361,6 +387,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "skin booster therapy under eyes",
         priceEs: "$299",
         priceEn: "$299",
+        thumb: "/img/thumb/under-eye-rejuvenation.webp",
       },
       {
         calendarId: "cVNYGVHWXhxgxbc8HyA3",
@@ -375,6 +402,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "prf microneedling",
         priceEs: "$350",
         priceEn: "$350",
+        thumb: "/img/thumb/prf-microneedling.webp",
       },
       {
         calendarId: "Kg7mkvC0sHmh6CHQcLR4",
@@ -387,6 +415,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "prf under eyes",
         priceEs: "$400",
         priceEn: "$400",
+        thumb: "/img/thumb/prf-under-eyes.webp",
       },
       {
         calendarId: "gtX5J0b9vic552CI98DZ",
@@ -401,6 +430,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "hair restoration prp",
         priceEs: "$450",
         priceEn: "$450",
+        thumb: "/img/thumb/hair-restoration-prp.webp",
       },
       {
         calendarId: "BrWpbM5oCweD3lbsPvOr",
@@ -413,6 +443,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "dna repair treatment pdrn facial",
         priceEs: "$399",
         priceEn: "$399",
+        thumb: "/img/thumb/pdrn-skin-regeneration.webp",
       },
       {
         calendarId: "cnbdUVZeohlKzbWU42Wp",
@@ -425,6 +456,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "skin booster therapy facial mesotherapy",
         priceEs: "$200",
         priceEn: "$200",
+        thumb: "/img/thumb/skin-boosters.webp",
       },
       {
         calendarId: "Y5IDrzW4nhxKJtgWlj4X",
@@ -438,6 +470,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "hand rejuvenation",
         priceEs: "$400",
         priceEn: "$400",
+        thumb: "/img/thumb/hand-rejuvenation-fotona.webp",
       },
       {
         calendarId: "3PoRM92gdji9QRLoYHGE",
@@ -450,6 +483,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "advanced regenerative facial exosomes",
         priceEs: "$400",
         priceEn: "$400",
+        thumb: "/img/thumb/advanced-regenerative-facial-exosomes.webp",
       },
       {
         calendarId: "k7OOTVRZvorZl2uxDber",
@@ -462,6 +496,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "pdrn chin menton",
         priceEs: "$700",
         priceEn: "$700",
+        thumb: "/img/thumb/pdrn-skin-regeneration.webp",
       },
       {
         calendarId: "UOpS3Qmnvgt22XGklXVj",
@@ -475,6 +510,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "prp mask mascarilla add on complemento",
         priceEs: "$100",
         priceEn: "$100",
+        thumb: "/img/thumb/prp-facial.webp",
       },
     ],
   },
@@ -495,6 +531,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "deep cleanse glow facial",
         priceEs: "$160",
         priceEn: "$160",
+        thumb: "/img/thumb/deep-cleanse-glow-facial.webp",
       },
       {
         calendarId: "O7idVd8Ixxf0gWslEkJj",
@@ -507,6 +544,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "calm repair facial rosacea",
         priceEs: "$180",
         priceEn: "$180",
+        thumb: "/img/thumb/calm-repair-facial-rosacea.webp",
       },
       {
         calendarId: "IpnvcsL5jXdR4JQ2PRbm",
@@ -519,6 +557,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "acne reset treatment",
         priceEs: "",
         priceEn: "",
+        thumb: "/img/thumb/acne-reset-treatment.webp",
       },
     ],
   },
@@ -539,6 +578,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "endolaser abdomen",
         priceEs: "Desde $2,400",
         priceEn: "From $2,400",
+        thumb: "/img/thumb/endolaser-large-areas.webp",
       },
       {
         calendarId: "mmRyB8iVs9krjaDLP07P",
@@ -551,6 +591,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "endolaser arms",
         priceEs: "Desde $2,200",
         priceEn: "From $2,200",
+        thumb: "/img/thumb/endolaser-medium-areas.webp",
       },
       {
         calendarId: "4TWjVELhbf5MvFsd16ft",
@@ -564,6 +605,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "endolaser double chin",
         priceEs: "Desde $1,700",
         priceEn: "From $1,700",
+        thumb: "/img/thumb/endolaser-small-areas.webp",
       },
       {
         calendarId: "YTtKg2L1Miamas4SpM7v",
@@ -576,6 +618,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "endolaser flanks",
         priceEs: "Desde $2,200",
         priceEn: "From $2,200",
+        thumb: "/img/thumb/endolaser-medium-areas.webp",
       },
       {
         calendarId: "zxQ3iJrTFCzeZGqx58ml",
@@ -588,6 +631,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "endolaser jawline",
         priceEs: "Desde $2,300",
         priceEn: "From $2,300",
+        thumb: "/img/thumb/endolaser-small-areas.webp",
       },
       {
         calendarId: "0zemSXDRRj9hjQDQxGQ9",
@@ -600,6 +644,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "endolaser body combo abdomen flanks",
         priceEs: "Desde $3,800",
         priceEn: "From $3,800",
+        thumb: "/img/thumb/endolaser-large-areas.webp",
       },
       {
         calendarId: "mjA5fLwtIK8FVj2Wzs58",
@@ -612,6 +657,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "endolaser facial combo face cara",
         priceEs: "Desde $3,500",
         priceEn: "From $3,500",
+        thumb: "/img/thumb/endolaser-small-areas.webp",
       },
     ],
   },
@@ -631,6 +677,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser varicose veins full leg",
         priceEs: "$500",
         priceEn: "$500",
+        thumb: "/img/thumb/leg-vein-treatment.webp",
       },
       {
         calendarId: "zbLYXJOc8rpTdvRt3wJS",
@@ -643,6 +690,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser onychomycosis treatment",
         priceEs: "$200",
         priceEn: "$200",
+        thumb: "/img/thumb/nail-fungus-laser.webp",
       },
       {
         calendarId: "KhgCQb5QweWjtMGWw6zo",
@@ -655,6 +703,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "telangiectasia rosacea treatment",
         priceEs: "$300",
         priceEn: "$300",
+        thumb: "/img/thumb/rosacea-laser.webp",
       },
     ],
   },
@@ -674,6 +723,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser hair removal legs women",
         priceEs: "$300",
         priceEn: "$300",
+        thumb: "/img/thumb/laser-hair-removal.webp",
       },
       {
         calendarId: "uc4JtlQoPA8ireeK79Jr",
@@ -686,6 +736,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser hair removal bikini women",
         priceEs: "$200",
         priceEn: "$200",
+        thumb: "/img/thumb/laser-hair-removal.webp",
       },
       {
         calendarId: "qPpoRf6HSnQ7aoDYNIkA",
@@ -698,6 +749,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser hair removal beard design men",
         priceEs: "$100",
         priceEn: "$100",
+        thumb: "/img/thumb/laser-hair-removal.webp",
       },
       {
         calendarId: "CaJ7iDNrmzlgCJVVZwkn",
@@ -710,6 +762,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser hair removal upper lip women",
         priceEs: "$70",
         priceEn: "$70",
+        thumb: "/img/thumb/laser-hair-removal.webp",
       },
       {
         calendarId: "JPbVsrqTtWM5fNtzhfNx",
@@ -722,6 +775,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser hair removal armpits women",
         priceEs: "$100",
         priceEn: "$100",
+        thumb: "/img/thumb/laser-hair-removal.webp",
       },
       {
         calendarId: "k7FWgsKUnNwP3Ph2Q0rN",
@@ -734,6 +788,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser hair removal full beard men",
         priceEs: "$150",
         priceEn: "$150",
+        thumb: "/img/thumb/laser-hair-removal.webp",
       },
       {
         calendarId: "BZ1yGLWVUuPDSPmQ4rwK",
@@ -746,6 +801,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser hair removal back men",
         priceEs: "$200",
         priceEn: "$200",
+        thumb: "/img/thumb/laser-hair-removal.webp",
       },
       {
         calendarId: "MrMO6kAUdva0QgnEO7Cp",
@@ -758,6 +814,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "laser hair removal full body depilacion cuerpo completo",
         priceEs: "$650",
         priceEn: "$650",
+        thumb: "/img/thumb/laser-hair-removal.webp",
       },
     ],
   },
@@ -778,6 +835,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "lymphatic drainage single session",
         priceEs: "$150",
         priceEn: "$150",
+        thumb: "/img/thumb/lymphatic-body-massage.webp",
       },
       {
         calendarId: "Wa4DPQdqlq5RR46is2mD",
@@ -790,6 +848,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "lymphatic drainage facial drenaje linfatico facial massage masaje",
         priceEs: "$120",
         priceEn: "$120",
+        thumb: "/img/thumb/lymphatic-facial-massage.webp",
       },
       {
         calendarId: "xVchlrdpSvw0ktQ5eD7U",
@@ -802,6 +861,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "lymphatic drainage full body drenaje linfatico cuerpo completo massage masaje",
         priceEs: "$200",
         priceEn: "$200",
+        thumb: "/img/thumb/lymphatic-body-massage.webp",
       },
       {
         calendarId: "MVL5La82hTz59n6XwzKq",
@@ -814,6 +874,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "swedish massage masaje sueco relajante",
         priceEs: "$80",
         priceEn: "$80",
+        thumb: "/img/thumb/lymphatic-drainage-enhancement.webp",
       },
       {
         calendarId: "wL2MpHgpueyxIe7F48JN",
@@ -826,6 +887,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "swedish massage masaje sueco relajante",
         priceEs: "$120",
         priceEn: "$120",
+        thumb: "/img/thumb/lymphatic-drainage-enhancement.webp",
       },
       {
         calendarId: "M4IXm1vzSfvyXTgJtcI8",
@@ -838,6 +900,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "swedish massage masaje sueco relajante",
         priceEs: "$180",
         priceEn: "$180",
+        thumb: "/img/thumb/lymphatic-drainage-enhancement.webp",
       },
       {
         calendarId: "c7SpwcbLJ4JannyPrfsT",
@@ -852,6 +915,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "maderoterapia wood therapy celulitis cellulite",
         priceEs: "$150",
         priceEn: "$150",
+        thumb: "/img/thumb/body-contouring-mesotherapy.webp",
       },
       {
         calendarId: "0aAVKy3VmKlsr1if1EMd",
@@ -864,6 +928,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "emszero ems sculpt tonificar",
         priceEs: "5 sesiones $600 · 10 sesiones $1,100",
         priceEn: "5 sessions $600 · 10 sessions $1,100",
+        thumb: "/img/thumb/body-sculpt-package.webp",
       },
     ],
   },
@@ -883,6 +948,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "iv vitamin boost",
         priceEs: "$179",
         priceEn: "$179",
+        thumb: "/img/thumb/iv-vitamin-boost.webp",
       },
       {
         calendarId: "I9qHohv2BroVMWoDU9Sm",
@@ -895,6 +961,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "medical weight loss glp 1 program",
         priceEs: "Desde $399 al mes",
         priceEn: "From $399/month",
+        thumb: "/img/thumb/semaglutide-weight-loss.webp",
       },
       {
         calendarId: "b618zdQvLAFNkm9ysdB6",
@@ -907,6 +974,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "peptide therapy performance program",
         priceEs: "$349 al mes",
         priceEn: "$349/month",
+        thumb: "/img/thumb/peptide-programs.webp",
       },
       {
         calendarId: "4GguCYHAYyw8zmgyWNwI",
@@ -919,6 +987,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "peptide therapy metabolic program",
         priceEs: "$399 al mes",
         priceEn: "$399/month",
+        thumb: "/img/thumb/peptide-programs.webp",
       },
       {
         calendarId: "7kT9DtYZQQ6ijhhQ2e53",
@@ -931,6 +1000,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "iv beauty glow",
         priceEs: "$249",
         priceEn: "$249",
+        thumb: "/img/thumb/iv-beauty-glow.webp",
       },
       {
         calendarId: "PyZ88xS5Z27JG6lkkfsG",
@@ -943,6 +1013,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "nad im add on",
         priceEs: "$75",
         priceEn: "$75",
+        thumb: "/img/thumb/nad-im-add-on.webp",
       },
       {
         calendarId: "gAE9PP3Vuryv6XyVgey2",
@@ -956,6 +1027,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "iv immunity energy",
         priceEs: "$199",
         priceEn: "$199",
+        thumb: "/img/thumb/iv-immunity-energy.webp",
       },
       {
         calendarId: "ITjx4RusI6YekKbnVfxf",
@@ -968,6 +1040,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "peptide therapy longevity program",
         priceEs: "$300 al mes",
         priceEn: "$300/month",
+        thumb: "/img/thumb/peptide-programs.webp",
       },
       {
         calendarId: "evAXB956Wld8ug4gsIND",
@@ -980,6 +1053,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "iv hydration basic",
         priceEs: "$150",
         priceEn: "$150",
+        thumb: "/img/thumb/iv-hydration-basic.webp",
       },
       {
         calendarId: "aNSQazFVAtY7PE3Q4vFN",
@@ -992,6 +1066,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "iv recovery hangover post workout",
         priceEs: "$219",
         priceEn: "$219",
+        thumb: "/img/thumb/iv-recovery-hangover-post-workout.webp",
       },
       {
         calendarId: "gsgNDD5qbIVShnZaW2dg",
@@ -1005,6 +1080,7 @@ export const BOOKING_CATEGORIES: BookingCategory[] = [
         keywords: "iv sexual wellness boost",
         priceEs: "$279",
         priceEn: "$279",
+        thumb: "/img/thumb/iv-sexual-wellness-boost.webp",
       },
     ],
   },

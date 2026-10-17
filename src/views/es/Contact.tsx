@@ -3,8 +3,10 @@ import css from "@/styles/pages/contact.css?raw";
 import { PageStyle } from "@/site/PageStyle";
 import { SiteChrome } from "@/site/SiteChrome";
 import { SiteLink } from "@/site/SiteLink";
+import { useContactPage } from "@/site/behaviors";
 
 export default function ContactEs() {
+  useContactPage();
   return (
     <>
       <PageStyle css={css} />
@@ -65,7 +67,7 @@ export default function ContactEs() {
             directamente una visita — respondemos personalmente en menos de 24 horas.
           </p>{" "}
         </section>{" "}
-        <section className="contact-cards">
+        <section className="contact-cards ra-x-four">
           {" "}
           <article className="c-card">
             {" "}
@@ -89,6 +91,25 @@ export default function ContactEs() {
               </a>
             </p>{" "}
             <p className="hint">Respuesta el mismo día en horario de clínica.</p>{" "}
+          </article>
+          <article className="c-card">
+            <div className="ico">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.6"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" />
+              </svg>
+            </div>
+            <span className="label">Teléfono</span>
+            <p className="value">
+              <a href="tel:+17865805702">+1 786-580-5702</a>
+            </p>
+            <p className="hint">Llámanos en horario de clínica.</p>
           </article>{" "}
           <article className="c-card">
             {" "}
@@ -157,29 +178,11 @@ export default function ContactEs() {
           <div className="form-wrap">
             {" "}
             <iframe
-              src="https://be.realaestheticmedspa.com/widget/form/CUjPYAeiwypGSnt7DLWC"
-              style={{ width: "100%", minHeight: "1040px", border: "none", borderRadius: "8px" }}
-              id="inline-CUjPYAeiwypGSnt7DLWC"
-              data-layout={"{'id':'INLINE'}"}
-              data-trigger-type="alwaysShow"
-              data-trigger-value=""
-              data-activation-type="alwaysActivated"
-              data-activation-value=""
-              data-deactivation-type="neverDeactivate"
-              data-deactivation-value=""
-              data-form-name="pub_contact_es_v1"
-              data-height="1028"
-              data-layout-iframe-id="inline-CUjPYAeiwypGSnt7DLWC"
-              data-form-id="CUjPYAeiwypGSnt7DLWC"
-              title="pub_contact_es_v1"
-            >
-              {" "}
-            </iframe>{" "}
-            <script
-              data-cfasync="false"
-              src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
-            />
-            <script src="https://be.realaestheticmedspa.com/js/form_embed.js" defer />{" "}
+              src="https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es"
+              id="RMABBGh0oSdJkNXeLiHI_contact"
+              className="ra-x-cal-embed"
+              title="Reservar consulta inicial"
+            />{" "}
           </div>{" "}
         </section>{" "}
         <section className="visit-block">

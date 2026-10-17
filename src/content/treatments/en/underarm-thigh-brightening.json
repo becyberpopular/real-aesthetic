@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "Medical mesotherapy for hyperpigmentation in underarms, inner thighs and inguinal folds in Miami. Tranexamic acid and glutathione protocol with maintenance plan."
+        "content": "Medical mesotherapy for hyperpigmentation in underarms, inner thighs and inguinal folds in Miami."
       },
       {
         "property": "og:type",
@@ -189,9 +189,11 @@
     "title": "Underarm and Inner Thigh Brightening <em>in Miami</em>",
     "lede": "Underarm and inner thigh brightening is a medical mesotherapy protocol that addresses hyperpigmentation of the underarms, inner thighs and inguinal folds through a delicate cocktail of tranexamic acid and glutathione, performed in a private clinical setting in Miami with a structured maintenance plan.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -236,9 +238,11 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a private consultation at Real Aesthetic Medical Spa for a medical assessment and a personalised plan.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

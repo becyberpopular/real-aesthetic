@@ -189,9 +189,11 @@
     "title": "Pigmentation and Sun Damage Laser Treatment <em>in Miami</em>",
     "lede": "Pigmentation and sun damage laser treatment is a Q-switched Nd:YAG protocol that targets solar lentigines, sun spots and post-inflammatory pigmentation, typically across two to four sessions with strict daily sun protection.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -236,9 +238,11 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a diagnostic mapping with our Fotona team and design a personalised pigmentation plan supervised by Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

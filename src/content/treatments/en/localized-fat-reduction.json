@@ -235,9 +235,11 @@
     "title": "Localized Fat Reduction <em>in Miami</em>",
     "lede": "Localized fat reduction is an injectable lipolytic mesotherapy protocol that targets small, stubborn fat pockets — such as the double chin, bra fat, or inner thigh patches — at our Miami clinic, and is not intended as a weight-loss treatment.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -310,9 +312,11 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

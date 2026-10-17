@@ -189,9 +189,11 @@
     "title": "Tratamiento láser de pigmentación y manchas solares <em>en Miami</em>",
     "lede": "El tratamiento láser de pigmentación y manchas solares es un protocolo Q-switched Nd:YAG que actúa sobre léntigos solares, manchas de sol y pigmentación post-inflamatoria, habitualmente en dos a cuatro sesiones con fotoprotección estricta.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -236,9 +238,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva un mapeo diagnóstico con nuestro equipo Fotona y diseña un plan personalizado de pigmentación supervisado por Ronal Perdomo Lugo, APRN, FNP-C.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

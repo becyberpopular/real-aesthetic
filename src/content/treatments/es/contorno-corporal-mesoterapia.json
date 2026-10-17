@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "\\*0 ch"
+        "content": "La mesoterapia de contorno corporal es un protocolo inyectable de varias sesiones que combina cócteles lipolíticos y firmadores para refinar áreas medianas…"
       },
       {
         "property": "og:type",
@@ -189,9 +189,11 @@
     "title": "Mesoterapia de contorno corporal <em>en Miami</em>",
     "lede": "La mesoterapia de contorno corporal es un protocolo inyectable de varias sesiones que combina cócteles lipolíticos y firmadores para refinar áreas medianas y grandes —abdomen, flancos y brazos— en nuestra clínica de Miami.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -236,9 +238,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

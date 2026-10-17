@@ -189,9 +189,11 @@
     "title": "Skin Brightening &amp; Pigmentation Correction Mesotherapy <em>in Miami</em>",
     "lede": "Skin brightening mesotherapy is a medical injectable protocol that delivers a custom cocktail of tranexamic acid, glutathione and vitamin C into the dermis to address melasma, sun-related pigmentation and uneven tone, performed in a series of sessions at our Miami practice and paired with a strict daily SPF regimen.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -235,9 +237,11 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation at Real Aesthetic Medical Spa and let us design a personalised pigmentation plan for your skin.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

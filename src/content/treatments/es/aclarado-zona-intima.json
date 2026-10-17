@@ -189,9 +189,11 @@
     "title": "Aclarado de zona íntima <em>en Miami</em>",
     "lede": "El aclarado de zona íntima es un protocolo médico de mesoterapia que aborda la hiperpigmentación de la zona íntima y la línea bikini con un cóctel suave de ácido tranexámico y glutatión, realizado bajo estrictos estándares médicos y de privacidad en nuestra clínica de Miami.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -236,9 +238,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

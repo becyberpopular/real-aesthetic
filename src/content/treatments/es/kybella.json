@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "Kybella en Miami en Real Aesthetic. Ácido desoxicólico inyectable para disolver la grasa submentoniana y definir el perfil mandibular, supervisado por Ronal Perdomo Lugo, APRN, FNP-C."
+        "content": "Kybella en Miami. Ácido desoxicólico inyectable para disolver la grasa submentoniana y definir el perfil mandibular, supervisado por Ronal Perdomo, APRN."
       },
       {
         "property": "og:type",
@@ -189,9 +189,11 @@
     "title": "Kybella <em>en Miami</em>",
     "lede": "Kybella es un tratamiento inyectable no quirúrgico que disuelve la grasa submentoniana para refinar el perfil del mentón y definir la mandíbula en pacientes con papada leve o moderada.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -235,9 +237,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

@@ -221,9 +221,11 @@
     "title": "Laser Tattoo Removal <em>in Miami</em>",
     "lede": "Laser tattoo removal is a non-surgical procedure that uses Q-switched Nd:YAG laser light to fragment ink particles in the skin so the body can gradually clear them, fading the tattoo over a planned series of sessions.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -292,9 +294,11 @@
     "title": "Plan your treatment <em>in Miami</em>",
     "text": "Book a consultation with Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) to design your personalised plan.",
     "cta": {
-      "href": "/book/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=en",
       "label": "Book consultation",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

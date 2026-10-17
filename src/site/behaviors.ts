@@ -151,6 +151,18 @@ export function useTreatmentPage(key: string) {
   }, [key]);
 }
 
+/** Contact pages: GHL's embed script, which resizes the consultation calendar iframe to its content. */
+export function useContactPage() {
+  useEffect(() => {
+    const src = "https://link.msgsndr.com/js/form_embed.js";
+    if (document.querySelector(`script[src="${src}"]`)) return;
+    const js = document.createElement("script");
+    js.src = src;
+    js.async = true;
+    document.body.appendChild(js);
+  }, []);
+}
+
 type CherryFn = ((...args: unknown[]) => void) & { q?: unknown[][] };
 
 /** Financing pages: top nav on scroll + the Cherry payment-plan widget. */
@@ -240,7 +252,8 @@ export function useCatalogPage(lang: Lang) {
         const img = document.createElement("div");
         img.className = "card-image";
         const photo = document.createElement("img");
-        photo.src = "/img/proc/" + (p.imgSlug || p.slug) + ".webp";
+        // 720px thumbnail (the full-size page images are 2400px wide).
+        photo.src = "/img/thumb/" + (p.imgSlug || p.slug) + ".webp";
         photo.alt = p.name;
         photo.loading = "lazy";
         photo.decoding = "async";

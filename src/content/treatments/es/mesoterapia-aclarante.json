@@ -189,9 +189,11 @@
     "title": "Mesoterapia aclarante y corrección de pigmentación <em>en Miami</em>",
     "lede": "La mesoterapia aclarante es un protocolo médico inyectable que aporta a la dermis un cóctel personalizado de ácido tranexámico, glutatión y vitamina C para atenuar el melasma, las manchas solares y los tonos desiguales, realizado en una serie de sesiones en Miami y acompañado de un protocolo estricto de fotoprotección diaria.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -235,9 +237,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserve su consulta en Real Aesthetic Medical Spa y diseñaremos un plan personalizado para su pigmentación.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

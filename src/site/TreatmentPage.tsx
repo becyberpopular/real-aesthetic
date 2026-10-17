@@ -1,4 +1,11 @@
-import { Fragment, type CSSProperties } from "react";
+import {
+  Fragment,
+  useCallback,
+  useEffect,
+  useState,
+  type CSSProperties,
+  type MouseEvent,
+} from "react";
 import type { Anchor, Block, CtaData, Treatment } from "@/content/treatments";
 import cssA from "@/styles/pages/treatment-a.css?raw";
 import cssB from "@/styles/pages/treatment-b.css?raw";
@@ -6,9 +13,13 @@ import cssC from "@/styles/pages/treatment-c.css?raw";
 import cssD from "@/styles/pages/treatment-d.css?raw";
 import cssE from "@/styles/pages/treatment-e.css?raw";
 import { useTreatmentPage } from "./behaviors";
+import { openBooking } from "./booking-events";
+import { SERVICE_PRICES } from "./booking-prices";
 import { ICONS } from "./icons";
+import type { Lang } from "./lang";
 import { PageStyle } from "./PageStyle";
 import { RelatedTreatments } from "./RelatedTreatments";
+import REP from "./reputation.json";
 import { SiteChrome } from "./SiteChrome";
 import { SiteLink } from "./SiteLink";
 
@@ -90,6 +101,209 @@ function Cta({ data }: { data: CtaData }) {
   return data.cta ? <A a={data.cta} /> : null;
 }
 
+// ---- Additions on top of the original page design (classes ra-x-*; "ra-x-chrome" = not part of the live markup) ----
+
+const CAL_ID = /widget\/booking\/([A-Za-z0-9]+)/;
+const dollars = (p: string) => Number((p.match(/\$([\d,]+)/)?.[1] ?? "0").replace(/,/g, ""));
+
+/** "$550 · 30 min", or "From $1,700" when the hero offers several areas. */
+function heroPrice(data: CtaData, lang: Lang) {
+  const anchors = data.multi ? data.multi.buttons : data.cta ? [data.cta] : [];
+  const items = anchors.flatMap((a) => {
+    const p = SERVICE_PRICES[a.href.match(CAL_ID)?.[1] ?? ""];
+    return p ? [p] : [];
+  });
+  const first = items[0];
+  if (!first) return null;
+  const minutes = new Set(items.map((p) => p.minutes));
+  const duration = minutes.size === 1 ? ` · ${first.minutes} min` : "";
+  const low = Math.min(...items.map((p) => dollars(p.en)));
+  const sameText = items.every((p) => p[lang] === first[lang]);
+  const price = sameText
+    ? first[lang]
+    : `${lang === "es" ? "Desde" : "From"} $${low.toLocaleString("en-US")}`;
+  return { price, duration, financing: low >= 1000 };
+}
+
+function HeroPrice({ data, lang }: { data: CtaData; lang: Lang }) {
+  const p = heroPrice(data, lang);
+  if (!p) return null;
+  return (
+    <p className="ra-x-price ra-x-chrome">
+      <strong>{p.price}</strong>
+      {p.duration}
+      {p.financing && (
+        <>
+          {" · "}
+          <SiteLink href={lang === "es" ? "/financiacion/" : "/financing/"}>
+            {lang === "es" ? "Financiación disponible" : "Financing available"}
+          </SiteLink>
+        </>
+      )}
+    </p>
+  );
+}
+
+// Prescription programs: say plainly that a medical evaluation comes first and results vary.
+const RX_PAGES = new Set([
+  "semaglutida-perdida-peso",
+  "tirzepatida-perdida-peso",
+  "programas-peptidos",
+  "semaglutide-weight-loss",
+  "tirzepatide-weight-loss",
+  "peptide-programs",
+]);
+const RX_NOTE = {
+  es: "Tratamiento con receta: solo se indica tras una evaluación médica y si eres candidato/a. Los resultados varían de una persona a otra.",
+  en: "Prescription treatment: only prescribed after a medical evaluation, if you're a candidate. Results vary from person to person.",
+};
+
+const PROVIDER = {
+  es: {
+    eyebrow: "Quién te atiende",
+    text: "Nurse Practitioner especializado en medicina estética, con más de 10 años de experiencia. Cada tratamiento empieza con una evaluación médica y un plan hecho a tu medida.",
+    reviews: `${REP.rating} · ${REP.reviewCount} reseñas en Google`,
+    about: { href: "/sobre/", label: "Conoce al especialista →" },
+  },
+  en: {
+    eyebrow: "Your practitioner",
+    text: "Nurse Practitioner specializing in aesthetic medicine, with more than 10 years of experience. Every treatment starts with a medical assessment and a plan built around you.",
+    reviews: `${REP.rating} · ${REP.reviewCount} Google reviews`,
+    about: { href: "/about/", label: "Meet the practitioner →" },
+  },
+};
+
+const bookingUrl = (calendarId: string, lang: Lang) =>
+  "https://api.leadconnectorhq.com/widget/booking/" + calendarId + "?language=" + lang;
+
+/** The hero's calendar buttons (areas / indications), skipping any that go to the general booking page. */
+function calendarOptions(data: CtaData) {
+  const anchors = data.multi ? data.multi.buttons : data.cta ? [data.cta] : [];
+  return anchors.flatMap((a) => {
+    const id = a.href.match(CAL_ID)?.[1];
+    return id ? [{ id, label: a.label, href: a.href }] : [];
+  });
+}
+
+const CHOOSER = {
+  es: {
+    title: "Reservar",
+    close: "Cerrar",
+    consult: "¿No sabes cuál elegir? Reserva una consulta inicial",
+  },
+  en: {
+    title: "Book",
+    close: "Close",
+    consult: "Not sure which one? Book an initial consultation",
+  },
+};
+
+/** Phone bottom sheet: pick an area / indication, then its calendar opens in the booking pop-up. */
+function BookChooser({ data, lang, onClose }: { data: CtaData; lang: Lang; onClose: () => void }) {
+  const c = CHOOSER[lang];
+  useEffect(() => {
+    const root = document.documentElement;
+    const overflow = root.style.overflow;
+    root.style.overflow = "hidden";
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose();
+    };
+    document.addEventListener("keydown", onKey);
+    return () => {
+      root.style.overflow = overflow;
+      document.removeEventListener("keydown", onKey);
+    };
+  }, [onClose]);
+  return (
+    <div
+      className="ra-x-sheet-overlay ra-x-chrome"
+      onClick={(e) => e.target === e.currentTarget && onClose()}
+    >
+      <div
+        className="ra-x-sheet"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="ra-x-sheet-title"
+      >
+        <div className="ra-x-sheet-head">
+          <h3 id="ra-x-sheet-title">{data.multi?.label ?? c.title}</h3>
+          <button type="button" className="ra-x-sheet-close" aria-label={c.close} onClick={onClose}>
+            <svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true">
+              <path
+                d="M1 1l12 12M13 1L1 13"
+                stroke="currentColor"
+                strokeWidth="1.4"
+                strokeLinecap="round"
+              />
+            </svg>
+          </button>
+        </div>
+        <ul className="ra-x-sheet-list">
+          {calendarOptions(data).map((o) => {
+            const p = SERVICE_PRICES[o.id];
+            return (
+              <li key={o.id}>
+                <a href={o.href} target="_blank" rel="noopener" onClick={onClose}>
+                  <span className="ra-x-sheet-name">{o.label}</span>
+                  {p && (
+                    <span className="ra-x-sheet-meta">
+                      {p[lang]} · {p.minutes} min
+                    </span>
+                  )}
+                  <span className="ra-x-sheet-go" aria-hidden="true">
+                    →
+                  </span>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+        <a
+          className="ra-x-sheet-consult"
+          href={bookingUrl(REP.consultationCalendarId, lang)}
+          target="_blank"
+          rel="noopener"
+          onClick={onClose}
+        >
+          {c.consult} →
+        </a>
+      </div>
+    </div>
+  );
+}
+
+function Provider({ lang }: { lang: Lang }) {
+  const c = PROVIDER[lang];
+  return (
+    <section className="ra-x-provider ra-x-chrome">
+      <div className="ra-x-provider-inner">
+        <img
+          src="/img/thumb/doctor.webp"
+          alt="Ronal Perdomo Lugo, APRN, FNP-C"
+          width={180}
+          height={220}
+          loading="lazy"
+          decoding="async"
+        />
+        <div>
+          <span className="ra-x-eyebrow">{c.eyebrow}</span>
+          <h2>Ronal Perdomo Lugo, APRN, FNP-C</h2>
+          <p>{c.text}</p>
+          <div className="ra-x-provider-links">
+            <a href={REP.googleReviewsUrl} target="_blank" rel="noopener">
+              <span className="ra-x-stars" aria-hidden="true">
+                ★★★★★
+              </span>{" "}
+              {c.reviews}
+            </a>
+            <SiteLink href={c.about.href}>{c.about.label}</SiteLink>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function ProcBlock({ b }: { b: Block }) {
   return (
     <section className={b.className}>
@@ -129,6 +343,18 @@ function ProcBlock({ b }: { b: Block }) {
 export function TreatmentPage({ t }: { t: Treatment }) {
   useTreatmentPage(t.path);
   const nav = NAV[t.lang];
+  const [chooser, setChooser] = useState(false);
+  const closeChooser = useCallback(() => setChooser(false), []);
+  const heroCalendars = calendarOptions(t.hero);
+  // Bottom-bar Book button: this treatment's calendar (or a chooser when it has several areas)
+  // instead of the general booking page. Without a calendar it keeps going to the booking page.
+  const onBook = (e: MouseEvent) => {
+    const [only, ...rest] = heroCalendars;
+    if (!only) return;
+    e.preventDefault();
+    if (rest.length) setChooser(true);
+    else openBooking(only.id, t.lang);
+  };
   const vars = `:root{--proc-hero-img:url('${t.heroImage ?? ""}');--proc-cta-img:url('${t.ctaImage ?? t.heroImage ?? ""}');}`;
   return (
     <>
@@ -172,12 +398,16 @@ export function TreatmentPage({ t }: { t: Treatment }) {
           <h1 dangerouslySetInnerHTML={html(t.hero.title)} />
           <p className="lede" dangerouslySetInnerHTML={html(t.hero.lede)} />
           <Cta data={t.hero} />
+          <HeroPrice data={t.hero} lang={t.lang} />
+          {RX_PAGES.has(t.slug) && <p className="ra-x-note ra-x-chrome">{RX_NOTE[t.lang]}</p>}
         </div>
       </section>
 
       {t.blocks.map((b, i) => (
         <ProcBlock b={b} key={i} />
       ))}
+
+      <Provider lang={t.lang} />
 
       <RelatedTreatments slug={t.slug} lang={t.lang} />
 
@@ -209,6 +439,7 @@ export function TreatmentPage({ t }: { t: Treatment }) {
             "aria-label": it.ariaLabel,
             target: it.target,
             rel: it.rel,
+            ...(it.className?.split(" ").includes("bb-cta") ? { onClick: onBook } : {}),
           };
           return it.href.startsWith("/") && it.target !== "_blank" ? (
             <SiteLink key={it.href + it.icon} href={it.href} {...props}>
@@ -221,6 +452,7 @@ export function TreatmentPage({ t }: { t: Treatment }) {
           );
         })}
       </nav>
+      {chooser && <BookChooser data={t.hero} lang={t.lang} onClose={closeChooser} />}
 
       <SiteChrome lang={t.lang} />
     </>

@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "Eliminación de tatuajes con láser Q-switched Nd:YAG en Miami. Multi-longitud de onda para tinta negra, roja, azul y verde. Reserva tu consulta en Real Aesthetic."
+        "content": "Eliminación de tatuajes con láser Q-switched Nd:YAG en Miami. Multi-longitud de onda para tinta negra, roja, azul y verde. Reserva tu consulta."
       },
       {
         "property": "og:type",
@@ -221,9 +221,11 @@
     "title": "Eliminación de tatuajes con láser <em>en Miami</em>",
     "lede": "La eliminación de tatuajes con láser es un procedimiento no quirúrgico que utiliza un láser Q-switched Nd:YAG para fragmentar las partículas de tinta en la piel y permitir que el organismo las elimine progresivamente, atenuando el tatuaje a lo largo de varias sesiones.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -292,9 +294,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

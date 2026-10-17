@@ -10,6 +10,7 @@ import {
 import { useEffect, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
+import enhanceCss from "../site/enhance.css?url";
 import { reportVibeError } from "../lib/vibe-error-reporting";
 import { langFromPath } from "../site/lang";
 import { BookingPopupHost } from "../site/BookingPopupHost";
@@ -94,6 +95,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
       { rel: "stylesheet", href: FONTS },
       { rel: "stylesheet", href: appCss },
+      { rel: "stylesheet", href: enhanceCss },
     ],
   }),
   shellComponent: RootShell,

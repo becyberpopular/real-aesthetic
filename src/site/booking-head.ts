@@ -1,3 +1,5 @@
+import homeEn from "@/views/en/Home.head.json";
+import homeEs from "@/views/es/Home.head.json";
 import type { HeadData } from "./head";
 import type { Lang } from "./lang";
 
@@ -47,6 +49,7 @@ export function bookingHead(lang: Lang): HeadData {
       { rel: "alternate", hrefLang: "es", href: SITE + COPY.es.path },
       { rel: "alternate", hrefLang: "x-default", href: SITE + COPY.es.path },
     ],
-    jsonLd: [],
+    // Same business details (MedicalBusiness) Google reads on the home page.
+    jsonLd: (lang === "es" ? homeEs : homeEn).jsonLd,
   };
 }

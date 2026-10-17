@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "PRP Facial en Miami: plasma rico en plaquetas del propio paciente para estimular colágeno y renovar la piel. Tratamiento autólogo supervisado por Ronal Perdomo, APRN, FNP-C."
+        "content": "PRP Facial en Miami: plasma rico en plaquetas del propio paciente para estimular colágeno y renovar la piel. Tratamiento autólogo."
       },
       {
         "property": "og:type",
@@ -235,9 +235,11 @@
     "title": "PRP Facial en Miami — Rejuvenecimiento autólogo de <em>la piel</em>",
     "lede": "El PRP Facial es un procedimiento regenerativo que utiliza el plasma rico en plaquetas obtenido de la sangre del propio paciente, microinyectado en el rostro para estimular colágeno, elastina y un tono más uniforme y luminoso.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -310,9 +312,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta personalizada en Real Aesthetic Medical Spa con Ronal Perdomo Lugo, APRN, FNP-C. Diseñamos tu protocolo a partir de la evaluación cutánea y tus objetivos estéticos.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {

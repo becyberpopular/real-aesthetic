@@ -85,18 +85,115 @@ export default function HomeEs() {
           <span className="pretitle">Miami, Florida</span>{" "}
           <h1>
             Real Aesthetic <em>Medical Spa</em>
-          </h1>{" "}
+          </h1>
+          <p className="ra-x-hero-value">
+            Endoláser, Fotona 4D, bioestimuladores y Botox con criterio médico y resultados
+            naturales.
+          </p>{" "}
           <p className="doctor-line">
             Ronal Perdomo Lugo, APRN, FNP-C — Aesthetic Nurse Practitioner
-          </p>{" "}
-          <SiteLink className="cta" href="/reservar/">
-            Agendar consulta
-          </SiteLink>{" "}
+          </p>
+          <a
+            className="ra-x-rating"
+            href="https://www.google.com/maps?cid=5776916726937979610"
+            target="_blank"
+            rel="noopener"
+          >
+            <span className="ra-x-stars" aria-hidden="true">
+              ★★★★★
+            </span>{" "}
+            5.0 · 34 reseñas en Google
+          </a>{" "}
+          <div className="ra-x-hero-ctas">
+            <SiteLink className="cta" href="/reservar/">
+              Agendar consulta
+            </SiteLink>
+            <a
+              className="ra-x-cta-ghost"
+              href="https://wa.me/17862443722"
+              target="_blank"
+              rel="noopener"
+            >
+              WhatsApp
+            </a>
+          </div>{" "}
         </div>{" "}
         <a href="#treatments" className="hero-scrollcue">
           Tratamientos
           <span className="line" />
         </a>{" "}
+      </section>
+      <section className="reviews" id="reviews">
+        {" "}
+        <div className="reviews-header">
+          {" "}
+          <span className="eyebrow">Pacientes</span>{" "}
+          <h2>
+            Voces que <em>nos importan</em>
+          </h2>{" "}
+          <p className="lede">
+            Quienes han confiado su rostro y su tiempo al criterio de Ronal Perdomo Lugo.
+          </p>
+          <a
+            className="ra-x-google"
+            href="https://www.google.com/maps?cid=5776916726937979610"
+            target="_blank"
+            rel="noopener"
+          >
+            <span className="ra-x-stars" aria-hidden="true">
+              ★★★★★
+            </span>{" "}
+            5.0 en Google · Lee las 34 reseñas →
+          </a>{" "}
+        </div>{" "}
+        <div className="reviews-grid">
+          {" "}
+          <article className="review">
+            {" "}
+            <div className="quote-mark">“</div>{" "}
+            <div className="stars" aria-label="5 sobre 5">
+              ◆ ◆ ◆ ◆ ◆
+            </div>{" "}
+            <blockquote>
+              El especialista escuchó antes de hablar. El resultado se nota — no se ve. Es
+              exactamente la diferencia que buscaba.
+            </blockquote>{" "}
+            <footer>
+              {" "}
+              <cite>Andrea M.</cite> <span className="tag">Endoláser · 3 sesiones</span>{" "}
+            </footer>{" "}
+          </article>{" "}
+          <article className="review">
+            {" "}
+            <div className="quote-mark">“</div>{" "}
+            <div className="stars" aria-label="5 sobre 5">
+              ◆ ◆ ◆ ◆ ◆
+            </div>{" "}
+            <blockquote>
+              He probado varios spas en Miami. Real Aesthetic es el primero donde sentí que tomaban
+              una decisión médica, no comercial.
+            </blockquote>{" "}
+            <footer>
+              {" "}
+              <cite>Carolina V.</cite> <span className="tag">Sculptra + PDRN</span>{" "}
+            </footer>{" "}
+          </article>{" "}
+          <article className="review">
+            {" "}
+            <div className="quote-mark">“</div>{" "}
+            <div className="stars" aria-label="5 sobre 5">
+              ◆ ◆ ◆ ◆ ◆
+            </div>{" "}
+            <blockquote>
+              Una atención impecable, un protocolo a la medida y un seguimiento que no termina al
+              salir de la cabina. Volveré.
+            </blockquote>{" "}
+            <footer>
+              {" "}
+              <cite>Marisol G.</cite> <span className="tag">Fotona TightSculpting</span>{" "}
+            </footer>{" "}
+          </article>{" "}
+        </div>{" "}
       </section>{" "}
       {/* PILLARS */}{" "}
       <section className="pillars" id="pillars">
@@ -243,6 +340,9 @@ export default function HomeEs() {
                 <SiteLink href="/tratamientos/endolaser-areas-pequenas/">
                   Conocer el protocolo
                 </SiteLink>
+                <SiteLink className="ra-x-tbook" href="/reservar/?cat=endolaser">
+                  Reservar
+                </SiteLink>
               </div>{" "}
               <div className="t-index-num">01</div>{" "}
             </section>{" "}
@@ -253,7 +353,17 @@ export default function HomeEs() {
                 <span className="eyebrow">02 · Tecnología láser</span>
                 <h2>Fotona TightSculpting</h2>
                 <p className="tag">Cuatro modalidades, una sola sesión, resultados visibles</p>
-                <SiteLink href="/tratamientos/fotona-4d/">Conocer el protocolo</SiteLink>
+                <SiteLink href="/tratamientos/fotona-tightsculpting/">
+                  Conocer el protocolo
+                </SiteLink>
+                <a
+                  className="ra-x-tbook"
+                  href="https://api.leadconnectorhq.com/widget/booking/MlFxbRZqdYNJsDJj8FBI?language=es"
+                  target="_blank"
+                  rel="noopener"
+                >
+                  Reservar
+                </a>
               </div>{" "}
               <div className="t-index-num">02</div>{" "}
             </section>{" "}
@@ -267,6 +377,14 @@ export default function HomeEs() {
                   Ácido poli-L-láctico — colágeno propio progresivo en dos a tres sesiones
                 </p>
                 <SiteLink href="/tratamientos/sculptra/">Conocer el protocolo</SiteLink>
+                <a
+                  className="ra-x-tbook"
+                  href="https://api.leadconnectorhq.com/widget/booking/RzU6WrOwiepfOTy27uQX?language=es"
+                  target="_blank"
+                  rel="noopener"
+                >
+                  Reservar
+                </a>
               </div>{" "}
               <div className="t-index-num">03</div>{" "}
             </section>{" "}
@@ -280,6 +398,14 @@ export default function HomeEs() {
                   Hidroxiapatita cálcica — volumen inmediato y colágeno estructural duradero
                 </p>
                 <SiteLink href="/tratamientos/radiesse/">Conocer el protocolo</SiteLink>
+                <a
+                  className="ra-x-tbook"
+                  href="https://api.leadconnectorhq.com/widget/booking/UPfhQ1Yfnn6f42WTAnBB?language=es"
+                  target="_blank"
+                  rel="noopener"
+                >
+                  Reservar
+                </a>
               </div>{" "}
               <div className="t-index-num">04</div>{" "}
             </section>{" "}
@@ -293,6 +419,14 @@ export default function HomeEs() {
                 <SiteLink href="/tratamientos/regeneracion-piel-pdrn/">
                   Conocer el protocolo
                 </SiteLink>
+                <a
+                  className="ra-x-tbook"
+                  href="https://api.leadconnectorhq.com/widget/booking/BrWpbM5oCweD3lbsPvOr?language=es"
+                  target="_blank"
+                  rel="noopener"
+                >
+                  Reservar
+                </a>
               </div>{" "}
               <div className="t-index-num">05</div>{" "}
             </section>{" "}
@@ -478,69 +612,7 @@ export default function HomeEs() {
           </li>
         </ol>{" "}
       </section>{" "}
-      {/* REVIEWS */}{" "}
-      <section className="reviews" id="reviews">
-        {" "}
-        <div className="reviews-header">
-          {" "}
-          <span className="eyebrow">Pacientes</span>{" "}
-          <h2>
-            Voces que <em>nos importan</em>
-          </h2>{" "}
-          <p className="lede">
-            Quienes han confiado su rostro y su tiempo al criterio de Ronal Perdomo Lugo.
-          </p>{" "}
-        </div>{" "}
-        <div className="reviews-grid">
-          {" "}
-          <article className="review">
-            {" "}
-            <div className="quote-mark">“</div>{" "}
-            <div className="stars" aria-label="5 sobre 5">
-              ◆ ◆ ◆ ◆ ◆
-            </div>{" "}
-            <blockquote>
-              El especialista escuchó antes de hablar. El resultado se nota — no se ve. Es
-              exactamente la diferencia que buscaba.
-            </blockquote>{" "}
-            <footer>
-              {" "}
-              <cite>Andrea M.</cite> <span className="tag">Endoláser · 3 sesiones</span>{" "}
-            </footer>{" "}
-          </article>{" "}
-          <article className="review">
-            {" "}
-            <div className="quote-mark">“</div>{" "}
-            <div className="stars" aria-label="5 sobre 5">
-              ◆ ◆ ◆ ◆ ◆
-            </div>{" "}
-            <blockquote>
-              He probado varios spas en Miami. Real Aesthetic es el primero donde sentí que tomaban
-              una decisión médica, no comercial.
-            </blockquote>{" "}
-            <footer>
-              {" "}
-              <cite>Carolina V.</cite> <span className="tag">Sculptra + PDRN</span>{" "}
-            </footer>{" "}
-          </article>{" "}
-          <article className="review">
-            {" "}
-            <div className="quote-mark">“</div>{" "}
-            <div className="stars" aria-label="5 sobre 5">
-              ◆ ◆ ◆ ◆ ◆
-            </div>{" "}
-            <blockquote>
-              Una atención impecable, un protocolo a la medida y un seguimiento que no termina al
-              salir de la cabina. Volveré.
-            </blockquote>{" "}
-            <footer>
-              {" "}
-              <cite>Marisol G.</cite> <span className="tag">Fotona TightSculpting</span>{" "}
-            </footer>{" "}
-          </article>{" "}
-        </div>{" "}
-      </section>{" "}
-      {/* CTA STRIP */}{" "}
+      {/* REVIEWS */} {/* CTA STRIP */}{" "}
       <section className="cta-strip">
         {" "}
         <div className="cta-strip-bg" data-parallax="0.4" />{" "}

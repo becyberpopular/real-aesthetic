@@ -10,7 +10,7 @@
     "meta": [
       {
         "name": "description",
-        "content": "Protocolo PRP + láser en Miami en Real Aesthetic Medical Spa. Micropeel Fotona seguido de PRP para mejor absorción y regeneración cutánea con recuperación controlada."
+        "content": "Protocolo PRP + láser en Miami. Micropeel Fotona seguido de PRP para mejor absorción y regeneración cutánea con recuperación controlada."
       },
       {
         "property": "og:type",
@@ -189,9 +189,11 @@
     "title": "PRP + láser en Miami: <em>protocolo regenerador</em>",
     "lede": "El protocolo PRP + láser combina un micropeel Er:YAG Fotona con plasma rico en plaquetas autólogo, aplicado de forma tópica o por microinyección, para crear canales de absorción y amplificar la respuesta regeneradora de la piel.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "blocks": [
@@ -236,9 +238,11 @@
     "title": "Planifica tu tratamiento <em>en Miami</em>",
     "text": "Reserva una consulta con Ronal Perdomo, APRN, FNP-C (Aesthetic Nurse Practitioner) para diseñar tu plan personalizado.",
     "cta": {
-      "href": "/reservar/",
+      "href": "https://api.leadconnectorhq.com/widget/booking/RMABBGh0oSdJkNXeLiHI?language=es",
       "label": "Reservar consulta",
-      "className": "cta"
+      "className": "cta",
+      "target": "_blank",
+      "rel": "noopener"
     }
   },
   "bottomBar": {
